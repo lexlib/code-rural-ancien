@@ -1,206 +1,211 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-06-28
+Version Consolidée au 1980-07-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
-      - [Chapitre Ier : Des commissions communales et départementales d'aménagement foncier (art. 1)](#3)
-      - [Chapitre II : De la réorganisation de la propriété foncière (art. 9 à 16)](#4)
-      - [Chapitre III : Du remembrement rural. (art. 22 à 36)](#5)
-      - [Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux. (art. 38-1 à 38-8)](#6)
-      - [Chapitre V : De la mise en valeur des terres incultes récupérables. (art. 39 à 45)](#7)
-      - [Chapitre VI : Aménagement agricole et forestier (art. 53)](#8)
-        - [Section 3 : Dispositions pénales. (art. 53)](#9)
-      - [Chapitre VI : Semis et plantations forestières. (art. 52-1 à 52-3)](#10)
-      - [Chapitre VII : Dispositions diverses. (art. 54 à 57)](#11)
-      - [Chapitre VIII : Dispositions particulières à certains départements (art. 58)](#12)
-        - [Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 58)](#13)
-      - [Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne. (art. 58-1 à 58-16)](#14)
-      - [Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 58-17 à 58-24)](#15)
-    - [Titre II : Des chemins ruraux et des chemins d'exploitation (art. 59 à 96)](#16)
-      - [Chapitre Ier : Des chemins ruraux (art. 59 à 71)](#17)
-        - [Section 1 : Dispositions générales. (art. 59 à 71)](#18)
-      - [Chapitre III : Des chemins et sentiers d'exploitation. (art. 92 à 96)](#19)
-    - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122)](#20)
-      - [Chapitre Ier : Des droits des riverains (art. 97 à 102)](#21)
-      - [Chapitre II : Police et conservation des eaux. (art. 103 à 113)](#22)
-      - [Chapitre III : Curages, élargissements et redressements (art. 114 à 122)](#23)
-        - [Section 1 : Curage et entretien. (art. 116 à 119)](#24)
-        - [Section 2 : Elargissement, régularisation et redressement. (art. 121)](#25)
-        - [Section 3 : Dispositions communes. (art. 122)](#26)
-    - [Titre IV : Des eaux utiles (art. 123 à 133)](#27)
-      - [Chapitre Ier : De la servitude de passage des eaux utiles. (art. 123 à 125)](#28)
-      - [Chapitre II : De la servitude d'appui. (art. 126 à 128)](#29)
-      - [Chapitre II-1 : De l'utilisation des eaux d'irrigation. (art. 128-1 à 128-9)](#30)
-      - [Chapitre III : Des taxes d'irrigation (art. 129 à 133)](#31)
-        - [Section 1 : Des taxes. (art. 129)](#32)
-        - [Section 2 : Des surtaxes. (art. 130 à 133)](#33)
-    - [Titre V : Des eaux nuisibles (art. 134 à 138-1)](#34)
-      - [Chapitre Ier : De la suppression des étangs insalubres. (art. 134)](#35)
-      - [Chapitre II : De la servitude d'écoulement des eaux nuisibles. (art. 135 à 138-1)](#36)
-    - [Titre VI : Equipement rural (art. 140 à 188)](#37)
-      - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 151-3)](#38)
-      - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#39)
-      - [Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes. (art. 175 à 179)](#40)
-      - [Chapitre IV : Restauration de l'habitat rural (art. 180 à 188)](#41)
-        - [Section 1 : Travaux de restauration de l'habitat. (art. 180 à 183)](#42)
-        - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 184 à 186)](#43)
-        - [Section 3 : Desserte des exploitations dont l'habitat est amélioré. (art. 187 à 188)](#44)
-    - [Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 188-10 à 188-17)](#45)
-  - [Livre II : Des animaux et des végétaux (art. 189 à 364)](#46)
-    - [Titre Ier : Vaine pâture. (art. 189 à 199)](#47)
-    - [Titre II : De la garde des animaux domestiques (art. 200 à 213)](#48)
-      - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#49)
-      - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#50)
-      - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 213)](#51)
-    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#52)
-      - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#53)
-      - [Chapitre III : De la police sanitaire (art. 219 à 252)](#54)
-        - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#55)
-        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#56)
-        - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#57)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#58)
-      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#59)
-      - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#60)
-    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-4)](#61)
-    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#62)
-    - [Titre VII : De la production des animaux domestiques (art. 308)](#63)
-      - [Chapitre II : De l'insémination artificielle. (art. 308)](#64)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#65)
-    - [Titre IX : Des pénalités. (art. 325 à 333)](#66)
-    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#67)
-      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#68)
-      - [Chapitre II : Mesures de défense contre les parasites et petits animaux. (art. 348 à 355)](#69)
-      - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#70)
-      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#71)
-      - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#72)
-  - [Livre III : La chasse et la pêche (art. 365 à 501)](#73)
-    - [Titre Ier : De la chasse (art. 365 à 400)](#74)
-      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 365 à 373-1)](#75)
-      - [Chapitre II : Des pénalités. (art. 377 à 391)](#76)
-      - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 395)](#77)
-      - [Chapitre IV : Des groupements de chasseurs. (art. 396 à 400)](#78)
-    - [Titre II : Pêche fluviale (art. 401 à 426)](#79)
-      - [Du droit de pêche (art. 401 à 426)](#80)
-        - [Chapitre Ier : Dispositions générales. (art. 401 à 410)](#81)
-        - [Chapitre II : Exploitation du droit de pêche par l'Etat. (art. 413 à 426)](#82)
-    - [Titre III : De la police de la pêche (art. 427 à 499)](#83)
-      - [Chapitre Ier : Dispositions générales et pénales. (art. 427 à 443)](#84)
-      - [Chapitre II : Des poursuites au nom de l'administration. (art. 446 à 480)](#85)
-      - [Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat. (art. 481 à 484)](#86)
-      - [Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines. (art. 485 à 491)](#87)
-      - [Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public. (art. 492 à 499)](#88)
-    - [Titre IV : Des groupements de pêcheurs. (art. 500)](#89)
-    - [Titre V : Dispositions diverses. (art. 501)](#90)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#91)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#92)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#93)
-  - [Livre V : Crédit agricole (art. 615 à 789)](#94)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#95)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#96)
-      - [Chapitre II : Fonctionnement. (art. 632 à 643)](#97)
-      - [Chapitre III : Ressources. (art. 645 à 650)](#98)
-      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#99)
-        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#100)
-        - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#101)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#102)
-          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#103)
-          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675-2 à 680)](#104)
-        - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#105)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 699)](#106)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#107)
-    - [Titre II : Caisse nationale de crédit agricole (art. 712 à 736)](#108)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 712 à 716)](#109)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#110)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#111)
-    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#112)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#113)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745)](#114)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#115)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#116)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#117)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#118)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#119)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#120)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#121)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#122)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#123)
-  - [Livre VI : Baux ruraux (art. 857 à 948)](#124)
-    - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#125)
-      - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#126)
-    - [Titre V : Bail emphytéotique. (art. 948)](#127)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#128)
-    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#129)
-      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#130)
-      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 986)](#131)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 996 à 998)](#132)
-      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#133)
-    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#134)
-      - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#135)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#136)
-      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#137)
-        - [Section 1 : Affiliation. (art. 1024 à 1030)](#138)
-        - [Section 2 : Cotisations. (art. 1031 à 1036)](#139)
-        - [Section 3 : Prestations. (art. 1038 à 1047)](#140)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#141)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#142)
-      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#143)
-        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#144)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#145)
-        - [Section 3 : Recouvrement. (art. 1080)](#146)
-        - [Section 4 : Prestations. (art. 1090 à 1092)](#147)
-        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#148)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-3 à 1106-16 bis)](#149)
-        - [Section 2 : Prestations. (art. 1106-3 à 1106-5)](#150)
-        - [Section 3 : Financement. (art. 1106-6)](#151)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#152)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#153)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#154)
-        - [Section 1 : Prestations (art. 1113 à 1122-2)](#155)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#156)
-          - [Paragraphe 2 : Retraite. (art. 1122-2)](#157)
-        - [Section 2 : Cotisations. (art. 1126 à 1135)](#158)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#159)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#160)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#161)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#162)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-26)](#163)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#164)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147)](#165)
-        - [Section 2 : Prestations. (art. 1148)](#166)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#167)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1162)](#168)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#169)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#170)
-        - [Section 7 : Prévention. (art. 1171)](#171)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#172)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#173)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#174)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#175)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26)](#176)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#177)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#178)
-      - [Chapitre II : Médecine préventive. (art. 1250-2)](#179)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#180)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#181)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#182)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#183)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#184)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1272 à 1337)](#185)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#186)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#187)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#188)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#189)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#190)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#191)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#192)
-    - [Titre III : Recherche (art. 1297 à 1337)](#193)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#194)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#195)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#196)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#197)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#198)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#199)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#200)
+      - [Chapitre Ier : Des commissions communales et départementales d'aménagement foncier (art. 1 à 7)](#3)
+        - [Section 1 : Du comité supérieur consultatif d'aménagement foncier. (art. 1 bis à 6)](#4)
+        - [Section 1 : Du conseil supérieur de l'aménagement rural. (art. 7)](#5)
+      - [Chapitre II : De la réorganisation de la propriété foncière (art. 9 à 16)](#6)
+      - [Chapitre III : Du remembrement rural. (art. 19-1 à 36)](#7)
+      - [Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux. (art. 37 à 38-8)](#8)
+      - [Chapitre V : De la mise en valeur des terres incultes récupérables. (art. 39 à 45)](#9)
+      - [Chapitre VI : Aménagement agricole et forestier (art. 53)](#10)
+        - [Section 3 : Dispositions pénales. (art. 53)](#11)
+      - [Chapitre VI : Semis et plantations forestières. (art. 52-1 à 52-3)](#12)
+      - [Chapitre VII : Dispositions diverses. (art. 54 à 57)](#13)
+      - [Chapitre VIII : Dispositions particulières à certains départements (art. 58)](#14)
+        - [Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 58)](#15)
+      - [Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne. (art. 58-1 à 58-16)](#16)
+      - [Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 58-17 à 58-24)](#17)
+    - [Titre II : Des chemins ruraux et des chemins d'exploitation (art. 59 à 96)](#18)
+      - [Chapitre Ier : Des chemins ruraux (art. 59 à 71)](#19)
+        - [Section 1 : Dispositions générales. (art. 59 à 71)](#20)
+      - [Chapitre III : Des chemins et sentiers d'exploitation. (art. 92 à 96)](#21)
+    - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122)](#22)
+      - [Chapitre Ier : Des droits des riverains (art. 97 à 102)](#23)
+      - [Chapitre II : Police et conservation des eaux. (art. 103 à 113)](#24)
+      - [Chapitre III : Curages, élargissements et redressements (art. 114 à 122)](#25)
+        - [Section 1 : Curage et entretien. (art. 116 à 119)](#26)
+        - [Section 2 : Elargissement, régularisation et redressement. (art. 121)](#27)
+        - [Section 3 : Dispositions communes. (art. 122)](#28)
+    - [Titre IV : Des eaux utiles (art. 123 à 133)](#29)
+      - [Chapitre Ier : De la servitude de passage des eaux utiles. (art. 123 à 125)](#30)
+      - [Chapitre II : De la servitude d'appui. (art. 126 à 128)](#31)
+      - [Chapitre II-1 : De l'utilisation des eaux d'irrigation. (art. 128-1 à 128-9)](#32)
+      - [Chapitre III : Des taxes d'irrigation (art. 129 à 133)](#33)
+        - [Section 1 : Des taxes. (art. 129)](#34)
+        - [Section 2 : Des surtaxes. (art. 130 à 133)](#35)
+    - [Titre V : Des eaux nuisibles (art. 134 à 138-1)](#36)
+      - [Chapitre Ier : De la suppression des étangs insalubres. (art. 134)](#37)
+      - [Chapitre II : De la servitude d'écoulement des eaux nuisibles. (art. 135 à 138-1)](#38)
+    - [Titre VI : Equipement rural (art. 140 à 188)](#39)
+      - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 151-3)](#40)
+      - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#41)
+      - [Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes. (art. 175 à 179)](#42)
+      - [Chapitre IV : Restauration de l'habitat rural (art. 180 à 188)](#43)
+        - [Section 1 : Travaux de restauration de l'habitat. (art. 180 à 183)](#44)
+        - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 184 à 186)](#45)
+        - [Section 3 : Desserte des exploitations dont l'habitat est amélioré. (art. 187 à 188)](#46)
+    - [Titre VII : Du contrôle des structures des exploitations agricoles. (art. 188-1 à 188-9-1)](#47)
+    - [Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 188-10 à 188-17)](#48)
+  - [Livre II : Des animaux et des végétaux (art. 189 à 364)](#49)
+    - [Titre Ier : Vaine pâture. (art. 189 à 199)](#50)
+    - [Titre II : De la garde des animaux domestiques (art. 200 à 213)](#51)
+      - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#52)
+      - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#53)
+      - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 213)](#54)
+    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#55)
+      - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#56)
+      - [Chapitre III : De la police sanitaire (art. 219 à 252)](#57)
+        - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#58)
+        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#59)
+        - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#60)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#61)
+      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#62)
+      - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#63)
+    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-4)](#64)
+    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#65)
+    - [Titre VII : De la production des animaux domestiques (art. 308)](#66)
+      - [Chapitre II : De l'insémination artificielle. (art. 308)](#67)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#68)
+    - [Titre IX : Des pénalités. (art. 325 à 333)](#69)
+    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#70)
+      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#71)
+      - [Chapitre II : Mesures de défense contre les parasites et petits animaux. (art. 348 à 355)](#72)
+      - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#73)
+      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#74)
+      - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#75)
+  - [Livre III : La chasse et la pêche (art. 365 à 501)](#76)
+    - [Titre Ier : De la chasse (art. 365 à 400)](#77)
+      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 365 à 373-1)](#78)
+      - [Chapitre II : Des pénalités. (art. 377 à 391)](#79)
+      - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 395)](#80)
+      - [Chapitre IV : Des groupements de chasseurs. (art. 396 à 400)](#81)
+    - [Titre II : Pêche fluviale (art. 401 à 426)](#82)
+      - [Du droit de pêche (art. 401 à 426)](#83)
+        - [Chapitre Ier : Dispositions générales. (art. 401 à 410)](#84)
+        - [Chapitre II : Exploitation du droit de pêche par l'Etat. (art. 413 à 426)](#85)
+    - [Titre III : De la police de la pêche (art. 427 à 499)](#86)
+      - [Chapitre Ier : Dispositions générales et pénales. (art. 427 à 443)](#87)
+      - [Chapitre II : Des poursuites au nom de l'administration. (art. 446 à 480)](#88)
+      - [Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat. (art. 481 à 484)](#89)
+      - [Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines. (art. 485 à 491)](#90)
+      - [Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public. (art. 492 à 499)](#91)
+    - [Titre IV : Des groupements de pêcheurs. (art. 500)](#92)
+    - [Titre V : Dispositions diverses. (art. 501)](#93)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#94)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#95)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#96)
+  - [Livre V : Crédit agricole (art. 615 à 789)](#97)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#98)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#99)
+      - [Chapitre II : Fonctionnement. (art. 632 à 643)](#100)
+      - [Chapitre III : Ressources. (art. 645 à 650)](#101)
+      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#102)
+        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#103)
+        - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#104)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#105)
+          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#106)
+          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675-2 à 680)](#107)
+        - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#108)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 699)](#109)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#110)
+    - [Titre II : Caisse nationale de crédit agricole (art. 712 à 736)](#111)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 712 à 716)](#112)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#113)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#114)
+    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#115)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#116)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745)](#117)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#118)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#119)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#120)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#121)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#122)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#123)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#124)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#125)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#126)
+  - [Livre V bis : De l'exploitation agricole dans les rapports entre époux. (art. 789-1 à 789-3)](#127)
+  - [Livre VI : Baux ruraux (art. 857 à 948)](#128)
+    - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#129)
+      - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#130)
+    - [Titre V : Bail emphytéotique. (art. 948)](#131)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#132)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#133)
+      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#134)
+      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 986)](#135)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 996 à 998)](#136)
+      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#137)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#138)
+      - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#139)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#140)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#141)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#142)
+        - [Section 2 : Cotisations. (art. 1031 à 1036)](#143)
+        - [Section 3 : Prestations. (art. 1038 à 1047)](#144)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#145)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#146)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#147)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#148)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#149)
+        - [Section 3 : Recouvrement. (art. 1080)](#150)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#151)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#152)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#153)
+        - [Section 1 : Champ d'application. (art. 1106-1)](#154)
+        - [Section 2 : Prestations. (art. 1106-3 à 1106-5)](#155)
+        - [Section 3 : Financement. (art. 1106-6 à 1106-7)](#156)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#157)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#158)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#159)
+        - [Section 1 : Prestations (art. 1110 à 1122-2)](#160)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#161)
+          - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2)](#162)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#163)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#164)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#165)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#166)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#167)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-26)](#168)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#169)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147)](#170)
+        - [Section 2 : Prestations. (art. 1148)](#171)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#172)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1162)](#173)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#174)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#175)
+        - [Section 7 : Prévention. (art. 1171)](#176)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#177)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#178)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#179)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#180)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26)](#181)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#182)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#183)
+      - [Chapitre II : Médecine préventive. (art. 1250-2)](#184)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#185)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#186)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#187)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#188)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#189)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1272 à 1337)](#190)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#191)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#192)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#193)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#194)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#195)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#196)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#197)
+    - [Titre III : Recherche (art. 1297 à 1337)](#198)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#199)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#200)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#201)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#202)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#203)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#204)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#205)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -295,7 +300,307 @@ _Modifié par_:
   - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
 
 
-### Chapitre II : De la réorganisation de la propriété foncière<a id=4></a>
+#### Section 1 : Du comité supérieur consultatif d'aménagement foncier.<a id=4></a>
+
+###### Article 1 bis
+
+Une commission communale d'aménagement foncier peut être instituée par arrêté du préfet dans toute commune où, soit les
+propriétaires, soit les exploitants, soit les services intéressés ont signalé l'utilité d'un aménagement foncier.
+
+Cet aménagement foncier s'applique aux propriétés rurales non bâties du territoire communal et comprend une série de mesures
+définies aux chapitres II et III du présent titre.
+
+Les limites territoriales de l'aménagement peuvent comprendre des parties de territoire de communes limitrophes lorsque la
+commission communale estime que l'aménagement comporte, au sens du présent titre, un intérêt pour les propriétaires ou les
+exploitants de ces parties de territoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+  - Loi n°75-621 1975-07-11 art. 1 JORF 12 juillet 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 2
+
+La commission communale d'aménagement foncier est présidée par le juge chargé du service du tribunal d'instance, ou, en cas
+de nécessité, par un autre juge du tribunal de grande instance désigné par le premier président de la cour d'appel. Elle
+comprend également : 
+
+Trois délégués du directeur départemental de l'agriculture ;
+
+Un délégué du directeur des services fiscaux ;
+
+Une personne qualifiée pour les problèmes de la protection de la nature désignée par le préfet ;
+
+Le maire ou l'un des conseillers municipaux désigné par lui ;
+
+Trois exploitants, propriétaires ou non dans la commune, ainsi que deux suppléants, désignés par la chambre d'agriculture ;
+
+Trois propriétaires titulaires et deux propriétaires suppléants, élus par le conseil municipal.
+
+A défaut de désignation des exploitants par la chambre d'agriculture ou d'élection des propriétaires par le conseil
+municipal, dans un délai de trois mois après leur saisine respective, le préfet procède, sur proposition du directeur
+départemental de l'agriculture, à la désignation des exploitants et des propriétaires visés ci-dessus.
+
+Un fonctionnaire désigné par le directeur départemental de l'agriculture remplit les fonctions de secrétaire de la
+commission.
+
+La commission peut appeler, à titre consultatif, toute personne dont il lui paraît utile de provoquer l'avis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-03-09 art. 2
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+  - Loi n°75-621 1975-07-11 art. 2 JORF 12 juillet 1975
+  - Loi n°80-502 1980-07-04 art. 28 I, V JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 2-5
+
+La commission départementale d'aménagement foncier est ainsi composée :
+
+- un magistrat de l'ordre judiciaire, président, désigné par le premier président de la cour d'appel ;
+
+- un conseiller général et deux maires de communes rurales désignés par le conseil général ;
+
+- six fonctionnaires désignés par le préfet ;
+
+- le président de la chambre d'agriculture ou son représentant désigné parmi les membres de la chambre d'agriculture ;
+
+- le président de la fédération départementale de l'organisation syndicale d'exploitants agricoles la plus représentative au
+niveau national, ou son représentant désigné parmi les membres de cette fédération ;
+
+- le président de la fédération départementale de l'organisation syndicale des jeunes exploitants agricoles la plus
+représentative au niveau national, ou son représentant désigné parmi les membres de cette fédération ;
+
+- le président de la chambre départementale des notaires ou son représentant ;
+
+- deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le préfet, sur trois
+listes comprenant chacune six noms, établies par la chambre d'agriculture.
+
+Le préfet choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en
+cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant
+une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
+
+La désignation du conseiller général et des représentants des maires a lieu à chaque renouvellement du conseil général et des
+conseils municipaux.
+
+La désignation des représentants de la profession agricole a lieu après chaque renouvellement partiel de la chambre
+d'agriculture.
+
+Un fonctionnaire de la direction départementale de l'agriculture remplit les fonctions de secrétaire de la commission
+départementale d'aménagement foncier. La commission peut appeler à titre consultatif toute personne dont il lui paraît utile
+de recueillir l'avis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-03-09
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 3
+
+La commission communale détermine les mesures qu'elle estime nécessaires de mettre en oeuvre pour améliorer l'exploitation
+agricole à l'intérieur du territoire communal et des extensions éventuelles définies à l'article 1er qui constituent la zone
+d'aménagement foncier.
+
+Elle fixe en conséquence :
+
+a) Le ou les périmètres à l'intérieur desquels elle est d'avis de procéder aux opérations de remembrement définies au
+chapitre III du présent titre ;
+
+b) Le ou les périmètres à l'intérieur desquels elle est d'avis que les opérations de réorganisation foncière définies au
+chapitre II du présent titre seront suffisantes ;
+
+c) Le ou les périmètres à l'intérieur desquels elle est d'avis de mettre en oeuvre une procédure d'échanges amiables ;
+
+d) Le ou les périmètres, délimitant des massifs forestiers, à l'intérieur desquels elle est d'avis que les opérations
+d'aménagement devront faire l'objet d'une procédure distincte ;
+
+e) Le ou les périmètres comprenant les terres dont l'inclusion dans l'un des périmètres susvisés entraînerait, pour la
+collectivité, des charges hors de proportion avec l'utilité des opérations d'aménagement foncier.
+
+Ces divers périmètres constituent la zone d'aménagement foncier.
+
+L'avis de la commission communale sera porté à la connaissance des intéressés dans les conditions qui sont fixées par le
+règlement d'administration publique prévu à l'article 54. Cet avis mentionnera que le destinataire doit signaler au président
+de la commission, dans un délai de quinze jours, les contestations judiciaires en cours. L'avis de la commission devra, dans
+ce cas, être notifié au contestant, qui pourra intervenir dans la procédure de remembrement, sous réserve de la
+reconnaissance ultérieure de ses droits.
+
+Si l'avis de la commission communale a été confirmé par la commission départementale prévue aux articles 4 et 5 et si
+l'ingénieur en chef du génie rural ne s'y oppose pas, le préfet fixe par arrêté les périmètres soumis aux diverses opérations
+d'aménagement foncier et ordonne celles-ci.
+
+En cas de divergence entre l'avis de la commission départementale et celui de la commission communale, ou en cas d'opposition
+de l'ingénieur en chef du génie rural, le préfet doit soumettre la question au ministre de l'agriculture qui se prononce
+après avis d'un conseil consultatif dont la composition et le fonctionnement sont déterminés par le règlement
+d'administration publique fixé à l'article 54.
+
+L'arrêté du préfet doit être conforme, soit à l'avis concordant des deux commissions, soit à la décision du ministre de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1, 4, 5, 54
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-03-09 art. 3
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 7 (Ab) JORF 7 août 1960
+  - Loi n°75-621 1975-07-11 art. 1 II, III JORF 12 juillet 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 4
+
+Les décisions prises par la commission communale en vertu des chapitres II et III du présent titre peuvent être portées par
+les intéressés ou par l'ingénieur en chef du génie rural devant une commission départementale d'aménagement foncier.
+
+Le recours doit être formé dans un délai de quinze jours à dater de la notification ou, au plus tard et à défaut de
+notification, dans un délai d'un mois à dater de la publication.
+
+La commission départementale d'aménagement foncier statue dans le délai de deux mois. Elle a qualité pour modifier le
+remembrement ou pour en provoquer la modification ainsi que pour fixer l'ordre dans lequel les travaux de remembrement seront
+effectués dans la commune.
+
+La commission départementale peut imposer à l'association foncière visée à l'article 27 du présent code de réaliser dans un
+délai de six mois à compter de la date du transfert de propriété les accès qui conditionnent la mise en exploitation de
+certaines parcelles. La liste de ces parcelles et la nature des travaux à entreprendre sont arrêtées par la commission
+communale.
+
+Les décisions de la commission départementale ne peuvent être attaquées devant le tribunal administratif que pour
+incompétence, excès de pouvoir, vice de forme ou violation de la loi.
+
+Dans un délai de quinze jours, à compter de la date de la décision de la commission départementale, le président de cette
+commission notifie la décision au préfet.
+
+Le préfet peut, dans un délai de quinze jours à compter de cette notification, porter la décision devant le ministre de
+l'agriculture.
+
+La décision que le préfet n'a pas portée devant le ministre de l'agriculture dans le délai ci-dessus, est exécutoire à
+l'expiration de ce délai.
+
+Le ministre de l'agriculture se prononce après avis du conseil consultatif prévu à l'article 3 dans un délai de trois mois à
+compter de la date du recours du préfet.
+
+Passé ce délai, la décision de la commission départementale sur laquelle il n'a pas été statué par le ministre est
+exécutoire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 3, 27
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-03-09 art. 4
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+  - Loi n°75-621 1975-07-11 art. 3 JORF 12 juillet 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 6
+
+Lorsque des opérations d'aménagement foncier doivent être engagées sur des terres dépendant de plusieurs communes, ces terres
+peuvent être comprises à l'intérieur d'un même périmètre.
+
+Dans ce cas, il est institué une commission intercommunale dont la composition et le fonctionnement sont définis par un
+règlement d'administration publique. Les commissions intercommunales ont les mêmes pouvoirs que les commissions communales.
+L'appel est porté, s'il s'agit de commissions appartenant à des départements différents, devant la commission du département
+où se trouve la plus grande étendue de terrains intéressés par l'opération.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1943-03-09
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+  - Loi n°78-10 1978-01-04 art. 3 JORF 5 janvier 1978
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+#### Section 1 : Du conseil supérieur de l'aménagement rural.<a id=5></a>
+
+###### Article 7
+
+Il est créé un conseil supérieur de l'aménagement rural qui est substitué au comité supérieur consultatif de l'aménagement
+foncier créé par le décret n° 54-1251 du 20 décembre 1954 et dont la compétence, l'organisation et le fonctionnement sont
+déterminés conformément aux dispositions du décret sur les conseils supérieurs du ministère de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°54-1251 1954-12-20
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Décret n°59-1251 1959-12-20 art. 1
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+  - Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+### Chapitre II : De la réorganisation de la propriété foncière<a id=6></a>
 
 ###### Article 9
 
@@ -501,7 +806,88 @@ _Anciens textes_:
   - Loi n°1941-03-09 art. 14
 
 
-### Chapitre III : Du remembrement rural.<a id=5></a>
+### Chapitre III : Du remembrement rural.<a id=7></a>
+
+###### Article 19-1
+
+I. - Lorsque l'élaboration d'un document d'urbanisme et un remembrement rural sont prescrits, la procédure de remembrement-
+aménagement peut être ordonnée par l'autorité administrative après avis de la commission communale d'aménagement foncier et
+après accord du conseil municipal.
+
+II. - Dans le périmètre de remembrement-aménagement, la part de surface agricole affectée à l'urbanisation et à la
+constitution de réserves foncières destinées aux équipements collectifs et aux zones d'activité détermine le pourcentage de
+superficie que chaque propriétaire se voit attribuer au prorata de ses droits, respectivement en terrains urbanisables et en
+terres agricoles.
+
+III. - Les prélèvements opérés à l'occasion d'une opération de remembrement-aménagement prennent notamment en considération
+la valeur agronomique des sols ainsi que les structures agricoles et l'existence de zones de terrains produisant des denrées
+de qualité supérieure ou comportant des équipements spéciaux importants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 76 () JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L123-18 (M)
+
+
+###### Article 20
+
+A l'intérieur du périmètre des opérations, le remembrement peut porter sur l'ensemble du territoire non bâti ainsi que sur
+les terrains où se trouvent des bâtiments légers ou de peu de valeur qui ne sont que l'accessoire du fonds. Cette
+appréciation de fait est de la compétence de la commission communale.
+
+L'accord du propriétaire est nécessaire en ce qui concerne les bâtiments autres que ceux prévus à l'alinéa précédent et les
+terrains qui constituent, au sens de l'article 1387 du code général des impôts, des dépendances immédiates et indispensables
+de bâtiments.
+
+Doivent être réattribués à leurs propriétaires, sauf accord contraire, et ne subir que les modifications de limites
+indispensables à l'aménagement :
+
+1° Les terrains clos de murs qui ne sont pas en état d'abandon caractérisé ;
+
+2° Les immeubles où se trouvent des sources d'eau minérale en tant qu'ils sont nécessaires à l'utilisation convenable de ces
+sources ;
+
+3° Les gisements de lignite, sablonnières, glaisières, argilières, marnières et minières, carrières et ardoisières ;
+
+4° Les terrains qui, en raison de leur situation dans une agglomération ou à proximité immédiate d'une agglomération et de
+leur desserte effective à la fois par des voies d'accès, un réseau électrique, des réseaux d'eau et éventuellement
+d'assainissement, de dimensions adaptées à la capacité des parcelles en cause, présentent le caractère de terrain à bâtir, à
+la date de l'arrêté préfectoral instituant la commission de remembrement ;
+
+5° De façon générale, les immeubles dont les propriétaires ne peuvent bénéficier de l'opération de remembrement, en raison de
+l'utilisation spéciale desdits immeubles.
+
+Les dispositions du 4° ci-dessus ne sont pas applicables au remembrement-aménagement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1387
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-03-09
+
+_Modifié par_:
+
+  - Loi n°60-792 1960-08-02 art. 3 JORF 4 août 1960
+  - Loi n°75-621 1975-07-11 art. 5 JORF 12 juillet 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 76 () JORF 5 juillet 1980
+
 
 ###### Article 22
 
@@ -781,6 +1167,46 @@ _Abrogé par_:
   - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
 
 
+###### Article 30-2
+
+Lorsque la commission départementale d'aménagement foncier, saisie à nouveau à la suite d'une annulation par le juge
+administratif, n'a pas pris de nouvelle décision dans le délai d'un an prévu à l'article 30-1, ou lorsque deux décisions
+d'une commission départementale relatives aux mêmes apports ont été annulées pour le même motif par le juge administratif,
+l'affaire est déférée à une commission qui statue à la place de la commission départementale. Cette commission, dont les
+règles de désignation des membres et les règles de fonctionnement sont fixées par décret en Conseil d'Etat, est présidée par
+un conseiller d'Etat et comprend :
+
+- deux magistrats de l'ordre administratif ;
+
+- deux magistrats de l'ordre judiciaire ;
+
+- deux représentants du ministre de l'agriculture ;
+
+- un représentant du ministre du budget ;
+
+- une personnalité qualifiée en matière d'agriculture et d'aménagement foncier. 
+
+Un suppléant à chacune de ces personnes est également nommé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 30-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+_Abrogé par_:
+
+  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
 ###### Article 31
 
 Les droits réels, autres que les servitudes, grevant les immeubles remembrés s'exercent sur les immeubles attribués par le
@@ -949,7 +1375,38 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.<a id=6></a>
+### Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.<a id=8></a>
+
+###### Article 37
+
+Les échanges d'immeubles ruraux sont, en ce qui concerne le transfert des privilèges, des hypothèques et des baux y
+afférents, assimilés aux échanges réalisés par voie de remembrement collectif lorsque les immeubles échangés sont situés,
+soit dans le même canton, soit dans un canton et dans une commune limitrophe de celui-ci.
+
+En dehors de ces limites, l'un des immeubles échangés doit être contigu aux propriétés de celui des échangistes qui le
+recevra, ces immeubles devant en outre avoir été acquis par les contractants par acte enregistré depuis plus de deux ans, ou
+recueillis à titre héréditaire.
+
+En cas d'opposition du titulaire de ces droits, l'acte d'échange est soumis, avant sa publication au bureau des hypothèques,
+à l'homologation du président du tribunal de grande instance statuant par voie d'ordonnance sur requête.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1884-11-03 art. 1, art. 2
+  - Loi n°1941-03-09 art. 32
+
+_Modifié par_:
+
+  - Ordonnance 59-71 1959-01-07 art. 2 JORF 3 janvier 1959
+  - Loi n°75-621 1975-07-11 art. 14 JORF 12 juillet 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 24 () JORF 5 juillet 1980
+
 
 ###### Article 38-1
 
@@ -1085,7 +1542,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : De la mise en valeur des terres incultes récupérables.<a id=7></a>
+### Chapitre V : De la mise en valeur des terres incultes récupérables.<a id=9></a>
 
 ###### Article 39
 
@@ -1354,9 +1811,9 @@ _Modifié par_:
   - Loi n°78-10 1978-01-04 art. 8 JORF 5 janvier 1978
 
 
-### Chapitre VI : Aménagement agricole et forestier<a id=8></a>
+### Chapitre VI : Aménagement agricole et forestier<a id=10></a>
 
-#### Section 3 : Dispositions pénales.<a id=9></a>
+#### Section 3 : Dispositions pénales.<a id=11></a>
 
 ###### Article 53
 
@@ -1393,7 +1850,7 @@ _Abrogé par_:
   - Loi n°85-1496 du 31 décembre 1985 - art. 14 () JORF 3 janvier 1986
 
 
-### Chapitre VI : Semis et plantations forestières.<a id=10></a>
+### Chapitre VI : Semis et plantations forestières.<a id=12></a>
 
 ###### Article 52-1
 
@@ -1509,7 +1966,7 @@ _Créé par_:
   - Loi n°71-384 1971-05-22 art. 28 JORF 25 mai 1971
 
 
-### Chapitre VII : Dispositions diverses.<a id=11></a>
+### Chapitre VII : Dispositions diverses.<a id=13></a>
 
 ###### Article 54
 
@@ -1644,9 +2101,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VIII : Dispositions particulières à certains départements<a id=12></a>
+### Chapitre VIII : Dispositions particulières à certains départements<a id=14></a>
 
-#### Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=13></a>
+#### Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=15></a>
 
 ###### Article 58
 
@@ -1690,7 +2147,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne.<a id=14></a>
+### Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne.<a id=16></a>
 
 ###### Article 58-1
 
@@ -2062,7 +2519,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=15></a>
+### Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=17></a>
 
 ###### Article 58-17
 
@@ -2252,11 +2709,11 @@ _Créé par_:
   - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
 
 
-## Titre II : Des chemins ruraux et des chemins d'exploitation<a id=16></a>
+## Titre II : Des chemins ruraux et des chemins d'exploitation<a id=18></a>
 
-### Chapitre Ier : Des chemins ruraux<a id=17></a>
+### Chapitre Ier : Des chemins ruraux<a id=19></a>
 
-#### Section 1 : Dispositions générales.<a id=18></a>
+#### Section 1 : Dispositions générales.<a id=20></a>
 
 ###### Article 59
 
@@ -2601,7 +3058,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre III : Des chemins et sentiers d'exploitation.<a id=19></a>
+### Chapitre III : Des chemins et sentiers d'exploitation.<a id=21></a>
 
 ###### Article 92
 
@@ -2717,9 +3174,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-## Titre III : Des cours d'eaux non domaniaux<a id=20></a>
+## Titre III : Des cours d'eaux non domaniaux<a id=22></a>
 
-### Chapitre Ier : Des droits des riverains<a id=21></a>
+### Chapitre Ier : Des droits des riverains<a id=23></a>
 
 ###### Article 97
 
@@ -2984,7 +3441,7 @@ _Anciens textes_:
   - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
 
 
-### Chapitre II : Police et conservation des eaux.<a id=22></a>
+### Chapitre II : Police et conservation des eaux.<a id=24></a>
 
 ###### Article 103
 
@@ -3297,7 +3754,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L215-13 (V)
 
 
-### Chapitre III : Curages, élargissements et redressements<a id=23></a>
+### Chapitre III : Curages, élargissements et redressements<a id=25></a>
 
 ###### Article 114
 
@@ -3362,7 +3819,7 @@ _Modifié par_:
   - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
 
 
-#### Section 1 : Curage et entretien.<a id=24></a>
+#### Section 1 : Curage et entretien.<a id=26></a>
 
 ###### Article 116
 
@@ -3483,7 +3940,7 @@ _Modifié par_:
   - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
 
 
-#### Section 2 : Elargissement, régularisation et redressement.<a id=25></a>
+#### Section 2 : Elargissement, régularisation et redressement.<a id=27></a>
 
 ###### Article 121
 
@@ -3516,7 +3973,7 @@ _Anciens textes_:
   - Loi n°1898-04-08 du 8 avril 1898 - art. 27 (Ab)
 
 
-#### Section 3 : Dispositions communes.<a id=26></a>
+#### Section 3 : Dispositions communes.<a id=28></a>
 
 ###### Article 122
 
@@ -3547,9 +4004,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L215-22 (Ab)
 
 
-## Titre IV : Des eaux utiles<a id=27></a>
+## Titre IV : Des eaux utiles<a id=29></a>
 
-### Chapitre Ier : De la servitude de passage des eaux utiles.<a id=28></a>
+### Chapitre Ier : De la servitude de passage des eaux utiles.<a id=30></a>
 
 ###### Article 123
 
@@ -3632,7 +4089,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II : De la servitude d'appui.<a id=29></a>
+### Chapitre II : De la servitude d'appui.<a id=31></a>
 
 ###### Article 126
 
@@ -3704,7 +4161,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II-1 : De l'utilisation des eaux d'irrigation.<a id=30></a>
+### Chapitre II-1 : De l'utilisation des eaux d'irrigation.<a id=32></a>
 
 ###### Article 128-1
 
@@ -3968,9 +4425,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre III : Des taxes d'irrigation<a id=31></a>
+### Chapitre III : Des taxes d'irrigation<a id=33></a>
 
-#### Section 1 : Des taxes.<a id=32></a>
+#### Section 1 : Des taxes.<a id=34></a>
 
 ###### Article 129
 
@@ -3993,7 +4450,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-#### Section 2 : Des surtaxes.<a id=33></a>
+#### Section 2 : Des surtaxes.<a id=35></a>
 
 ###### Article 130
 
@@ -4092,9 +4549,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-## Titre V : Des eaux nuisibles<a id=34></a>
+## Titre V : Des eaux nuisibles<a id=36></a>
 
-### Chapitre Ier : De la suppression des étangs insalubres.<a id=35></a>
+### Chapitre Ier : De la suppression des étangs insalubres.<a id=37></a>
 
 ###### Article 134
 
@@ -4118,7 +4575,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II : De la servitude d'écoulement des eaux nuisibles.<a id=36></a>
+### Chapitre II : De la servitude d'écoulement des eaux nuisibles.<a id=38></a>
 
 ###### Article 135
 
@@ -4246,9 +4703,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-## Titre VI : Equipement rural<a id=37></a>
+## Titre VI : Equipement rural<a id=39></a>
 
-### Chapitre Ier : Des travaux entrepris par l'Etat.<a id=38></a>
+### Chapitre Ier : Des travaux entrepris par l'Etat.<a id=40></a>
 
 ###### Article 140
 
@@ -4694,7 +5151,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II : Des concessions de travaux.<a id=39></a>
+### Chapitre II : Des concessions de travaux.<a id=41></a>
 
 ###### Article 152
 
@@ -5248,7 +5705,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes.<a id=40></a>
+### Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes.<a id=42></a>
 
 ###### Article 175
 
@@ -5426,9 +5883,9 @@ _Anciens textes_:
   - Loi n°1941-02-16
 
 
-### Chapitre IV : Restauration de l'habitat rural<a id=41></a>
+### Chapitre IV : Restauration de l'habitat rural<a id=43></a>
 
-#### Section 1 : Travaux de restauration de l'habitat.<a id=42></a>
+#### Section 1 : Travaux de restauration de l'habitat.<a id=44></a>
 
 ###### Article 180
 
@@ -5563,7 +6020,7 @@ _Anciens textes_:
   - Loi n°1940-11-21 art. 5
 
 
-#### Section 2 : Construction des bâtiments des exploitations agricoles.<a id=43></a>
+#### Section 2 : Construction des bâtiments des exploitations agricoles.<a id=45></a>
 
 ###### Article 184
 
@@ -5655,7 +6112,7 @@ _Anciens textes_:
   - Loi n°1941-04-17 art. 5
 
 
-#### Section 3 : Desserte des exploitations dont l'habitat est amélioré.<a id=44></a>
+#### Section 3 : Desserte des exploitations dont l'habitat est amélioré.<a id=46></a>
 
 ###### Article 187
 
@@ -5726,7 +6183,493 @@ _Anciens textes_:
   - Loi n°1941-11-05 art. 5
 
 
-## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=45></a>
+## Titre VII : Du contrôle des structures des exploitations agricoles.<a id=47></a>
+
+###### Article 188-1
+
+I. - Le contrôle des structures des exploitations agricoles concerne exclusivement l'exploitation des biens.
+
+Il a pour but conformément aux objectifs de la loi n° 80-502 du 4 juillet 1980 et des schémas directeurs départementaux des
+structures agricoles :
+
+1° De favoriser l'installation d'agriculteurs remplissant les conditions de formation ou d'expérience professionnelles fixées
+par décret ;
+
+2° De contribuer à la constitution ou à la préservation d'exploitations familiales à responsabilité personnelle et de
+favoriser l'agrandissement des exploitations dont les dimensions sont insuffisantes ;
+
+3° De déterminer les conditions d'accès à la profession agricole de personnes physiques issues d'autres catégories sociales
+ou professionnelles et celles de son exercice à temps partiel par des actifs ruraux non agricoles, en fonction de l'intérêt
+économique, social et démographique qui s'attache à la pluriactivité dans chaque département.
+
+II. - Dans chaque département, un schéma directeur des structures agricoles détermine les priorités de la politique
+d'aménagement des structures d'exploitation, et fixe les conditions de la mise en oeuvre des dispositions du présent titre.
+
+Ce schéma, préparé par le préfet, après avis de la chambre d'agriculture et de la commission départementale des structures
+agricoles, est établi par arrêté du ministre de l'agriculture, après avis de la commission nationale des structures
+agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°68-1245 1968-12-31 art. 1, art. 2 JORF 3 janvier 1969
+  - Loi n°72-9 1972-01-03 art. 5 JORF 5 janvier 1972
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 46 () JORF 5 juillet 1980
+
+_Cite_:
+
+  - Loi n°80-502 1980-07-04
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. L125-1 (VD)
+
+
+###### Article 188-2
+
+I. - Sont soumises à autorisation préalable les opérations ci-après :
+
+1° Quelles que soient les superficies en cause, les installations, les agrandissements et les réunions d'exploitations
+agricoles au bénéfice :
+
+a) Des personnes physiques qui ne satisfont pas aux conditions de capacité ou d'expérience professionnelle fixées par
+décret ; pour l'appréciation des critères d'expérience professionnelle, seule est prise en compte l'expérience acquise en
+qualité d'exploitant d'une superficie au moins égale à la moitié de la surface minimum d'installation telle qu'elle est
+définie à l'article 188-4, d'aide familial, d'associé d'exploitation ou de salarié agricole ;
+
+b) De l'un des conjoints lorsque l'autre est chef d'exploitation agricole ;
+
+c) D'une société ou d'une indivision ; de plus, une autorisation doit être demandée pour tout changement du nombre ou de
+l'identité des associés ou des indivisaires qui participent à l'exploitation.
+
+2° Les installations réalisées sur une surface dépassant une limite comprise entre deux et quatre fois la surface minimum
+d'installation, pour la fraction de superficie qui excède le seuil ainsi fixé.
+
+3° Les agrandissements ou réunions d'exploitations agricoles, lorsque la surface cumulée de l'ensemble excède le seuil de
+superficie visé à l'alinéa précédent. Toutefois, ce seuil peut être abaissé jusqu'à la surface minimum d'installation pour
+tout ou partie d'un département lorsque la superficie moyenne des exploitations agricoles dans la zone considérée est
+inférieure à ladite surface.
+
+II. - Peuvent également être soumises à autorisation préalable par le schéma directeur départemental des structures agricoles
+quelles que soient les superficies en cause, tout ou partie des opérations ci-après :
+
+1° Les installations, les agrandissements ou les réunions d'exploitations agricoles ayant pour conséquence, sans l'accord du
+preneur en place :
+
+a) De supprimer une exploitation agricole d'une superficie au moins égale à la surface minimale d'installation ;
+
+b) De ramener la superficie d'une exploitation agricole en deçà de la surface minimale d'installation ;
+
+c) De réduire de plus de 30 % par rapport au dernier agrandissement la superficie d'une exploitation agricole par un ou
+plusieurs retraits successifs lorsque la superficie ainsi réduite est ramenée en deçà du seuil fixé en application du I (2°)
+ci-dessus, ou est déjà inférieure à ce seuil ;
+
+d) De priver une exploitation d'un bâtiment essentiel à son fonctionnement, sauf s'il est reconstruit ou remplacé.
+
+2° Nonobstant les dispositions du I (3°) ci-dessus, les agrandissements d'exploitations réalisés par l'addition d'une ou
+plusieurs parcelles dont la distance par rapport au siège de l'exploitation est supérieure à un maximum fixé par le schéma
+directeur départemental des structures agricoles, sans que cette distance puisse être inférieure à cinq kilomètres.
+
+III. - L'autorisation d'exploiter est de droit dans les cas ci-après :
+
+1° A la condition que le demandeur satisfasse aux conditions de capacité ou d'expérience professionnelles visées au présent
+article, lorsque le bien pour lequel l'autorisation d'exploiter est sollicitée par le propriétaire ou par l'un de ses
+descendants a été recueilli par succession ou par donation d'un parent ou allié jusqu'au troisième degré inclus ou acquis
+d'un cohéritier ou d'un parent ou allié jusqu'au troisième degré inclus qui l'avait lui-même recueilli par succession ou par
+donation. Pour l'application du présent alinéa, sont assimilées aux biens qu'elles représentent les parts d'une société
+constituée entre membres d'une même famille pour mettre fin à l'indivision.
+
+Toutefois :
+
+a) Le demandeur ne peut se prévaloir des dispositions qui précèdent pour agrandir son exploitation que si le bien est libre
+de location au jour de la demande et s'il n'en a pas déjà bénéficié pour exploiter une superficie supérieure au maximum visé
+au I (2°) ci-dessus ;
+
+b) Ces dispositions ne sont applicables aux biens transmis par donation et ayant été précédemment acquis à titre onéreux par
+le donateur que si celui-ci les détenait ou les exploitait depuis neuf ans au moins ;
+
+c) Les conditions de capacité ou d'expérience professionnelle ne sont pas exigées en cas de succession si la demande est
+formulée au cours des trois années suivant l'ouverture de celle-ci, ou la majorité du demandeur si celui-ci était mineur lors
+du décès.
+
+2° Lorsque le demandeur ne satisfait pas aux conditions de capacité ou d'expérience professionnelle visées au présent
+article, et sous réserve, le cas échéant, des dispositions du II ci-dessus :
+
+a) S'il s'agit d'une installation sur une exploitation dont la superficie n'excède pas le plafond visé au I (2°) ci-dessus,
+lorsque le demandeur s'engage à cesser son activité antérieure dans un délai de six mois, à mettre en valeur personnellement
+et à temps complet le fonds dans les conditions visées à l'article 845 du présent code et à suivre un stage de formation
+professionnelle dans les conditions fixées par décret ;
+
+Et, si le bien est libre de location au jour de la demande :
+
+b) Si le demandeur déclare se consacrer à l'exploitation du bien concurremment avec une autre activité professionnelle,
+lorsque la superficie de l'exploitation constituée ou agrandie et les revenus du demandeur n'excèdent pas des limites fixées
+par le schéma directeur départemental des structures agricoles ; la limite de superficie ne peut être inférieure à la moitié
+de la surface minimale d'installation et celle des revenus à 3120 fois le montant horaire du salaire minimum de croissance ;
+
+c) Si le demandeur est un industriel ou un commerçant, à la condition que l'exploitation agricole ainsi constituée ou
+agrandie soit indispensable à l'exercice de son activité principale et que la superficie n'excède pas la moitié de la surface
+minimale d'installation ; toutefois, ce seuil peut être abaissé jusqu'au quart de la surface minimale d'installation pour
+tout ou partie du département lorsque la moyenne des superficies des exploitations agricoles est inférieure ou égale à la
+surface minimale d'installation.
+
+3° Pour l'entrée en jouissance d'une société dont les associés sont tous exploitants agricoles lorsque la consistance des
+exploitations agricoles qu'ils mettaient en valeur reste inchangée, à la condition que chacun d'entre eux s'oblige à
+participer à la mise en valeur des biens de la société, ou si la société a été constituée pour mettre fin à une indivision
+successorale. L'autorisation est également de droit si la superficie totale mise en valeur par une société ou une indivision
+divisée par le nombre d'associés ou d'indivisaires participant effectivement à l'exploitation au sens de l'article 845 du
+présent code rural et satisfaisant aux conditions de capacité ou d'expérience professionnelle prévues au I (1°) ci-dessus,
+n'excède pas la superficie prévue au I (2°) ci-dessus, la part de superficie ainsi considérée comme exploitée par chacun des
+associés ou indivisaires étant augmentée, le cas échéant, de celle des biens qu'il met en valeur individuellement.
+
+4° Lorsque l'autorisation est demandée par le conjoint d'un chef d'exploitation agricole, si chacun des époux dispose, après
+l'opération projetée, d'une exploitation séparée constituant une unité économique gérée distinctement de toute autre et dont
+la superficie n'excède pas le seuil fixé, selon la nature de l'opération, au I (2°) ou au I (3°) du présent article. Par
+ailleurs, celui qui sollicite l'autorisation doit également satisfaire aux conditions de capacité ou d'expérience
+professionnelles visées au présent article.
+
+5° Lorsque la réunion d'exploitations agricoles résulte de la réunion entre les mains de l'un d'entre eux des biens que
+chacun des deux époux mettait en valeur avant leur mariage.
+
+6° Lorsque l'agrandissement ou la réunion d'exploitations est réalisé en vue d'installer, dans un délai de trois ans
+éventuellement prolongé de la durée du service national, un ou plusieurs descendants du demandeur, à la condition que la
+superficie cumulée de l'ensemble n'excède pas le plafond de superficie tel qu'il est fixé au I (3°) du présent article,
+augmenté d'une superficie équivalente pour chacun des descendants à installer, qui peuvent l'être soit sur les biens faisant
+l'objet de la demande, soit sur les biens déjà exploités par le demandeur. A la date de l'installation, chacun des
+descendants doit être majeur ou mineur émancipé et satisfaire aux conditions de capacité ou d'expérience professionnelles
+prévues au présent article.
+
+IV. - Les ateliers de production hors sol qui constituent le complément de l'activité agricole de l'exploitation ne sont pris
+en compte pour le calcul des superficies visées au présent article que pour la fraction de leur superficie, corrigée des
+coefficients d'équivalence prévus à l'article 188-4, qui excède la surface minimale d'installation.
+
+En outre, sont exclus, même s'ils sont ensuite transformés en terre de culture, les bois, landes, taillis, friches et étangs
+autres que ceux servant à l'élevage piscicole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-4, 845
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 47 () JORF 5 juillet 1980
+
+
+###### Article 188-3
+
+Il est institué, dans chaque département, une commission départementale des structures agricoles dont la composition est
+fixée par décret. Elle est appelée à donner son avis sur les autorisations sollicitées en application de l'article 188-2,
+ainsi que sur les schémas directeurs et les superficies mentionnées aux articles 188-1 et 188-4.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-1, 188-2, 188-4
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°68-1245 1968-12-31 art. 3 JORF 31 décembre 1968
+  - Loi n°73-1228 1973-12-31 art. 1 II, III JORF 3 janvier 1974
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 48 () JORF 5 juillet 1980
+
+
+###### Article 188-3-1
+
+Il est institué une commission nationale des structures agricoles dont la composition est fixée par décret. Cette commission
+examine les projets de schémas directeurs départementaux des structures agricoles préparés par les préfets et se prononce sur
+leur conformité avec les objectifs généraux du contrôle des structures des exploitations agricoles, tels qu'ils sont définis
+au présent titre.
+
+La commission nationale des structures agricoles peut être saisie et formuler directement des propositions.
+
+Elle peut également être saisie des difficultés d'application des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 48 () JORF 5 juillet 1980
+
+
+###### Article 188-4
+
+La surface minimum d'installation et les surfaces prévues à l'article 188-2 sont fixées dans le schéma directeur
+départemental des structures agricoles pour chaque région naturelle du département et chaque nature de cultures. Elles sont
+révisées périodiquement.
+
+La surface minimum d'installation ne peut être inférieure de plus de 30 % à la surface minimum d'installation nationale,
+fixée tous les cinq ans par arrêté du ministre de l'agriculture, pris après avis de la commission nationale des structures
+agricoles.
+
+Pour les productions hors sol, un arrêté du ministre de l'agriculture, pris après avis de la commission nationale des
+structures, fixe les coefficients d'équivalence applicables uniformément à l'ensemble du territoire sur la base de la surface
+minimum d'installation nationale prévue à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 49 () JORF 5 juillet 1980
+
+_Cité par_:
+
+  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
+
+
+###### Article 188-5
+
+L'autorisation prévue à l'article 188-2 est délivrée, après avis de la commission départementale des structures agricoles,
+par l'autorité administrative compétente du département sur le territoire duquel est situé le fonds pour lequel
+l'autorisation d'exploiter est sollicitée, ou en cas d'installation sur plusieurs départements, par l'autorité administrative
+compétente du département sur le territoire duquel est situé le siège de l'exploitation du demandeur.
+
+La demande d'autorisation est formulée suivant les modalités fixées par décret. Lorsqu'il s'agit d'une demande portant sur un
+fonds n'appartenant pas au demandeur, celui-ci doit produire à l'appui de sa demande une attestation du propriétaire du fonds
+indiquant que ce dernier est susceptible de donner son bien à bail au demandeur. Le silence du propriétaire vaut refus.
+
+Lorsqu'elle examine une demande d'autorisation, la commission départementale des structures agricoles est tenue :
+
+- de se conformer aux orientations définies dans le schéma directeur départemental des structures agricoles du département
+sur le territoire duquel est situé le siège de l'exploitation du demandeur, notamment pour ce qui concerne l'ordre des
+priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations ;
+
+- de convoquer le demandeur ainsi que, s'il y a lieu, le propriétaire et le preneur, et, sur leur demande, de leur
+communiquer au moins huit jours à l'avance les pièces du dossier et d'entendre leurs observations, les intéressés pouvant se
+faire assister ou représenter devant la commission par toute personne de leur choix ;
+
+- de tenir compte, en cas d'agrandissement ou de réunion d'exploitations, de la situation des terres concernées par rapport
+au siège de l'exploitation du demandeur et, le cas échéant, des superficies déjà mises en valeur par le demandeur sur le
+territoire d'un autre département ;
+
+- de prendre en considération la capacité professionnelle du demandeur et, le cas échéant, la situation personnelle du
+preneur en place au regard de la législation relative au contrôle des structures ;
+
+- de tenir compte de la structure parcellaire des exploitations concernées afin d'éviter que des mutations en jouissance ne
+remettent en cause les aménagements obtenus à l'aide de fonds publics.
+
+La commission dispose d'un délai de deux mois à compter de l'enregistrement de la demande pour adresser son avis motivé à
+l'autorité compétente. Dans les quinze jours suivant l'expiration du délai de deux mois mentionné ci-dessus, l'autorité
+compétente statue par décision motivée sur la demande d'autorisation. Cette décision motivée est notifiée au demandeur, ainsi
+qu'au propriétaire s'il est distinct du demandeur, et au preneur en place.
+
+L'autorisation est réputée accordée si la décision n'a pas été notifiée au demandeur dans un délai de deux mois et quinze
+jours à compter de l'enregistrement de la demande.
+
+Le tribunal administratif, saisi d'un recours contre une décision prise en application du présent article, statue en plein
+contentieux, les parties étant dispensées du ministère d'avocat.
+
+Le tribunal administratif et, le cas échéant, le Conseil d'Etat, se prononcent d'urgence. Les recours contentieux contre les
+décisions prises en application du présent article ont un caractère suspensif.
+
+L'autorisation d'exploiter est périmée si son titulaire n'a pas mis en culture le fonds considéré avant l'expiration de
+l'année culturale qui suit la date à laquelle ladite autorisation lui a été notifiée ou, si le fonds est loué, avant
+l'expiration de la troisième année culturale qui suit la demande, sauf si la situation personnelle du demandeur au regard des
+dispositions du présent titre est modifiée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°68-1245 1968-12-31 art. 4 JORF 3 janvier 1969
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 50 () JORF 5 juillet 1980
+
+
+###### Article 188-6
+
+Tout preneur, lors de la conclusion d'un bail, doit faire connaître au bailleur la superficie et la nature des biens qu'il
+exploite ; mention expresse en est faite dans le bail. Si le preneur doit obtenir l'autorisation d'exploiter en application
+de l'article 188-2 du présent code, le bail est conclu sous réserve de l'octroi de ladite autorisation. Le refus définitif de
+l'autorisation ou le fait de ne pas avoir présenté la demande d'autorisation exigée en application de l'article 188-2 dans le
+délai imparti par le préfet conformément à l'article 188-7 emporte la nullité du bail que le préfet, le bailleur ou la
+société d'aménagement foncier et d'établissement rural, lorsqu'elle exerce son droit de préemption, peut faire prononcer par
+le tribunal paritaire des baux ruraux.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-2, 188-7
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 51 () JORF 5 juillet 1980
+
+
+###### Article 188-7
+
+Lorsqu'il constate qu'un fonds est exploité sans qu'ait été souscrite la demande d'autorisation exigée en application de
+l'article 188-2, le préfet met en demeure l'intéressé de présenter la demande d'autorisation requise. A défaut de
+présentation de la demande par l'intéressé dans le délai imparti par la mise en demeure, le préfet transmet le dossier au
+procureur de la République en vue de l'application des dispositions de l'article 188-9.
+
+Lorsqu'il constate qu'un fonds est exploité en dépit d'un refus d'autorisation d'exploiter devenu définitif, le préfet met en
+demeure l'auteur de l'infraction de cesser d'exploiter le fonds dans un délai qu'il fixe. Si, à l'expiration de ce délai,
+l'intéressé n'a pas déféré à la mise en demeure, le préfet transmet le dossier au procureur de la République en vue de
+l'application des dispositions de l'article 188-9.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-2, 188-9
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°68-1245 1968-12-31 art. 5 JORF 3 janvier 1969
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 52 () JORF 5 juillet 1980
+
+
+###### Article 188-8
+
+Celui qui exploitera un fonds en dépit d'un refus d'autorisation d'exploiter devenu définitif qui lui aura été opposé dans
+les conditions prévues à l'article 188-5 ne pourra bénéficier d'aucune aide publique à caractère économique accordée en
+matière agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°68-1245 1968-12-31 art. 6 JORF 3 janvier 1969
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 53 () JORF 5 juillet 1980
+
+
+###### Article 188-9
+
+I. - a) Toute personne qui aura omis de souscrire la demande d'autorisation d'exploiter prévue à l'article 188-2 sera punie
+d'une amende de 1.000 F à 100.000 F.
+
+b) Toute personne qui aura sciemment fourni à l'autorité compétente des renseignements inexacts à l'appui d'une demande
+d'autorisation d'exploiter sera punie d'une amende de 2.000 F à 100.000 F.
+
+II. - Celui qui exploitera en dépit d'un refus d'autorisation d'exploiter devenu définitif sera puni d'une amende de 2.000 F
+à 100.000 F.
+
+III. - Le tribunal correctionnel peut impartir à toute personne en infraction avec les dispositions du présent titre un délai
+pour mettre fin à l'opération interdite ou irrégulière. Il peut assortir sa décision d'une astreinte de 50 F à 500 F par jour
+de retard.
+
+Au cas où le délai n'est pas observé, l'astreinte prononcée, qui ne peut être révisée que dans le cas prévu à l'alinéa
+suivant, court à partir de l'expiration dudit délai jusqu'au jour où l'ordre a été complètement exécuté.
+
+Si l'exécution n'est pas intervenue dans l'année de l'expiration du délai, le tribunal peut, sur réquisition du ministère
+public, relever, à une ou plusieurs reprises, le montant de l'astreinte, même au-delà du maximum prévu au premier alinéa du
+présent paragraphe.
+
+Le tribunal peut autoriser le reversement de tout ou partie des astreintes lorsque la cessation de l'exploitation interdite
+ou irrégulière aura été effectuée et que le redevable établira qu'il a été empêché d'observer, par une circonstance
+indépendante de sa volonté, le délai qui lui a été imparti.
+
+Les astreintes sont recouvrées dans les conditions prévues par les dispositions relatives au recouvrement des produits de
+l'Etat au profit du Trésor public.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 54 () JORF 5 juillet 1980
+
+
+###### Article 188-9-1
+
+I. - Toutes les actions, y compris l'action publique, exercées en application du présent titre, se prescrivent par trois ans.
+Dans tous les cas, la prescription court à partir du jour où a commencé l'exploitation irrégulière ou interdite.
+
+II. - Toutes les actions, y compris l'action publique, exercées en application des articles 188-1 à 188-9 du présent code,
+dans leur rédaction antérieure à la loi n° 80-502 du 4 juillet 1980, seront prescrites dans un délai de six mois à compter de
+l'entrée en vigueur du présent titre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 188-1 à 188-9
+  - Loi n°80-502 1980-07-04
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 55 () JORF 5 juillet 1980
+
+_Abrogé par_:
+
+  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
+## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=48></a>
 
 ###### Article 188-10
 
@@ -5906,9 +6849,9 @@ _Abrogé par_:
   - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
 
 
-# Livre II : Des animaux et des végétaux<a id=46></a>
+# Livre II : Des animaux et des végétaux<a id=49></a>
 
-## Titre Ier : Vaine pâture.<a id=47></a>
+## Titre Ier : Vaine pâture.<a id=50></a>
 
 ###### Article 189
 
@@ -6207,9 +7150,9 @@ _Abrogé par_:
   - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
-## Titre II : De la garde des animaux domestiques<a id=48></a>
+## Titre II : De la garde des animaux domestiques<a id=51></a>
 
-### Chapitre Ier : Des bestiaux et des chèvres.<a id=49></a>
+### Chapitre Ier : Des bestiaux et des chèvres.<a id=52></a>
 
 ###### Article 200
 
@@ -6281,7 +7224,7 @@ _Créé par_:
   - Loi n°56-464 1956-05-07 art. 1 JORF 9 mai 1956
 
 
-### Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres.<a id=50></a>
+### Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres.<a id=53></a>
 
 ###### Article 202
 
@@ -6459,7 +7402,7 @@ _Anciens textes_:
   - Loi n°1889-04-04 art. 11
 
 
-### Chapitre III : Des animaux dangereux et errants.<a id=51></a>
+### Chapitre III : Des animaux dangereux et errants.<a id=54></a>
 
 ###### Article 211
 
@@ -6533,7 +7476,7 @@ _Modifié par_:
   - Loi n°76-629 du 10 juillet 1976 - art. 12 () JORF 13 juillet 1976
 
 
-## Titre III : De la lutte contre les maladies des animaux<a id=52></a>
+## Titre III : De la lutte contre les maladies des animaux<a id=55></a>
 
 ###### Article 214
 
@@ -6692,7 +7635,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.<a id=53></a>
+### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.<a id=56></a>
 
 ###### Article 216
 
@@ -6716,7 +7659,7 @@ _Cite_:
   - Code de la santé publique L611 à L617
 
 
-### Chapitre III : De la police sanitaire<a id=54></a>
+### Chapitre III : De la police sanitaire<a id=57></a>
 
 ###### Article 219
 
@@ -6745,7 +7688,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-#### Section 1 : De la police sanitaire des maladies non contagieuses.<a id=55></a>
+#### Section 1 : De la police sanitaire des maladies non contagieuses.<a id=58></a>
 
 ###### Article 220
 
@@ -6852,7 +7795,7 @@ _Abrogé par_:
   - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
 
 
-#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=56></a>
+#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=59></a>
 
 ###### Article 225
 
@@ -7461,7 +8404,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-#### Section 3 : Des importations et des exportations.<a id=57></a>
+#### Section 3 : Des importations et des exportations.<a id=60></a>
 
 ###### Article 244
 
@@ -7669,9 +8612,9 @@ _Abrogé par_:
   - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
 
 
-## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=58></a>
+## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=61></a>
 
-### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=59></a>
+### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=62></a>
 
 ###### Article 253
 
@@ -7919,7 +8862,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : De l'équarrissage des animaux.<a id=60></a>
+### Chapitre II : De l'équarrissage des animaux.<a id=63></a>
 
 ###### Article 264
 
@@ -8238,7 +9181,7 @@ _Abrogé par_:
   - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
 
 
-## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=61></a>
+## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=64></a>
 
 ###### Article 276
 
@@ -8562,7 +9505,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=62></a>
+## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=65></a>
 
 ###### Article 284
 
@@ -8865,9 +9808,9 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VII : De la production des animaux domestiques<a id=63></a>
+## Titre VII : De la production des animaux domestiques<a id=66></a>
 
-### Chapitre II : De l'insémination artificielle.<a id=64></a>
+### Chapitre II : De l'insémination artificielle.<a id=67></a>
 
 ###### Article 308
 
@@ -8897,7 +9840,7 @@ _Abrogé par_:
   - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
-## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=65></a>
+## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=68></a>
 
 ###### Article 309
 
@@ -9468,7 +10411,7 @@ _Abrogé par_:
   - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
 
 
-## Titre IX : Des pénalités.<a id=66></a>
+## Titre IX : Des pénalités.<a id=69></a>
 
 ###### Article 325
 
@@ -9522,7 +10465,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre X : De la protection des végétaux.<a id=67></a>
+## Titre X : De la protection des végétaux.<a id=70></a>
 
 ###### Article 342
 
@@ -9550,7 +10493,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=68></a>
+### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=71></a>
 
 ###### Article 344
 
@@ -9626,7 +10569,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre II : Mesures de défense contre les parasites et petits animaux.<a id=69></a>
+### Chapitre II : Mesures de défense contre les parasites et petits animaux.<a id=72></a>
 
 ###### Article 348
 
@@ -9803,7 +10746,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Contrôle des pépinières.<a id=70></a>
+### Chapitre III : Contrôle des pépinières.<a id=73></a>
 
 ###### Article 356
 
@@ -9885,7 +10828,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=71></a>
+### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=74></a>
 
 ###### Article 360
 
@@ -9954,7 +10897,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Sanctions et dispositions diverses.<a id=72></a>
+### Chapitre V : Sanctions et dispositions diverses.<a id=75></a>
 
 ###### Article 364
 
@@ -9976,11 +10919,11 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-# Livre III : La chasse et la pêche<a id=73></a>
+# Livre III : La chasse et la pêche<a id=76></a>
 
-## Titre Ier : De la chasse<a id=74></a>
+## Titre Ier : De la chasse<a id=77></a>
 
-### Chapitre Ier : De l'exercice du droit de chasse.<a id=75></a>
+### Chapitre Ier : De l'exercice du droit de chasse.<a id=78></a>
 
 ###### Article 365
 
@@ -10532,7 +11475,7 @@ _Abrogé par_:
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
-### Chapitre II : Des pénalités.<a id=76></a>
+### Chapitre II : Des pénalités.<a id=79></a>
 
 ###### Article 377
 
@@ -10999,7 +11942,7 @@ _Abrogé par_:
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
-### Chapitre III : De la destruction des animaux nuisibles.<a id=77></a>
+### Chapitre III : De la destruction des animaux nuisibles.<a id=80></a>
 
 ###### Article 393
 
@@ -11090,7 +12033,7 @@ _Anciens textes_:
   - Loi n°1930-03-10 art. 1
 
 
-### Chapitre IV : Des groupements de chasseurs.<a id=78></a>
+### Chapitre IV : Des groupements de chasseurs.<a id=81></a>
 
 ###### Article 396
 
@@ -11224,11 +12167,11 @@ _Anciens textes_:
   - Loi n°1941-06-28
 
 
-## Titre II : Pêche fluviale<a id=79></a>
+## Titre II : Pêche fluviale<a id=82></a>
 
-### Du droit de pêche<a id=80></a>
+### Du droit de pêche<a id=83></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=81></a>
+#### Chapitre Ier : Dispositions générales.<a id=84></a>
 
 ###### Article 401
 
@@ -11578,7 +12521,7 @@ _Modifié par_:
   - Loi n°56-465 1956-05-07 art. 1 JORF 9 mai 1956
 
 
-#### Chapitre II : Exploitation du droit de pêche par l'Etat.<a id=82></a>
+#### Chapitre II : Exploitation du droit de pêche par l'Etat.<a id=85></a>
 
 ###### Article 413
 
@@ -11872,9 +12815,9 @@ _Modifié par_:
   - Loi n°64-1245 1964-12-16 art. 34 JORF 18 décembre 1964
 
 
-## Titre III : De la police de la pêche<a id=83></a>
+## Titre III : De la police de la pêche<a id=86></a>
 
-### Chapitre Ier : Dispositions générales et pénales.<a id=84></a>
+### Chapitre Ier : Dispositions générales et pénales.<a id=87></a>
 
 ###### Article 427
 
@@ -12188,7 +13131,7 @@ _Anciens textes_:
   - Loi n°1865-05-31 art. 8
 
 
-### Chapitre II : Des poursuites au nom de l'administration.<a id=85></a>
+### Chapitre II : Des poursuites au nom de l'administration.<a id=88></a>
 
 ###### Article 446
 
@@ -12895,7 +13838,7 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 64
 
 
-### Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat.<a id=86></a>
+### Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat.<a id=89></a>
 
 ###### Article 481
 
@@ -12981,7 +13924,7 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 68
 
 
-### Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines.<a id=87></a>
+### Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines.<a id=90></a>
 
 ###### Article 485
 
@@ -13161,7 +14104,7 @@ _Anciens textes_:
   - Loi n°1829-04-15
 
 
-### Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public.<a id=88></a>
+### Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public.<a id=91></a>
 
 ###### Article 492
 
@@ -13347,7 +14290,7 @@ _Anciens textes_:
   - Loi n°1829-04-15
 
 
-## Titre IV : Des groupements de pêcheurs.<a id=89></a>
+## Titre IV : Des groupements de pêcheurs.<a id=92></a>
 
 ###### Article 500
 
@@ -13387,7 +14330,7 @@ _Abrogé par_:
   - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
 
 
-## Titre V : Dispositions diverses.<a id=90></a>
+## Titre V : Dispositions diverses.<a id=93></a>
 
 ###### Article 501
 
@@ -13414,11 +14357,11 @@ _Anciens textes_:
   - Loi n°1920-07-31
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=91></a>
+# Livre IV : Institutions et groupements professionnels agricoles<a id=94></a>
 
-## Titre Ier : Chambres d'agriculture<a id=92></a>
+## Titre Ier : Chambres d'agriculture<a id=95></a>
 
-### Chapitre IV : Dispositions financières et d'application.<a id=93></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=96></a>
 
 ###### Article 545-2
 
@@ -13444,11 +14387,11 @@ _Cite_:
   - Loi n°59-1472 du 28 décembre 1959 - art. 30, v. init.
 
 
-# Livre V : Crédit agricole<a id=94></a>
+# Livre V : Crédit agricole<a id=97></a>
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=95></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=98></a>
 
-### Chapitre Ier : Organisation.<a id=96></a>
+### Chapitre Ier : Organisation.<a id=99></a>
 
 ###### Article 615
 
@@ -13784,7 +14727,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=97></a>
+### Chapitre II : Fonctionnement.<a id=100></a>
 
 ###### Article 632
 
@@ -14029,7 +14972,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Ressources.<a id=98></a>
+### Chapitre III : Ressources.<a id=101></a>
 
 ###### Article 645
 
@@ -14128,9 +15071,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=99></a>
+### Chapitre IV : Opérations de crédit<a id=102></a>
 
-#### Section 1 : Crédit à court terme.<a id=100></a>
+#### Section 1 : Crédit à court terme.<a id=103></a>
 
 ###### Article 653
 
@@ -14366,9 +15309,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=101></a>
+#### Section 2 : Crédit à moyen terme<a id=104></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=102></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=105></a>
 
 ###### Article 666
 
@@ -14461,7 +15404,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=103></a>
+##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=106></a>
 
 ###### Article 674-1
 
@@ -14490,7 +15433,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=104></a>
+##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=107></a>
 
 ###### Article 675-2
 
@@ -14688,7 +15631,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=105></a>
+#### Section 3 : Crédit à long terme individuel.<a id=108></a>
 
 ###### Article 686
 
@@ -14942,7 +15885,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=106></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=109></a>
 
 ###### Article 697
 
@@ -15042,7 +15985,7 @@ _Abrogé par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=107></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=110></a>
 
 ###### Article 704
 
@@ -15088,9 +16031,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=108></a>
+## Titre II : Caisse nationale de crédit agricole<a id=111></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=109></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=112></a>
 
 ###### Article 712
 
@@ -15178,7 +16121,7 @@ _Abrogé par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Ressources.<a id=110></a>
+### Chapitre II : Ressources.<a id=113></a>
 
 ###### Article 717
 
@@ -15299,7 +16242,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=111></a>
+### Chapitre III : Opérations de crédit.<a id=114></a>
 
 ###### Article 723
 
@@ -15572,7 +16515,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=112></a>
+## Titre III : Inspection et contrôle.<a id=115></a>
 
 ###### Article 738
 
@@ -15674,9 +16617,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre IV : Dispositions diverses<a id=113></a>
+## Titre IV : Dispositions diverses<a id=116></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=114></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=117></a>
 
 ###### Article 745
 
@@ -15704,7 +16647,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=115></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=118></a>
 
 ###### Article 747
 
@@ -15786,9 +16729,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=116></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=119></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=117></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=120></a>
 
 ###### Article 752
 
@@ -15894,7 +16837,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=118></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=121></a>
 
 ###### Article 757
 
@@ -15998,7 +16941,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=119></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=122></a>
 
 ###### Article 763
 
@@ -16128,7 +17071,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=120></a>
+#### Section 4 : Dispositions communes.<a id=123></a>
 
 ###### Article 770
 
@@ -16177,7 +17120,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=121></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=124></a>
 
 ###### Article 773
 
@@ -16206,7 +17149,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=122></a>
+### Chapitre V : Domaine - Retraite.<a id=125></a>
 
 ###### Article 774
 
@@ -16510,7 +17453,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=123></a>
+### Chapitre VI : Dispositions d'application.<a id=126></a>
 
 ###### Article 788
 
@@ -16542,11 +17485,90 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VI : Baux ruraux<a id=124></a>
+# Livre V bis : De l'exploitation agricole dans les rapports entre époux.<a id=127></a>
 
-## Titre Ier : Statut du fermage et du métayage<a id=125></a>
+###### Article 789-1
 
-### Chapitre III : Dispositions diverses.<a id=126></a>
+Lorsque des époux exploitent ensemble et pour leur compte un même fonds agricole, ils sont présumés s'être donné
+réciproquement mandat d'accomplir les actes d'administration concernant les besoins de l'exploitation.
+
+Lorsqu'il ne fait que collaborer à l'exploitation agricole, le conjoint de l'exploitant est présumé avoir reçu de celui-ci le
+mandat d'accomplir les actes d'administration concernant les besoins de cette exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980
+
+_Abrogé par_:
+
+  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
+###### Article 789-2
+
+Les dispositions de l'article 789-1 ci-dessus cessent de plein droit d'être applicables en cas d'absence présumée de l'un des
+époux, de séparation de corps ou de séparation de biens judiciaire.
+
+Elles cessent également d'être applicables lorsque les conditions prévues à l'article 789-1 ne sont plus remplies.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 789-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980
+
+_Abrogé par_:
+
+  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
+###### Article 789-3
+
+Chaque époux a la faculté de déclarer, son conjoint présent ou dûment appelé, que celui-ci ne pourra plus se prévaloir des
+dispositions de l'article 789-1.
+
+La déclaration prévue à l'alinéa précédent est, à peine de nullité, faite devant notaire. Elle a effet à l'égard des tiers
+trois mois après que mention en aura été portée en marge de l'acte de mariage des époux. En l'absence de cette mention, elle
+n'est opposable aux tiers que s'il est établi que ceux-ci en ont eu connaissance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 789-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980
+
+_Abrogé par_:
+
+  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
+# Livre VI : Baux ruraux<a id=128></a>
+
+## Titre Ier : Statut du fermage et du métayage<a id=129></a>
+
+### Chapitre III : Dispositions diverses.<a id=130></a>
 
 ###### Article 857
 
@@ -16655,7 +17677,7 @@ _Modifié par_:
   - Loi n°63-1332 1963-12-30 art. 12 JORF 31 décembre 1963
 
 
-## Titre V : Bail emphytéotique.<a id=127></a>
+## Titre V : Bail emphytéotique.<a id=131></a>
 
 ###### Article 948
 
@@ -16677,11 +17699,11 @@ _Anciens textes_:
   - Loi n°1902-06-25 art. 12
 
 
-# Livre VII : Dispositions sociales<a id=128></a>
+# Livre VII : Dispositions sociales<a id=132></a>
 
-## Titre Ier : Régime du travail<a id=129></a>
+## Titre Ier : Régime du travail<a id=133></a>
 
-### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=130></a>
+### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=134></a>
 
 ###### Article 983
 
@@ -16892,7 +17914,7 @@ _Abrogé par_:
   - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 
-### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=131></a>
+### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=135></a>
 
 ###### Article 986
 
@@ -16939,7 +17961,7 @@ _Cite_:
   - Code du travail - art. L223-7-1 (AbD)
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=132></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=136></a>
 
 ###### Article 996
 
@@ -16989,7 +18011,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Médecine du travail.<a id=133></a>
+### Chapitre III : Médecine du travail.<a id=137></a>
 
 ###### Article 1000-1
 
@@ -17146,7 +18168,7 @@ _Créé par_:
   - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
 
 
-## Titre II : Mutualité sociale agricole<a id=134></a>
+## Titre II : Mutualité sociale agricole<a id=138></a>
 
 ###### Article 1001
 
@@ -17500,6 +18522,85 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1003-7-1
+
+I. - Sans préjudice de l'application des conditions particulières résultant de dispositions spéciales du présent titre,
+relèvent des régimes de protection sociale des personnes non salariées des professions agricoles, les chefs d'exploitation ou
+d'entreprise agricoles mentionnés à l'article 1060 (2°, 4° et 5°) qui dirigent une exploitation ou une entreprise dont
+l'importance est au moins égale ou équivalente à la moitié de la surface minimum d'installation définie pour chaque
+département ou partie de département, par application de l'article 188-4, compte tenu, s'il y a lieu, des coefficients
+d'équivalence applicables aux productions agricoles spécialisées.
+
+Lorsque l'importance de l'exploitation ou de l'entreprise ne peut être appréciée selon la règle posée à l'alinéa précédent,
+l'activité professionnelle dont doit justifier le chef d'exploitation ou d'entreprise pour relever des régimes mentionnés ci-
+dessus est déterminée par décret en tenant compte du temps de travail nécessaire à la conduite de cette exploitation ou
+entreprise.
+
+II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une exploitation ou entreprise agricoles ne
+répondant pas à la condition d'importance minimale fixée au I sont affiliées, sur leur demande, par décision des conseils
+d'administration des caisses de mutualité sociale agricole, aux régimes de protection sociale des personnes non salariées des
+professions agricoles si elles satisfont à des conditions de nature et de durée d'activité fixées par décret en Conseil
+d'Etat. Ce décret détermine les autres mesures d'application du présent paragraphe.
+
+Un rapport sur les décisions prises au titre de l'alinéa précédent sera présenté chaque année au comité départemental des
+prestations sociales agricoles.
+
+III. - Les personnes qui, à la date d'entrée en vigueur de la loi n° 80-502 du 4 juillet 1980, relèvent des régimes de
+protection sociale des non salariés des professions agricoles, tout en dirigeant des exploitations ou entreprises agricoles
+ne répondant pas à la condition d'importance minimale fixée par le I ci-dessus, continuent de relever de ces régimes sous
+réserve que leur activité agricole ne se réduise pas ultérieurement dans des proportions précisées par décret ; dans ce cas,
+la décision de maintien dans le régime est prise par les conseils d'administration des caisses de mutualité sociale agricole.
+
+Un rapport sur les décisions prises au titre de l'alinéa précédent sera présenté chaque année au comité départemental des
+prestations sociales agricoles.
+
+IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et d'assurance maladie dues par les chefs
+d'exploitation ou d'entreprise mentionnés à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis
+par décret.
+
+V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie des exploitants agricoles (Amexa), les
+titulaires de la retraite de vieillesse agricole et les titulaires de la retraite forfaitaire accordée en vertu de l'article
+1122-1 du présent code, percevant l'allocation supplémentaire prévue au livre IX du code de la sécurité sociale, lorsqu'ils
+ont cessé toute activité professionnelle ou exploitent moins de trois hectares, sous réserve des coefficients d'équivalence
+prévus à l'article 188-4 du présent code.
+
+VI. - Des cotisations de solidarité peuvent être exigées des personnes non affiliées au régime des non salariés agricoles et
+dirigeant une exploitation ou une entreprise agricoles dont l'importance est inférieure à celle définie au I ci-dessus et
+supérieure à un minimum fixé par décret. Les bases de calcul de ces cotisations sont déterminées par décret en fonction de
+l'importance de l'exploitation ou de l'entreprise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Cité par_:
+
+  - Décret n°78-360 du 8 mars 1978 - art. 1 (V)
+  - Code rural - art. R352-1 (M)
+
+_Cite_:
+
+  - Loi n°80-502 1980-07-04
+  - Code rural 188-4, 1060, 1122-1
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 15 () JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L722-4 (V)
+  - Code rural - art. L722-5 (M)
+  - Code rural - art. L722-6 (V)
+  - Code rural - art. L722-7 (V)
+  - Code rural - art. L731-11 (M)
+  - Code rural - art. L731-23 (M)
+  - Code rural - art. L731-24 (M)
+  - Code rural - art. L731-39 (V)
+
+
 ###### Article 1003-8
 
 Les cotisations à la charge des assujettis aux régimes des prestations familiales, des assurances sociales et de l'assurance
@@ -17619,7 +18720,7 @@ _Modifié par_:
   - Loi n°76-1232 1976-12-29 art. 78 JORF 30 décembre 1976
 
 
-### Chapitre Ier : Elections des conseils d'administration.<a id=135></a>
+### Chapitre Ier : Elections des conseils d'administration.<a id=139></a>
 
 ###### Article 1004
 
@@ -18171,7 +19272,7 @@ _Anciens textes_:
   - Loi n°1949-06-08 art. 26
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=136></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=140></a>
 
 ###### Article 1021
 
@@ -18206,9 +19307,9 @@ _Anciens textes_:
   - Loi n°1949-06-08 art. 21
 
 
-### Chapitre II : Assurances sociales<a id=137></a>
+### Chapitre II : Assurances sociales<a id=141></a>
 
-#### Section 1 : Affiliation.<a id=138></a>
+#### Section 1 : Affiliation.<a id=142></a>
 
 ###### Article 1024
 
@@ -18429,7 +19530,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=139></a>
+#### Section 2 : Cotisations.<a id=143></a>
 
 ###### Article 1031
 
@@ -18734,7 +19835,7 @@ _Modifié par_:
   - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
 
 
-#### Section 3 : Prestations.<a id=140></a>
+#### Section 3 : Prestations.<a id=144></a>
 
 ###### Article 1038
 
@@ -19135,7 +20236,7 @@ _Anciens textes_:
   - Décret n°1935-10-28 art. 27
 
 
-#### Section 4 : Régime facultatif, régime complémentaire.<a id=141></a>
+#### Section 4 : Régime facultatif, régime complémentaire.<a id=145></a>
 
 ###### Article 1049
 
@@ -19245,7 +20346,7 @@ _Anciens textes_:
   - Loi n°1952-07-25 art. 1, art. 2, art. 3
 
 
-#### Section 5 : Organisation administrative et financière.<a id=142></a>
+#### Section 5 : Organisation administrative et financière.<a id=146></a>
 
 ###### Article 1052
 
@@ -19439,9 +20540,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=143></a>
+### Chapitre III : Prestations familiales<a id=147></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=144></a>
+#### Section 1 : Affiliations et cotisations.<a id=148></a>
 
 ###### Article 1060
 
@@ -19721,7 +20822,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Dégrèvements.<a id=145></a>
+#### Section 2 : Dégrèvements.<a id=149></a>
 
 ###### Article 1073
 
@@ -19912,7 +21013,7 @@ _Abrogé par_:
   - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
 
 
-#### Section 3 : Recouvrement.<a id=146></a>
+#### Section 3 : Recouvrement.<a id=150></a>
 
 ###### Article 1080
 
@@ -19954,7 +21055,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Prestations.<a id=147></a>
+#### Section 4 : Prestations.<a id=151></a>
 
 ###### Article 1090
 
@@ -20100,7 +21201,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=148></a>
+#### Section 5 : Organisation administrative et financière.<a id=152></a>
 
 ###### Article 1094
 
@@ -20154,9 +21255,112 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=149></a>
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=153></a>
 
-#### Section 2 : Prestations.<a id=150></a>
+#### Section 1 : Champ d'application.<a id=154></a>
+
+###### Article 1106-1
+
+I. - Les dispositions du présent chapitre s'appliquent, à condition que les intéressés résident sur le territoire
+métropolitain :
+
+1° aux chefs d'exploitation ou d'entreprise agricoles mentionnés à l'article 1060 (2°, 4° et 5°) à condition que
+l'exploitation ou l'entreprise soit située sur le territoire métropolitain et qu'elle ait au moins l'importance définie au I
+de l'article 1003-7-1, sous réserve des dérogations visées aux II et III du même article ;
+
+2° aux aides familiaux non salariés et associés d'exploitation définis par la loi n° 73-650 du 13 juillet 1973 des chefs
+d'exploitation ou d'entreprise ci-dessus visés.
+
+Par aides familiaux, on entend les ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou
+d'entreprise ou de son conjoint, âgés de plus de seize ans, vivant sur l'exploitation ou l'entreprise et participant à sa
+mise en valeur comme non salariés ;
+
+3° aux anciens exploitants et à leurs conjoints titulaires de la retraite de vieillesse prévue à l'article 1110, ainsi qu'aux
+titulaires de la retraite de base prévue à l'article 1122-1 ;
+
+4° a) aux conjoints des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent paragraphe, sous réserve qu'ils ne soient pas
+couverts à titre personnel par un régime obligatoire d'assurance maladie, maternité ;
+
+b) aux enfants de moins de seize ans à la charge des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent paragraphe ou de
+leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la Nation dont l'assuré
+est le tuteur.
+
+Pour l'application du présent chapitre, sont assimilés aux enfants de moins de seize ans :
+
+Ceux de moins de vingt ans qui poursuivent leurs études, cette limite d'âge pouvant être reculée dans des conditions fixées
+par voie réglementaire pour les enfants ayant dû interrompre leurs études pour cause de maladie ;
+
+Ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie chronique, dans l'impossibilité permanente de se
+livrer à une activité rémunératrice ;
+
+Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la sécurité sociale ;
+
+5° aux membres non salariés de toute société, quelles qu'en soient la forme et la dénomination, lorsque ces membres
+consacrent leur activité, pour le compte de la société, à une exploitation ou entreprise agricole située sur le territoire
+métropolitain, lesdites sociétés étant assimilées, pour l'application du présent chapitre, aux chefs d'exploitation ou
+d'entreprise visés au 1° du présent article ;
+
+6° aux titulaires de la pension d'invalidité prévue à l'article 1234-3 B.
+
+II. - Ne sont pas assujettis au régime d'assurance obligatoire institué par le présent chapitre les exploitants forestiers
+négociants en bois affiliés à l'organisation autonome d'allocation vieillesse des professions industrielles et commerciales
+et les personnes visées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961. Toutefois, les personnes
+visées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961 susvisé peuvent solliciter auprès du régime
+institué par le présent chapitre le bénéfice des dispositions de la loi n° 77-773 du 12 juillet 1977 sans autres conditions
+que celles prévues par celle-ci.
+
+Sont affiliées simultanément aux régimes dont relèvent leurs activités et, éventuellement, à celui dont relève leur pension
+ou leur allocation :
+
+a) les personnes qui exercent simultanément plusieurs activités dont l'une relève de l'assurance obligatoire instituée par le
+présent chapitre ;
+
+b) les personnes visées à l'article 1106-1, 3°, ou titulaires d'une pension d'invalidité en application de l'article 1106-3,
+2°, qui exercent une activité professionnelle relevant d'un régime d'assurance maladie et maternité autre que celui institué
+par le présent chapitre.
+
+Lorsque l'activité salariée est accessoire ou exercée par un pensionné ou un allocataire ayant choisi le régime de sa pension
+ou de son allocation, la cotisation personnelle au titre des assurances maladie, maternité, invalidité et décès pour son
+activité salariée n'est pas due.
+
+De même lorsque l'activité non salariée est accessoire ou exercée par un pensionné ou par un allocataire ayant choisi le
+régime de sa pension ou de son allocation, la cotisation au titre de l'activité non salariée n'est pas due.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1060, 1003-7-1, 1110, 1122-1, 1234-3, 1106-1, 1106-3
+  - Décret n°61-294 du 31 mars 1961 - art. 6 (M)
+  - Loi n°73-650 1973-07-13
+  - Loi n°77-773 1977-07-12
+  - Code de la sécurité sociale L528
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°70-14 1970-01-06 art. 3-1 JORF 7 janvier 1970
+  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
+  - Loi n°72-1121 1972-12-20 art. 63 JORF 21 décembre 1972
+  - Loi n°80-502 du 4 juillet 1980 - art. 17 (V) JORF 5 juillet 1980
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Cité par_:
+
+  - Code rural - art. D352-15 (M)
+  - Code rural et de la pêche maritime - art. R511-103 (Ab)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L722-10 (M)
+  - Code rural - art. L722-11 (V)
+  - Code rural - art. L722-12 (V)
+
+
+#### Section 2 : Prestations.<a id=155></a>
 
 ###### Article 1106-3
 
@@ -20341,7 +21545,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=151></a>
+#### Section 3 : Financement.<a id=156></a>
 
 ###### Article 1106-6
 
@@ -20383,7 +21587,56 @@ _Cite_:
   - Code rural 1106-1, 1234-3
 
 
-#### Section 4 : Assujettissement et organisation.<a id=152></a>
+###### Article 1106-7
+
+I. - Bénéficient d'une exemption totale de cotisations :
+
+1° ... ;
+
+2° Les personnes visées à l'alinéa 4° du paragraphe I de l'article 1106-1 ;
+
+3° Les personnes visées au paragraphe 3° de l'article 1106-3 qui reçoivent leurs prestations d'un autre régime obligatoire
+d'assurance maladie et maternité.
+
+4° Les personnes titulaires de l'allocation spéciale visée à l'article L. 675 du code de la sécurité sociale et de
+l'allocation supplémentaire du fonds de solidarité, qui ont exercé une activité exclusivement agricole au cours de leur
+existence.
+
+II. - Peuvent bénéficier d'une exemption totale ou partielle des cotisations :
+
+1° Les titulaires de l'allocation ou de la retraite vieillesse visés au paragraphe 3° de l'article 1106-1 qui ont cessé toute
+activité professionnelle ou qui n'exploitent qu'une surface inférieure à la moitié de l'exploitation type ouvrant droit à
+l'intégralité des allocations familiales agricoles lorsqu'ils ne bénéficient pas de l'allocation supplémentaire prévue par le
+livre IX du code de la sécurité sociale ;
+
+2° Les aides familiaux et associés d'exploitation visés à l'article 1106-1, I-2°.
+
+3° Les personnes titulaires de l'allocation spéciale visée à l'article L. 675 du code de la sécurité sociale, qui ont exercé
+une activité exclusivement agricole au cours de leur existence.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1106-1, 1106-3
+  - Code de la sécurité sociale L675
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
+  - Loi n°80-502 du 4 juillet 1980 - art. 17 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-39 (V)
+
+
+#### Section 4 : Assujettissement et organisation.<a id=157></a>
 
 ###### Article 1106-9
 
@@ -20634,7 +21887,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=153></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=158></a>
 
 ###### Article 1106-17
 
@@ -20918,7 +22171,7 @@ _Nouveaux textes_:
   - Code rural - art. L762-15 (V)
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=154></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=159></a>
 
 ###### Article 1107
 
@@ -20955,9 +22208,63 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=155></a>
+#### Section 1 : Prestations<a id=160></a>
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=156></a>
+###### Article 1110
+
+L'organisation autonome des professions agricoles est chargée de servir aux exploitants agricoles ayant exercé comme dernière
+activité professionnelle l'une des activités visées à l'article 1060 en qualité de chef d'exploitation ou d'entreprise :
+
+- soit, pour ceux qui ne peuvent bénéficier d'une retraite, une allocation dans les conditions prévues aux articles 1111 à
+1120 inclus s'ils ont exercé cette activité pendant quinze ans au moins ;
+
+- soit une retraite dans les conditions prévues aux articles 1121 et 1122.
+
+Est considérée comme chef d'exploitation ou d'entreprise sans préjudice de l'application de l'article 645 du code de la
+sécurité sociale la personne dont l'exploitation ou l'entreprise a une importance au moins égale ou équivalente à la moitié
+de l'exploitation type ouvrant droit à l'intégralité des prestations familiales agricoles ou qui justifie exercer
+exclusivement une activité professionnelle agricole non salariée. Toutefois, le minimum prévu ci-dessus est ramené à 16 F de
+revenu cadastral pour les personnes mettant en valeur des terres dont le revenu cadastral moyen est inférieur à 6 F par
+hectare. En outre, ce chiffre pourra, dans les mêmes conditions, être abaissé au-dessous de 16 F pour les exploitants
+montagnards dont la cotisation sera alors établie sur la base d'un revenu cadastral égal à 16 F.
+
+Par dérogation aux prescriptions du premier alinéa du présent article, l'interruption d'activité résultant d'un fait de
+guerre ou de maladie ou d'infirmité graves empêchant toute activité professionnelle ne privera pas le requérant du droit à
+l'allocation.
+
+Sauf dans la mesure où elle s'impute sur la durée de la peine, toute période de détention provisoire accomplie par une
+personne qui, au moment de son incarcération, relevait de l'assurance prévue au présent chapitre, est également prise en
+considération pour l'ouverture du droit à pension.
+
+Dans le bail à métayage, le preneur et le bailleur sont considérés comme chefs d'exploitation, le premier sous réserve qu'il
+ne soit pas assujetti au régime des assurances sociales au titre de salarié, le second sous réserve de l'application de
+l'article 3 modifié de la loi n° 48-101 du 17 janvier 1948.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1060, 1111 à 1120, 1121, 1122
+  - Loi n°48-101 du 17 janvier 1948 - art. 3, v. init.
+  - Code de la sécurité sociale 645
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-19 (M)
+  - Code rural - art. L732-21 (M)
+  - Code rural - art. L732-22 (M)
+
+
+##### Paragraphe 1 : Allocation de vieillesse.<a id=161></a>
 
 ###### Article 1113
 
@@ -21038,7 +22345,178 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 2 : Retraite.<a id=157></a>
+##### Paragraphe 2 : Retraite.<a id=162></a>
+
+###### Article 1121
+
+Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
+salariée agricole ont droit à une retraite qui comprend :
+
+1° Une retraite forfaitaire dont le montant maximal, attribué pour vingt-cinq années d'activité au moins, est égal à celui
+que fixe l'article 1116 du présent code pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à
+vingt-cinq ans, le montant de la retraite est calculé proportionnellement à cette
+
+durée ;
+
+2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
+l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
+application de l'article L. 344 du code de la sécurité sociale ;
+
+3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
+des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
+l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+
+Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
+nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
+sociale.
+
+Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
+
+Un décret fixe les modalités selon lesquelles sont prises en compte pour le calcul de la retraite proportionnelle les
+cotisations versées par des exploitants agricoles au titre des assurances sociales agricoles obligatoires ou facultatives.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1116, 1123
+  - Loi n°80-502 1980-07-04 art. 18
+  - Code de la sécurité sociale L344
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+  - Loi n°72-1121 1972-12-20 art. 63 III JORF 21 décembre 1972
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-24 (M)
+  - Code rural - art. L732-25 (M)
+  - Code rural - art. L732-26 (M)
+  - Code rural - art. L732-27 (M)
+
+
+###### Article 1121-1
+
+Les personnes ayant exercé, concurremment avec une activité salariée, une activité non salariée agricole ne présentant qu'un
+caractère accessoire peuvent seulement prétendre à la retraite proportionnelle.
+
+Le conjoint survivant des personnes visées au premier alinéa a droit, s'il n'est pas lui-même bénéficiaire d'un avantage au
+titre d'un régime de sécurité sociale, et s'il satisfait à des conditions d'âge, de ressources personnelles et de durée du
+mariage fixées par décret, à une retraite de réversion dont le montant est égal à un pourcentage fixé par voie réglementaire
+de la retraite proportionnelle dont bénéficiait ou aurait pu bénéficier l'assuré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-28 (M)
+  - Code rural - art. L732-46 (M)
+
+
+###### Article 1122
+
+A droit à la retraite à l'âge de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, tout chef
+d'exploitation qui a satisfait à toutes les prescriptions du présent chapitre.
+
+Sous réserve des dispositions du 1er alinéa du présent article, le conjoint du chef d'exploitation, âgé de soixante-cinq ans,
+ou de soixante ans en cas d'inaptitude au travail, perçoit la retraite de base prévue au 1° de l'article 1121 s'il n'est pas
+lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité sociale.
+
+Sous réserve des dispositions des deux alinéas précédents, exception faite de celle relative à l'âge, le conjoint survivant
+d'un chef d'exploitation, âgé de soixante-cinq ans, ou soixante ans en cas d'inaptitude au travail, percevra une retraite
+comprenant la retraite de base et la moitié de la retraite complémentaire à laquelle pouvait prétendre le chef
+d'exploitation. Cette retraite est accordée, sous les mêmes réserves, au conjoint survivant n'ayant pas atteint l'âge prévu
+ci-dessus s'il satisfait en outre aux conditions, fixées par décret, relatives à son âge, à ses ressources personnelles,
+ainsi qu'à la durée du mariage. Si le chef d'exploitation est décédé avant d'avoir acquis droit à retraite, le conjoint
+continuant l'exploitation peut ajouter ses annuités propres à celles acquises par le de cujus pour le calcul de sa pension à
+l'âge de soixante-cinq ans, ou soixante ans en cas d'invalidité.
+
+Au cas de coexploitation, le total des retraites complémentaires servies à l'ensemble de ces exploitants ne peut excéder
+celle qui serait servie à un agriculteur dirigeant seul la même exploitation.
+
+Sous réserve des dispositions précédentes, les personnes qui ont travaillé pendant les cinq dernière années d'exercice de
+leur profession, avec ou sans le concours de leur conjoint et avec ou sans l'aide d'un seul salarié ou d'un seul aide
+familial, ont droit à la retraite de vieillesse agricole à partir de l'âge de soixante ans, si elles sont reconnues inaptes
+au travail dans les conditions prévues par la loi n° 71-1132 du 31 décembre 1971. Le service de la retraite visée ci-dessus
+est suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle.
+
+Les modalités d'application des dispositions de l'alinéa ci-dessus seront déterminées, autant que de besoin, par décret
+interministériel.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1121
+  - Loi n°71-1132 1971-12-31
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°72-1121 1972-12-20 art. 63 IV JORF 21 décembre 1972
+  - Loi n°73-1129 1973-12-21 art. 2 JORF 23 décembre 1973
+  - Loi n°75-1278 1975-12-30 art. 68 Finances pour 1976 JORF 31 décembre 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-41 (M)
+  - Code rural - art. L732-46 (M)
+
+
+###### Article 1122-1
+
+Sans préjudice de l'application de l'article 1122, deuxième et troisième alinéas, du présent code, ont droit à la retraite
+forfaitaire prévue à l'article 1121, 1°, et dans les mêmes conditions, à l'âge de soixante-cinq ans ou de soixante ans en cas
+d'inaptitude au travail, les membres de la famille du chef d'exploitation qui ont satisfait à toutes les prescriptions du
+chapitre IV du titre II du livre VII du présent code.
+
+Le conjoint survivant des personnes visées à l'alinéa précédent a droit, s'il n'est pas lui-même bénéficiaire d'un avantage
+au titre d'un régime de sécurité sociale, st s'il satisfait aux conditions, fixées par décret, relatives à son âge, à ses
+ressources personnelles, ainsi qu'à la durée du mariage, à une retraite de réversion d'un montant égal à celui de la retraite
+forfaitaire dont bénéficiait ou aurait bénéficié l'assuré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. D381-2 (V)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-34 (M)
+  - Code rural - art. L732-42 (M)
+  - Code rural - art. L732-46 (M)
+
+_Cite_:
+
+  - Code rural 1122, 1121
+
 
 ###### Article 1122-2
 
@@ -21071,7 +22549,81 @@ _Nouveaux textes_:
   - Code rural - art. L732-47 (M)
 
 
-#### Section 2 : Cotisations.<a id=158></a>
+#### Section 2 : Cotisations.<a id=163></a>
+
+###### Article 1123
+
+Les dépenses de prestations de l'assurance vieillesse agricole sont couvertes :
+
+1° Par une double cotisation professionnelle :
+
+a) L'une à la charge de chaque membre non salarié âgé d'au moins dix-huit ans dépendant du régime, à l'exception des chefs
+d'exploitation définis à l'article 1121-1 et des titulaires soit d'une allocation, pension ou rente de vieillesse, soit d'une
+retraite, âgés d'au moins soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, et de leurs conjoints ;
+
+b) L'autre à la charge de chaque exploitation ou entreprise et dont le montant global est fixé chaque année dans le budget
+annexe des prestations sociales agricoles ;
+
+2° Par une participation du fonds national d'allocation de vieillesse agricole institué par l'article 1140.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1121-1, 1140
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°75-1278 1975-12-30 art. 70 Finances pour 1976 JORF 31 décembre 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-42 (M)
+
+_Cité par_:
+
+  - Code rural - art. R732-69 (V)
+
+
+###### Article 1124
+
+La cotisation prévue au 1°, a, de l'article 1123 varie suivant l'importance et la nature des exploitations ou des entreprises
+agricoles ; elle est fixée par décret.
+
+Dès lors qu'ils ne justifient pas de leur affiliation à un régime légal ou réglementaire de retraite pour la vieillesse à
+raison de l'exercice d'une activité professionnelle personnelle, les membres de la famille vivant sur l'exploitation sont
+présumés, sauf preuve contraire, participer à la mise en valeur de l'exploitation.
+
+La cotisation n'est pas due pour les membres de la famille âgés d'au moins dix-huit ans et les associés d'exploitation
+définis à la loi n° 73-650 du 13 juillet 1973 atteints d'une incapacité absolue de travail ou bénéficiaires des dispositions
+des chapitres V et VI du décret du 29 novembre 1953 modifié portant réforme des lois d'assistance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1123
+  - Décret n°53-1186 1953-11-29
+  - Loi n°73-650 1973-07-13
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°75-1278 1975-12-30 art. 70 I, II Finances pour 1976 JORF 31 décembre 1975
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-42 (M)
+
 
 ###### Article 1126
 
@@ -21253,7 +22805,7 @@ _Cite_:
   - Code rural 1130
 
 
-#### Section 3 : Organisation administrative et financière.<a id=159></a>
+#### Section 3 : Organisation administrative et financière.<a id=164></a>
 
 ###### Article 1136
 
@@ -21327,7 +22879,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=160></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=165></a>
 
 ###### Article 1142-1
 
@@ -21380,6 +22932,33 @@ _Cite_:
   - Code rural 1142-13
 
 
+###### Article 1142-3
+
+Les bénéficiaires du présent chapitre ont droit soit à une allocation de vieillesse s'ils justifient de quinze ans au moins
+d'activité professionnelle agricole et s'ils ne peuvent bénéficier d'une retraite, soit à la retraite des personnes non
+salariées.
+
+L'allocation prévue à l'alinéa ci-dessus est servie aux exploitants agricoles résidant dans les départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion à la date de leur soixantième anniversaire.
+
+L'interruption d'activité résultant d'un fait de guerre ou de maladie ou d'infirmité graves empêchant toute activité
+professionnelle ne prive pas l'intéressé du droit à l'allocation ou à la retraite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-28 (V)
+
+
 ###### Article 1142-4
 
 L'allocation n'est due aux personnes continuant leur exploitation que si les terres exploitées ne dépassent pas une
@@ -21392,6 +22971,57 @@ Des dispositions particulières peuvent être prévues à l'égard des veuves ex
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-5
+
+Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
+salariée agricole, ont droit à une retraite qui comprend :
+
+1° Une retraite forfaitaire dont le montant maximal, attribué pour vingt-cinq années d'activité au moins, est égal à celui
+que fixe l'article 1116 du présent code pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à
+vingt-cinq ans, le montant de la retraite est calculé proportionnellement à cette
+
+durée ;
+
+2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
+
+l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
+application de l'article L. 344 du code de la sécurité sociale ;
+
+3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
+des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
+l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+
+Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
+nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
+sociale.
+
+Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°66-935 1966-12-17 art. 60 JORF 18 décembre 1966
+  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+_Cite_:
+
+  - Loi n°80-502 1980-07-04 art. 18
+  - Code de la sécurité sociale L344
+  - Code rural 1116, 1123
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-29 (M)
+  - Code rural - art. L762-30 (V)
+  - Code rural - art. L762-31 (VT)
+  - Code rural - art. L762-32 (VT)
 
 
 ###### Article 1142-6
@@ -21526,7 +23156,7 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=161></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=166></a>
 
 ###### Article 1142-12
 
@@ -21798,7 +23428,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=162></a>
+### Chapitre V : Contentieux.<a id=167></a>
 
 ###### Article 1143
 
@@ -21982,11 +23612,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=163></a>
+## Titre III : Accidents du travail et risques agricoles<a id=168></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=164></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=169></a>
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=165></a>
+#### Section 1 : Bénéficiaires et risques couverts.<a id=170></a>
 
 ###### Article 1144
 
@@ -22175,7 +23805,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Prestations.<a id=166></a>
+#### Section 2 : Prestations.<a id=171></a>
 
 ###### Article 1148
 
@@ -22202,7 +23832,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=167></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=172></a>
 
 ###### Article 1149
 
@@ -22236,7 +23866,7 @@ _Cite_:
   - Code rural 1038, L453-1
 
 
-#### Section 4 : Organisation administrative et financière.<a id=168></a>
+#### Section 4 : Organisation administrative et financière.<a id=173></a>
 
 ###### Article 1150
 
@@ -22593,7 +24223,7 @@ _Abrogé par_:
   - Loi n°87-39 du 27 janvier 1987 - art. 13 (V) JORF 28 janvier en vigueur le 1er janvier 1987
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=169></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=174></a>
 
 ###### Article 1163
 
@@ -22761,7 +24391,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=170></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=175></a>
 
 ###### Article 1170
 
@@ -22787,7 +24417,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=171></a>
+#### Section 7 : Prévention.<a id=176></a>
 
 ###### Article 1171
 
@@ -22814,7 +24444,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=172></a>
+#### Section 8 : Contrôles et sanctions.<a id=177></a>
 
 ###### Article 1172
 
@@ -22977,7 +24607,7 @@ _Nouveaux textes_:
   - Code rural - art. L751-37 (M)
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=173></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=178></a>
 
 ###### Article 1178
 
@@ -23229,7 +24859,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=174></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=179></a>
 
 ###### Article 1198
 
@@ -24013,7 +25643,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=175></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=180></a>
 
 ###### Article 1234-1
 
@@ -24526,7 +26156,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=176></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=181></a>
 
 ###### Article 1234-20
 
@@ -24711,9 +26341,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre IV : Dispositions diverses<a id=177></a>
+## Titre IV : Dispositions diverses<a id=182></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=178></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=183></a>
 
 ###### Article 1235
 
@@ -25308,7 +26938,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Médecine préventive.<a id=179></a>
+### Chapitre II : Médecine préventive.<a id=184></a>
 
 ###### Article 1250-2
 
@@ -25330,7 +26960,7 @@ _Nouveaux textes_:
   - Code rural - art. L742-5 (V)
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=180></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=185></a>
 
 ###### Article 1251
 
@@ -25826,9 +27456,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=181></a>
+## Titre VI : Français résidant à l'étranger<a id=186></a>
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=182></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=187></a>
 
 ###### Article 1263-4
 
@@ -25853,7 +27483,7 @@ _Cite_:
   - Code rural 1263-2
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=183></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=188></a>
 
 ###### Article 1263-6
 
@@ -25894,7 +27524,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=184></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=189></a>
 
 ###### Article 1263-8
 
@@ -25936,9 +27566,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=185></a>
+# Livre VIII : Formation professionnelle et recherche<a id=190></a>
 
-## Titre II : Enseignement<a id=186></a>
+## Titre II : Enseignement<a id=191></a>
 
 ###### Article 1272
 
@@ -25955,9 +27585,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=187></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=192></a>
 
-#### Section 1 : Organisation.<a id=188></a>
+#### Section 1 : Organisation.<a id=193></a>
 
 ###### Article 1273
 
@@ -26079,7 +27709,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=189></a>
+#### Section 2 : Dispositions pénales.<a id=194></a>
 
 ###### Article 1281
 
@@ -26096,7 +27726,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=190></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=195></a>
 
 ###### Article 1282
 
@@ -26188,7 +27818,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=191></a>
+### Chapitre III : Enseignement ménager agricole.<a id=196></a>
 
 ###### Article 1288
 
@@ -26235,7 +27865,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=192></a>
+### Chapitre IV : Dispositions communes.<a id=197></a>
 
 ###### Article 1291
 
@@ -26331,9 +27961,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=193></a>
+## Titre III : Recherche<a id=198></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=194></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=199></a>
 
 ###### Article 1297
 
@@ -26395,7 +28025,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=195></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=200></a>
 
 ###### Article 1301
 
@@ -26532,7 +28162,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=196></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=201></a>
 
 ###### Article 1310
 
@@ -26609,7 +28239,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=197></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=202></a>
 
 ###### Article 1315
 
@@ -26761,9 +28391,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=198></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=203></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=199></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=204></a>
 
 ###### Article 1325
 
@@ -26855,7 +28485,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=200></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=205></a>
 
 ###### Article 1331
 
