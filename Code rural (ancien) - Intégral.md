@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-12-29
+Version Consolidée au 1968-02-23
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -72,9 +72,9 @@ Version Consolidée au 1967-12-29
       - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#69)
       - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#70)
       - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#71)
-  - [Livre III : La chasse et la pêche (art. 371-1 à 501)](#72)
-    - [Titre Ier : De la chasse (art. 371-1 à 399)](#73)
-      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 371-1 à 373-1)](#74)
+  - [Livre III : La chasse et la pêche (art. 366 ter à 501)](#72)
+    - [Titre Ier : De la chasse (art. 366 ter à 399)](#73)
+      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 366 ter à 373-1)](#74)
       - [Chapitre II : Des pénalités. (art. 377 à 392)](#75)
       - [Chapitre III : De la destruction des animaux nuisibles. (art. 394 à 395)](#76)
       - [Chapitre IV : Des groupements de chasseurs. (art. 397 à 399)](#77)
@@ -8025,6 +8025,41 @@ _Codifié par_:
 ## Titre Ier : De la chasse<a id=73></a>
 
 ### Chapitre Ier : De l'exercice du droit de chasse.<a id=74></a>
+
+###### Article 366 ter
+
+Le fonds de garantie institué par l'article 15 modifié de la loi n° 51-1508 du 31 décembre 1951 prend en charge, dans les
+conditions prévues audit article, l'indemnisation des dommages corporels occasionnés par tous actes de chasse ou de
+destruction des animaux nuisibles, même si ces actes ne sont pas compris dans l'obligation d'assurance instituée par
+l'article 366 bis du code rural, dès lors qu'ils sont le fait d'un auteur soit demeuré inconnu, soit totalement ou
+partiellement insolvable ainsi qu'éventuellement son assureur.
+
+Les dépenses résultant de l'application de l'alinéa précédent sont couvertes par des contributions des sociétés d'assurances,
+des chasseurs assurés et des responsables d'accidents corporels de chasse non bénéficiaires d'une assurance, ainsi que par
+une majoration de 50 p. 100 des amendes, y compris celles qu'une mesure de grâce aurait substituées à l'emprisonnement,
+prononcées pour un acte de chasse effectué sans permis ou dans un lieu, un temps ou au moyen d'engins prohibés.
+
+Un décret en Conseil d'Etat, pris après avis du conseil national des assurances, fixera les conditions d'application du
+présent article. Il déterminera notamment les personnes exclues du bénéfice du fonds de garantie, des obligations et droits
+respectifs ou réciproques dudit fonds, de l'assureur, du responsable de l'accident corporel de chasse, de la victime ou de
+ses ayants droit, les délais assignés pour l'exercice de ces droits ou la mise en jeu de ces obligations, les taux, assiette,
+modalités de liquidation et de recouvrement des contributions prévues ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 366 bis
+  - Loi n°51-1508 du 31 décembre 1951 - art. 15, v. init.
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
+
 
 ###### Article 371-1
 
