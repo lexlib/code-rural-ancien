@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1966-07-13
+Version Consolidée au 1966-12-23
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -157,28 +157,29 @@ Version Consolidée au 1966-07-13
         - [Section 2 : Cotisations. (art. 1126 à 1135)](#154)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#155)
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#156)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#157)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1234-18)](#157)
       - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#158)
         - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#159)
       - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#160)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#161)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#162)
-    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#163)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#164)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#165)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#166)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#167)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#168)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#169)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#170)
-    - [Titre III : Recherche (art. 1297 à 1337)](#171)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#172)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#173)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#174)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#175)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#176)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#177)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#178)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-18)](#161)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#162)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#163)
+    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#164)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#165)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#166)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#167)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#168)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#169)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#170)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#171)
+    - [Titre III : Recherche (art. 1297 à 1337)](#172)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#173)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#174)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#175)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#176)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#177)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#178)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#179)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -17342,7 +17343,404 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=161></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=161></a>
+
+###### Article 1234-1
+
+Doivent être obligatoirement assurés dans les conditions prévues au présent chapitre :
+
+1° Les personnes visées aux alinéas 1°, 2° et 5° de l'article 1106-1 ;
+
+2° Les conjoints visés à l'alinéa 4° du même article ;
+
+3° Lorsqu'ils participent à la mise en valeur de l'exploitation, les enfants visés à l'alinéa 4° et les personnes visées à
+l'alinéa 3° du même article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1106-1
+
+_Nouveaux textes_:
+
+  - Code rural L752-1
+  - Code rural - art. L752-1 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-2
+
+Les chefs d'exploitation ou d'entreprise agricole sont tenus de souscrire et de maintenir en vigueur l'assurance prévue au
+présent chapitre, tant pour eux-mêmes que pour les autres personnes visées à l'article 1234-1.
+
+Les sociétés d'exploitation ou d'entreprise agricole sont assimilées aux chefs d'exploitation ou d'entreprise agricole pour
+l'application du présent article en ce qui concerne l'assurance garantissant les personnes visées au 5° de l'article 1106-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1234-1, 1106-1
+
+_Nouveaux textes_:
+
+  - Code rural L752-2
+  - Code rural - art. L752-2 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-4
+
+La garantie des frais énumérés à l'article 1234-3 ainsi que le montant des pensions d'invalidité doivent être au moins égaux
+à ceux qui résulteraient de l'application des dispositions du chapitre III-1 du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L752-6 (M)
+  - Code rural L752-6
+
+_Cite_:
+
+  - Code rural 1234-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-5
+
+L'assurance ne garantit pas les conséquences d'une faute intentionnelle de la victime.
+
+Les modalités de la garantie prévue à l'article 1234-3 sont fixées par décret pris sur rapport du ministre de l'agriculture,
+du ministre de l'économie et des finances et du ministre des affaires sociales.
+
+Tout contrat d'assurance souscrit pour satisfaire aux dispositions du présent chapitre sera réputé, nonobstant toutes clauses
+contraires, comporter des garanties au moins équivalentes aux garanties minimales fixées audit décret.
+
+Les statuts des organismes visés au code de la mutualité, lorsqu'ils prévoient la couverture des risques mentionnés au
+présent chapitre, devront également comporter des garanties au moins équivalentes aux garanties minimales susvisées.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L752-11 (M)
+  - Code rural - art. L752-21 (M)
+  - Code rural - art. L752-7 (M)
+  - Code rural L752-11
+  - Code rural L752-21
+  - Code rural L752-7
+
+_Cite_:
+
+  - Code rural 1234-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-6
+
+La victime choisit librement son praticien, son pharmacien et l'établissement de soins.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L752-8
+  - Code rural - art. L752-8 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-8
+
+L'obligation d'assurance instituée à l'article 1234-1 peut être satisfaite soit par la souscription d'un contrat auprès de
+toute société pratiquant l'assurance contre les accidents, visée à l'article 1235 du présent code ou agréée dans les
+conditions prévues au décret du 14 juin 1938, soit par l'affiliation à un organisme régi par le code de la mutualité ou à un
+organisme de mutualité sociale agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1235, 1234-1
+  - Décret n°1938-06-14
+
+_Nouveaux textes_:
+
+  - Code rural L752-13
+  - Code rural - art. L752-13 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-9
+
+Toute personne visée à l'article 1234-2 doit être en mesure de présenter un document faisant présumer que l'obligation
+d'assurance prévue au présent chapitre a été satisfaite.
+
+Les conditions d'établissement et de validité de ce document sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1234-2
+
+_Nouveaux textes_:
+
+  - Code rural L752-14
+  - Code rural L752-21
+  - Code rural - art. L752-14 (M)
+  - Code rural - art. L752-21 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-10
+
+Toute personne assujettie à l'obligation d'assurance, qui, ayant sollicité la souscription d'un contrat auprès d'un organisme
+d'assurance, se voit opposer un refus, peut saisir un bureau central de tarification dont les conditions de constitution et
+les règles de fonctionnement sont fixées par décret pris sur la proposition du ministre de l'agriculture et du ministre de
+l'économie et des finances.
+
+Le bureau central de tarification a pour rôle exclusif de fixer le montant de la prime ou cotisation moyennant laquelle
+l'organisme intéressé est tenu de garantir le risque qui lui a été proposé.
+
+Le bureau central de tarification est assisté d'un commissaire du Gouvernement.
+
+Tout organisme d'assurance ayant maintenu son refus de garantir un risque dont la prime ou cotisation aura été fixée par le
+bureau central de tarification est considéré comme ne fonctionnant plus conformément à la réglementation en vigueur.
+
+Les organismes mutualistes dont les statuts prévoient la prise en charge du risque sont tenus d'accepter l'adhésion d'une
+personne assujettie à l'obligation d'assurance, dès lors que cette personne satisfait aux conditions d'affiliation prévues
+aux statuts.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L752-15
+  - Code rural - art. L752-15 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-11
+
+Les pièces relatives à l'application du présent chapitre sont dispensées du droit de timbre et d'enregistrement.
+
+Les jugements ou arrêts, ainsi que les extraits, copies, grosses ou expéditions qui en sont délivrés et, généralement, tous
+les actes de procédure auxquels donne lieu l'application du présent chapitre, sont également dispensés des formalités de
+timbre et d'enregistrement.
+
+Les pièces ou actes visés aux deux alinéas précédents doivent porter une mention expresse se référant au présent article.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L752-18
+  - Code rural - art. L752-18 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-13
+
+Le fichier des caisses de mutualité sociale agricole est mis à la disposition du ministre de l'agriculture pour lui permettre
+d'exercer sa tutelle et son contrôle quant au respect de l'obligation instituée par la loi n° 66-950 du 22 décembre 1966.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L752-19
+  - Code rural - art. L752-19 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Cite_:
+
+  - Loi n°66-950 1966-12-22
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-14
+
+Des peines contraventionnelles établies par décret en Conseil d'Etat sanctionneront les personnes visées à l'article 1234-2
+n'ayant pas satisfait à l'obligation d'assurance instituée au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1234-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-15
+
+En cas d'accident ou de maladie, l'assuré bénéficie de plein droit des prestations de l'assurance maladie ou de l'assurance
+accidents et maladies professionnelles.
+
+S'il y a pluralité d'assureurs, l'assureur accidents ou l'assureur maladie, à qui s'adresse l'assuré suivant la présomption
+établie par le médecin traitant, est tenu de servir la totalité des prestations tant que n'est pas intervenu un accord
+amiable entre assureurs ou une décision judiciaire définitive en sens contraire.
+
+Il appartient à celui des deux assureurs qui contestait la nature du risque d'en faire part à l'assuré et à l'autre assureur,
+et faute d'accord amiable avec ce dernier, notifié à l'assuré, de saisir les tribunaux.
+
+L'assureur qui saisit les tribunaux est tenu d'appeler l'assuré en intervention forcée dans l'instance, faute de quoi les
+décisions judiciaires à intervenir ne sont pas opposables à ce dernier.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L752-10
+  - Code rural L752-21
+  - Code rural - art. L752-10 (M)
+  - Code rural - art. L752-21 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-16
+
+Les contrats d'assurances et les statuts des organismes régis par le code de la mutualité pourront, pour l'application du
+présent chapitre, prévoir une durée de souscription ou d'adhésion de cinq ans, renouvelable par tacite reconduction sauf
+dénonciation trois mois au moins avant l'expiration de chaque période quinquennale. Pour être valable, la dénonciation doit
+indiquer le nouvel organisme d'assurances choisi par l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L752-16
+  - Code rural - art. L752-16 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-18
+
+Les sociétés et organismes visés à l'article 1234-8 sont tenus de fournir au ministre de l'agriculture, dans les formes et
+conditions fixées par celui-ci, les statistiques concernant l'assurance prévue au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Nouveaux textes_:
+
+  - Code rural - art. L752-20 (M)
+
+_Cite_:
+
+  - Code rural 1234-8
+
+
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=162></a>
 
 ###### Article 1252
 
@@ -17377,6 +17775,39 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1252-1
+
+Un décret pris sur la proposition du ministre de l'Agriculture fixe les modalités de prise en charge, par les caisses
+d'assurance accidents agricoles des départements du Haut-Rhin, du Bas-Rhin et de la Moselle, de ceux des risques visés au
+chapitre III du titre III du présent livre dont elles n'assument pas la couverture en application des dispositions spéciales
+qui les régissent.
+
+En outre, le même décret modifie en tant que de besoin ces dernières dispositions spéciales.
+
+Les caisses participeront en fonction de leurs charges aux moyens de financement qui pourraient être prévus en faveur du
+régime institué par la loi n° 66-950 du 22 décembre 1966.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L761-20
+  - Code rural - art. L761-20 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Cite_:
+
+  - Loi n°66-950 1966-12-22
 
 _Abrogé par_:
 
@@ -17634,9 +18065,9 @@ _Cite_:
   - Code rural 1257
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=162></a>
+# Livre VIII : Formation professionnelle et recherche<a id=163></a>
 
-## Titre Ier : Apprentissage.<a id=163></a>
+## Titre Ier : Apprentissage.<a id=164></a>
 
 ###### Article 1264
 
@@ -17758,7 +18189,7 @@ _Abrogé par_:
   - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
 
 
-## Titre II : Enseignement<a id=164></a>
+## Titre II : Enseignement<a id=165></a>
 
 ###### Article 1272
 
@@ -17775,9 +18206,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=165></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=166></a>
 
-#### Section 1 : Organisation.<a id=166></a>
+#### Section 1 : Organisation.<a id=167></a>
 
 ###### Article 1273
 
@@ -17899,7 +18330,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=167></a>
+#### Section 2 : Dispositions pénales.<a id=168></a>
 
 ###### Article 1281
 
@@ -17916,7 +18347,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=168></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=169></a>
 
 ###### Article 1282
 
@@ -18008,7 +18439,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=169></a>
+### Chapitre III : Enseignement ménager agricole.<a id=170></a>
 
 ###### Article 1288
 
@@ -18055,7 +18486,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=170></a>
+### Chapitre IV : Dispositions communes.<a id=171></a>
 
 ###### Article 1291
 
@@ -18151,9 +18582,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=171></a>
+## Titre III : Recherche<a id=172></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=172></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=173></a>
 
 ###### Article 1297
 
@@ -18215,7 +18646,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=173></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=174></a>
 
 ###### Article 1301
 
@@ -18352,7 +18783,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=174></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=175></a>
 
 ###### Article 1310
 
@@ -18429,7 +18860,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=175></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=176></a>
 
 ###### Article 1315
 
@@ -18581,9 +19012,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=176></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=177></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=177></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=178></a>
 
 ###### Article 1325
 
@@ -18675,7 +19106,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=178></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=179></a>
 
 ###### Article 1331
 
