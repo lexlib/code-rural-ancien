@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1978-01-05
+Version Consolidée au 1978-07-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -146,7 +146,7 @@ Version Consolidée au 1978-01-05
         - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#143)
         - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#144)
         - [Section 3 : Recouvrement. (art. 1080)](#145)
-        - [Section 4 : Prestations. (art. 1091 à 1092)](#146)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#146)
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#147)
       - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-3 à 1106-16 bis)](#148)
         - [Section 2 : Prestations. (art. 1106-3 à 1106-5)](#149)
@@ -19587,6 +19587,46 @@ _Abrogé par_:
 
 
 #### Section 4 : Prestations.<a id=146></a>
+
+###### Article 1090
+
+Les prestations familiales faisant l'objet du présent chapitre sont celles qu'énumère l'article L. 511-1 du code de la
+sécurité sociale. Les dispositions générales du livre V dudit code leur sont applicables.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L732-1
+  - Code rural L742-1
+  - Code rural - art. L732-1 (V)
+  - Code rural - art. L742-1 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°63-775 1963-07-31 art. 5 JORF 2 août 1963
+  - Loi n°70-1218 1970-12-23 art. 3 JORF 25 décembre 1970
+  - Loi n°71-563 1971-07-13 art. 6 JORF 14 juillet 1971
+  - Loi n°72-8 1972-01-03 art. 9 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
+  - Loi n°74-644 1974-07-16 art. 14 JORF 17 juillet 1974
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. D542-35 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L511-1 (M)
+
 
 ###### Article 1091
 
