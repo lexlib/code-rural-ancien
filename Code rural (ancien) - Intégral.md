@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-07-23
+Version Consolidée au 1987-07-31
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -150,7 +150,7 @@ Version Consolidée au 1987-07-23
       - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#147)
     - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#148)
       - [Chapitre Ier : Elections des conseils d'administration. (art. 1004)](#149)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1005 à 1023-1)](#150)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1005 à 1023-2)](#150)
       - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#151)
         - [Section 1 : Affiliation. (art. 1024 à 1030)](#152)
         - [Section 2 : Cotisations. (art. 1031 à 1036)](#153)
@@ -170,10 +170,10 @@ Version Consolidée au 1987-07-23
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#167)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#168)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#169)
-        - [Section 1 : Prestations (art. 1110 à 1122-5)](#170)
+        - [Section 1 : Prestations (art. 1110 à 1122-6)](#170)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#171)
           - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-2)](#172)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-5)](#173)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-6)](#173)
         - [Section 2 : Cotisations. (art. 1123 à 1135)](#174)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#175)
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#176)
@@ -21547,6 +21547,12 @@ l'activité professionnelle dont doit justifier le chef d'exploitation ou d'entr
 dessus est déterminée par décret en tenant compte du temps de travail nécessaire à la conduite de cette exploitation ou
 entreprise.
 
+Le décret prévu à l'alinéa précédent fixe une durée d'activité minimale spécifique en faveur des personnes qui exercent des
+professions connexes à l'agriculture en double activité ou non dans les communes situées en zone de montagne.
+
+L'intéressé doit justifier au moment de l'affiliation que son exploitation répond aux conditions prévues par les articles
+188-1 à 188-6 du présent code.
+
 II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une exploitation ou entreprise agricoles ne
 répondant pas à la condition d'importance minimale fixée au I sont affiliées, sur leur demande, par décision des conseils
 d'administration des caisses de mutualité sociale agricole, aux régimes de protection sociale des personnes non salariées des
@@ -21594,11 +21600,12 @@ _Cité par_:
 _Cite_:
 
   - Loi n°80-502 1980-07-04
-  - Code rural 188-4, 1060, 1122-1
+  - Code rural 188-1 à 188-6, 1060, 1122-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°80-502 du 4 juillet 1980 - art. 15 () JORF 5 juillet 1980
+  - Loi n°84-741 du 1 août 1984 - art. 9 () JORF 2 août 1984
+  - Loi n°87-588 du 30 juillet 1987 - art. 21 () JORF 31 juillet 1987
 
 _Nouveaux textes_:
 
@@ -21985,8 +21992,9 @@ tour et à la majorité relative au second tour.
 collège et qui sont désignés par l'union départementale des associations familiales sur proposition des associations
 familiales rurales ; le mandat de ces deux administrateurs est également fixé à cinq ans.
 
-3° Siègent également, avec voix consultative, deux représentants du personnel de la caisse de mutualité sociale agricole
-désignés par le comité d'entreprise et pris en son sein.
+3° Siègent également, avec voix consultative, trois représentants du personnel de la caisse, désignés par le comité
+d'entreprise et pris en son sein, à raison de deux représentants des employés et assimilés et d'un représentant des cadres et
+assimilés.
 
 Les administrateurs des deuxième et troisième collèges ainsi que l'administrateur représentant des familles qui relève du
 deuxième collège forment le comité de la protection sociale des salariés agricoles.
@@ -21996,17 +22004,23 @@ premier ou du troisième collège forment le comité de la protection sociale de
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural L723-29
+  - Code rural - art. L723-29 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°87-588 du 30 juillet 1987 - art. 12 () JORF 31 juillet 1987
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L723-29 (M)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1010
@@ -22015,9 +22029,9 @@ Lorsque la circonscription des caisses de mutualité sociale s'étend sur deux o
 d'administration comprend : douze représentants du premier collège, dix représentants du deuxième collège et six
 représentants du troisième collège élus dans les conditions prévues à l'article précédent ainsi que trois représentants des
 familles dont au moins un salarié et un non-salarié désignés conjointement par les unions départementales des associations
-familiales concernées sur proposition des associations familiales rurales. Siègent également, avec voix consultative, deux
-représentants du personnel de la caisse du mutualité sociale agricole désignés par le comité d'entreprise et pris en son
-sein.
+familiales concernées sur proposition des associations familiales rurales. Siègent également, avec voix consultative, trois
+représentants du personnel de la caisse, désignés par le comité d'entreprise et pris en son sein, à raison de deux
+représentants des employés et assimilés et d'un représentant des cadres et assimilés.
 
 Les administrateurs des deuxième et troisième collèges ainsi que le ou les administrateurs représentants des familles, qui
 appartiennent au deuxième collège, forment le comité de la protection sociale des salariés agricoles.
@@ -22033,7 +22047,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°87-588 du 30 juillet 1987 - art. 12 () JORF 31 juillet 1987
 
 _Nouveaux textes_:
 
@@ -22067,8 +22081,9 @@ tour et à la majorité relative au second tour.
 sont désignés par l'union nationale des associations familiales sur la proposition des associations familiales rurales ; le
 mandat de ces deux administrateurs est également fixé à cinq ans.
 
-3° Siègent également, avec voix consultative, deux représentants du personnel de la caisse de mutualité sociale agricole,
-désignés par le comité d'entreprise et pris en son sein.
+3° Siègent également, avec voix consultative, trois représentants du personnel de la caisse, désignés par le comité
+d'entreprise et pris en son sein, à raison de deux représentants des employés et assimilés et d'un représentant des cadres et
+assimilés.
 
 Les administrateurs centraux des deuxième et troisième collèges ainsi que l'administrateur central représentant les familles
 qui appartient au deuxième collège forment le comité central de la protection sociale des salariés agricoles.
@@ -22085,7 +22100,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°87-588 du 30 juillet 1987 - art. 12 () JORF 31 juillet 1987
 
 _Nouveaux textes_:
 
@@ -22510,26 +22525,69 @@ _Nouveaux textes_:
 
 ###### Article 1023-1
 
-Les mesures d'application du présent chapitre sont prises par décret en Conseil d'Etat.
+En cas de carence du conseil d'administration ou du directeur d'une caisse de mutualité sociale agricole, l'autorité
+administrative compétente, à l'expiration d'un délai déterminé, peut, aux lieu et place du conseil d'administration ou du
+directeur, ordonner l'exécution d'une dépense ou le recouvrement d'une recette, lorsque la dépense ou la recette a un
+caractère obligatoire en vertu d'une disposition législative ou réglementaire ou d'une décision de justice.
+
+L'agent comptable est tenu, sous sa responsabilité, de procéder à l'exécution de la dépense ou au recouvrement de la recette.
+
+En cas de désaccord constaté entre le conseil d'administration et un comité de la protection sociale dans chacune des
+matières énoncées aux troisième et quatrième alinéas de l'article 1012, l'autorité administrative compétente peut, à
+l'expiration d'un délai déterminé, prendre les décisions y afférentes.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 1012
+
 _Nouveaux textes_:
 
+  - Code rural L723-38
   - Code rural - art. L723-38 (M)
-  - Code rural 1023-2
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 18 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1023-2
+
+Les mesures d'application du présent chapitre sont prises par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code rural 1023-1
+
+_Nouveaux textes_:
+
+  - Code rural L723-40
+  - Code rural - art. L723-40 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Créé par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
-
-_Transféré par_:
-
   - Loi n°87-588 du 30 juillet 1987 - art. 18 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ### Chapitre II : Assurances sociales<a id=151></a>
@@ -22786,24 +22844,31 @@ La cotisation de l'employeur reste exclusivement à sa charge, toute convention 
 Les cotisations dues sur les avantages de retraite ainsi que sur les allocations et revenus de remplacement sont précomptées,
 lors de chaque versement, par l'organisme débiteur de ces pensions ou allocations.
 
-Les dispositions des articles 1033 à 1036, 1143 à 1143-4 s'appliquent au recouvrement des cotisations visées à l'alinéa
-précédent, sous réserve d'adaptations fixées par voie réglementaire.
+Les dispositions des articles 1033-1 à 1036 et 1143 à 1143-5 s'appliquent au recouvrement des cotisations mentionnées à
+l'alinéa précédent, sous réserve d'adaptations fixées par voie réglementaire.
 
 Le versement des cotisations est suspendu pendant la période du service national ou en cas d'appel sous les drapeaux.
 
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériels pour certaines catégories de travailleurs
 salariés ou assimilés.
 
+La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail dont l'activité n'excède pas la durée
+fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à cotisations d'assurances
+sociales agricoles.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°82-1 du 4 janvier 1982 - art. 6, v. init.
-  - Code rural 1033 à 1036, 1143 à 1143-4
+  - Code du travail - art. L128 (M)
+  - Code de la sécurité sociale. - art. L241-11 (M)
+  - Code rural 1033-1 à 1036, 1143 à 1143-5
 
 _Modifié par_:
 
-  - Loi n°85-772 du 25 juillet 1985 - art. 36 () JORF 26 juillet 1985
+  - Loi n°87-588 du 30 juillet 1987 - art. 15 (V) JORF 31 juillet 1987
+  - Loi n°87-588 du 30 juillet 1987 - art. 20 () JORF 31 juillet 1987
 
 _Cité par_:
 
@@ -22889,37 +22954,6 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Loi n°1944-01-04 art. 1
-
-
-###### Article 1033
-
-Le paiement des cotisations ouvrières et patronales pour l'année échue et pour l'année courante est garanti :
-
-1° Par un privilège mobilier qui prend rang, concurremment avec celui établi par l'article 2101 (4°) du code civil ;
-
-2° Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1935-10-28 art. 5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Ordonnance 59-71 1959-01-07 art. 2 JORF 8 janvier 1959
-
-_Abrogé par_:
-
-  - Loi n°87-588 du 30 juillet 1987 - art. 15 (V) JORF 31 juillet 1987
-
-_Cite_:
-
-  - Code civil - art. 2101 (M)
 
 
 ###### Article 1033-1
@@ -26040,6 +26074,33 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1122-6
+
+Toute pension de réversion dont le bénéfice a été sollicité auprès du régime d'assurance vieillesse des personnes non
+salariées des professions agricoles peut faire l'objet d'une avance financée sur les fonds d'action sanitaire et sociale,
+remboursée par les fonds des prestations légales, dans la limite des droits établis dans ce régime.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L732-51
+  - Code rural - art. L732-51 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 13 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 #### Section 2 : Cotisations.<a id=174></a>
 
 ###### Article 1123
@@ -26939,7 +27000,7 @@ _Cite_:
 
 I. - Sauf le cas de fraude ou de fausse déclaration, les cotisations dues au titre des régimes de protection sociale agricole
 visés au livre VII du présent code, à l'exception de celles qui concernent l'assurance accident des personnes non salariées
-de l'agriculture, et les pénalités de retard y afférentes, se prescrivent par cinq ans à compter de l'expiration de l'année
+de l'agriculture, et les pénalités de retard y afférentes, se prescrivent par trois ans à compter de l'expiration de l'année
 civile au titre de laquelle elles sont dues. Les actions résultant de l'application de l'article 1143-2 se prescrivent par
 cinq ans à compter de la mise en demeure.
 
@@ -26954,8 +27015,8 @@ Toutefois, lorsque la demande de remboursement des cotisations indûment versée
 ans prévu au premier alinéa ci-dessus, le bénéfice des prestations servies, ainsi que les droits à l'assurance vieillesse
 restent acquis à l'assuré, sauf cas de fraude ou de fausse déclaration.
 
-III. - Les délais de prescription prévus aux articles L. 67 et L. 395 du code de la sécurité sociale sont applicables aux
-actions intentées par les organismes payeurs des régimes de protection sociale agricole en recouvrement des prestations
+III. - Les délais de prescription prévus aux articles L. 355-3 et L. 332-1 du code de la sécurité sociale sont applicables
+aux actions intentées par les organismes payeurs des régimes de protection sociale agricole en recouvrement des prestations
 indûment payées.
 
 **Liens relatifs à cet article**
@@ -26963,19 +27024,27 @@ indûment payées.
 _Cite_:
 
   - Code rural 1143-2
-  - Code de la sécurité sociale L67, L395
+  - Code de la sécurité sociale. - art. L332-1 (M)
+  - Code de la sécurité sociale. - art. L355-3 (M)
+
+_Nouveaux textes_:
+
+  - Code rural L725-7
+  - Code rural - art. L725-7 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°78-753 1978-07-17 art. 33 II JORF 18 juillet 1978
+  - Loi n°78-753 du 17 juillet 1978 - art. 33
+  - Loi n°87-588 du 30 juillet 1987 - art. 14 () JORF 31 juillet 1987
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L725-7 (M)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1143-4
@@ -27540,13 +27609,15 @@ _Cite_:
 ###### Article 1157
 
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériel, dans les conditions définies à l'article 1155,
-pour certaines catégories de travailleurs salariés ou assimilés.
+pour certaines catégories de travailleurs salariés ou assimilés. La partie de la rémunération des personnes mentionnées au 1
+de l'article L. 128 du code du travail dont l'activité n'excède pas la durée fixée par le décret prévu à l'article L. 241-11
+du code de la sécurité sociale donne également lieu à versement d'une cotisation forfaitaire d'accidents du travail.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°85-772 du 25 juillet 1985 - art. 36 () JORF 26 juillet 1985
+  - Loi n°87-588 du 30 juillet 1987 - art. 20 () JORF 31 juillet 1987
 
 _Nouveaux textes_:
 
@@ -27555,6 +27626,8 @@ _Nouveaux textes_:
 
 _Cite_:
 
+  - Code du travail - art. L128 (M)
+  - Code de la sécurité sociale. - art. L241-11 (M)
   - Code rural 1155
 
 
@@ -30082,21 +30155,34 @@ _Abrogé par_:
 ###### Article 1234-18
 
 Les sociétés et organismes visés à l'article 1234-8 sont tenus de fournir au ministre de l'agriculture, dans les formes et
-conditions fixées par celui-ci, les statistiques concernant l'assurance prévue au présent chapitre.
+conditions fixées par celui-ci, les statistiques concernant l'assurance prévue au présent chapitre. Ils sont également tenus
+de fournir chaque année à l'autorité administrative chargée de veiller au respect de l'obligation d'assurance instituée par
+l'article 1234-1 la liste des chefs d'exploitation ou d'entreprise ayant satisfait à cette obligation, dans des conditions
+fixées par décret.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1234-8, 1234-1
+
+_Nouveaux textes_:
+
+  - Code rural L752-20
+  - Code rural - art. L752-20 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code rural - art. L752-20 (M)
+  - Loi n°87-588 du 30 juillet 1987 - art. 16 () JORF 31 juillet 1987
 
-_Cite_:
+_Abrogé par_:
 
-  - Code rural 1234-8
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1234-19
@@ -30325,24 +30411,36 @@ _Abrogé par_:
 
 ###### Article 1234-26
 
-Les dispositions du premier alinéa de l'article 1234-5 et des articles 1234-6, 1234-11, 1234-12 et 1234-18 sont applicables
-au régime d'assurance complémentaire institué par le présent chapitre.
+Les dispositions du premier alinéa de l'article 1234-5 et des articles 1234-6, 1234-11, et 1234-12 ainsi que de la première
+phrase de l'article 1234-18 sont applicables au régime d'assurance complémentaire institué par le présent chapitre.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 1234-5, 1234-6, 1234-11, 1234-18
+
 _Nouveaux textes_:
 
+  - Code rural L752-26
+  - Code rural L752-29
+  - Code rural L752-32
   - Code rural - art. L752-26 (M)
   - Code rural - art. L752-29 (M)
   - Code rural - art. L752-32 (M)
 
-_Cite_:
-
-  - Code rural 1234-5, 1234-6, 1234-11, 1234-12, 1234-18
-
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 16 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1234-26-1
@@ -31108,13 +31206,17 @@ _Nouveaux textes_:
 
 ###### Article 1251
 
-Le bénéfice des dispositions des articles L. 449 (1er alinéa), L. 452, L. 453, et L. 454 du code de la sécurité sociale, 1217
-et 1221 est accordé aux assurés des professions agricoles et forestières visées au livre III (2è partie) du code local des
-assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, conformément à l'article
-1226, à condition qu'au moment de l'accident la victime ait eu la qualité de travailleur agricole salarié.
+Le bénéfice des dispositions des articles L. 433-2 et L. 434-2, L. 434-7 à L. 434-10, L. 434-13 à L. 434-16 et L. 452-1 à L.
+452-4 du code de la sécurité sociale, 1217 et 1221 du présent code est accordé aux assurés des professions agricoles et
+forestières visées au livre III (deuxième partie) du code local des assurances sociales en vigueur dans les départements du
+Haut-Rhin, du Bas-Rhin et de la Moselle, conformément à l'article 1226, à condition qu'au moment de l'accident la victime ait
+eu la qualité de travailleur agricole salarié.
 
 La liquidation et la charge de l'ensemble des prestations dues aux travailleurs salariés ci-dessus désignés, pour les
-accidents survenus après la date fixée à l'article 1226, sont assumées par l'organisme d'assurance dont ils relèvent.
+accidents survenus après la date fixée à l'article 1226, sont assumées par l'organisme d'assurance dont ils relèvent. La
+cotisation complémentaire qui peut être mise à la charge de l'employeur en cas de majoration de rente en faveur de la
+victime, conformément aux dispositions des cinquième et sixième alinéas de l'article L. 452-2 du code de la sécurité sociale,
+est recouvrée par ce même organisme d'assurance.
 
 Pour les assurés des professions agricoles et forestières visés au livre III (2e partie) du code local visé ci-dessus, autres
 que les salariés désignés par l'alinéa 1er du présent article, le gain annuel moyen servant de base au calcul des rentes et à
@@ -31124,6 +31226,14 @@ général.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 17 () JORF 31 juillet 1987
+
 _Nouveaux textes_:
 
   - Code rural - art. L761-16 (V)
@@ -31132,12 +31242,11 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la sécurité sociale L449, L452, L453, L454
+  - Code de la sécurité sociale L433-2, L434-2, L434-7 à L434-10, L434-13 à L434-16, L452-1 à L452-4, L452-2
+  - Code de la sécurité sociale. - art. L433-2 (M)
+  - Code de la sécurité sociale. - art. L434-2 (M)
+  - Code de la sécurité sociale. - art. L452-2 (M)
   - Code rural 1217, 1221, 1226
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 
 ###### Article 1252
@@ -31379,27 +31488,33 @@ La loi du 24 octobre 1946 modifiée.
 Un décret pris sur le rapport du ministre de l'agriculture fixera dans quelles conditions seront applicables les dispositions
 transitoires prévues par le décret du 12 juin 1946.
 
-Les dispositions des articles 1031-1 et 1038-1 sont applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+Les dispositions du second alinéa de l'article L. 242-13 du code de la sécurité sociale sont applicables aux assurés des
+professions agricoles et forestières.
 
 **Liens relatifs à cet article**
 
-_Nouveaux textes_:
-
-  - Code rural - art. L761-2 (V)
-
 _Cite_:
 
-  - Code rural 1258, 1263, 1024 à 1026, 1031-1, 1038-1
+  - Code rural 1258, 1263, 1024 à 1026
   - Décret n°46-1400 1946-06-12
   - Ordonnance 45-2250 1945-10-04 art. 32, art. 33 à 35, art. 39, art. 40
   - Ordonnance 45-2454 1945-10-19 art. 115, art. 116, art. 117, art. 118, art. 119, art. 120, art. 121, art. 127
   - Ordonnance n°45-2454 du 19 octobre 1945 - art. 116 (V)
   - Loi n°46-2339 1946-10-24
   - Loi n°46-2913 1946-12-22 art. 7
+  - Code de la sécurité sociale. - art. L242-13 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 3 () JORF 31 juillet 1987
+
+_Nouveaux textes_:
+
+  - Code rural - art. L761-2 (V)
 
 
 ###### Article 1258
