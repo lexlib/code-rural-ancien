@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-01-03
+Version Consolidée au 1984-01-25
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -103,7 +103,7 @@ Version Consolidée au 1984-01-03
     - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#100)
       - [Chapitre Ier : Organisation. (art. 615 à 631)](#101)
       - [Chapitre II : Fonctionnement. (art. 632 à 643)](#102)
-      - [Chapitre III : Ressources. (art. 645 à 650)](#103)
+      - [Chapitre III : Ressources. (art. 645 à 651)](#103)
       - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#104)
         - [Section 1 : Crédit à court terme. (art. 653 à 662)](#105)
         - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#106)
@@ -15956,23 +15956,6 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-44 (V)
 
 
-###### Article 646
-
-Le taux maximum de l'intérêt servi par les caisses de crédit agricole mutuel pour les dépôts à vue et les dépôts à échéance
-qui leur sont confiés est fixé périodiquement par arrêté conjoint des ministres de l'agriculture et de l'économie et des
-finances, après avis du conseil d'administration de la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°84-46 1984-01-24 art. 94 XII JORF 25 janvier 1984
-
-
 ###### Article 647
 
 Les statuts des caisses de crédit agricole mutuel ne bénéficiant pas d'avances de la caisse nationale de crédit agricole
@@ -16030,6 +16013,32 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+
+###### Article 651
+
+Les caisses régionales de crédit agricole mutuel ne peuvent émettre des bons de caisse à échéance variable, avec ou sans
+intérêt, qu'en faveur des agriculteurs domiciliés dans la circonscription de la caisse régionale.
+
+Les bons émis par les caisses de crédit agricole mutuel à deux ans au plus d'échéance doivent être utilisés en opérations de
+crédit à court terme conformément aux dispositions de l'article 648, premier et deuxième alinéas.
+
+Les bons dont l'échéance est supérieure à deux ans peuvent être employés conformément aux dispositions de l'article 648,
+troisième alinéa.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 648
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°84-46 1984-01-24 art. 94 XII JORF 25 janvier 1984
 
 
 ### Chapitre IV : Opérations de crédit<a id=104></a>
