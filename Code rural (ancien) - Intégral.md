@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-06-11
+Version Consolidée au 1994-06-24
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 188)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122)](#2)
@@ -1599,15 +1599,17 @@ _Anciens textes_:
 Les préfets, après avis des conseils généraux, déterminent chaque année, pour tout le département ou séparément pour chaque
 commune s'il y a lieu, l'époque de l'ouverture et de la clôture des colombiers.
 
+Les colombiers de pigeons voyageurs restent ouverts pendant la période de clôture annuelle des colombiers.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 6
+  - Loi n°94-508 du 23 juin 1994 - art. 4 () JORF 24 juin 1994
 
 
 ###### Article 205
