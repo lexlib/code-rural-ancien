@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-08-25
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#1)
     - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#2)
@@ -40,19 +40,18 @@ Version Consolidée au 2003-12-31
       - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#37)
       - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#38)
   - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#39)
-    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-5)](#40)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1121)](#41)
-        - [Section 1 : Prestations (art. 1110 à 1121)](#42)
+    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-4)](#40)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1120)](#41)
+        - [Section 1 : Prestations (art. 1110 à 1120)](#42)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#43)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1121)](#44)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-5)](#45)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#46)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#47)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#48)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#49)
-    - [Titre III : Recherche (art. 1337)](#50)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#51)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#52)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-4)](#44)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#45)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#46)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#47)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#48)
+    - [Titre III : Recherche (art. 1337)](#49)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#50)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#51)
 # Livre II : Des animaux et des végétaux<a id=1></a>
 
 ## Titre III : De la lutte contre les maladies des animaux<a id=2></a>
@@ -2759,138 +2758,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 2 : Retraite.<a id=44></a>
-
-###### Article 1120-1
-
-L'assurance vieillesse garantit une pension de retraite à l'assuré qui en demande la liquidation à partir de l'âge de
-soixante ans.
-
-Les dispositions de l'alinéa précédent entreront en vigueur le 1er janvier 1990. A titre transitoire, l'âge minimum auquel
-l'assuré peut faire valoir ses droits à une pension de retraite est fixé à à soixante-quatre ans à compter du 1er janvier
-1986, à soixante-trois ans à compter du 1er janvier 1987, à soixante-deux ans à compter du 1er janvier 1988 et à soixante et
-un ans à compter du 1er janvier 1989.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L732-18
-  - Code rural - art. L732-18 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°86-19 1986-01-06 art. 1 JORF 8 janvier 1986
-
-_Abrogé par_:
-
-  - Décret n°2004-860 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-
-###### Article 1120-2
-
-La pension de retraite peut être accordée à partir de l'âge de soixante ans aux assurés reconnus inaptes au travail dans les
-conditions prévues à l'article L. 351-7 du code de la sécurité sociale ainsi qu'à ceux qui sont mentionnés au 3° et au 5° de
-l'article L. 351-8 du même code, dans des conditions fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°95-95 du 1 février 1995 - art. 72 () JORF 2 février 1995
-
-_Abrogé par_:
-
-  - Décret n°2004-860 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-_Nouveaux textes_:
-
-  - Code rural - art. L732-23 (M)
-  - Code rural L732-23
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L351-7 (V)
-  - Code de la sécurité sociale. - art. L351-8 (M)
-
-
-###### Article 1121
-
-Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
-salariée agricole ont droit à une retraite qui comprend :
-
-1° Une pension de retraite forfaitaire dont le montant maximal attribué pour trente-sept années et demie au moins d'activité
-non salariée agricole est égal à celui que fixe l'article 1116 pour l'allocation de vieillesse. Lorsque la durée d'activité a
-été inférieure à trente-sept années et demie, le montant de la retraite est calculé proportionnellement à cette durée ;
-
-2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du b de
-l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
-application de l'article L. 344 du code de la sécurité sociale. Le montant total des pensions de retraite proportionnelle
-servies à des coexploitants ne peut excéder celui de la pension qui serait servie à un agriculteur dirigeant seul la même
-exploitation. Toutefois, lorsqu'il existe une coexploitation entre époux ou une exploitation agricole à responsabilité
-limitée, le montant des pensions de retraite proportionnelle servies aux époux coexploitants ou aux associés exploitants peut
-être majoré dans des conditions fixées par décret. La retraite proportionnelle des chefs d'exploitation ou d'entreprise
-agricoles justifiant de conditions minimales de durée d'activité non salariée agricoles et d'assurance en tant que chef
-d'exploitation ou d'entreprise agricoles est calculée ou révisée en tenant compte, selon des modalités fixées par décret, des
-périodes d'assurance accomplies par les intéressés en qualité d'aide familial majeur au sens du 2° de l'article 1106-1. Pour
-les pensions déjà liquidées, ce décret précise les périodes assimilées aux périodes d'assurance précédemment mentionnées.
-
-Pour les assurés qui demandent la liquidation de leurs droits à retraite avant l'âge de soixante-cinq ans et qui ne
-justifient pas, tant dans le régime institué par le présent chapitre que dans un ou plusieurs autres régimes obligatoires,
-d'une durée minimale de trente-sept années et demie d'assurance ou de périodes reconnues équivalentes, il est appliqué un
-coefficient de minoration au montant de la retraite forfaitaire et de la retraite proportionnelle. Ce coefficient n'est pas
-applicable au montant de la retraite forfaitaire et de la retraite proportionnelle liquidée en application de l'article
-1120-2.
-
-Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
-nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
-sociale.
-
-Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
-
-Un décret fixe les modalités selon lesquelles sont prises en compte pour le calcul de la retraite proportionnelle les
-cotisations versées par des exploitants agricoles au titre des assurances sociales agricoles obligatoires ou facultatives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
-
-_Abrogé par_:
-
-  - Décret n°2004-860 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-_Nouveaux textes_:
-
-  - Code rural - art. L732-24 (M)
-  - Code rural - art. L732-25 (M)
-  - Code rural - art. L732-26 (M)
-  - Code rural - art. L732-27 (M)
-  - Code rural L732-24
-  - Code rural L732-25
-  - Code rural L732-26
-  - Code rural L732-27
-
-_Cite_:
-
-  - Code de la sécurité sociale L344
-  - Code rural 1116, 1123, 1106-1, 1120-2
-
-
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=45></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=44></a>
 
 ###### Article 1142-3
 
@@ -2956,74 +2824,9 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-###### Article 1142-5
+## Titre III : Accidents du travail et risques agricoles<a id=45></a>
 
-Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
-salariée agricole, ont droit à une retraite qui comprend :
-
-1° Une pension de retraite forfaitaire dont le montant maximal attribué pour trente-sept années et demie au moins d'activité
-non salariée agricole est égal à celui que fixe l'article 1116 pour l'allocation de vieillesse. Lorsque la durée d'activité a
-été inférieure à trente-sept années et demie, le montant de la retraite est calculé proportionnellement à cette durée ;
-
-2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du b de
-l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
-application de l'article L. 344 du code de la sécurité sociale. Le montant total des pensions de retraite proportionnelle
-servies à des coexploitants ne peut excéder celui de la pension qui serait servie à un agriculteur dirigeant seul la même
-exploitation. Toutefois, lorsqu'il existe une coexploitation entre époux ou une exploitation agricole à responsabilité
-limitée, le montant des pensions de retraite proportionnelle servies aux époux coexploitants ou aux associés exploitants peut
-être majoré dans des conditions fixées par décret. La retraite proportionnelle des chefs d'exploitation ou d'entreprise
-agricoles justifiant de conditions minimales de durée d'activité non salariée agricole et d'assurance en tant que chef
-d'exploitation ou d'entreprise agricoles est calculée ou révisée en tenant compte, selon des modalités fixées par décret, des
-périodes d'assurance accomplies par les intéressés en qualité d'aide familial majeur au sens du 2° de l'article 1106-1. Pour
-les pensions déjà liquidées, ce décret précise les périodes assimilées aux périodes d'assurance précédemment mentionnées.
-
-Pour les assurés qui demandent la liquidation de leurs droits à retraite avant l'âge de soixante-cinq ans et qui ne
-justifient pas, tant dans le régime institué par le présent chapitre que dans un ou plusieurs autres régimes obligatoires,
-d'une durée minimale de trente-sept années et demie d'assurance ou de périodes reconnues équivalentes, il est appliqué un
-coefficient de minoration au montant de la retraite forfaitaire et de la retraite proportionnelle. Ce coefficient n'est pas
-applicable au montant de la retraite forfaitaire et de la retraite proportionnelle liquidée en application de l'article
-1120-2.
-
-Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
-nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
-sociale.
-
-Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1116, 1123, 1106-1, 1120-2
-  - Code de la sécurité sociale L344
-
-_Nouveaux textes_:
-
-  - Code rural L762-29
-  - Code rural L762-30
-  - Code rural L762-31
-  - Code rural L762-32
-  - Code rural - art. L762-29 (M)
-  - Code rural - art. L762-30 (V)
-  - Code rural - art. L762-31 (VT)
-  - Code rural - art. L762-32 (VT)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
-
-_Abrogé par_:
-
-  - Décret n°2004-861 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-
-## Titre III : Accidents du travail et risques agricoles<a id=46></a>
-
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=47></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=46></a>
 
 ###### Article 1207
 
@@ -3196,7 +2999,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=48></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=47></a>
 
 ###### Article 1253
 
@@ -3328,13 +3131,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=49></a>
+# Livre VIII : Formation professionnelle et recherche<a id=48></a>
 
-## Titre III : Recherche<a id=50></a>
+## Titre III : Recherche<a id=49></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=51></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=50></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=52></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=51></a>
 
 ###### Article 1337
 
