@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-09-26
+Version Consolidée au 1961-11-22
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -148,32 +148,33 @@ Version Consolidée au 1961-09-26
         - [Section 3 : Financement. (art. 1106-8)](#145)
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16)](#146)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1142)](#147)
-        - [Section 1 : Prestations (art. 1112 à 1120)](#148)
+        - [Section 1 : Prestations (art. 1112 à 1122-4)](#148)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1112 à 1120)](#149)
-        - [Section 2 : Cotisations. (art. 1126 à 1135)](#150)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#151)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#152)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#153)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#154)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#155)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#156)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#157)
-    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#158)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#159)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#160)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#161)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#162)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#163)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#164)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#165)
-    - [Titre III : Recherche (art. 1297 à 1337)](#166)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#167)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#168)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#169)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#170)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#171)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#172)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#173)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-4)](#150)
+        - [Section 2 : Cotisations. (art. 1126 à 1135)](#151)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#152)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#153)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#154)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#155)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#156)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#157)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#158)
+    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#159)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#160)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#161)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#162)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#163)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#164)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#165)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#166)
+    - [Titre III : Recherche (art. 1297 à 1337)](#167)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#168)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#169)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#170)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#171)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#172)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#173)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#174)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -7718,6 +7719,34 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 31
 
 
+###### Article 439-2
+
+Il est interdit de colporter, d'offrir à la vente, de vendre ou d'acheter les truites, ombres communs et saumons de fontaine
+capturés dans les eaux libres visées à l'article 401 du présent code.
+
+Toutefois, cette mesure ne s'applique pas aux membres de la fédération nationale des adjudicataires et permissionnaires de la
+pêche aux engins et aux filets lorsqu'ils s'adonnent à la pêche dans les eaux du domaine public ou dans les lacs de retenue
+de barrage où le droit de pêche appartient à l'Etat. Elle ne s'applique pas, non plus, lorsque les poissons susvisés ont été
+capturés dans les lacs du domaine privé dont la liste sera établie par arrêté du ministre de l'agriculture.
+
+Un décret pris sur les propositions du ministre de l'agriculture et du garde des sceaux, ministre de la justice, fixera les
+modalités du contrôle et des pénalités tendant à assurer l'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 401
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+
 ###### Article 440
 
 Dans chaque département, il est interdit de mettre en vente, de vendre, d'acheter, de transporter, de colporter, d'exporter
@@ -14559,7 +14588,39 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-#### Section 2 : Cotisations.<a id=150></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=150></a>
+
+###### Article 1122-3
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+
+
+###### Article 1122-4
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+
+
+#### Section 2 : Cotisations.<a id=151></a>
 
 ###### Article 1126
 
@@ -14688,7 +14749,7 @@ _Cite_:
   - Code rural 1130
 
 
-#### Section 3 : Organisation administrative et financière.<a id=151></a>
+#### Section 3 : Organisation administrative et financière.<a id=152></a>
 
 ###### Article 1136
 
@@ -14777,11 +14838,11 @@ _Abrogé par_:
   - Loi n°67-1172 1967-12-22 art. 13 II JORF 29 décembre 1967
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=152></a>
+## Titre III : Accidents du travail et risques agricoles<a id=153></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=153></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=154></a>
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=154></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=155></a>
 
 ###### Article 1185
 
@@ -14978,7 +15039,7 @@ _Abrogé par_:
   - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=155></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=156></a>
 
 ###### Article 1199
 
@@ -15336,7 +15397,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=156></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=157></a>
 
 ###### Article 1252
 
@@ -15564,9 +15625,9 @@ _Cite_:
   - Code rural 1257
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=157></a>
+# Livre VIII : Formation professionnelle et recherche<a id=158></a>
 
-## Titre Ier : Apprentissage.<a id=158></a>
+## Titre Ier : Apprentissage.<a id=159></a>
 
 ###### Article 1264
 
@@ -15688,7 +15749,7 @@ _Abrogé par_:
   - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
 
 
-## Titre II : Enseignement<a id=159></a>
+## Titre II : Enseignement<a id=160></a>
 
 ###### Article 1272
 
@@ -15705,9 +15766,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=160></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=161></a>
 
-#### Section 1 : Organisation.<a id=161></a>
+#### Section 1 : Organisation.<a id=162></a>
 
 ###### Article 1273
 
@@ -15829,7 +15890,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=162></a>
+#### Section 2 : Dispositions pénales.<a id=163></a>
 
 ###### Article 1281
 
@@ -15846,7 +15907,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=163></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=164></a>
 
 ###### Article 1282
 
@@ -15938,7 +15999,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=164></a>
+### Chapitre III : Enseignement ménager agricole.<a id=165></a>
 
 ###### Article 1288
 
@@ -15985,7 +16046,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=165></a>
+### Chapitre IV : Dispositions communes.<a id=166></a>
 
 ###### Article 1291
 
@@ -16081,9 +16142,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=166></a>
+## Titre III : Recherche<a id=167></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=167></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=168></a>
 
 ###### Article 1297
 
@@ -16145,7 +16206,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=168></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=169></a>
 
 ###### Article 1301
 
@@ -16282,7 +16343,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=169></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=170></a>
 
 ###### Article 1310
 
@@ -16359,7 +16420,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=170></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=171></a>
 
 ###### Article 1315
 
@@ -16511,9 +16572,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=171></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=172></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=172></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=173></a>
 
 ###### Article 1325
 
@@ -16605,7 +16666,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=173></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=174></a>
 
 ###### Article 1331
 
