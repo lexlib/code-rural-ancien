@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-07-05
+Version Consolidée au 1973-08-12
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -20906,6 +20906,36 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1233
+
+La victime d'un accident du travail survenu avant le 1er avril 1943 dont l'infirmité résultant de l'accident nécessite un
+appareil de prothèse ou d'orthopédie a droit à la fourniture et au renouvellement de cet appareil dans les conditions prévues
+par la législation en vigueur antérieurement au 1er juillet 1973.
+
+Le droit à l'appareillage est fixé, sans appel, par ordonnance du président du tribunal de grande instance de la résidence du
+mutilé.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L753-22 (M)
+  - Code rural L753-22
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°73-803 1973-08-09 art. 12 JORF 12 août 1973
 
 _Abrogé par_:
 
