@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-07-28
+Version Consolidée au 1993-08-29
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 188)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122)](#2)
@@ -19358,16 +19358,36 @@ conditions réglementaires.
 
 Ce remboursement ne pourra, d'autre part, être supérieur à un montant fixé par décret.
 
+La caisse de mutualité sociale agricole poursuit auprés de l'employeur de toute personne étrangère travaillant ou ayant
+travaillé pour le compte de celui-ci sans satisfaire aux conditions de régularité de séjour et de travail définies par le
+décret mentionné à l'article L. 115-6 du code de la sécurité sociale le remboursement de la totalité des dépenses qu'elle
+supporte pour cette personne au titre du présent chapitre.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 _Nouveaux textes_:
 
   - Code rural - art. L751-36 (M)
   - Code rural - art. L751-37 (M)
+  - Code rural L751-36
+  - Code rural L751-37
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L115-6 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°93-1027 1993-08-08 art. 37 JORF 29 août 1993
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=132></a>
