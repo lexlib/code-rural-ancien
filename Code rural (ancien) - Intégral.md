@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-08-02
+Version Consolidée au 1985-01-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -185,17 +185,18 @@ Version Consolidée au 1984-08-02
       - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#182)
       - [Chapitre II : Médecine préventive. (art. 1250-2)](#183)
     - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#184)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#185)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#186)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#187)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#188)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#189)
-    - [Titre II : Enseignement (art. 1281)](#190)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#191)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#192)
-    - [Titre III : Recherche (art. 1337)](#193)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#194)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#195)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#185)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#186)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#187)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#188)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#189)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#190)
+    - [Titre II : Enseignement (art. 1281)](#191)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#192)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#193)
+    - [Titre III : Recherche (art. 1337)](#194)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#195)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#196)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -29456,49 +29457,234 @@ _Abrogé par_:
 
 ## Titre VI : Français résidant à l'étranger<a id=185></a>
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=186></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=186></a>
 
-###### Article 1263-4
+###### Article 1263-1
 
-Les ressortissants français qui exercent une activité agricole salariée ou assimilée au regard des législations sociales
-agricoles françaises dans un pays étranger n'appartenant pas à la Communauté européenne et qui ne sont pas ou ne sont plus
-soumis à ces législations en vertu d'une convention internationale ou de l'article 1263-2 peuvent adhérer aux assurances
-volontaires prévues par le chapitre II du titre VI du livre VII du code de la sécurité sociale et bénéficier des prestations
-correspondantes dans les conditions prévues audit livre.
+Les travailleurs détachés temporairement à l'étranger par leur employeur pour y exercer une activité salariée ou assimilée
+qui demeurent soumis aux législations sociales agricoles françaises, en vertu de conventions ou de règlements internationaux,
+sont réputés, pour l'application de ces législations, avoir leur résidence et leur lieu de travail en France.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L764-1
+  - Code rural - art. L764-1 (T)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1263-2
+
+S'ils ne sont pas ou ne sont plus visés par l'article 1263-1, les travailleurs détachés temporairement à l'étranger par leur
+employeur pour y exercer une activité salariée ou assimilée rémunérée par cet employeur sont soumis aux législations sociales
+agricoles françaises à la condition que l'employeur s'engage à s'acquitter de l'intégralité des cotisations dues.
+
+La durée maximale pendant laquelle les travailleurs visés au précédent alinéa peuvent être soumis aux législations sociales
+agricoles françaises est fixée par voie réglementaire.
+
+Pour l'application de ces législations, ils sont réputés avoir leur résidence et leur lieu de travail en France.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L764-2 (T)
+  - Code rural L764-2
+
+_Cite_:
+
+  - Code rural 1263-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1263-3
+
+Les soins dispensés aux bénéficiaires du présent titre et à leurs ayants droit ouvrent droit aux prestations des assurances
+maladie et maternité prévues par le présent titre.
+
+Sous réserve des dispositions des conventions et règlements internationaux concernant les travailleurs visés à l'article
+1263-1, ces prestations sont servies, dans le pays où les bénéficiaires du présent titre exercent leur activité, sur la base
+des dépenses réelles, dans la limite des prestations qui auraient été servies pour des soins analogues reçus en France, ou
+dans la limite de tarifs de responsabilité fixés par arrêté ministériel.
+
+Les dispositions des articles L. 162-2, L. 162-3, L. 162-4, L. 162-9 et L. 162-11, L. 162-12, L. 162-5, L. 162-6, L. 162-8,
+L. 162-32, L. 162-35, L. 162-16 et D. 162-1, L. 162-17 et R. 162-19, L. 162-36, L. 162-20, L. 162-22, L. 162-23, L. 162-24,
+R. 162-24 et R. 162-25, L. 162-25, L. 432-2 à L. 432-5, L. 432-7 à L. 432-10, R. 432-1, R. 432-2 et R. 432-8 du code de la
+sécurité sociale ne sont pas applicables aux soins dispensés à l'étranger.
+
+La caisse compétente peut, pour l'exercice de son contrôle, demander le concours des organismes de sécurité sociale du pays
+dans lequel les soins ont été dispensés et des autorités consulaires françaises.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
-  - Code rural - art. L764-3 (M)
+  - Code rural - art. L764-4 (M)
+  - Code rural L764-4
+
+_Cite_:
+
+  - Code de la sécurité sociale L162-2, L162-3, L162-4, L162-9, L162-11, L162-12, L162-5, L162-6, L162-8, L162-32, L162-35, L162-16, L162-17, L162-36, L162-20, L162-22, L162-23, L162-24, L162-25, L432-2 à L432-5, L432-7 à L432-10, R162-19, R162-24, R162-
+  - Code de la sécurité sociale. - art. D162-1 (An)
+  - Code de la sécurité sociale. - art. L162-11 (M)
+  - Code de la sécurité sociale. - art. L162-12 (V)
+  - Code de la sécurité sociale. - art. L162-16 (M)
+  - Code de la sécurité sociale. - art. L162-17 (M)
+  - Code de la sécurité sociale. - art. L162-2 (V)
+  - Code de la sécurité sociale. - art. L162-20 (M)
+  - Code de la sécurité sociale. - art. L162-22 (M)
+  - Code de la sécurité sociale. - art. L162-23 (M)
+  - Code de la sécurité sociale. - art. L162-24 (Ab)
+  - Code de la sécurité sociale. - art. L162-25 (M)
+  - Code de la sécurité sociale. - art. L162-3 (M)
+  - Code de la sécurité sociale. - art. L162-32 (M)
+  - Code de la sécurité sociale. - art. L162-35 (V)
+  - Code de la sécurité sociale. - art. L162-36 (M)
+  - Code de la sécurité sociale. - art. L162-4 (M)
+  - Code de la sécurité sociale. - art. L162-5 (M)
+  - Code de la sécurité sociale. - art. L162-6 (M)
+  - Code de la sécurité sociale. - art. L162-8 (M)
+  - Code de la sécurité sociale. - art. L162-9 (M)
+  - Code de la sécurité sociale. - art. R162-19 (V)
+  - Code de la sécurité sociale. - art. R162-24 (Ab)
+  - Code de la sécurité sociale. - art. R162-25 (Ab)
+  - Code de la sécurité sociale. - art. R432-1 (V)
+  - Code de la sécurité sociale. - art. R432-2 (V)
+  - Code de la sécurité sociale. - art. R432-8 (V)
+  - Code rural 1263-1
+
+
+### Chapitre II : Travailleurs salariés expatriés.<a id=187></a>
+
+###### Article 1263-4
+
+Les ressortissants français qui exercent une activité agricole salariée ou assimilée au regard des législations sociales
+agricoles françaises dans un pays étranger et qui ne sont pas ou ne sont plus soumis à ces législations en vertu d'une
+convention internationale ou de l'article 1263-2 peuvent adhérer aux assurances volontaires prévues par le chapitre II du
+titre VI du livre VII du code de la sécurité sociale et bénéficier des prestations correspondantes dans les conditions
+prévues audit livre.
+
+Les entreprises et exploitations agricoles de droit français peuvent, pour le compte des travailleurs salariés français
+qu'elles emploient à l'étranger, effectuer les formalités nécessaires à l'adhésion de ces personnes aux assurances
+volontaires prévues à l'alinéa précèdent ou à certaines d'entres elles. Elles doivent effectuer ces formalités lorsque les
+salariés le demandent.
+
+**Liens relatifs à cet article**
 
 _Cite_:
 
   - Code rural 1263-2
 
+_Nouveaux textes_:
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=187></a>
-
-###### Article 1263-6
-
-Les ressortissants français qui exercent une activité professionnelle agricole non-salariée au regard des législations
-sociales agricoles françaises dans un pays étranger n'appartenant pas à la Communauté économique européenne ont la faculté
-d'adhérer à l'assurance volontaire contre les risques de maladie et les charges de la maternité visée au chapitre III du
-titre VI du livre VII du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
+  - Code rural L764-3
+  - Code rural - art. L764-3 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+  - Loi n°84-604 du 13 juillet 1984 - art. 18 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1263-5
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent titre.
+
+**Liens relatifs à cet article**
 
 _Nouveaux textes_:
 
+  - Code rural L764-5
+  - Code rural - art. L764-5 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=188></a>
+
+###### Article 1263-6
+
+Les ressortissants français qui exercent une activité professionnelle agricole non salariée au regard des législations
+sociales agricoles françaises dans un pays étranger ont la faculté d'adhérer à l'assurance volontaire contre les risques de
+maladie et les charges de la maternité visée au chapitre III du titre VI du livre VII du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L764-6
   - Code rural - art. L764-6 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°84-604 du 13 juillet 1984 - art. 19 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1263-7
@@ -29522,25 +29708,35 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=188></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=189></a>
 
 ###### Article 1263-8
 
 Les personnes de nationalité française titulaires d'un avantage de retraite alloué au titre d'un régime français d'assurance
 vieillesse agricole obligatoire ou volontaire, justifiant d'une durée d'assurance minimum audit régime fixée par voie
-réglementaire et qui, n'exerçant aucune activité professionnelle, résident dans un pays étranger n'appartenant pas à la
-Communauté économique européenne, ont la faculté d'adhérer à l'assurance volontaire contre les risques de maladie et les
-charges de la maternité visée au titre III du livre XI du code de la sécurité sociale.
+réglementaire et qui, n'exerçant aucune activité professionnelle, résident dans un pays étranger, ont la faculté d'adhérer à
+l'assurance volontaire contre les risques de maladie et les charges de la maternité visée au titre IV du livre XII du code de
+la sécurité sociale.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L764-8
+  - Code rural - art. L764-8 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code rural - art. L764-8 (M)
+  - Loi n°84-604 du 13 juillet 1984 - art. 20 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1263-9
@@ -29564,13 +29760,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=189></a>
+# Livre VIII : Formation professionnelle et recherche<a id=190></a>
 
-## Titre II : Enseignement<a id=190></a>
+## Titre II : Enseignement<a id=191></a>
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=191></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=192></a>
 
-#### Section 2 : Dispositions pénales.<a id=192></a>
+#### Section 2 : Dispositions pénales.<a id=193></a>
 
 ###### Article 1281
 
@@ -29587,11 +29783,11 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-## Titre III : Recherche<a id=193></a>
+## Titre III : Recherche<a id=194></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=194></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=195></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=195></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=196></a>
 
 ###### Article 1337
 
