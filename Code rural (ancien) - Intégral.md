@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-01-27
+Version Consolidée au 1961-04-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -127,8 +127,8 @@ Version Consolidée au 1961-01-27
     - [Titre II : Mutualité sociale agricole (art. 1002 à 1142)](#124)
       - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#125)
       - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#126)
-      - [Chapitre II : Assurances sociales (art. 1026 à 1059)](#127)
-        - [Section 1 : Affiliation. (art. 1026 à 1030)](#128)
+      - [Chapitre II : Assurances sociales (art. 1027 à 1059)](#127)
+        - [Section 1 : Affiliation. (art. 1027 à 1030)](#128)
         - [Section 2 : Cotisations. (art. 1032 à 1037)](#129)
         - [Section 3 : Prestations. (art. 1039 à 1048)](#130)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#131)
@@ -12734,25 +12734,6 @@ _Anciens textes_:
 ### Chapitre II : Assurances sociales<a id=127></a>
 
 #### Section 1 : Affiliation.<a id=128></a>
-
-###### Article 1026
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1935-10-30 art. 1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°61-89 du 25 janvier 1961 - art. 4 () JORF 27 janvier 1961 en vigueur le 1er avril 1961
-
 
 ###### Article 1027
 
