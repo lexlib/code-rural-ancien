@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1956-08-07
+Version Consolidée au 1956-09-29
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -125,7 +125,7 @@ Version Consolidée au 1956-08-07
       - [Chapitre II : Assurances sociales (art. 1026 à 1059)](#122)
         - [Section 1 : Affiliation. (art. 1026 à 1030)](#123)
         - [Section 2 : Cotisations. (art. 1032 à 1037)](#124)
-        - [Section 3 : Prestations. (art. 1041 à 1048)](#125)
+        - [Section 3 : Prestations. (art. 1039 à 1048)](#125)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#126)
       - [Chapitre III : Prestations familiales (art. 1065 à 1106)](#127)
         - [Section 1 : Affiliations et cotisations. (art. 1065 à 1071)](#128)
@@ -11126,6 +11126,36 @@ _Abrogé par_:
 
 
 #### Section 3 : Prestations.<a id=125></a>
+
+###### Article 1039
+
+Un décret pris en conseil des ministres après avis du Conseil d'Etat, sur la proposition du ministre chargé des affaires
+sociales, détermine le régime des pensions de vieillesse et d'invalidité applicable aux assurés sociaux appartenant aux
+professions agricoles et forestières en vue d'assurer l'harmonisation et l'équivalence des avantages à partir de la date du
+1er janvier 1951 des régimes agricole et non-agricole d'assurances sociales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°51-374 1951-03-27 art. 18
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°56-967 1956-09-28 art. 5 JORF 29 septembre 1956
+
+_Abrogé par_:
+
+  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code rural - art. L742-4 (V)
+
 
 ###### Article 1041
 
