@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1983-07-22
+Version Consolidée au 1983-07-23
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -795,6 +795,36 @@ _Anciens textes_:
   - Loi n°1941-03-09 art. 14
 
 
+###### Article 17
+
+La commission communale peut dans les conditions prévues à l'article 26, décider la création, la modification du tracé ou la
+suppression des chemins ruraux.
+
+Dans le cas de chemins inscrits sur le plan départemental des itinéraires de promenade et de randonnée, leur suppression ne
+peut intervenir que dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n°
+83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 26
+  - Loi n°83-8 1983-01-07
+  - Loi n°83-663 1983-07-22 art. 56
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-03-09 art. 15
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 57 () JORF 23 juillet 1983 rectificatif 25 septembre 1983
+
+
 ###### Article 18
 
 Tous les documents qui permettent aux commissions communales et départementales de poursuivre leur mission et notamment, les
@@ -1228,6 +1258,41 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°75-621 1975-07-11 art. 10 JORF 12 juillet 1975
+
+_Abrogé par_:
+
+  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 26-1
+
+Le conseil municipal, lorsqu'il est saisi par la commission communale de réorganisation foncière et de remembrement de
+propositions tendant à la suppression de chemins ruraux ou à la modification de leur tracé ou de leur emprise, est tenu de se
+prononcer dans le délai de deux mois à compter de la notification qui en sera faite au maire et qui devra reproduire le texte
+du présent article. Ce délai expiré, le conseil municipal est réputé avoir approuvé les suppressions ou modifications
+demandées.
+
+La suppression d'un chemin inscrit sur le plan départemental des itinéraires de promenade et de randonnée ne peut intervenir
+que sur décision expresse du conseil municipal, qui doit avoir proposé au conseil général un itinéraire de substitution
+approprié à la pratique de la promenade et de la randonnée.
+
+La création de chemins ruraux, la création et les modifications de tracé ou d'emprise des voies communes ne peuvent
+intervenir que sur décision expresse du conseil municipal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°60-792 1960-08-02 art. 4 JORF 4 août 1960
+
+_Modifié par_:
+
+  - Loi n°75-621 1975-07-11 art. 11 JORF 12 juillet 1975
+  - Loi n°83-663 du 22 juillet 1983 - art. 57 () JORF 23 juillet 1973 rectificatif 25 septembre 1983
 
 _Abrogé par_:
 
