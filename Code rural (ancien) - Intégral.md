@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-08-20
+Version Consolidée au 1967-09-28
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -15221,6 +15221,40 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code rural - art. L742-4 (V)
+
+
+###### Article 1040
+
+Les dispositions des articles L. 259, L. 260, L. 266, L. 266-1, L. 269, L. 271, L. 275, L. 286, L. 286-1, L. 287, L. 288, L.
+289 (2e et 3e alinéas), L. 293, L. 403 à L. 408 du code de la sécurité sociale, seront rendues applicables aux bénéficaires
+des législations sociales agricoles, selon les modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-03-17 art. 3
+  - Loi n°1943-02-01 art. 3
+  - Ordonnance 1945-03-03 art. 4
+
+_Modifié par_:
+
+  - Ordonnance 58-1374 1958-12-30 art. 8 JORF 31 décembre 1958
+  - Loi n°63-156 1963-02-23 art. 42 JORF 24 février 1963
+  - Ordonnance 67-707 1967-08-21 art. 23 JORF 22 août 1967
+  - Ordonnance 67-829 1967-09-23 art. 4 JORF 28 septembre 1967
+
+_Abrogé par_:
+
+  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+_Cite_:
+
+  - Code de la sécurité sociale L259, L260, L266, L266-1, L269, L271, L275, L286, L286-1, L287, L288, L289, L293, L403 à L408
 
 
 ###### Article 1041
