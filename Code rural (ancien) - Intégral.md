@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-01-04
+Version Consolidée au 1975-01-07
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -74,9 +74,9 @@ Version Consolidée au 1975-01-04
       - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#71)
       - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#72)
       - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#73)
-  - [Livre III : La chasse et la pêche (art. 366 ter à 501)](#74)
-    - [Titre Ier : De la chasse (art. 366 ter à 400)](#75)
-      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 366 ter à 373-1)](#76)
+  - [Livre III : La chasse et la pêche (art. 365 à 501)](#74)
+    - [Titre Ier : De la chasse (art. 365 à 400)](#75)
+      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 365 à 373-1)](#76)
       - [Chapitre II : Des pénalités. (art. 377 à 391)](#77)
       - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 395)](#78)
       - [Chapitre IV : Des groupements de chasseurs. (art. 397 à 400)](#79)
@@ -107,7 +107,7 @@ Version Consolidée au 1975-01-04
           - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#104)
           - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#105)
         - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#106)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#107)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 699)](#107)
       - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#108)
     - [Titre II : Caisse nationale de crédit agricole (art. 712 à 736)](#109)
       - [Chapitre Ier : Organisation et fonctionnement. (art. 712 à 716)](#110)
@@ -8756,6 +8756,32 @@ _Codifié par_:
 
 ### Chapitre Ier : De l'exercice du droit de chasse.<a id=76></a>
 
+###### Article 365
+
+Nul n'a la faculté de chasser sur la propriété d'autrui sans le consentement du propriétaire ou de ses ayants droit.
+
+Nul ne peut chasser en dehors des périodes d'ouverture de la chasse et s'il n'est titulaire et porteur d'un permis de chasser
+valable.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L222-1, L223-1, L223-6, L224-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1844-05-03 art. 1
+
+_Abrogé par_:
+
+  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
 ###### Article 366 ter
 
 Le fonds de garantie institué par l'article 15 modifié de la loi n° 51-1508 du 31 décembre 1951 prend en charge, dans les
@@ -13198,6 +13224,73 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+
+###### Article 699
+
+Pour garantir les opérations des caisses de crédit agricole mutuel, il est constitué un fonds commun de garantie auquel les
+caisses régionales doivent obligatoirement adhérer.
+
+Ce fonds est géré par la caisse nationale de crédit agricole qui peut prendre l'avis d'un comité spécial comprenant notamment
+des représentants de caisses régionales de crédit agricole mutuel.
+
+Le fonds de garantie des opérations des caisses régionales de crédit agricole mutuel est soumis aux dispositions juridiques
+et fiscales applicables à la caisse nationale de crédit agricole.
+
+En cas de dissolution du fonds, l'excédent de son actif sera affecté à la dotation du crédit agricole.
+
+Les caisses régionales de crédit agricole mutuel peuvent faire appel au fonds pour obtenir :
+
+1° Des avances, si leurs disponibilités sont momentanément insuffisantes pour leur permettre de faire face aux demandes de
+retrait de fonds de leurs déposants.
+
+La durée de ces avances consenties au taux d'escompte de la Banque de France ne pourra excéder une année. Toutefois, si la
+situation d'une caisse régionale justifie une mesure exceptionnelle, cette durée peut être prorogée dans la limite de dix
+années sur avis conforme du comité spécial visé à l'alinéa 2 ci-dessus. Dans ce cas, le taux d'intérêt est majoré d'un point
+et l'acte de réalisation doit fixer la fraction de l'avance amortissable chaque année ;
+
+2° La garantie de toute opération de crédit.
+
+La garantie donnée par le fonds est constatée par un acte auquel intervient le débiteur principal, lequel doit, au profit de
+l'Etat, consentir hypothèque sur ses biens dans les conditions prévues par l'article 746 du présent code, quelle que soit par
+ailleurs la qualité, créancière ou caution, en laquelle la caisse régionale de crédit agricole mutuel demanderesse apparaît
+au contrat principal formant la cause de l'engagement du fonds.
+
+Le fonds exerce seul les poursuites contre le débiteur principal ne remplissant pas ses obligations.
+
+Chaque fois que le produit de la réalisation des biens grevés de l'hypothèque et des autres sûretés réelles qui ont pu être
+prises est inférieur au montant de l'engagement du fonds, la perte qui apparaît ainsi est supportée partie par le fonds,
+partie par la caisse régionale de crédit agricole mutuel demanderesse, selon une proportion définie dans une convention
+passée entre la caisse et le fonds au moment où celui-ci accorde sa garantie.
+
+Les sommes recouvrées par la mise en jeu des sûretés personnelles, soit amiablement, soit sur action solidaire du fonds et de
+la caisse régionale de crédit agricole mutuel intéressée, sont réparties entre ces deux institutions proportionnellement à
+leur participation et jusqu'à concurrence des sommes qui leur sont dues.
+
+Les cotisations dues au fonds par les caisses régionales de crédit agricole mutuel sont fixées par la caisse nationale de
+crédit agricole après avis du comité spécial. Lorsque ces cotisations trouvent leur cause dans la garantie d'une opération de
+crédit, le bénéficiaire de celle-ci doit en supporter la charge.
+
+Un décret, contresigné par le ministre de l'agriculture et le ministre de l'économie et des finances, détermine les modalités
+d'application du présent article après avis de la caisse nationale de crédit agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 746
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°75-1360 1975-12-26 art. 1 JORF 7 janvier 1975
+
+_Abrogé par_:
+
+  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
 ### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=108></a>
