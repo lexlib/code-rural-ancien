@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-07-13
+Version Consolidée au 1967-08-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -15459,25 +15459,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Loi n°1898-04-01 art. 16
-
-
-###### Article 1053
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°67-701 1967-08-16 art. 1 JORF 20 août 1967
-
-_Anciens textes_:
-
-  - Loi n°1952-04-14 art. 17
 
 
 ###### Article 1057
