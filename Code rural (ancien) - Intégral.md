@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1968-02-23
+Version Consolidée au 1968-08-25
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -127,7 +127,7 @@ Version Consolidée au 1968-02-23
     - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#124)
       - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#125)
     - [Titre V : Bail emphytéotique. (art. 948)](#126)
-  - [Livre VII : Dispositions sociales (art. 984 à 1262)](#127)
+  - [Livre VII : Dispositions sociales (art. 984 à 1263)](#127)
     - [Titre Ier : Régime du travail (art. 984 à 1000-5)](#128)
       - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#129)
       - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#130)
@@ -138,7 +138,7 @@ Version Consolidée au 1968-02-23
       - [Chapitre II : Assurances sociales (art. 1027 à 1059)](#135)
         - [Section 1 : Affiliation. (art. 1027 à 1030)](#136)
         - [Section 2 : Cotisations. (art. 1032 à 1037)](#137)
-        - [Section 3 : Prestations. (art. 1039 à 1048)](#138)
+        - [Section 3 : Prestations. (art. 1039 à 1047)](#138)
         - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049)](#139)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#140)
       - [Chapitre III : Prestations familiales (art. 1062 à 1098)](#141)
@@ -166,7 +166,7 @@ Version Consolidée au 1968-02-23
     - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#163)
       - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#164)
       - [Chapitre II : Médecine préventive. (art. 1250-2)](#165)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#166)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1263)](#166)
   - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#167)
     - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#168)
     - [Titre II : Enseignement (art. 1272 à 1296)](#169)
@@ -15598,25 +15598,6 @@ _Anciens textes_:
   - Décret n°1935-10-28 art. 27
 
 
-###### Article 1048
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1935-10-30 art. 13, art. 17
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
-
-
 #### Section 4 : Régime facultatif, régime complémentaire.<a id=139></a>
 
 ###### Article 1049
@@ -19065,6 +19046,28 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code rural 1257
+
+
+###### Article 1263
+
+En aucun cas, les avantages accordés aux prestataires du régime agricole ne pourront être inférieurs à ceux dont bénéficient
+les prestataires du régime général.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L761-1
+  - Code rural - art. L761-1 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 # Livre VIII : Formation professionnelle et recherche<a id=167></a>
