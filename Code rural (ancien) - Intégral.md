@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-12-27
+Version Consolidée au 1996-12-29
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -15105,6 +15105,39 @@ _Créé par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1106-6-3
+
+Les ressources des assurances maladie, maternité et invalidité garantissant les personnes visées du 1° au 5° du I de
+l'article 1106-1 sont notamment constituées par une fraction du produit des contributions sociales mentionnées aux articles
+L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale, et une fraction du produit des droits visé à
+l'article L. 139-1 du même code, à concurrence du montant correspondant à l'application des dispositions de l'article L.
+139-2 de ce code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°96-1160 du 27 décembre 1996 - art. 24 () JORF 29 décembre 1996
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-45 (M)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L136-1 (M)
+  - Code de la sécurité sociale. - art. L136-6 (M)
+  - Code de la sécurité sociale. - art. L136-7 (M)
+  - Code de la sécurité sociale. - art. L136-7-1 (M)
+  - Code de la sécurité sociale. - art. L139-1 (M)
+  - Code de la sécurité sociale. - art. L139-2 (M)
+  - Code rural 1106-1
 
 
 ###### Article 1106-7
