@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-08-02
+Version Consolidée au 1963-12-31
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -123,14 +123,14 @@ Version Consolidée au 1963-08-02
       - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#120)
       - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#121)
   - [Livre VI : Baux ruraux (art. 857 à 948)](#122)
-    - [Titre Ier : Statut du fermage et du métayage (art. 857 à 860)](#123)
-      - [Chapitre III : Dispositions diverses. (art. 857 à 860)](#124)
+    - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#123)
+      - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#124)
     - [Titre V : Bail emphytéotique. (art. 948)](#125)
   - [Livre VII : Dispositions sociales (art. 984 à 1262)](#126)
     - [Titre Ier : Régime du travail (art. 984 à 1000)](#127)
       - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#128)
       - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#129)
-    - [Titre II : Mutualité sociale agricole (art. 1002 à 1142)](#130)
+    - [Titre II : Mutualité sociale agricole (art. 1002 à 1142-11)](#130)
       - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#131)
       - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#132)
       - [Chapitre II : Assurances sociales (art. 1027 à 1059)](#133)
@@ -154,28 +154,29 @@ Version Consolidée au 1963-08-02
           - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-4)](#151)
         - [Section 2 : Cotisations. (art. 1126 à 1135)](#152)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#153)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#154)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#155)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#156)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#157)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#158)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#159)
-    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#160)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#161)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#162)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#163)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#164)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#165)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#166)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#167)
-    - [Titre III : Recherche (art. 1297 à 1337)](#168)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#169)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#170)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#171)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#172)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#173)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#174)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#175)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#154)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#155)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#156)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#157)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#158)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#159)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#160)
+    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#161)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#162)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#163)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#164)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#165)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#166)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#167)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#168)
+    - [Titre III : Recherche (art. 1297 à 1337)](#169)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#170)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#171)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#172)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#173)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#174)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#175)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#176)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -12423,6 +12424,48 @@ _Abrogé par_:
   - Décret n°83-212 1982-03-16 art. 3 JORF 22 mars 1983
 
 
+###### Article 861
+
+Les dispositions du présent titre s'appliquent aux baux ci-après énumérés : baux d'élevage avicole, d'étangs servant à
+l'élevage piscicole, baux d'établissements horticoles, de cultures maraîchères et de cultures de champignons, ainsi que les
+baux d'élevage apicole.
+
+En sont exclus les locations de jardins d'agrément et d'intérêt familial, les baux de chasse et de pêche.
+
+Les baux du domaine de l'Etat, des départements, des communes et des établissements publics, lorsqu'ils portent sur des biens
+ruraux constituant ou non une exploitation agricole complète, sont soumis aux dispositions du présent titre. Toutefois, le
+preneur ne peut invoquer le droit au renouvellement du bail lorsque la collectivité ou l'établissement public lui a fait
+connaître, dans un délai de dix-huit mois avant la fin du bail, sa décision d'utiliser les biens loués, directement et en
+dehors de toute aliénation, à une fin d'intérêt général.
+
+En outre, en cas d'aliénation, le preneur ne peut exercer le droit de préemption si l'aliénation est consentie à un organisme
+ayant un but d'intérêt public et si les biens vendus sont nécessaires à la réalisation de l'objectif poursuivi par
+l'organisme acquéreur.
+
+Enfin, le bail peut à tout moment être résilié sur tout ou partie des biens loués lorsque ces biens sont nécessaires à la
+réalisation d'un projet déclaré d'utilité publique ; dans ce cas, le preneur a droit à une indemnité, à raison du préjudice
+qu'il subit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Décret n°83-212 1982-03-16 art. 3 JORF 22 mars 1983
+
+_Anciens textes_:
+
+  - Ordonnance 45-2380 1945-10-17 art. 47
+
+_Modifié par_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 11 () JORF 7 août 1960
+  - Loi n°63-1332 1963-12-30 art. 12 JORF 31 décembre 1963
+
+
 ## Titre V : Bail emphytéotique.<a id=125></a>
 
 ###### Article 948
@@ -15281,11 +15324,185 @@ _Abrogé par_:
   - Loi n°67-1172 1967-12-22 art. 13 II JORF 29 décembre 1967
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=154></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=154></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=155></a>
+###### Article 1142-1
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=156></a>
+Les dispositions du chapitre IV ci-dessus relatives à l'assurance vieillesse des personnes non salariées, sont étendues aux
+exploitants agricoles des départements d'outre-mer dans les conditions et sous les réserves suivantes.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L762-26
+  - Code rural - art. L762-26 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Cité par_:
+
+  - Code rural - art. R113-1 (M)
+
+
+###### Article 1142-4
+
+L'allocation n'est due aux personnes continuant leur exploitation que si les terres exploitées ne dépassent pas une
+superficie fixée par décret, compte tenu de la nature des cultures.
+
+Des dispositions particulières peuvent être prévues à l'égard des veuves exploitant avec le concours d'un seul salarié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-6
+
+Le taux de la cotisation prévue à l'article 1123, 1° a du présent code est égal à la moitié du taux appliqué dans la
+métropole.
+
+Le taux de la cotisation prévue à l'article 1123, 1° b du présent code est fixé par décret. Les personnes morales de droit
+privé exploitant des terres sont assujetties au paiement de cette cotisation.
+
+Dans le bail à métayage ou colonat partiaire, le preneur et le bailleur sont tenus l'un et l'autre au paiement de la
+cotisation prévue au premier alinéa du présent article ; la cotisation prévue au second alinéa est partagée entre eux selon
+une proportion fixée par décret.
+
+Un décret fixe les conditions dans lesquelles les cotisations sont majorées pour la couverture des frais de gestion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-33 (V)
+
+_Cite_:
+
+  - Code rural 1123
+
+
+###### Article 1142-7
+
+Sont exonérés de la double cotisation prévue à l'article 1142-6 les bénéficiaires soit de l'allocation ou de la retraite de
+vieillesse agricole, soit de l'allocation de vieillesse des non salariés, soit de l'allocation ou de la retraite des vieux
+travailleurs salariés qui exploitent de terres dont la superficie est inférieure à un minimum fixé par décret pour chaque
+département, compte tenu de la nature des cultures.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1142-6
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi n°84-575 du 9 juillet 1984 - art. 29 () JORF 10 juillet 1984
+
+
+###### Article 1142-8
+
+La caisse générale de sécurité sociale de chacun des départements intéressés assure la gestion du régime institué au présent
+chapitre. Elle relève pour cette partie de son activité de la caisse nationale d'assurance vieillesse agricole dans les
+conditions prévues aux articles 1108 et 1137 du présent code.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-1 (M)
+
+_Cite_:
+
+  - Code rural 1108, 1137
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-9
+
+Les dispositions relatives aux principes fondamentaux applicables en matière de sécurité sociale dans les départements
+d'outre-mer en ce qui concerne le contentieux, le recouvrement des cotisations, les pénalités, la saisissabilité et la
+cessibilité des prestations sont étendues à l'assurance vieillesse des non salariés agricoles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L762-5
+  - Code rural - art. L762-5 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1142-10
+
+Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
+à l'exclusion de celles relatives à la gestion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi - art. 103 () JORF 31 décembre 2000
+
+
+###### Article 1142-11
+
+Ne sont pas applicables à l'assurance vieillesse des non-salariés agricoles des départements d'outre-mer les articles 1107,
+1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135 inclus du présent code, ainsi que toutes les dispositions contraires à
+celles du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-27 (M)
+
+_Cite_:
+
+  - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135
+
+
+## Titre III : Accidents du travail et risques agricoles<a id=155></a>
+
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=156></a>
+
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=157></a>
 
 ###### Article 1185
 
@@ -15482,7 +15699,7 @@ _Abrogé par_:
   - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=157></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=158></a>
 
 ###### Article 1199
 
@@ -15840,7 +16057,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=158></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=159></a>
 
 ###### Article 1252
 
@@ -16068,9 +16285,9 @@ _Cite_:
   - Code rural 1257
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=159></a>
+# Livre VIII : Formation professionnelle et recherche<a id=160></a>
 
-## Titre Ier : Apprentissage.<a id=160></a>
+## Titre Ier : Apprentissage.<a id=161></a>
 
 ###### Article 1264
 
@@ -16192,7 +16409,7 @@ _Abrogé par_:
   - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
 
 
-## Titre II : Enseignement<a id=161></a>
+## Titre II : Enseignement<a id=162></a>
 
 ###### Article 1272
 
@@ -16209,9 +16426,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=162></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=163></a>
 
-#### Section 1 : Organisation.<a id=163></a>
+#### Section 1 : Organisation.<a id=164></a>
 
 ###### Article 1273
 
@@ -16333,7 +16550,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=164></a>
+#### Section 2 : Dispositions pénales.<a id=165></a>
 
 ###### Article 1281
 
@@ -16350,7 +16567,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=165></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=166></a>
 
 ###### Article 1282
 
@@ -16442,7 +16659,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=166></a>
+### Chapitre III : Enseignement ménager agricole.<a id=167></a>
 
 ###### Article 1288
 
@@ -16489,7 +16706,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=167></a>
+### Chapitre IV : Dispositions communes.<a id=168></a>
 
 ###### Article 1291
 
@@ -16585,9 +16802,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=168></a>
+## Titre III : Recherche<a id=169></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=169></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=170></a>
 
 ###### Article 1297
 
@@ -16649,7 +16866,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=170></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=171></a>
 
 ###### Article 1301
 
@@ -16786,7 +17003,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=171></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=172></a>
 
 ###### Article 1310
 
@@ -16863,7 +17080,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=172></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=173></a>
 
 ###### Article 1315
 
@@ -17015,9 +17232,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=173></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=174></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=174></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=175></a>
 
 ###### Article 1325
 
@@ -17109,7 +17326,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=175></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=176></a>
 
 ###### Article 1331
 
