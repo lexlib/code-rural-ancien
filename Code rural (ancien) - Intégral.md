@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-06-02
+Version Consolidée au 1967-06-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -8212,6 +8212,36 @@ _Abrogé par_:
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
+###### Article 385
+
+Font foi, jusqu'à preuve contraire, les procès-verbaux des maires et adjoints, commissaires de police, officiers et gradés de
+la gendarmerie, gendarmes, préposés des eaux et forêts, ingénieurs et agents assermentés de l'office national des forêts,
+gardes particuliers des fédérations départementales des chasseurs commissionnés en qualité de préposés des eaux et forêts,
+gardes-pêche commissionnés par décision ministérielle, gardes champêtres, gardes particuliers assermentés, lieutenants de
+louveterie assermentés devant le tribunal ou l'un des tribunaux de leur circonscription.
+
+A l'égard des préposés des eaux et forêts, cette disposition s'applique en quelque lieu que les infractions soient commises
+dans les arrondissements des tribunaux près desquels ils sont assermentés.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L228-27
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1844-05-03 art. 23
+
+_Abrogé par_:
+
+  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
 ###### Article 386
 
 Les procès-verbaux des agents des contributions indirectes font également foi jusqu'à preuve contraire, lorsque, dans la
@@ -8239,6 +8269,28 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 387
+
+Dans les vingt-quatre heures du délit, les procès-verbaux des gardes seront, à peine de nullité, affirmés par les rédacteurs
+devant le juge du tribunal d'instance ou l'un de ses suppléants, ou devant le maire ou l'adjoint soit de la commune de leur
+résidence, soit de celle où le délit aura été commis. Ce délai est porté à trois jours dans les départements de la
+Martinique, de la Guadeloupe et de la Réunion.
+
+Les gardes particuliers des fédérations départementales des chasseurs, commissionnés en qualité de préposés des eaux et
+forêts chargés spécialement de la police de la chasse, sont dispensés d'affirmer les procès-verbaux qu'ils ont eux-mêmes
+rédigés et signés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1844-05-03 art. 25
 
 
 ###### Article 388
