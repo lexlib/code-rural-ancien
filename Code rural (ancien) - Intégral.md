@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-01-06
+Version Consolidée au 1991-01-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -19511,9 +19511,12 @@ bonifications ou majorations pour enfants autres que les annuités supplémentai
 Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des cotisations dues par l'employeur et par le
 salarié au titre de l'assurance vieillesse.
 
-Des décrets fixent le  plafond mentionné à l'alinéa précédent, les différents taux de cotisations, ainsi que les exonérations
-accordées aux titulaires d'avantages de retraite ou des revenus de remplacement mentionnés à l'article 6 de la loi n° 82-1 du
-4 janvier 1982 modifiée, dont les ressources sont insuffisantes.
+La couverture des charges de l'assurance vieillesse est également assurée par une cotisation à la charge des employeurs
+assise sur la totalité des rémunérations et gains perçus par les salariés.
+
+Des décrets fixent le  plafond mentionné au deuxième alinéa ci-dessus, les différents taux de cotisations, ainsi que les
+exonérations accordées aux titulaires d'avantages de retraite ou des revenus de remplacement mentionnés à l'article 6 de la
+loi n° 82-1 du 4 janvier 1982 modifiée, dont les ressources sont insuffisantes.
 
 Les contributions des employeurs destinées au financement des prestations complémentaires de retraite et de prévoyance sont
 exclues de l'assiette des cotisations visées au premier alinéa ci-dessus pour la partie inférieure à un montant fixé par
@@ -19540,6 +19543,12 @@ La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du
 fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à cotisations d'assurances
 sociales agricoles à la charge de l'employeur.
 
+**Nota:**
+
+Nota : Loi 91-73 du 18 janvier 1991 art. 31 : Les dispositions de l'article 23 entrent en vigueur pour les gains et
+rémunérations versés à compter de la date d'entrée en vigueur de la contribution sociale généralisée fixée à l'article 127 de
+la loi de finances pour 1991.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -19551,7 +19560,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°89-905 du 19 décembre 1989 - art. 11 () JORF 20 décembre 1989 en vigueur le 1er janvier 1990
+  - Loi n°91-73 du 18 janvier 1991 - art. 23 () JORF 20 janvier 1991
 
 _Cité par_:
 
@@ -22774,13 +22783,25 @@ chef d'exploitation ou d'entreprise ; elles comprennent :
 a) Une cotisation due pour chaque personne non salariée âgée d'au moins dix-huit ans, à l'exception des chefs d'exploitation
 ou d'entreprise mentionnés à l'article 1121-1 ;
 
-b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise.
+b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise. Cette cotisation est calculée dans les conditions
+prévues à l'article 1125 ;
+
+c) Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise, calculée sur la totalité des revenus
+professionnels ou sur l'assiette forfaitaire définis à l'article 1003-12.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 1003-12, 1121-1, 1125
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
 _Modifié par_:
 
-  - Loi n°90-85 du 23 janvier 1990 - art. 80 () JORF 25 janvier 1990
+  - Loi n°91-73 du 18 janvier 1991 - art. 24 () JORF 20 janvier 1991
 
 _Nouveaux textes_:
 
@@ -22789,10 +22810,6 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code rural - art. R732-69 (V)
-
-_Cite_:
-
-  - Code rural 1121-1
 
 
 ###### Article 1124
