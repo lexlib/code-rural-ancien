@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-12-31
+Version Consolidée au 1997-03-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -19,9 +19,9 @@ Version Consolidée au 1996-12-31
       - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#16)
       - [Chapitre III : De la police sanitaire (art. 219 à 243)](#17)
         - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224 à 243)](#18)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 271)](#19)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 271-1)](#19)
       - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#20)
-      - [Chapitre II : De l'équarrissage. (art. 264 à 271)](#21)
+      - [Chapitre II : De l'équarrissage. (art. 264 à 271-1)](#21)
     - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale (art. 275-1 à 275-12)](#22)
       - [Chapitre Ier : Dispositions générales. (art. 275-1 à 275-3)](#23)
       - [Chapitre II : Des importations. (art. 275-4)](#24)
@@ -3521,6 +3521,31 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 268-2
+
+Un arrêté du ministre chargé de l'agriculture fixe les conditions de température, de conservation, d'hygiène du local
+d'entreposage et d'hygiène de fonctionnement pour l'application de l'article 268.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 268
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Décret n°97-251 du 18 mars 1997 - art. 1 () JORF 20 mars 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ###### Article 269
 
 Il est interdit de jeter en tous lieux les animaux morts dont la livraison à la personne chargée de l'exécution du service
@@ -3542,6 +3567,33 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 269-1
+
+Le préfet constate la nécessité d'ordre sanitaire prévue à l'article 266.
+
+Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'environnement détermine les conditions
+d'enfouissement et d'incinération des cadavres d'animaux ainsi que les procédés autorisés prévus aux articles 266 et 269.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 266, 269
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Décret n°97-251 du 18 mars 1997 - art. 1 () JORF 20 mars 1997
 
 _Abrogé par_:
 
@@ -3599,6 +3651,32 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 271-1
+
+Les entreprises visées à l'article 271 pour lesquelles un agrément ou un enregistrement est nécessaire pour assurer leur
+activité sont agréées ou enregistrées par le préfet sur la base des règles sanitaires fixées par arrêté du ministre chargé de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 271
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Décret n°97-251 du 18 mars 1997 - art. 1 () JORF 20 mars 1997
 
 _Abrogé par_:
 
