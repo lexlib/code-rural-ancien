@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1959-01-08
+Version Consolidée au 1959-01-09
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -11,9 +11,9 @@ Version Consolidée au 1959-01-08
       - [Chapitre VIII : Dispositions particulières à certains départements (art. 58)](#8)
         - [Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 58)](#9)
       - [Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne. (art. 58-1 à 58-16)](#10)
-    - [Titre II : Des chemins ruraux et des chemins d'exploitation (art. 61 à 96)](#11)
-      - [Chapitre Ier : Des chemins ruraux (art. 61 à 64)](#12)
-        - [Section 1 : Dispositions générales. (art. 61 à 64)](#13)
+    - [Titre II : Des chemins ruraux et des chemins d'exploitation (art. 59 à 96)](#11)
+      - [Chapitre Ier : Des chemins ruraux (art. 59 à 71)](#12)
+        - [Section 1 : Dispositions générales. (art. 59 à 71)](#13)
       - [Chapitre III : Des chemins et sentiers d'exploitation. (art. 92 à 96)](#14)
     - [Titre III : Des cours d'eaux non domaniaux (art. 112)](#15)
       - [Chapitre II : Police et conservation des eaux. (art. 112)](#16)
@@ -1061,6 +1061,30 @@ _Abrogé par_:
 
 #### Section 1 : Dispositions générales.<a id=13></a>
 
+###### Article 59
+
+Les chemins ruraux sont les chemins appartenant aux communes, affectés à l'usage du public, qui n'ont pas été classés comme
+voies communales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-08-20 art. 1
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
 ###### Article 61
 
 Tout chemin affecté à l'usage du public est présumé, jusqu'à preuve contraire, appartenir à la commune sur le territoire de
@@ -1138,6 +1162,212 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1881-08-20 art. 9
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 65
+
+Peuvent être incorporés à la voirie rurale, par délibération du conseil municipal et sur la proposition du bureau de
+l'association foncière ou de l'assemblée générale de l'association syndicale et la décision du conseil municipal :
+
+a) Les chemins créés en application des articles 25 et 27 du code rural ;
+
+b) Les chemins d'exploitation ouverts par des associations syndicales autorisées, au titre de l'article 1er (10°) de la loi
+du 21 juin 1865.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 25, 27
+  - Loi n°1865-06-21 art. 1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 10 () JORF 9 janvier 1959
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 66
+
+Lorsque, antérieurement à son incorporation dans la voirie rurale, un chemin a été créé ou entretenu par une association
+foncière, une association syndicale autorisée, créée au titre de l'article 1er (10°) de la loi du 21 juin 1865, ou lorsque le
+chemin est créé en application de l'article 26 (2°) du présent code, les travaux et l'entretien sont financés au moyen d'une
+taxe répartie à raison de l'intérêt de chaque propriété aux travaux.
+
+Il en est de même lorsqu'il s'agit d'un chemin rural dont l'ouverture, le redressement, l'élargissement, la réparation ou
+l'entretien incombait à un syndicat avant le 1er janvier 1959.
+
+Dans les autres cas, le conseil municipal pourra instituer la taxe prévue aux alinéas précédents, si le chemin est utilisé
+pour l'exploitation d'un ou de plusieurs héritages.
+
+Les dispositions de l'article 194 du code de l'administration communale et celles du paragraphe 3 de l'article 1680 du code
+général des impôts sont applicables à cette taxe.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1680
+  - Code de l'administration communale 194
+  - Code rural 26
+  - Loi n°1865-06-21 art. 1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-08-20 art. 4, art. 5, art. 6
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 67
+
+Des contributions spéciales peuvent être imposées par la commune ou l'association syndicale prévue à l'article 70 aux
+propriétaires ou entrepreneurs responsables des dégradations apportées aux chemins ruraux dans les conditions prévues pour
+les voies communales.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 70
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-08-20 art. 4, art. 5, art. 6
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 69
+
+Lorsqu'un chemin rural cesse d'être affecté à l'usage du public, la vente peut être décidée après enquête par le conseil
+municipal à moins que les intéressés groupés en association syndicale conformément à l'article suivant n'aient demandé à se
+charger de l'entretien dans les deux mois qui suivent l'ouverture de l'enquête.
+
+Lorsque l'aliénation est ordonnée, les propriétaires riverains sont mis en demeure d'acquérir les terrains attenant à leurs
+propriétés.
+
+Si, dans le délai d'un mois à dater de l'avertissement, les propriétaires riverains n'ont pas déposé leur soumission ou si
+leurs offres sont insuffisantes, il est procédé à l'aliénation des terrains selon les règles suivies pour la vente des
+propriétés communales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-04-20 art. 16 al. 1
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 70
+
+Lorsque des travaux sont nécessaires ou lorsqu'un chemin rural n'est pas entretenu par la commune et que, soit la moitié plus
+un des intéressés, représentant au moins les deux tiers de la superficie des propriétés desservies par le chemin, soit les
+deux tiers des intéressés, représentant plus de la moitié de la superficie, proposent de se charger des travaux nécessaires
+pour mettre ou maintenir la voie en état de viabilité, ou demandent l'institution ou l'augmentation de la taxe prévue à
+l'article 66, le conseil municipal doit délibérer dans le délai d'un mois sur cette proposition.
+
+Si le conseil municipal n'accepte pas la proposition ou s'il ne délibère pas dans le délai prescrit, il peut être constitué
+une association syndicale autorisée dans les conditions prévues par l'article 1er (10°) et le titre III de la loi du 21 juin
+1865.
+
+Le chemin remis à l'association syndicale reste toutefois ouvert au public, sauf délibération contraire du conseil municipal
+et de l'assemblée générale de l'association syndicale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 66
+  - Loi n°1865-06-21 art. 1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-08-20 art. 10
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 71
+
+Un décret fixe les caractéristiques techniques auxquelles doivent répondre les chemins ruraux, les conditions dans lesquelles
+la voirie rurale peut être modifiée pour s'adapter à la structure agraire, les conditions dans lesquelles sont acceptées et
+exécutées les souscriptions volontaires pour ces chemins, toutes dispositions relatives à l'écoulement des eaux, aux
+plantations, à l'élagage, aux fossés, à leur curage et à tous autres détails de surveillance et de conservation, les
+modalités d'application de l'article 66, ainsi que les attributions du service du génie rural en matière de voirie rurale.
+
+Les préfets peuvent, après avis du conseil général, compléter ce décret par des prescriptions propres à leur département.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 66
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-08-20 art. 11
+
+_Modifié par_:
+
+  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
 
 _Abrogé par_:
 
