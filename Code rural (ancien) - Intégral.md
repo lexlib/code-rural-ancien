@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-06-20
+Version Consolidée au 1967-07-09
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -147,10 +147,10 @@ Version Consolidée au 1967-06-20
         - [Section 3 : Recouvrement. (art. 1081 à 1088)](#144)
         - [Section 4 : Prestations. (art. 1091-1)](#145)
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#146)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-5 à 1106-16)](#147)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-5 à 1106-16 bis)](#147)
         - [Section 2 : Prestations. (art. 1106-5)](#148)
         - [Section 3 : Financement. (art. 1106-8)](#149)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16)](#150)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#150)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1142)](#151)
         - [Section 1 : Prestations (art. 1113 à 1120)](#152)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#153)
@@ -16365,6 +16365,45 @@ _Abrogé par_:
 
   - Loi n°87-39 1987-01-27 art. 13 III, IV JORF 28 janvier en vigueur le 1er janvier 1987
   - Loi n°87-39 du 27 janvier 1987 - art. 13 (V) JORF 28 janvier en vigueur le 1er janvier 1987
+
+
+###### Article 1106-16 bis
+
+Quiconque, à compter de la date où il remplit les conditions d'ouverture du droit aux prestations du régime institué par le
+présent chapitre, peut, nonobstant toute clause contraire, résilier les contrats d'assurance garantissant les prestations
+prévues par l'article 1106-2.
+
+Sauf accord amiable avec l'assureur, la résiliation ne peut porter que sur les parties du contrat accordant la garantie des
+prestations précitées. Les autres garanties doivent donner lieu à l'établissement d'un avenant.
+
+La résiliation prend effet le premier jour du mois civil suivant l'envoi d'une lettre recommandée la notifiant à l'assureur.
+
+La fraction de prime ou de cotisation correspondant aux garanties faisant l'objet de la résiliation cesse d'être due à
+compter de la prise d'effet de celle-ci. Si cette fraction a été perçue d'avance, elle est remboursée dans le délai d'un mois
+à compter de cette prise d'effet.
+
+Le montant de la taxe unique sur les conventions d'assurance afférent à la fraction de prime ou de cotisation ainsi
+remboursée sera reversé à l'assuré.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L722-14 (VT)
+  - Code rural L722-14
+
+_Cite_:
+
+  - Code rural 1106-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=151></a>
