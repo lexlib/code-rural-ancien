@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1965-07-17
+Version Consolidée au 1965-08-11
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -106,7 +106,7 @@ Version Consolidée au 1965-07-17
           - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#103)
         - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#104)
       - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#105)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 700 à 710)](#106)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#106)
     - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#107)
       - [Chapitre Ier : Organisation et fonctionnement. (art. 716)](#108)
       - [Chapitre II : Ressources. (art. 717 à 721)](#109)
@@ -12099,20 +12099,14 @@ _Abrogé par_:
 
 ### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=106></a>
 
-###### Article 700
+###### Article 704
 
-(texte abrogé).
+Un arrêté conjoint des ministres de l'agriculture, de l'économie et des finances et de l'intérieur, pris après avis du préfet
+et de la caisse nationale de crédit agricole, détermine le taux d'intérêt maximum des différents prêts.
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 701
-
-(texte abrogé).
+En outre, les droits et privilèges en matière de garantie de prêt agricole, qui sont actuellement attribués aux anciennes
+banques d'émission ou ceux qui seront éventuellement dévolus aux instituts d'émission pouvant être organisés dans l'avenir,
+sont conférés aux caisses de crédit agricole.
 
 **Liens relatifs à cet article**
 
@@ -12120,82 +12114,9 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
+_Abrogé par_:
 
-###### Article 702
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 703
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 705
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 706
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 707
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 708
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 709
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
 ###### Article 710
