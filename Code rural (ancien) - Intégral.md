@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-07-12
+Version Consolidée au 1975-07-16
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -867,6 +867,36 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°60-792 1960-08-02 art. 13 JORF 4 août 1960
+
+
+###### Article 38-2
+
+Pour les échanges facultatifs réalisés en conformité du plan prévu ci-dessus, la limitation fixée dans les conditions de
+l'article 835 du présent code relatif aux échanges et locations de parcelles ayant pour effet une meilleure exploitation ne
+peut être inférieure à la moitié de la surface totale du fonds loué.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 835
+
+_Anciens textes_:
+
+  - Décret n°54-1251 1954-12-20 art. 4
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°60-792 1960-08-02 art. 13 JORF 4 août 1960
+  - Loi n°75-632 1975-07-15 art. 17 JORF 16 juillet 1975
+
+_Abrogé par_:
+
+  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
 
 
 ###### Article 38-3
