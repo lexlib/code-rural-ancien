@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1978-11-11
+Version Consolidée au 1979-01-03
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -9156,6 +9156,41 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1938-06-17 art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 311-1
+
+Nonobstant les dispositions de l'article L. 617-7 du code de la santé publique et des articles 236 et 311 du présent code,
+l'Etat peut faire exécuter, par des fonctionnaires et agents qualifiés titulaires ou contractuels relevant de la direction
+chargée des services vétérinaires du ministère de l'agriculture et appartenant aux catégories désignées par décret en Conseil
+d'Etat, les interventions qui nécessitent les opérations de prophylaxie collective des maladies des animaux organisées et
+dirigées par le ministère de l'agriculture.
+
+Il peut être fait appel à ces fonctionnaires et agents en cas d'épizootie, ou après avis de la commission départementale
+compétente et pour une durée déterminée lorsque les vétérinaires titulaires du mandat sanitaire ne peuvent mener à bien les
+opérations de prophylaxie dans les conditions fixées par l'autorité administrative.
+
+Le décret en Conseil d'Etat mentionné ci-dessus détermine les conditions d'exécution de ces interventions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 236, 311
+  - Code de la santé publique - art. L617-7 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°79-6 1979-01-02 art. 1 JORF 3 janvier 1979
 
 _Abrogé par_:
 
