@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1997-07-05
+Version Consolidée au 1997-11-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -3282,14 +3282,50 @@ _Abrogé par_:
 
 ###### Article 264-1
 
-Le préfet est chargé, dans chaque département, de l'exécution du service public de l'équarrissage et passe à cet effet, selon
-les procédures définies par le code des marchés publics, les marchés nécessaires, dont il est la personne responsable au sens
-de l'article 44 de ce dernier code.
+Le financement des dépenses nécessaires à l'exécution du service public de l'équarrissage est assuré par le fonds institué en
+vertu de l'article 302 bis ZD du code général des impôts. Ces dépenses comprennent, outre celles qui sont engagées pour
+l'exécution des marchés passés en application de l'article 264-2 du présent code, les dépenses exposées en vue de la
+passation de ces marchés, notamment les dépenses afférentes à la publicité et à l'étude des offres, ainsi que les dépenses
+nécessaires à la réalisation des opérations d'analyse et de contrôle réalisées en vue de l'attestation du service fait.
 
-Toutefois, lorsque la nature des opérations le justifie, un marché unique peut être passé avec la même entreprise pour
-plusieurs départements. En ce cas, le marché désigne le préfet responsable au sens de l'article 44.
+**Liens relatifs à cet article**
 
-La durée de ces marchés ne peut excéder cinq ans.
+_Cite_:
+
+  - CGI 302 bis ZD
+  - Code rural 264-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Décret n°97-1005 du 30 octobre 1997 - art. 2 () JORF 1er novembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 264-2
+
+I. - Le préfet est chargé, dans chaque département, de l'exécution du service public de l'équarrissage et passe à cet effet,
+selon les procédures définies par le code des marchés publics, les marchés nécessaires dont il est la personne responsable au
+sens de l'article 44 de ce dernier code. Toutefois, lorsque la nature des opérations le justifie, des marchés peuvent être
+passés avec la même entreprise, pour tout ou partie de la prestation, pour plusieurs départements. En ce cas, le marché
+désigne le préfet exerçant la fonction de personne responsable au sens de l'article 44.
+
+II. - Par dérogation aux dispositions du I du présent article, certains marchés nécessaires à l'exécution du service public
+de l'équarrissage peuvent être passés à l'échelon national lorsque des considérations d'ordre technique ou économique
+justifient une coordination à un tel niveau. En ce cas le ministre chargé de l'agriculture exerce la fonction de personne
+responsable, au sens des dispositions de l'article 44 du code des marchés publics.
+
+III. - Les personnes responsables des marchés désignées conformément aux dispositions du I et II du présent article sont
+chargées de l'engagement et de la liquidation des dépenses afférentes à ces marchés. Celles-ci sont ordonnancées par le
+directeur général du Centre national pour l'aménagement des structures des exploitations agricoles puis mises en paiement par
+l'agent comptable du centre.
 
 **Liens relatifs à cet article**
 
@@ -3297,22 +3333,23 @@ _Cite_:
 
   - Code des marchés publics 44
 
-_Nouveaux textes_:
-
-  - Code rural 264-2
-
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-1229 du 27 décembre 1996 - art. 1 () JORF 31 décembre 1996
+  - Décret n°97-1005 du 30 octobre 1997 - art. 3 () JORF 1er novembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 264-2
+###### Article 264-3
 
-Les marchés mentionnés à l'article 264-1 comportent, notamment, un cahier des clauses administratives particulières et un
+Les marchés mentionnés à l'article 264-2 comportent, notamment, un cahier des clauses administratives particulières et un
 cahier des clauses techniques particulières qui doivent être conformes à des documents types établis par arrêté du ministre
 chargé de l'agriculture.
 
@@ -3338,22 +3375,23 @@ par l'établissement de documents permettant le contrôle des opérations réali
 
 _Cite_:
 
-  - Code rural 264-1
-
-_Nouveaux textes_:
-
-  - Code rural 264-3
+  - Code rural 264-2
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-1229 du 27 décembre 1996 - art. 1 () JORF 31 décembre 1996
+  - Décret n°97-1005 du 30 octobre 1997 - art. 4 () JORF 1er novembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 264-3
+###### Article 264-4
 
 Dans chaque commune, l'arrêté du préfet portant à la connaissance du public les noms et adresses des titulaires de marchés
 chargés de la collecte des cadavres d'animaux et des déchets d'abattoirs, ainsi que toutes informations permettant de joindre
@@ -3361,17 +3399,22 @@ ceux-ci sans délai, est affiché à la mairie. Un extrait de cet arrêté est �
 
 **Liens relatifs à cet article**
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code rural 264-4
+  - Code rural 264-3
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Transféré par_:
 
-  - Décret n°96-1229 du 27 décembre 1996 - art. 1 () JORF 31 décembre 1996
+  - Décret n°97-1005 du 30 octobre 1997 - art. 1 () JORF 1er novembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 265
