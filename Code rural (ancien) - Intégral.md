@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1960-05-13
+Version Consolidée au 1960-07-31
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -117,9 +117,9 @@ Version Consolidée au 1960-05-13
       - [Chapitre III : Dispositions diverses. (art. 857 à 860)](#114)
     - [Titre V : Bail emphytéotique. (art. 948)](#115)
   - [Livre VII : Dispositions sociales (art. 984 à 1262)](#116)
-    - [Titre Ier : Régime du travail (art. 984 à 999)](#117)
+    - [Titre Ier : Régime du travail (art. 984 à 1000)](#117)
       - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#118)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999)](#119)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#119)
     - [Titre II : Mutualité sociale agricole (art. 1002 à 1142)](#120)
       - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#121)
       - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#122)
@@ -11126,6 +11126,42 @@ _Abrogé par_:
   - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 
+###### Article 990
+
+Les inspecteurs et les contrôleurs des lois sociales en agriculture, commissionnés et assermentés dans les conditions fixées
+par décret, sont habilités à constater les infractions aux arrêtés visés à l'article 987 dans des procès-verbaux qui font foi
+jusqu'à preuve contraire.
+
+Ils ont accès dans les exploitations et entreprises intéressées et peuvent demander communication sur place de tous documents
+et pièces nécessaires à l'accomplissement de leur mission de contrôle.
+
+Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
+officiers de police judiciaire sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard
+des inspecteurs et contrôleurs des lois sociales en agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 987
+
+_Anciens textes_:
+
+  - Ordonnance 45-1490 1945-07-07 art. 8
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°60-771 1960-07-30 art. 1 JORF 31 juillet 1960
+
+_Abrogé par_:
+
+  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+
 ###### Article 991
 
 Des décrets pris sur le rapport du ministre de l'agriculture et du ministre chargé des affaires sociales déterminent les
@@ -11157,6 +11193,25 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance 58-1297 1958-12-23 art. 10 JORF 24 décembre 1958
+
+_Abrogé par_:
+
+  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
+
+
+###### Article 1000
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°60-771 1960-07-30 art. 2 JORF 31 juillet 1960
 
 _Abrogé par_:
 
