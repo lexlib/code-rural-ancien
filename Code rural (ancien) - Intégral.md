@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1960-08-07
+Version Consolidée au 1960-10-04
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -97,7 +97,7 @@ Version Consolidée au 1960-08-07
           - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#94)
           - [Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée. (art. 681 à 682)](#95)
           - [Paragraphe 6 : Prêts aux sociétés d'assurances et de réassurances mutuelles contre la grêle. (art. 683 à 685)](#96)
-        - [Section 3 : Crédit à long terme individuel. (art. 688 à 696-1)](#97)
+        - [Section 3 : Crédit à long terme individuel. (art. 687 à 696-1)](#97)
       - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#98)
       - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 700 à 710)](#99)
     - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#100)
@@ -9875,6 +9875,21 @@ _Codifié par_:
 
 
 #### Section 3 : Crédit à long terme individuel.<a id=97></a>
+
+###### Article 687
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°60-1061 1960-09-24 art. 4 JORF 4 octobre 1960
+
 
 ###### Article 688
 
