@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1983-01-09
+Version Consolidée au 1983-03-04
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -59,7 +59,7 @@ Version Consolidée au 1983-01-09
       - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#56)
       - [Chapitre III : De la police sanitaire (art. 219 à 252)](#57)
         - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#58)
-        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#59)
+        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224 à 243)](#59)
         - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#60)
     - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#61)
       - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#62)
@@ -8143,6 +8143,58 @@ _Abrogé par_:
 
 
 #### Section 2 : De la police sanitaire des maladies contagieuses.<a id=59></a>
+
+###### Article 224
+
+Les maladies réputées contagieuses et qui donnent lieu à déclaration et à l'application des mesures sanitaires ci-après
+sont :
+
+La rage dans toutes les espèces ;
+
+La peste bovine dans toutes les espèces de ruminants ;
+
+La péripneumonie contagieuse dans l'espèce bovine ;
+
+La tuberculose des bovidés dans les conditions fixées par décret sur la proposition du ministre de l'agriculture et après
+avis du comité consultatif des épizooties ;
+
+La clavelée dans l'espèce ovine.
+
+La brucellose dans l'espèce ovine lorsque l'existence de la maladie est confirmée par la mise en évidence de l'agent
+microbien dans un laboratoire agréé par le ministre de l'agriculture ;
+
+La brucellose sous toutes ses formes dans l'espèce caprine ;
+
+Les gales dans les espèces bovine, ovine et caprine ;
+
+La fièvre aphteuse dans les espèces bovine, ovine, caprine et porcine ;
+
+La morve et la dourine chez les équidés ;
+
+La fièvre charbonneuse chez les mammifères de toutes espèces ;
+
+Le rouget, la peste classique, la peste africaine et la salmonellose dans l'espèce porcine ;
+
+La loque, l'acariose et la nosémone des abeilles ;
+
+La paralysie contagieuse (maladie de Teschen) dans l'espèce porcine.
+
+La fièvre catarrhale (langue bleue) dans les espèces bovine, ovine, et caprine ;
+
+L'ornithose chez les oiseaux de toutes espèces.
+
+La peste équine chez tous les équidés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1898-06-21 art. 29
+
 
 ###### Article 225
 
