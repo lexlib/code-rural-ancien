@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1962-09-01
+Version Consolidée au 1963-01-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -5955,6 +5955,30 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+
+###### Article 315
+
+Il est institué un conseil supérieur de l'ordre des vétérinaires ayant son siège à Paris.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°47-1564 1947-08-23
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°63-67 1963-01-25 art. 7 JORF 30 janvier 1963
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 317
