@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-09-28
+Version Consolidée au 1967-11-08
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -11889,6 +11889,51 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+
+###### Article 679
+
+La section viticole du fonds national de solidarité agricole est alimentée par les ressources suivantes :
+
+1° Une subvention inscrite au budget du ministère de l'agriculture et calculée par addition :
+
+D'une somme égale au produit de la majoration du droit de circulation prévue à l'article 1620 bis, premier alinéa, du code
+général des impôts ;
+
+D'une somme égale à une part déterminée annuellement du produit de la taxe unique sur les vins en fonction des charges de la
+section viticole ;
+
+2° Les subventions éventuelles qui lui seraient accordées par les départements, communes, établissements publics et par toute
+personne physique ou morale.
+
+L'excédent d'actif de la section viticole du fonds de solidarité agricole, en cas de liquidation de ce dernier, est versé au
+fonds national de progrès agricole institué par le décret du 16 janvier 1947 (section viticole).
+
+En outre, la caisse de crédit agricole mutuel prêteuse peut accorder aux sinistrés qui en font la demande le report des deux
+premières annuités.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1620 bis
+  - Décret n°47-192 1947-01-16
+
+_Nouveaux textes_:
+
+  - Code rural R361-39
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°61-825 1961-07-29 art. 6 JORF 30 juillet 1961
 
 _Abrogé par_:
 
