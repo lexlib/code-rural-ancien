@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1979-01-03
+Version Consolidée au 1979-01-04
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -182,23 +182,22 @@ Version Consolidée au 1979-01-03
     - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#179)
     - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#180)
       - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#181)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#182)
-    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#183)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#184)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#185)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#186)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#187)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#188)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#189)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#190)
-    - [Titre III : Recherche (art. 1297 à 1337)](#191)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#192)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#193)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#194)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#195)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#196)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#197)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#198)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1272 à 1337)](#182)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#183)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#184)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#185)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#186)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#187)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#188)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#189)
+    - [Titre III : Recherche (art. 1297 à 1337)](#190)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#191)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#192)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#193)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#194)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#195)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#196)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#197)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -25678,129 +25677,7 @@ _Cite_:
 
 # Livre VIII : Formation professionnelle et recherche<a id=182></a>
 
-## Titre Ier : Apprentissage.<a id=183></a>
-
-###### Article 1264
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1265
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1266
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1267
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1268
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1269
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1270
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-###### Article 1271
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
-
-
-## Titre II : Enseignement<a id=184></a>
+## Titre II : Enseignement<a id=183></a>
 
 ###### Article 1272
 
@@ -25817,9 +25694,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=185></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=184></a>
 
-#### Section 1 : Organisation.<a id=186></a>
+#### Section 1 : Organisation.<a id=185></a>
 
 ###### Article 1273
 
@@ -25941,7 +25818,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=187></a>
+#### Section 2 : Dispositions pénales.<a id=186></a>
 
 ###### Article 1281
 
@@ -25958,7 +25835,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=188></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=187></a>
 
 ###### Article 1282
 
@@ -26050,7 +25927,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=189></a>
+### Chapitre III : Enseignement ménager agricole.<a id=188></a>
 
 ###### Article 1288
 
@@ -26097,7 +25974,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=190></a>
+### Chapitre IV : Dispositions communes.<a id=189></a>
 
 ###### Article 1291
 
@@ -26193,9 +26070,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=191></a>
+## Titre III : Recherche<a id=190></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=192></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=191></a>
 
 ###### Article 1297
 
@@ -26257,7 +26134,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=193></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=192></a>
 
 ###### Article 1301
 
@@ -26394,7 +26271,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=194></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=193></a>
 
 ###### Article 1310
 
@@ -26471,7 +26348,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=195></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=194></a>
 
 ###### Article 1315
 
@@ -26623,9 +26500,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=196></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=195></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=197></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=196></a>
 
 ###### Article 1325
 
@@ -26717,7 +26594,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=198></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=197></a>
 
 ###### Article 1331
 
