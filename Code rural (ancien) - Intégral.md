@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2002-02-23
+Version Consolidée au 2003-12-13
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#1)
     - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#2)
@@ -27,7 +27,7 @@ Version Consolidée au 2002-02-23
       - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#24)
       - [Chapitre II : Ressources. (art. 717 à 721)](#25)
       - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#26)
-    - [Titre III : Inspection et contrôle. (art. 738 à 744)](#27)
+    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#27)
     - [Titre IV : Dispositions diverses (art. 745 à 789)](#28)
       - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#29)
       - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#30)
@@ -1375,31 +1375,6 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-###### Article 731
-
-Lorsque, conformément aux dispositions du présent livre, une société coopérative agricole a reçu un prêt de la caisse
-nationale de crédit agricole, son capital ne peut, sous aucun prétexte, être réduit dans les limites fixées à l'article 560,
-que si ce prêt a été intégralement remboursé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 560
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V) JORF 13 décembre 2003
-
-_Cité par_:
-
-  - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
-
-
 ###### Article 732
 
 Indépendamment des autres garanties prévues par le présent livre, les membres de toute société coopérative agricole ayant
@@ -1556,31 +1531,6 @@ _Cite_:
   - Loi n°1949-07-18 art. 1
 
 
-###### Article 742
-
-Le bilan et le compte de profits et pertes présentés à l'assemblée générale des sociétés coopératives ayant obtenu ou voulant
-solliciter des prêts de l'Etat ou des prêts des caisses de crédit agricole mutuel doivent être établis conformément aux
-instructions de la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V) JORF 13 décembre 2003
-
-_Cité par_:
-
-  - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
-
-
 ###### Article 743
 
 Les sociétés coopératives agricoles et les sociétés d'intérêt collectif agricole doivent, si elles ont obtenu un prêt de la
@@ -1593,30 +1543,6 @@ profits ainsi que le projet d'affectation du solde de ce dernier compte.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-
-###### Article 744
-
-La comptabilité des sociétés coopératives agricoles ayant reçu des prêts de l'Etat et des prêts des caisses de crédit
-agricole mutuel doit être tenue conformément aux instructions de la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V) JORF 13 décembre 2003
-
-_Cité par_:
-
-  - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
 ## Titre IV : Dispositions diverses<a id=28></a>
