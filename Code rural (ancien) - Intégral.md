@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1983-03-22
+Version Consolidée au 1983-07-22
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -3022,6 +3022,33 @@ _Anciens textes_:
 _Modifié par_:
 
   - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 60
+
+L'affectation à l'usage du public peut s'établir notamment par la destination du chemin, jointe soit au fait d'une
+circulation générale et continue, soit à des actes réitérés de surveillance et de voirie de l'autorité municipale.
+
+La destination du chemin peut être définie notamment par l'inscription sur le plan départemental des itinéraires de promenade
+et de randonnée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-08-20 art. 2
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 57 () JORF 23 juillet 1983 rectificatif 25 septembre 1983
 
 _Abrogé par_:
 
