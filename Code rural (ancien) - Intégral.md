@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-01-10
+Version Consolidée au 1985-02-12
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -19629,8 +19629,9 @@ mutuelles d'allocations familiales agricoles et aux caisses mutuelles d'assuranc
 il ne pourra être apporté aucune modification à l'affectation définitive des ressources attribuées à chacun des régimes
 précédemment gérés par ces caisses.
 
-Les statuts et règlements intérieurs des caisses de mutualité sociale agricole sont approuvés par le ministre de
-l'agriculture après avis de l'union des caisses centrales de la mutualité agricole.
+Les statuts et règlements intérieurs des caisses de mutualité sociale agricole sont approuvés par le ministre chargé de
+l'agriculture, après avis du conseil central d'administration de la mutualité sociale agricole. Le ministre peut déléguer ce
+pouvoir au commissaire de la République pour la région.
 
 Les caisses de mutualité sociale agricole comprennent un service de recouvrement, contrôle et contentieux et des sections
 dont les opérations font l'objet de comptabilités distinctes dans des conditions fixées par décret pris sur le rapport du
@@ -19664,7 +19665,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°60-452 1960-05-12 art. 52 JORF 13 mai 1960
+  - Décret n°85-192 du 11 février 1985 - art. 14 (Ab) JORF 12 février 1985
 
 _Cité par_:
 
@@ -19675,10 +19676,6 @@ _Nouveaux textes_:
 
   - Code rural - art. L723-1 (V)
   - Code rural - art. L723-2 (M)
-
-_Anciens textes_:
-
-  - Loi n°1941-04-05 art. 3
 
 
 ###### Article 1003
