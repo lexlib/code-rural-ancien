@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-07-14
+Version Consolidée au 1982-10-21
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -69,7 +69,7 @@ Version Consolidée au 1982-07-14
     - [Titre VII : De la production des animaux domestiques (art. 308)](#66)
       - [Chapitre II : De l'insémination artificielle. (art. 308)](#67)
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#68)
-    - [Titre IX : Des pénalités. (art. 325 à 333)](#69)
+    - [Titre IX : Des pénalités. (art. 325 à 340)](#69)
     - [Titre X : De la protection des végétaux. (art. 342 à 364)](#70)
       - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#71)
       - [Chapitre II : Mesures de défense contre les parasites et petits animaux. (art. 348 à 355)](#72)
@@ -10555,6 +10555,63 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 340
+
+Sous réserve des dispositions de la loi n° 82-899 du 20 octobre 1982 relative à l'exercice des activités de vétérinaire et
+des dispositions transitoires prévues par l'article 6 de la loi du 17 juin 1938 relative à l'exercice de la médecine
+vétérinaire et par la loi du 22 septembre 1948 relative à l'exercice de la médecine et de la chirurgie des animaux par des
+vétérinaires étrangers, ceux qui exercent de façon habituelle, avec ou sans rémunération, la médecine ou la chirurgie des
+animaux sans être de nationalité française, sans être munis du diplôme d'Etat français de vétérinaire ou du diplôme d'Etat
+français de docteur vétérinaire et sans être habilités par le conseil régional de l'ordre des vétérinaires, seront punis, en
+cas de récidive, d'un emprisonnement de un à six mois et d'une amende de 7.200 à 60.000 F ou de l'une de ces deux peines
+seulement.
+
+Seront punis des mêmes peines en cas de récidive :
+
+1° Les vétérinaires et docteurs vétérinaires qui, frappés de suspension, auront néanmoins exercé leur art de façon
+habituelle ;
+
+2° Les personnes visées à l'article 6 de la loi du 17 juin 1938 et qui exerceraient la médecine ou la chirurgie des animaux
+sans avoir obtenu leur inscription sur le registre spécial prévu par cet article ;
+
+3° Les élèves et anciens élèves des écoles vétérinaires relevant des articles 309-1 à 309-8 qui, frappés de suspension ou
+d'interdiction, auront néanmoins exercé l'art vétérinaire.
+
+Toutefois, ne tomberont pas sous le coup des alinéas précédents les interventions faites par les maréchaux-ferrants dans les
+maladies du pied, les opérations de castration des animaux autres que les équidés et les soins d'urgence, hors le cas de
+maladies contagieuses. L'exercice de la médecine vétérinaire dans les maladies contagieuses des animaux sans diplôme de
+vétérinaire sera puni des peines prévues à l'article 328.
+
+Ne tombent pas sous le coup des dispositions des alinéas précédents les interventions faites par les fonctionnaires et agents
+des catégories désignées en application de l'article 311-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 309-1 à 309-8, 328, 311-1
+  - Loi n°1938-06-17 art. 6
+  - Loi n°48-1465 1948-09-22
+  - Loi n°82-899 1982-10-20
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1881-07-21 art. 30
+  - Loi n°1898-06-21 art. 40
+  - Loi n°1938-06-17 art. 1, art. 5, art. 7
+
+_Modifié par_:
+
+  - Ordonnance 58-1297 1958-12-23 art. 11 JORF 24 décembre 1958
+  - Loi n°71-450 1971-06-16 art. 2 JORF 17 juin 1971
+  - Loi n°79-6 1979-01-02 art. 2 JORF 3 janvier 1979
+  - Loi n°82-899 du 20 octobre 1982 - art. 4 () JORF 21 octobre 1982
 
 
 ## Titre X : De la protection des végétaux.<a id=70></a>
