@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-31
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#1)
     - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#2)
@@ -41,21 +41,19 @@ Version Consolidée au 2000-09-21
       - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#38)
   - [Livre VII : Dispositions sociales (art. 1003-1 à 1261)](#39)
     - [Titre II : Mutualité sociale agricole (art. 1003-1 à 1142-27)](#40)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-20)](#41)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1121)](#42)
-        - [Section 1 : Prestations (art. 1110 à 1121)](#43)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#44)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1121)](#45)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-10)](#46)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-20)](#47)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-27)](#48)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#49)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#50)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#51)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#52)
-    - [Titre III : Recherche (art. 1337)](#53)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#54)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#55)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1121)](#41)
+        - [Section 1 : Prestations (art. 1110 à 1121)](#42)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#43)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1121)](#44)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-5)](#45)
+      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-27)](#46)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#47)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#48)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#49)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#50)
+    - [Titre III : Recherche (art. 1337)](#51)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#52)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#53)
 # Livre II : Des animaux et des végétaux<a id=1></a>
 
 ## Titre III : De la lutte contre les maladies des animaux<a id=2></a>
@@ -3358,39 +3356,7 @@ _Abrogé par_:
   - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=41></a>
-
-###### Article 1106-20
-
-Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
-à l'exclusion de celles qui sont relatives aux frais de gestion et à l'action sociale.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L762-21
-  - Code rural L762-22
-  - Code rural L762-23
-  - Code rural - art. L762-21 (V)
-  - Code rural - art. L762-22 (VT)
-  - Code rural - art. L762-23 (VT)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Loi - art. 103 () JORF 31 décembre 2000
-
-
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=42></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=41></a>
 
 ###### Article 1107
 
@@ -3410,7 +3376,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-#### Section 1 : Prestations<a id=43></a>
+#### Section 1 : Prestations<a id=42></a>
 
 ###### Article 1110
 
@@ -3452,7 +3418,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=44></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=43></a>
 
 ###### Article 1111
 
@@ -3707,7 +3673,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 2 : Retraite.<a id=45></a>
+##### Paragraphe 2 : Retraite.<a id=44></a>
 
 ###### Article 1120-1
 
@@ -3838,7 +3804,7 @@ _Cite_:
   - Code rural 1116, 1123, 1106-1, 1120-2
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=46></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=45></a>
 
 ###### Article 1142-3
 
@@ -3969,52 +3935,7 @@ _Abrogé par_:
   - Décret n°2004-861 du 24 août 2004 - art. 1 () JORF 25 août 2004
 
 
-###### Article 1142-10
-
-Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
-à l'exclusion de celles relatives à la gestion.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi - art. 103 () JORF 31 décembre 2000
-
-
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=47></a>
-
-###### Article 1142-20
-
-Le budget annexe des prestations sociales agricoles comporte, en recettes et en dépenses, les opérations résultant du présent
-chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes ainsi que des dépenses et des recettes
-concernant l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
-
-_Abrogé par_:
-
-  - Loi - art. 103 () JORF 31 décembre 2000
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L752-7 (M)
-  - Code de la sécurité sociale. - art. L752-8 (M)
-  - Code rural annexe
-
-
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=48></a>
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=46></a>
 
 ###### Article 1142-27
 
@@ -4041,9 +3962,9 @@ _Abrogé par_:
   - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=49></a>
+## Titre III : Accidents du travail et risques agricoles<a id=47></a>
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=50></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=48></a>
 
 ###### Article 1207
 
@@ -4216,7 +4137,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=51></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=49></a>
 
 ###### Article 1253
 
@@ -4348,13 +4269,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=52></a>
+# Livre VIII : Formation professionnelle et recherche<a id=50></a>
 
-## Titre III : Recherche<a id=53></a>
+## Titre III : Recherche<a id=51></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=54></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=52></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=55></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=53></a>
 
 ###### Article 1337
 
