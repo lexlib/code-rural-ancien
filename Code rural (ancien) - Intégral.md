@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-02-01
+Version Consolidée au 1982-05-07
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 1982-02-01
     - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#61)
       - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#62)
       - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#63)
-    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-4)](#64)
+    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-5)](#64)
     - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#65)
     - [Titre VII : De la production des animaux domestiques (art. 308)](#66)
       - [Chapitre II : De l'insémination artificielle. (art. 308)](#67)
@@ -7579,6 +7579,32 @@ _Créé par_:
   - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
 
 
+###### Article 215-2
+
+Les agents techniques sanitaires et les préposés sanitaires, qu'ils soient fonctionnaires ou agents contractuels à temps
+complet de l'Etat, et les techniciens des services vétérinaires, ont qualité, dans les limites du département où ils sont
+affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le préfet, pour rechercher et constater les infractions
+visées à l'article 215-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 215-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+
+_Modifié par_:
+
+  - Loi n°82-373 1982-05-06 art. 1 JORF 7 mai 1982
+
+
 ###### Article 215-3
 
 Avant d'exercer les fonctions prévues aux articles 215-1 et 215-2, les fonctionnaires et agents mentionnés auxdits articles
@@ -7602,6 +7628,35 @@ _Créé par_:
 _Abrogé par_:
 
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 215-4
+
+Ces fonctionnaires et agents ont libre accès de jour et de nuit dans tous les lieux où sont hébergés des animaux domestiques
+ou sauvages, en vue de procéder à tous les examens nécessaires à l'exécution des mesures de lutte contre les maladies des
+animaux prévues aux articles 214 à 252 du présent code. Lors de ces visites, ils peuvent procéder à la constatation des
+infractions aux dispositions desdits articles et des textes réglementaires pris pour leur application.
+
+Ils doivent, si la visite a lieu après le coucher du soleil, être accompagnés par un officier ou un agent de police
+judiciaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 214 à 252
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+
+_Modifié par_:
+
+  - Loi n°82-373 1982-05-06 art. 2 JORF 7 mai 1982
 
 
 ###### Article 215-5
@@ -9430,6 +9485,32 @@ _Créé par_:
   - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
 
 
+###### Article 283-2
+
+Les agents techniques sanitaires et les préposés sanitaires, qu'ils soient fonctionnaires ou agents contractuels à temps
+complet de l'Etat, et les techniciens des services vétérinaires, ont qualité, dans les limites du département où ils sont
+affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le préfet, pour rechercher et constater les infractions
+visées à l'article 283-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 283-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
+
+_Modifié par_:
+
+  - Loi n°82-373 1982-05-06 art. 3 JORF 7 mai 1982
+
+
 ###### Article 283-3
 
 Avant d'exercer les fonctions prévues aux articles 283-1 et 283-2, les fonctionnaires et agents mentionnés auxdits articles
@@ -9485,6 +9566,36 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 283-5
+
+Pour l'exercice des contrôles, examens et interventions de toute nature qu'implique l'exécution des mesures de protection des
+animaux prévues aux articles 276 à 283, les fonctionnaires et agents mentionnés aux articles 283-1 et 283-2 sont habilités :
+
+1° à pénétrer de jour dans tous les lieux où vivent des animaux domestiques ou des animaux sauvages apprivoisés ou tenus en
+captivité, à l'exclusion des habitations privées ;
+
+2° à procéder ou à faire procéder, de jour et de nuit, à l'ouverture des véhicules à usage professionnel dans lesquels sont
+transportés des animaux et à y pénétrer, sauf si ces véhicules ne sont pas utilisés à des fins professionnelles au moment du
+contrôle.
+
+Si la visite des véhicules a lieu entre le coucher et le lever du soleil, ces fonctionnaires et agents doivent être
+accompagnés par un officier ou agent de police judiciaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 276 à 283, 283-1, 283-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°82-373 1982-05-06 art. 4 JORF 7 mai 1982
 
 
 ## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=65></a>
