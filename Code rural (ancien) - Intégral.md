@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-08-01
+Version Consolidée au 1991-08-10
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -24338,23 +24338,39 @@ missions ;
 accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement ;
 
 6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du code du travail pour les accidents survenus
-par le fait ou à l'occasion des actions favorisant leur conversion.
+par le fait ou à l'occasion des actions favorisant leur conversion ;
+
+7° Les salariés agricoles désignés, dans les conditions définies à l'article L. 225-8 du code du travail, pour siéger dans
+une instance instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat, pour les accidents
+survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne bénéficient pas à un autre titre des
+dispositions du présent article.
 
 En ce qui concerne les personnes visées au présent article, des décrets déterminent à qui incombent les obligations de
 l'employeur et fixent les bases des cotisations et celles des indemnités.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
 _Modifié par_:
 
-  - Loi n°86-1320 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
+  - Loi n°91-772 du 7 août 1991 - art. 2 () JORF 10 août 1991
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code rural - art. L751-1 (M)
+  - Code rural L751-1
 
 _Cite_:
 
+  - Code du travail - art. L225-8 (MMN)
   - Code du travail - art. L236-10 (M)
   - Code du travail - art. L322-3 (Ab)
   - Code du travail - art. L322-4 (M)
@@ -28566,7 +28582,13 @@ administratifs ou paritaires, pour les accidents survenus par le fait ou à l'oc
 accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement ;
 
 6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du code du travail pour les accidents survenus
-par le fait ou à l'occasion des actions favorisant leur reconversion.
+par le fait ou à l'occasion des actions favorisant leur reconversion ;
+
+7° Les salariés d'exploitations ou d'entreprises agricoles ayant leur siège dans les départements du Haut-Rhin, du Bas-Rhin
+ou de la Moselle désignés, dans les conditions définies à l'article L. 225-8 du code du travail, pour siéger dans une
+instance instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat pour les accidents
+survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne bénéficient pas à un autre titre des
+dispositions du présent article.
 
 Des décrets fixent les modalités de prise en charge, par les caisses d'assurance-accident agricole des départements du Haut-
 Rhin, du Bas-Rhin et de la Moselle, des risques susceptibles de survenir aux personnes visées au présent article ainsi que
@@ -28575,16 +28597,27 @@ obligations de l'employeur.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
 _Modifié par_:
 
-  - Loi n°86-1320 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
+  - Loi n°91-772 du 7 août 1991 - art. 2 () JORF 10 août 1991
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code rural - art. L761-14 (V)
+  - Code rural L761-14
 
 _Cite_:
 
+  - Code du travail - art. L225-8 (MMN)
   - Code du travail - art. L236-10 (M)
   - Code du travail - art. L322-3 (Ab)
   - Code du travail - art. L322-4 (M)
