@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-07-27
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 188)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122)](#2)
@@ -12062,6 +12062,12 @@ attributions, notamment :
 de protection sociale agricole et de centraliser les informations nécessaires à la détermination des prestations dues aux
 assurés ;
 
+En passant, pour son propre compte et celui des autres organismes, associations et groupements mentionnés aux articles 1002 à
+1002-3 du présent code, des conventions de prix assorties de marchés types tant pour les marchés informatiques que pour les
+autres marchés prévus à l'article L. 124-4 du code de la sécurité sociale. Dans le cadre de cette procédure, les autres
+organismes, associations et groupements susvisés sont alors dispensés du respect des obligations leur incombant en
+application de l'article L. 124-4 du code de la sécurité sociale.
+
 c) D'assurer la gestion de risques ou de fonds dans les cas prévus par la législation ;
 
 d) De gérer les opérations de compensation en matière de gestion, d'action sanitaire et sociale et de contrôle médical des
@@ -12086,14 +12092,16 @@ Les statuts de la caisse centrale de la mutualité sociale agricole sont approuv
 _Cite_:
 
   - CGI 1069
+  - Code de la sécurité sociale. - art. L124-4 (M)
+  - Code rural 1002 à 1002-3
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
+  - Loi n°94-637 du 25 juillet 1994 - art. 22 () JORF 27 juillet 1994
 
 _Cité par_:
 
@@ -22844,11 +22852,18 @@ _Abrogé par_:
 
 ###### Article 1246
 
-Les agents agréés et assermentés des caisses de mutualité sociale agricole sont chargés de collaborer au contrôle de
-l'application des dispositions des chapitres II et III du titre II et du chapitre Ier du titre III du présent livre.
+Le contrôle de l'application des dispositions des chapitres II, III, III-1, IV et IV-3 du titre II et du chapitre Ier du
+titre III du présent livre est confié aux caisses de mutualité sociale agricole. Les agents chargés du contrôle sont
+assermentés et agréés dans des conditions définies par arrêté du ministre chargé de l'agriculture. Ces agents ont qualité
+pour dresser, en cas d'infraction auxdites dispositions, des procès-verbaux faisant foi jusqu'à preuve du contraire. Les
+caisses de mutualité sociale agricole les transmettent au procureur de la République s'il s'agit d'infractions pénalement
+sanctionnées.
 
-Ils ont qualité pour dresser, en cas d'infraction constatée par eux, des procès-verbaux qui feront foi jusqu'à preuve
-contraire, à condition d'être contresignés par un inspecteur des lois sociales en agriculture.
+Le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles vérifie la
+pertinence des objectifs de contrôle poursuivis par les organismes de mutualité sociale agricole et les conditions dans
+lesquelles ces contrôles s'effectuent. Il donne aux organismes des injonctions en cas de carence, leur demande communication
+des procès-verbaux dressés à la suite des contrôles et les transmet, le cas échéant, au procureur de la République aux fins
+de poursuite.
 
 Tout agent, non agréé ou ayant eu connaissance officielle que l'agrément lui a été retiré, qui aura exercé ou continué
 d'exercer sa mission en invoquant les pouvoirs conférés par le présent article sera passible des peines prévues par l'article
@@ -22863,10 +22878,6 @@ caisses de mutualité sociale agricole.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 _Cite_:
 
   - Code pénal 197, 378
@@ -22878,6 +22889,25 @@ _Nouveaux textes_:
   - Code rural - art. L724-7 (M)
   - Code rural - art. L724-8 (M)
   - Code rural - art. L724-9 (M)
+  - Code rural L724-10
+  - Code rural L724-5
+  - Code rural L724-7
+  - Code rural L724-8
+  - Code rural L724-9
+  - Code rural R724-5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°94-637 du 25 juillet 1994 - art. 6 () JORF 27 juillet 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1247
