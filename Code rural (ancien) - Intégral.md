@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-14
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -26707,8 +26707,8 @@ _Abrogé par_:
 
 ###### Article 1142-15
 
-Les cotisations varient dans la limite d'une superficie maximum de 6 hectares pondérés en fonction de la superficie pondérée
-de l'exploitation.
+Les cotisations varient en fonction de la superficie pondérée de l'exploitation ; un décret fixe chaque année, pour chaque
+département, le taux des cotisations.
 
 Dans le bail à métayage ou colonat partiaire, le preneur et le bailleur sont tenus l'un et l'autre au paiement de ces
 cotisations qui sont partagées entre eux selon une proportion fixée par décret.
@@ -26725,13 +26725,24 @@ _Cite_:
   - Code rural 1065
   - Loi n°85-697 1985-07-11
 
-_Modifié par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 38 () JORF 31 décembre 1988
-
 _Nouveaux textes_:
 
+  - Code rural L762-9
   - Code rural - art. L762-9 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°89-18 1989-01-13 art. 8 I, II JORF 14 janvier 1989
+  - Loi n°89-18 du 13 janvier 1989 - art. 8 (V) JORF 14 janvier 1989
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-16
@@ -31224,11 +31235,11 @@ _Nouveaux textes_:
 
 ###### Article 1251
 
-Le bénéfice des dispositions des articles L. 433-2 et L. 434-2, L. 434-7 à L. 434-10, L. 434-13 à L. 434-16 et L. 452-1 à L.
-452-4 du code de la sécurité sociale, 1217 et 1221 du présent code est accordé aux assurés des professions agricoles et
-forestières visées au livre III (deuxième partie) du code local des assurances sociales en vigueur dans les départements du
-Haut-Rhin, du Bas-Rhin et de la Moselle, conformément à l'article 1226, à condition qu'au moment de l'accident la victime ait
-eu la qualité de travailleur agricole salarié.
+Le bénéfice des dispositions des articles L. 411-2, L. 433-2, L. 434-1 et L. 434-2, L. 434-7 à L. 434-10, L. 434-13 à L.
+434-16, L. 452-1 à L. 452-4, L. 454-1, L. 455-1 et L. 455-2 du code de la sécurité sociale, 1217 et 1221 du présent code est
+accordé aux assurés des professions agricoles et forestières visées au livre III (deuxième partie) du code local des
+assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, conformément à l'article
+1226, à condition qu'au moment de l'accident la victime ait eu la qualité de travailleur agricole salarié.
 
 La liquidation et la charge de l'ensemble des prestations dues aux travailleurs salariés ci-dessus désignés, pour les
 accidents survenus après la date fixée à l'article 1226, sont assumées par l'organisme d'assurance dont ils relèvent. La
@@ -31244,27 +31255,40 @@ général.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°87-588 du 30 juillet 1987 - art. 17 () JORF 31 juillet 1987
+  - Code rural 1217, 1221, 1226
+  - Code de la sécurité sociale L411-2, L433-2, L434-1, L434-2, L434-7 à L434-10, L434-13 à L434-16, L452-1 à L452-4, L454-1, L455-1, L455-2, L452-2
+  - Code de la sécurité sociale. - art. L411-2 (M)
+  - Code de la sécurité sociale. - art. L433-2 (M)
+  - Code de la sécurité sociale. - art. L434-1 (M)
+  - Code de la sécurité sociale. - art. L434-2 (M)
+  - Code de la sécurité sociale. - art. L452-2 (M)
+  - Code de la sécurité sociale. - art. L454-1 (M)
+  - Code de la sécurité sociale. - art. L455-1 (V)
+  - Code de la sécurité sociale. - art. L455-2 (M)
 
 _Nouveaux textes_:
 
+  - Code rural L761-16
+  - Code rural L761-17
+  - Code rural L761-21
   - Code rural - art. L761-16 (V)
   - Code rural - art. L761-17 (M)
   - Code rural - art. L761-21 (M)
 
-_Cite_:
+_Codifié par_:
 
-  - Code de la sécurité sociale L433-2, L434-2, L434-7 à L434-10, L434-13 à L434-16, L452-1 à L452-4, L452-2
-  - Code de la sécurité sociale. - art. L433-2 (M)
-  - Code de la sécurité sociale. - art. L434-2 (M)
-  - Code de la sécurité sociale. - art. L452-2 (M)
-  - Code rural 1217, 1221, 1226
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°89-18 du 13 janvier 1989 - art. 21 (Ab) JORF 14 janvier 1989
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1252
