@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1957-03-24
+Version Consolidée au 1957-05-14
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -63,11 +63,11 @@ Version Consolidée au 1957-03-24
       - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#60)
       - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#61)
   - [Livre III : La chasse et la pêche (art. 373 à 501)](#62)
-    - [Titre Ier : De la chasse (art. 373 à 397)](#63)
+    - [Titre Ier : De la chasse (art. 373 à 399)](#63)
       - [Chapitre Ier : De l'exercice du droit de chasse. (art. 373 à 373-1)](#64)
       - [Chapitre II : Des pénalités. (art. 378 à 391)](#65)
       - [Chapitre III : De la destruction des animaux nuisibles. (art. 395)](#66)
-      - [Chapitre IV : Des groupements de chasseurs. (art. 397)](#67)
+      - [Chapitre IV : Des groupements de chasseurs. (art. 397 à 399)](#67)
     - [Titre II : Pêche fluviale (art. 401 à 425)](#68)
       - [Du droit de pêche (art. 401 à 425)](#69)
         - [Chapitre Ier : Dispositions générales. (art. 401 à 410)](#70)
@@ -5686,6 +5686,26 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 399
+
+Les dépenses de fonctionnement des conseils régionaux de la chasse sont couvertes à l'aide des ressources dont dispose le
+conseil supérieur de la chasse.
+
+Les conseils régionaux de la chasse donnent leur avis sur toutes les questions ayant trait à l'organisation et à
+l'amélioration de la chasse ainsi que sur la réglementation de la chasse à établir dans leurs régions respectives ; leurs
+propositions sont transmises au conseil supérieur de la chasse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1941-06-28
 
 
 ## Titre II : Pêche fluviale<a id=68></a>
