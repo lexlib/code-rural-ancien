@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1999-01-07
+Version Consolidée au 1999-07-10
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -20,129 +20,134 @@ Version Consolidée au 1999-01-07
       - [Chapitre III : De la police sanitaire (art. 219 à 243)](#17)
         - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224 à 243)](#18)
     - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 271-1)](#19)
-      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#20)
-      - [Chapitre II : De l'équarrissage. (art. 264 à 271-1)](#21)
-    - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale (art. 275-1 à 275-12)](#22)
-      - [Chapitre Ier : Dispositions générales. (art. 275-1 à 275-3)](#23)
-      - [Chapitre II : Des importations. (art. 275-4)](#24)
-      - [Chapitre III : Des échanges intracommunautaires. (art. 275-5 à 275-8)](#25)
-      - [Chapitre IV : Dispositions diverses. (art. 275-9 à 275-12)](#26)
-    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-7)](#27)
-    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#28)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#29)
-    - [Titre IX : Des pénalités. (art. 325 à 341)](#30)
-    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#31)
-      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 343 à 347)](#32)
-      - [Chapitre II : Mesures de défense contre les organismes nuisibles. (art. 348 à 355)](#33)
-      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 356 à 359)](#34)
-      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#35)
-      - [Chapitre V : Sanctions et dispositions diverses. (art. 363 à 364)](#36)
-    - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte. (art. 364-1 à 364-23)](#37)
-      - [Section 1 : De la garde des animaux domestiques. (art. 364-2)](#38)
-      - [Section 2 : De la lutte contre les maladies des animaux. (art. 364-3 à 364-11)](#39)
-      - [Section 3 : Du contrôle sanitaire des animaux et des viandes. (art. 364-12 à 364-16)](#40)
-      - [Section 5 : Des pénalités. (art. 364-18)](#41)
-      - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#42)
-      - [Section 7 : Dispositions communes. (art. 364-23)](#43)
-    - [Titre XII : Agence française de sécurité sanitaire des aliments (art. 365)](#44)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#45)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#46)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#47)
-    - [Titre II : Coopératives agricoles (art. 551)](#48)
-      - [Chapitre unique : Sanctions pénales. (art. 551)](#49)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#50)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#51)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#52)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#53)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#54)
-      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#55)
-        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#56)
-        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#57)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#58)
-        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#59)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#60)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#61)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#62)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#63)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#64)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#65)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#66)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#67)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#68)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#69)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#70)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#71)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#72)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#73)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#74)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#75)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#76)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#77)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#78)
-    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#79)
-      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 983 à 985)](#80)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#81)
-      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#82)
-    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-6)](#83)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#84)
-      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#85)
-        - [Section 1 : Affiliation. (art. 1024 à 1030)](#86)
-        - [Section 2 : Cotisations. (art. 1031 à 1036)](#87)
-        - [Section 3 : Prestations. (art. 1038 à 1047)](#88)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#89)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#90)
-      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#91)
-        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1072)](#92)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#93)
-        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#94)
-        - [Section 4 : Prestations. (art. 1090 à 1092)](#95)
-        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#96)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#97)
-        - [Section 1 : Champ d'application. (art. 1106-1)](#98)
-        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#99)
-        - [Section 3 : Financement. (art. 1106-6 à 1106-8)](#100)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#101)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#102)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#103)
-        - [Section 1 : Prestations (art. 1110 à 1122-8)](#104)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#105)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#106)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-5 à 1122-8)](#107)
-        - [Section 2 : Cotisations. (art. 1123 à 1135)](#108)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#109)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#110)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#111)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#112)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-6)](#113)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#114)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#115)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#116)
-        - [Section 2 : Prestations. (art. 1148)](#117)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#118)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#119)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#120)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#121)
-        - [Section 7 : Prévention. (art. 1171)](#122)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#123)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#124)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#125)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#126)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#127)
-      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#128)
-      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#129)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#130)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#131)
-      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#132)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#133)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#134)
-      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#135)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#136)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#137)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#138)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#139)
-    - [Titre III : Recherche (art. 1337)](#140)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#141)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#142)
+      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263-1)](#20)
+      - [Chapitre II : De l'équarrissage des animaux. (art. 272)](#21)
+      - [Chapitre II : De l'équarrissage. (art. 264 à 271-1)](#22)
+    - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale (art. 275-1 à 275-12)](#23)
+      - [Chapitre Ier : Dispositions générales. (art. 275-1 à 275-3)](#24)
+      - [Chapitre II : Des importations. (art. 275-4)](#25)
+      - [Chapitre III : Des échanges intracommunautaires. (art. 275-5 à 275-8)](#26)
+      - [Chapitre IV : Dispositions diverses. (art. 275-9 à 275-12)](#27)
+    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-7)](#28)
+    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#29)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#30)
+    - [Titre IX : Des pénalités. (art. 325 à 341)](#31)
+    - [Titre X : De la protection des végétaux. (art. 342 à 364 ter)](#32)
+      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 343 à 347)](#33)
+      - [Chapitre II : Mesures de défense contre les organismes nuisibles. (art. 348 à 355)](#34)
+      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 356 à 359)](#35)
+      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#36)
+      - [Chapitre V : Sanctions et dispositions diverses. (art. 363 à 364)](#37)
+      - [Chapitre VI : Surveillance biologique du territoire. (art. 364 bis à 364 ter)](#38)
+    - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte. (art. 364-1 à 364-23)](#39)
+      - [Section 1 : De la garde des animaux domestiques. (art. 364-2)](#40)
+      - [Section 2 : De la lutte contre les maladies des animaux. (art. 364-3 à 364-11)](#41)
+      - [Section 3 : Du contrôle sanitaire des animaux et des viandes. (art. 364-12 à 364-16)](#42)
+      - [Section 5 : Des pénalités. (art. 364-18)](#43)
+      - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#44)
+      - [Section 7 : Dispositions communes. (art. 364-23)](#45)
+    - [Titre XII : Agence française de sécurité sanitaire des aliments (art. 365)](#46)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#47)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#48)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#49)
+    - [Titre II : Coopératives agricoles (art. 551)](#50)
+      - [Chapitre unique : Sanctions pénales. (art. 551)](#51)
+  - [Livre V : Crédit agricole (art. 614 à 789)](#52)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#53)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#54)
+      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#55)
+      - [Chapitre III : Ressources. (art. 645 à 652)](#56)
+      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#57)
+        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#58)
+        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#59)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#60)
+        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#61)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#62)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#63)
+    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#64)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#65)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#66)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#67)
+    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#68)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#69)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#70)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#71)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#72)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#73)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#74)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#75)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#76)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#77)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#78)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#79)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#80)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-8)](#81)
+      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 983 à 985)](#82)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#83)
+      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#84)
+      - [Chapitre IV : Titre emploi simplifié agricole. (art. 1000-6)](#85)
+      - [Chapitre V : Dispositions relatives aux comités des activités sociales et culturelles. (art. 1000-7)](#86)
+      - [Chapitre VI : Dispositions relatives aux observatoires de l'emploi salarié en agriculture. (art. 1000-8)](#87)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-7)](#88)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#89)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#90)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#91)
+        - [Section 2 : Cotisations. (art. 1031 à 1036)](#92)
+        - [Section 3 : Prestations. (art. 1038 à 1047)](#93)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#94)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#95)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#96)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1072)](#97)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#98)
+        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#99)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#100)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#101)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#102)
+        - [Section 1 : Champ d'application. (art. 1106-1)](#103)
+        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#104)
+        - [Section 3 : Financement. (art. 1106-6 à 1106-8)](#105)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#106)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#107)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#108)
+        - [Section 1 : Prestations (art. 1110 à 1122-9)](#109)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#110)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#111)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-5 à 1122-9)](#112)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#113)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#114)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#115)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#116)
+      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#117)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-7)](#118)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#119)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#120)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#121)
+        - [Section 2 : Prestations. (art. 1148)](#122)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#123)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#124)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#125)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#126)
+        - [Section 7 : Prévention. (art. 1171)](#127)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#128)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#129)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#130)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#131)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#132)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#133)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#134)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#135)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#136)
+      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#137)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#138)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#139)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#140)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#141)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#142)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#143)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#144)
+    - [Titre III : Recherche (art. 1337)](#145)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#146)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#147)
 # Livre Ier : Régime du sol<a id=1></a>
 
 ## Titre III : Des cours d'eaux non domaniaux<a id=2></a>
@@ -2224,12 +2229,43 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 215
+
+Lorsque, en tout lieu où sont hébergés les animaux ou au cours d'un transport, il est constaté qu'un animal de l'espèce
+bovine, ovine ou caprine n'est pas identifié, conformément aux dispositions prises en application de la loi n° 66-1005 sur
+l'élevage ou d'un règlement communautaire, ou n'est pas accompagné des documents prévus par les textes pris pour leur
+application, les agents visés aux articles 215-1, 215-2, 283-1 et 283-2 mettent en demeure le détenteur ou propriétaire dudit
+animal de mettre à disposition, dans un délai maximal de quarante-huit heures, les informations nécessaires permettant de
+prouver l'identification de l'animal, son âge, son origine et son dernier lieu de provenance. A l'issue de ce délai et en
+l'absence desdites informations, les agents susmentionnés peuvent faire procéder, aux frais du détenteur, à la conduite à
+l'abattoir de l'animal en question. Les dispositions de l'article 253-1 sont dès lors applicables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 215-1, 215-2, 283-1, 283-2, 253-1
+  - Loi n°66-1005 1966-12-28
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 97 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ###### Article 215-1
 
-Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels à temps complet de l'Etat, ont qualité,
-dans les limites du département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des
-articles 214 à 252 du présent code sur la lutte contre les maladies des animaux et des textes réglementaires pris pour leur
-application.
+Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels de l'Etat, ont qualité, dans les limites du
+département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des articles 214 à 252 du
+présent code sur la lutte contre les maladies des animaux et des textes réglementaires pris pour leur application.
 
 **Liens relatifs à cet article**
 
@@ -2237,21 +2273,31 @@ _Cite_:
 
   - Code rural 214 à 252
 
+_Nouveaux textes_:
+
+  - Code rural L921-5
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 215-2
 
 Les agents techniques sanitaires et les préposés sanitaires, qu'ils soient fonctionnaires ou agents contractuels à temps
-complet de l'Etat, et les techniciens des services vétérinaires, ont qualité, dans les limites du département où ils sont
-affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le préfet, pour rechercher et constater les infractions
-visées à l'article 215-1.
+complet de l'Etat, les ingénieurs des travaux agricoles, les techniciens des services du ministère chargé de l'agriculture et
+les autres fonctionnaires spécialisés désignés par arrêté du ministre de l'agriculture, ont qualité, dans les limites du
+département où ils sont affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le préfet, pour rechercher et
+constater les infractions visées à l'article 215-1.
 
 **Liens relatifs à cet article**
 
@@ -2259,17 +2305,22 @@ _Cite_:
 
   - Code rural 215-1
 
+_Nouveaux textes_:
+
+  - Code rural L921-6
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°82-373 1982-05-06 art. 1 JORF 7 mai 1982
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 215-3
@@ -3136,15 +3187,25 @@ _Abrogé par_:
 La manipulation des virus aphteux aux fins de recherche, de diagnostic ou de fabrication d'antigènes ou de vaccins n'est
 autorisée que dans les établissements agréés par l'autorité administrative.
 
+Un arrêté du ministre de l'agriculture détermine le classement en groupes distincts des micro-organismes pathogènes pour
+l'animal en fonction des risques qu'ils présentent pour la santé publique et l'environnement et les modalités de confinement
+des installations où ces micro-organismes sont utilisés. Cet arrêté fixe également la liste des micro-organismes pathogènes
+dont l'utilisation est soumise à autorisation.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°91-639 du 10 juillet 1991 - art. 5 () JORF 12 juillet 1991
+  - Loi n°99-574 du 9 juillet 1999 - art. 97 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 236
@@ -3325,68 +3386,312 @@ _Abrogé par_:
 
 ###### Article 253
 
-La chair des animaux morts de maladies contagieuses quelles qu'elles soient ou abattus comme atteints de la peste bovine, de
-la morve, des maladies charbonneuses, du rouget et de la rage, ne peut être vendue et livrée à la consommation.
+I. - Les détenteurs professionnels d'animaux appartenant à des espèces dont la chair ou les produits doivent être livrés au
+public en vue de la consommation sont tenus de déclarer leur élevage. Le préfet est chargé d'organiser l'immatriculation des
+élevages selon des modalités définies par décret.
 
-**Liens relatifs à cet article**
+II. - Dans les conditions prévues par arrêté du ministre de l'agriculture, tout propriétaire ou détenteur d'animaux
+appartenant à des espèces dont la chair ou les produits doivent être cédés en vue de la consommation doit tenir un registre
+d'élevage conservé sur place et régulièrement mis à jour sur lequel il recense chronologiquement les données sanitaires,
+zootechniques et médicales relatives aux animaux élevés.
 
-_Codifié par_:
+Tout vétérinaire mentionne sur ce registre les éléments relatifs à ses interventions dans l'élevage.
 
-  - Décret n°55-433 1955-04-16
+Le registre est tenu à la disposition des agents mentionnés aux articles 215-1, 215-2, 259, 283-1 et 283-2.
 
-_Anciens textes_:
+La durée minimale pendant laquelle les ordonnances doivent être conservées est fixée par arrêté du ministre de l'agriculture.
 
-  - Loi n°1898-06-21 art. 27 al. 1, art. 42 al. 1
+III. - Le ministre de l'agriculture fixe par arrêté la liste des espèces et des catégories d'animaux qui doivent être
+accompagnés, lorsqu'ils sont dirigés vers un abattoir, par une fiche sanitaire, ainsi que les informations figurant sur le
+registre d'élevage qui doivent y être portées.
 
+IV. - En cas de non-respect des dispositions du III ou lorsqu'ils disposent d'éléments leur permettant de conclure que les
+viandes seraient impropres à la consommation humaine ou que les délais d'attente ou de retrait pour les médicaments ou les
+additifs n'ont pas été respectés, les agents habilités en vertu de l'article 259 peuvent différer l'abattage des animaux. Le
+propriétaire ou le détenteur en est informé. Il conserve leur garde au sein de l'abattoir et prend toutes les mesures utiles
+pour assurer leur alimentation et leur bien-être.
 
-###### Article 254
+En cas de non-présentation dans un délai de quarante-huit heures de la fiche sanitaire, les animaux sont abattus. Les
+vétérinaires inspecteurs habilités en vertu de l'article 259 procèdent à la saisie et au retrait de la consommation humaine
+ou animale des viandes qui en sont issues.
 
-Lorsque les animaux ont dû être abattus comme atteints de péripneumonie contagieuse dans l'espèce bovine, de peste porcine,
-de pasteurellose du porc et de salmonellose du porc, la chair ne peut être livrée à la consommation qu'en vertu d'une
-autorisation spéciale du maire, sur l'avis conforme, écrit et motivé, délivrée par le vétérinaire sanitaire.
-
-Toutefois, les poumons et autres viscères doivent être détruits ou enfouis en observant les précautions visées à l'article
-241. Le maire adresse immédiatement au préfet copie de l'autorisation qu'il a accordée : il y joint un duplicata de l'avis
-formulé par le vétérinaire sanitaire et l'attestation que les poumons et autres viscères ont été détruits ou enfouis en sa
-présence ou en présence de son délégué.
-
-Des décrets spécifient les cas dans lesquels la chair des animaux atteints des maladies ci-dessus peut être livrée à la
-consommation.
+L'ensemble des frais induits par ces mesures, prises à la suite de la constatation du non-respect des dispositions
+susmentionnées, sont à la charge du propriétaire ou du détenteur et ne donnent lieu à aucune indemnité.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 241
+  - Code rural 215-1, 215-2, 259, 283-1, 283-2
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1898-06-21 art. 43
+  - Loi n°99-574 du 9 juillet 1999 - art. 97 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 253-1
+
+Lorsqu'un animal est présenté à l'abattoir sans être identifié conformément aux dispositions prises en application des
+articles L. 653-1 à L. 653-17 ou d'un règlement communautaire, ou sans être accompagné des documents qu'ils prévoient, les
+agents habilités en vertu de l'article 259 diffèrent l'abattage en accordant un délai de quarante-huit heures à son
+propriétaire ou son détenteur pour produire les informations manquantes.
+
+A l'issue de ce délai, l'animal est abattu et, en l'absence d'information permettant d'établir son âge et son origine, les
+vétérinaires inspecteurs habilités en vertu de l'article 259 procèdent à la saisie et au retrait de la consommation humaine
+ou animale des viandes qui en sont issues.
+
+Préalablement à l'exécution de la saisie, le propriétaire ou le détenteur de l'animal est mis en mesure de présenter ses
+observations ; il dispose alors d'un nouveau délai de quarante-huit heures pour produire les informations nécessaires.
+
+Pendant ces délais, le détenteur de l'animal et de la viande en conserve la garde et prend toutes mesures utiles pour assurer
+le bon entretien de l'animal ou pour éviter l'altération des viandes.
+
+L'ensemble des frais induits par ces mesures, prises à la suite de la constatation du non-respect des dispositions
+susmentionnées, sont à la charge du propriétaire ou du détenteur et ne donnent lieu à aucune indemnité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L653-1 à L653-17, 259
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 97 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 253-2
+
+Dès qu'il est établi que les denrées destinées à l'alimentation humaine issues d'un élevage présentent ou sont susceptibles
+de présenter un danger pour la santé publique, les vétérinaires inspecteurs habilités en vertu de l'article 259 ordonnent
+qu'elles soient détruites ou subissent avant leur mise à la consommation un traitement permettant d'éliminer ledit danger.
+
+Le ministre de l'agriculture fixe les critères applicables aux élevages qui produisent ces denrées, ainsi que les conditions
+de leur assainissement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 259
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 97 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 253-3
+
+Les vétérinaires titulaires du mandat sanitaire prévu par l'article 215-8 concourent, dans le cadre de celui-ci et sous
+l'autorité du directeur des services vétérinaires, aux fonctions d'inspection sanitaire et qualitative des animaux vivants
+appartenant à des espèces dont la chair ou les produits sont destinés à l'alimentation humaine sur les foires, marchés ou
+expositions, dans tous les lieux et locaux professionnels où ils sont détenus et dans les véhicules professionnels de
+transport. Ils concourent également à la surveillance des conditions sanitaires et qualitatives dans lesquelles ces animaux
+sont produits, alimentés, entretenus, transportés et mis en vente.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 215-8
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 254
+
+I. - Il est interdit d'administrer, de mettre sur le marché, d'introduire sur le territoire métropolitain ou dans les
+départements d'outre-mer et de détenir, en vue d'administrer, même dans un but thérapeutique, aux animaux des espèces dont la
+chair ou les produits sont destinés à l'alimentation humaine, des produits contenant des stilbènes, leurs dérivés, sels ou
+esters, ainsi que des substances à action thyréostatique.
+
+II. - Il est interdit de mettre sur le marché ou d'introduire sur le territoire métropolitain ou dans les départements
+d'outre-mer, pour des animaux des espèces dont la chair ou les produits sont destinés à l'alimentation humaine, ou
+d'administrer à de tels animaux des substances à activité anabolisante, anticatabolisante ou bêta-agoniste.
+
+Toutefois, après autorisation de l'autorité administrative, ces substances peuvent entrer dans la composition de médicaments
+satisfaisant aux conditions prévues aux articles L. 617-1 et L. 617-2 du code de la santé publique. L'administration de ces
+médicaments est subordonnée à des conditions particulières ; elle ne peut être effectuée que par ou sous la responsabilité
+d'un vétérinaire ayant satisfait aux obligations prévues à l'article 309.
+
+III. - Sont interdites la détention, la cession, à titre gratuit ou onéreux, des animaux ou des denrées alimentaires
+provenant d'animaux ayant reçu une substance dont l'usage est prohibé en application des I et II du présent article.
+
+IV. - Il est interdit d'administrer aux animaux des espèces dont la chair ou les produits sont destinés à l'alimentation
+humaine et, pour les personnes ayant la garde de tels animaux, de détenir sans justification une substance ou composition
+relevant de l'article L. 617-6 du code de la santé publique qui ne bénéficie pas d'autorisation au titre des réglementations
+relatives aux médicaments vétérinaires ou aux substances destinées à l'alimentation animale.
+
+V. - Par arrêtés pris après avis de l'Agence française de sécurité sanitaire des aliments, et, en ce qui concerne les
+médicaments à usage humain, après avis de l'Agence française de sécurité sanitaire des produits de santé, le ministre de
+l'agriculture et le ministre chargé de la santé peuvent, pour des motifs de santé publique ou de santé animale, interdire ou
+restreindre la prescription et la délivrance de médicaments en vue d'une administration à des animaux, ainsi que
+l'administration de médicaments à des animaux.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 309
+  - Code de la santé publique - art. L617-1 (M)
+  - Code de la santé publique - art. L617-2 (M)
+  - Code de la santé publique - art. L617-6 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 98 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 255
 
-Les viandes provenant des animaux tuberculeux, à quelque espèce qu'ils appartiennent, sont saisies dans les cas prévus par un
-décret pris sur proposition du ministre de l'agriculture et après avis du comité consultatif des épizooties. Le même décret
-prévoit les cas dans lesquels ces viandes doivent être détruites et ceux dans lesquels leur utilisation peut être permise
-après stérilisation.
+Les établissements préparant, manipulant, entreposant ou cédant des substances et des produits destinés à l'alimentation des
+animaux, présentant des risques pour la santé animale, la santé humaine, ou des matières premières dont l'incorporation dans
+les aliments pour animaux ou l'utilisation dans l'alimentation animale fait l'objet de restrictions en vue de prévenir la
+transmission de contaminants chimiques ou biologiques, doivent satisfaire à des conditions sanitaires, qualitatives et
+d'identification des origines de ces substances et produits et avoir été, selon les cas, agréés ou enregistrés par l'autorité
+administrative.
 
-Un décret rendu dans les mêmes conditions détermine les modes d'utilisation du lait provenant des animaux tuberculeux et du
-sang des bovidés qui doit être livré à la consommation.
+Le ministre de l'agriculture, les ministres chargés de la santé et de la consommation fixent par arrêté la liste des
+produits, substances et matières premières concernés, les conditions que doivent remplir les établissements et les modalités
+selon lesquelles leur respect est contrôlé et attesté, ainsi que les modalités d'attribution et de retrait de l'agrément ou
+de l'enregistrement. Ils peuvent prévoir que certaines des substances ou certains des produits visés au premier alinéa ne
+sont cédés qu'à des établissements faisant l'objet de l'enregistrement ou de l'agrément correspondant.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1933-07-07 art. 7
+  - Loi n°99-574 du 9 juillet 1999 - art. 98 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 255-1
+
+Par dérogation aux dispositions des articles L. 606 et suivants du code de la santé publique, les produits d'hygiène
+applicables aux trayons des femelles laitières dont le lait est destiné à la consommation humaine peuvent être délivrés au
+public et administrés à l'animal s'ils ont reçu, au préalable, un agrément de l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 98 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L606 (Ab)
+
+
+###### Article 256
+
+En cas de non-respect des dispositions de l'article 254, ainsi qu'en cas d'administration aux animaux des espèces dont la
+chair ou les produits sont destinés à la consommation humaine, d'une substance ou composition relevant de l'article L. 617-6
+du code de la santé publique qui bénéficie d'une autorisation au titre des réglementations relatives aux médicaments
+vétérinaires ou aux substances destinées à l'alimentation animale, sans respect des conditions prévues respectivement au V de
+l'article 254 ou par décret, les vétérinaires inspecteurs habilités en vertu de l'article 259 peuvent ordonner l'exécution de
+tout ou partie des mesures suivantes :
+
+- la séquestration, le recensement, le marquage de tout ou partie des animaux de l'exploitation ;
+
+- le contrôle sanitaire des produits avant leur mise sur le marché ;
+
+- l'abattage et la destruction des animaux ou de leurs produits ;
+
+- la destruction des substances en cause et des aliments dans lesquels elles sont incorporées ;
+
+- la mise sous surveillance de l'exploitation pendant les douze mois suivant l'abattage des animaux ;
+
+- le contrôle des élevages et établissements ayant été en relation avec l'exploitation concernée.
+
+Préalablement à l'exécution de ces mesures, le détenteur ou le propriétaire est mis en mesure de présenter ses observations.
+L'ensemble des frais induits par ces mesures, prises à la suite de la constatation du non-respect des dispositions
+susmentionnées, sont à leur charge et ne donnent lieu à aucune indemnité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 254, 259
+  - Code de la santé publique - art. L617-6 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 98 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 257
@@ -3424,33 +3729,40 @@ consommation ;
 4° A la détermination et à la surveillance des conditions d'hygiène dans lesquelles ces denrées sont préparées et conservées,
 notamment lors de leur transport et de leur mise en vente.
 
+Pour ces mêmes raisons, il peut être procédé à l'inspection sanitaire et qualitative des animaux vivants appartenant à des
+espèces dont la chair ou les produits sont destinés à l'alimentation humaine et de leurs conditions de production dans tous
+les lieux et locaux professionnels, autres que ceux visés au 1° ci-dessus où ils sont détenus, et dans les véhicules
+professionnels de transport.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1933-07-07 art. 10 al. 1, al. 2, art. 21
-  - Loi n°1949-12-31 art. 8
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°62-933 du 8 août 1962 - art. 23 (V) JORF 10 août 1962
-  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 259
+###### Article 258-1
 
-Les fonctions d'inspection sanitaire que nécessite l'application des dispositions de l'article 258 ci-dessus sont effectuées
-par un service d'Etat d'hygiène alimentaire constitué de vétérinaires spécialisés assistés de techniciens des services
-vétérinaires et de préposés sanitaires ayant la qualité de fonctionnaires ou agents de l'Etat. Ces fonctionnaires ou agents
-peuvent être assermentés en vue de la constatation des infractions.
+L'autorité administrative peut, selon des modalités définies par un décret en Conseil d'Etat, prendre toutes mesures
+destinées à collecter des données et informations relatives aux denrées visées à l'article 258 en vue d'études
+épidémiologiques des affections et maladies liées à leur consommation et à en assurer le traitement et la diffusion.
 
-Les fonctions d'inspection sanitaire ainsi définies s'exercent sur les animaux et les denrées animales ou d'origine animale
-tant à leur entrée en France qu'à l'intérieur du territoire. Elles ne font pas obstacle à l'exercice des fonctions
-d'inspection sanitaire dont disposent d'autres services de l'Etat dans le cadre de leur compétence propre.
+Ce décret précise notamment dans quelles conditions les producteurs, les distributeurs et les laboratoires qui ont été agréés
+pour réaliser les analyses effectuées dans le cadre des contrôles prévus à l'article 258 ou reconnus pour les analyses
+d'autocontrôles sont tenus de communiquer à l'autorité administrative des résultats d'examens concernant selon les cas une
+denrée ou un groupe de denrées, ayant fait ou non l'objet d'une analyse statistique, lorsque cela s'avère nécessaire pour
+prévenir ou maîtriser les risques pour la santé humaine ou animale.
+
+Ces résultats sont également portés à la connaissance des autorités sanitaires.
 
 **Liens relatifs à cet article**
 
@@ -3461,10 +3773,139 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 258-2
+
+Les dispositions relatives à la traçabilité des produits et denrées sont définies à l'article L. 214-1-1 du code de la
+consommation, ci-après reproduit :
+
+"Art. L. 214-1-1 : Un décret en Conseil d'Etat fixe la liste des produits ou denrées pour lesquels la traçabilité doit être
+assurée. Il précise les obligations des producteurs et des distributeurs qui sont tenus d'établir et de mettre à jour des
+procédures d'informations enregistrées et d'identification des produits ou des lots de produits. Ces procédures permettent de
+connaître l'origine de ces produits et de ces lots, ainsi que les conditions de leur production et de leur distribution.
+
+"L'autorité administrative précise, pour chaque produit ou denrée, les étapes de production et de commercialisation pour
+lesquelles la traçabilité doit être assurée, ainsi que les moyens à mettre en oeuvre en fonction de la taille des
+entreprises".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1-1 (Ab)
+
+
+###### Article 259
+
+Les fonctions d'inspection sanitaire que nécessite l'application des dispositions du présent titre sont effectuées par un
+service d'Etat d'hygiène alimentaire constitué de vétérinaires inspecteurs appuyés par des ingénieurs des travaux agricoles,
+des techniciens spécialisés des services du ministère de l'agriculture, des préposés sanitaires et d'autres fonctionnaires
+spécialisés désignés par arrêté du ministre de l'agriculture ayant la qualité de fonctionnaires ou agents de l'Etat. Ces
+fonctionnaires ou agents peuvent être assermentés en vue de la constatation des infractions.
+
+Les fonctions d'inspection sanitaire ainsi définies s'exercent sur les animaux et les denrées animales ou d'origine animale
+tant à leur entrée en France qu'à l'intérieur du territoire. Elles ne font pas obstacle à l'exercice des fonctions
+d'inspection sanitaire dont disposent d'autres services de l'Etat dans le cadre de leur compétence propre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 3 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 259-1
+
+S'il est établi, après son départ de l'établissement d'origine, qu'un lot d'animaux ou denrées visées à l'article 258
+présente ou est susceptible de présenter, compte tenu de ses conditions communes d'élevage, de production ou de
+commercialisation, un danger pour la santé publique, le préfet, sur la proposition d'un vétérinaire inspecteur habilité en
+vertu de l'article 259, en ordonne la consignation ou le rappel en un ou plusieurs lieux pour en permettre le contrôle.
+
+Toute personne ayant acquis ou cédé un ou plusieurs éléments du lot et ayant connaissance de la décision de consignation ou
+de rappel est tenue d'en informer celui qui a fourni la marchandise et ceux à qui elle l'a cédée.
+
+Les frais résultant de la décision de consignation ou de rappel, notamment les frais de transport, de stockage, d'analyses et
+de destruction, sont à la charge de l'opérateur concerné sans préjudice de la mise en cause de la responsabilité du
+fournisseur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 258, 259
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 259-2
+
+Lorsque, du fait d'un manquement à la réglementation prise pour l'application de l'article 258, un établissement présente ou
+est susceptible de présenter une menace pour la santé publique, les vétérinaires inspecteurs habilités en vertu de l'article
+259 ordonnent la réalisation de travaux, d'opérations de nettoyage, d'actions de formation du personnel et d'autres mesures
+correctives, ainsi que le renforcement des autocontrôles. En cas de nécessité, le préfet peut prononcer, sur proposition de
+ces agents, la fermeture de tout ou partie de l'établissement ou l'arrêt d'une ou de plusieurs de ses activités.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 258, 259
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 260
@@ -3535,9 +3976,9 @@ _Abrogé par_:
 
 ###### Article 262
 
-Un décret détermine, en tant que de besoin, les conditions d'application des articles 258, 259 et 260, notamment en ce qui
-concerne les établissements et fabriques où sont préparées les conserves et denrées d'origine animale destinées à la
-consommation humaine ou animale, les ateliers d'équarrissage et les dépôts de cadavres d'animaux.
+Un décret détermine, en tant que de besoin, les conditions d'application du présent titre, notamment en ce qui concerne les
+établissements et fabriques où sont préparées les conserves et denrées d'origine animale destinées à la consommation humaine
+ou animale, les ateliers d'équarrissage et les dépôts de cadavres d'animaux.
 
 Le décret définira, sans préjudice, le cas échéant, des prescriptions des règlements sanitaires départementaux, les
 conditions d'hygiène et de salubrité que devront observer les personnes assujetties auxdites inspections et surveillances et
@@ -3546,17 +3987,41 @@ interministériels.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Code rural 258, 259, 260
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 262-1
+
+Lorsqu'un règlement ou une décision de la Communauté européenne contient des dispositions qui entrent dans le champ
+d'application du présent titre, il est constaté par décret en Conseil d'Etat que ces dispositions ainsi que celles des
+règlements ou décisions qui les modifieraient ou qui seraient pris pour leur application constituent les mesures d'exécution
+prévues au présent titre.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Modifié par_:
+_Créé par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 6 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 263
@@ -3590,7 +4055,70 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : De l'équarrissage.<a id=21></a>
+###### Article 263-1
+
+I. - Les réactifs destinés aux analyses vétérinaires réalisées dans les domaines de la santé animale, de l'élevage et de la
+salubrité des aliments, dont la liste est arrêtée par le ministre de l'agriculture, font l'objet, avant leur mise sur le
+marché, à titre gratuit ou onéreux, d'un contrôle de conformité aux règles fixées par arrêté ou aux normes reconnues par
+l'autorité administrative dans des conditions fixées par décret en Conseil d'Etat.
+
+II. - Est qualifiée, pour procéder à la recherche et à la constatation des infractions aux dispositions du présent article et
+des textes pris pour son application, toute personne habilitée à constater les infractions à l'article L. 215-1 du code de la
+consommation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 103 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1 (M)
+
+
+### Chapitre II : De l'équarrissage des animaux.<a id=21></a>
+
+###### Article 272
+
+Les établissements traitant, en vue de la destruction des agents pathogènes qu'ils sont susceptibles de contenir, des
+produits visés selon les cas aux articles 264 ou 271 doivent satisfaire à des conditions sanitaires et avoir été agréés ou
+enregistrés par le préfet.
+
+Le ministre de l'agriculture et le ministre chargé de la consommation fixent par arrêté les conditions sanitaires que doivent
+remplir les établissements et les modalités selon lesquelles leur respect est contrôlé et attesté, ainsi que les modalités
+d'attribution et de retrait de l'enregistrement ou de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 264, 271
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre II : De l'équarrissage.<a id=22></a>
 
 ###### Article 264
 
@@ -4063,32 +4591,36 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale<a id=22></a>
+## Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale<a id=23></a>
 
-### Chapitre Ier : Dispositions générales.<a id=23></a>
+### Chapitre Ier : Dispositions générales.<a id=24></a>
 
 ###### Article 275-1
 
 Pour être introduits sur le territoire métropolitain et dans les départements d'outre-mer, les animaux vivants et leurs
-produits, ainsi que les denrées animales ou d'origine animale, doivent répondre aux conditions sanitaires ou ayant trait à la
-protection des animaux fixées par le ministre chargé de l'agriculture.
+produits, ainsi que les denrées animales ou d'origine animale, les produits destinés à l'alimentation animale, les micro-
+organismes pathogènes pour les animaux et les produits susceptibles de les véhiculer doivent répondre aux conditions
+sanitaires ou ayant trait à la protection des animaux fixées par le ministre chargé de l'agriculture. Celui-ci peut notamment
+exiger que les personnes physiques et les établissements de provenance soient soumis à un agrément.
 
 Lorsque leur introduction est susceptible de constituer un danger grave pour la santé humaine ou animale, le ministre chargé
 de l'agriculture prend les mesures préventives nécessaires à l'égard des marchandises mentionnées à l'alinéa précédent et
 peut imposer un agrément aux personnes physiques et aux établissements destinataires de ces mêmes marchandises.
-
-Il peut également exiger que soient soumis à un agrément les personnes physiques et les établissements en provenance desquels
-viennent ces mêmes marchandises.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 275-2
@@ -4098,19 +4630,42 @@ aux conditions sanitaires ou ayant trait à la protection des animaux fixées pa
 conditions peuvent comprendre un agrément de l'exploitation, du centre de regroupement, de l'établissement ou de la personne
 physique concernée.
 
+Les vétérinaires inspecteurs mentionnés aux articles 215-1 et 259, les vétérinaires officiels mentionnés à l'article 215-10,
+sous le contrôle et l'autorité du directeur des services vétérinaires, sont habilités à établir et délivrer tous certificats
+et documents attestant que les animaux vivants, leurs produits et les denrées animales ou d'origine animale destinés à
+l'alimentation humaine ou animale sont conformes aux conditions visées au présent article.
+
+Les modalités du contrôle du respect de ces conditions sont fixées par le ministre de l'agriculture.
+
+Afin d'assurer le financement du contrôle nécessaire à l'établissement des certificats et documents prévus au deuxième
+alinéa, une redevance pour contrôle vétérinaire est acquittée par l'expéditeur des marchandises.
+
+Le fait générateur de la redevance est constitué par la délivrance des certificats ou documents précités.
+
+La redevance est constatée et recouvrée suivant les mêmes règles, sous les mêmes garanties, privilèges et sanctions qu'en
+matière de taxe sur la valeur ajoutée.
+
+Un décret fixe les conditions d'acquittement de la redevance. Un arrêté conjoint des ministres chargés de l'agriculture et du
+budget fixe les tarifs de la redevance en fonction des espèces d'animaux et des produits.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 275-1
+  - Code rural 275-1, 215-1, 259, 215-10
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 275-3
@@ -4135,64 +4690,85 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : Des importations.<a id=24></a>
+### Chapitre II : Des importations.<a id=25></a>
 
 ###### Article 275-4
 
-Lorsqu'ils sont originaires ou en provenance de pays non membres de la Communauté européenne, les animaux vivants et leurs
-produits, dont la liste est arrêtée par le ministre chargé de l'agriculture, ainsi que les denrées animales ou d'origine
-animale sont soumis, aux frais des importateurs et au moment de leur entrée sur le territoire métropolitain ou dans les
-départements d'outre-mer, à un contrôle vétérinaire qui doit être effectué dans l'un des postes d'inspection frontaliers dont
-la liste est fixée par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé des douanes et dont les
-moyens en personnel, en locaux et en installations sont déterminés par arrêté du ministre chargé de l'agriculture.
+Lorsqu'ils sont originaires ou en provenance de pays non membres de la Communauté européenne, les animaux vivants, leurs
+produits, les denrées animales ou d'origine animale, les produits destinés à l'alimentation animale, les micro-organismes
+pathogènes pour les animaux et les produits susceptibles de les véhiculer, dont les listes sont arrêtées par le ministre de
+l'agriculture, sont soumis, aux frais des importateurs et au moment de leur entrée sur le territoire métropolitain ou dans
+les départements d'outre-mer, à un contrôle vétérinaire, sanitaire, qualitatif, zootechnique ou ayant trait à la protection
+des animaux, selon les cas, systématique ou non. Le ministre de l'agriculture fixe la liste des animaux et produits soumis au
+contrôle dans l'un des postes d'inspection frontaliers dont la liste est fixée par arrêté conjoint du ministre de
+l'agriculture et du ministre chargé des douanes et dont les moyens en personnel, en locaux et en installations sont
+déterminés par des arrêtés du ministre de l'agriculture.
 
-Ces contrôles, dont les modalités sont fixées par le ministre chargé de l'agriculture, sont exécutés par les agents
-mentionnés aux articles 215-1, 215-2, 259, 283-1 et 283-2. Les marchandises qui ont subi un contrôle favorable dans un poste
-d'inspection frontalier habilité d'un autre Etat membre de la Communauté européenne font éventuellement l'objet des contrôles
-prévus en application de l'article 275-5.
+Ces contrôles, dont les modalités sont fixées par le ministre de l'agriculture, sont exécutés par les agents mentionnés aux
+articles 215-1, 215-2, 259, 283-1 et 283-2. Les marchandises qui ont subi un contrôle favorable dans un poste d'inspection
+frontalier habilité d'un autre Etat membre de la Communauté européenne font éventuellement l'objet des contrôles prévus en
+application de l'article 275-5.
+
+Toutefois, pour les animaux familiers de compagnie accompagnant les voyageurs, le contrôle peut être effectué dans tout port,
+aéroport, gare ferroviaire ou routière ouvert aux liaisons internationales et se limiter à un contrôle documentaire, effectué
+par les agents des douanes. Les listes des animaux familiers de compagnie visés au présent alinéa et les modalités
+d'application du contrôle sont fixées par arrêtés conjoints du ministre de l'agriculture et du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 215-1, 215-2, 259, 275-5, 283-1, 283-2
+  - Code rural 215-1, 215-2, 259, 283-1, 283-2, 275-5
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre III : Des échanges intracommunautaires.<a id=25></a>
+### Chapitre III : Des échanges intracommunautaires.<a id=26></a>
 
 ###### Article 275-5
 
-Des contrôles vétérinaires exécutés par les agents mentionnés aux articles 215-1, 215-2, 283-1 et 283-2 peuvent être
-appliqués aux animaux vivants et à leurs produits, ainsi qu'aux denrées animales ou d'origine animale, introduits sur le
-territoire métropolitain ou dans les départements d'outre-mer et ayant le statut de marchandises communautaires, dès lors
-qu'ils sont effectués à destination, dans des conditions fixées par le ministre chargé de l'agriculture.
+Des contrôles vétérinaires exécutés par les agents mentionnés aux articles 215-1, 215-2, 259, 283-1 et 283-2 peuvent être
+appliqués aux animaux vivants et à leurs produits, ainsi qu'aux denrées animales ou d'origine animale, aux produits destinés
+à l'alimentation animale, aux micro-organismes pathogènes pour les animaux et aux produits susceptibles de les véhiculer,
+introduits sur le territoire métropolitain ou dans les départements d'outre-mer et ayant le statut de marchandises
+communautaires, dès lors qu'ils sont effectués à destination, dans des conditions fixées par le ministre chargé de
+l'agriculture.
 
 En cas de manquement grave ou répété aux dispositions prévues à l'article 275-1 de la part d'une entreprise expéditrice ou
 destinataire ou de toute autre personne qui participe à l'opération d'échange, les contrôles peuvent comporter la mise en
-quarantaine des animaux vivants ou la consigne des produits et denrées animales ou d'origine animale, dans des conditions
-fixées par arrêté du ministre chargé de l'agriculture.
+quarantaine des animaux vivants ou la consigne des produits et denrées animales ou d'origine animale, aux produits destinés à
+l'alimentation animale, aux micro-organismes pathogènes pour les animaux et aux produits susceptibles de les véhiculer, dans
+des conditions fixées par arrêté du ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 215-1, 215-2, 283-1, 283-2
+  - Code rural 215-1, 215-2, 259, 283-1, 283-2
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 275-6
@@ -4243,8 +4819,9 @@ documentaires sont réalisés par les agents des douanes afin de déterminer leu
 présent alinéa sont constatées par les agents des douanes et sanctionnées conformément à l'article 410 du code des douanes.
 
 Cette mesure ne s'applique pas aux animaux vivants ou à leurs produits, ainsi qu'aux denrées animales ou d'origine animale,
-transportés par des moyens de transport reliant de manière régulière et directe deux points géographiques de la Communauté
-européenne.
+aux produits destinés à l'alimentation animale, aux micro-organismes pathogènes pour les animaux et aux produits susceptibles
+de les véhiculer, transportés par des moyens de transport reliant de manière régulière et directe deux points géographiques
+de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -4256,10 +4833,15 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 275-8
@@ -4293,13 +4875,14 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre IV : Dispositions diverses.<a id=26></a>
+### Chapitre IV : Dispositions diverses.<a id=27></a>
 
 ###### Article 275-9
 
-Lorsque les animaux vivants ou leurs produits, les denrées animales ou d'origine animale ne répondent pas aux conditions
-fixées en application de l'article 275-1, les agents chargés des contrôles prévus aux articles 275-1 à 275-5 et 275-8 peuvent
-prescrire :
+Lorsque les animaux vivants ou leurs produits, les denrées animales ou d'origine animale ainsi que les produits destinés à
+l'alimentation animale, les micro-organismes pathogènes pour les animaux et les produits susceptibles de les véhiculer ne
+répondent pas aux conditions fixées en application de l'article 275-1, les agents chargés des contrôles prévus aux articles
+275-1 à 275-5 et 275-8 peuvent prescrire :
 
 - la mise en quarantaine des animaux, leur abattage, la consigne des produits, la destruction ou la réexpédition des animaux
 ou de leurs produits ;
@@ -4317,10 +4900,15 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 275-10
@@ -4394,7 +4982,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=27></a>
+## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=28></a>
 
 ###### Article 276
 
@@ -4638,23 +5226,25 @@ _Cite_:
 
 ###### Article 276-6
 
-Tous les équidés faisant l'objet d'un transfert de propriété, à quelque titre que ce soit, doivent être préalablement, à la
-diligence du vendeur ou du donateur, identifiés par tatouage ou par tout autre procédé agréé par le ministre chargé de
-l'agriculture, selon les modalités fixées par décret en Conseil d'Etat.
+Chaque propriétaire est tenu de faire identifier les équidés qu'il détient par toute personne habilitée à cet effet par le
+ministre de l'agriculture, selon tout procédé agréé par le ministre de l'agriculture. Le ministre de l'agriculture délivre
+les numéros d'identification. Les changements de propriété doivent être déclarés. Les modalités d'application du présent
+article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural 276-4
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-5 du 6 janvier 1999 - art. 14 (Ab) JORF 7 janvier 1999
+  - Loi n°99-574 du 9 juillet 1999 - art. 96 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 276-7
@@ -5099,10 +5689,10 @@ _Abrogé par_:
 
 ###### Article 283-1
 
-Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels à temps complet de l'Etat, ont qualité,
-dans les limites du département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des
-articles 276 à 283 du présent code sur la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en
-captivité et des textes réglementaires pris pour leur application.
+Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels de l'Etat, ont qualité, dans les limites du
+département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des articles 276 à 283 du
+présent code sur la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité et des
+textes réglementaires pris pour leur application.
 
 **Liens relatifs à cet article**
 
@@ -5113,18 +5703,24 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 18 () JORF 24 juin 1989
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 283-2
 
 Les agents techniques sanitaires et les préposés sanitaires, qu'ils soient fonctionnaires ou agents contractuels à temps
-complet de l'Etat, et les techniciens des services vétérinaires, ont qualité, dans les limites du département où ils sont
-affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le préfet, pour rechercher et constater les infractions
-visées à l'article 283-1.
+complet de l'Etat, les ingénieurs des travaux agricoles, les techniciens des services du ministère chargé de l'agriculture et
+les autres fonctionnaires spécialisés désignés par arrêté du ministre de l'agriculture, ont qualité, dans les limites du
+département où ils sont affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le préfet, pour rechercher et
+constater les infractions visées à l'article 283-1.
 
 **Liens relatifs à cet article**
 
@@ -5135,14 +5731,15 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°82-373 1982-05-06 art. 3 JORF 7 mai 1982
+  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 283-3
@@ -5315,7 +5912,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=28></a>
+## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=29></a>
 
 ###### Article 284
 
@@ -5361,8 +5958,7 @@ l'anémie infectieuse des équidés.
 
 Sont considérés comme atteints d'anémie infectieuse des équidés et peuvent donner lieu à rédhibition les animaux qui ont fait
 l'objet d'une recherche de la maladie par des épreuves effectuées selon des procédés et critères approuvés par la commission
-nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministre chargé de
-l'agriculture.
+nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministre de l'agriculture.
 
 Pour l'espèce porcine :
 
@@ -5379,7 +5975,13 @@ Sont considérés comme tuberculeux et peuvent donner lieu à rédhibition :
 2° les animaux qui ont réagi à l'épreuve de la tuberculine, exclusivement pratiquée suivant les procédés approuvés par le
 comité consultatif des épizooties ou qui ont été reconnus tuberculeux par tout autre procédé approuvé par ledit comité.
 
-Pour les espèces bovine et caprine :
+La rhino-trachéite infectieuse.
+
+Sont considérés comme atteints de rhino-trachéite infectieuse et peuvent donner lieu à rédhibition les animaux qui ont fait
+l'objet d'une recherche de la maladie par des épreuves effectuées selon des procédés et des critères fixés par le ministre
+chargé de l'agriculture avec résultat positif.
+
+Pour les espèces bovines, ovine et caprine :
 
 la brucellose.
 
@@ -5399,10 +6001,15 @@ nationale vétérinaire et dont le résultat a été reconnu positif par un labo
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°99-5 du 6 janvier 1999 - art. 26 () JORF 7 janvier 1999
+  - Loi n°99-574 du 9 juillet 1999 - art. 102 () JORF 10 juillet 1999 rectificatif JORF 20 octobre 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 _Cite_:
 
@@ -5672,36 +6279,30 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=29></a>
+## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=30></a>
 
 ###### Article 309
 
-Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord sur l'Espace économique Européen qui remplit les conditions d'exercice prévues par la loi n° 82-899 du
-20 octobre 1982 relative à l'exercice des activités de vétérinaire et qui désire exercer sa profession est tenu, au
-préalable, de faire enregistrer sans frais son diplôme à la préfecture de son département et au greffe du tribunal de grande
-instance de son arrondissement. L'enregistrement du diplôme doit être, préalablement à l'exercice de la profession, suivi de
-la production d'un certificat d'inscription au tableau de l'ordre des vétérinaires délivré par le conseil régional de l'ordre
-des vétérinaires. Le fait de porter son domicile dans un autre département oblige à un nouvel enregistrement du diplôme.
+Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat membre de l'Union européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen qui remplit les conditions d'exercice prévues par la loi n° 82-899 du 20
+octobre 1982 relative à l'exercice des activités de vétérinaire et qui désire exercer sa profession est tenu, au préalable,
+de faire enregistrer sans frais son diplôme à la préfecture de son département et au greffe du tribunal de grande instance de
+son arrondissement.
+
+L'enregistrement du diplôme doit être, préalablement à l'exercice de la profession, suivi de la production d'un certificat
+d'inscription au tableau de l'ordre des vétérinaires délivré par le conseil régional de l'ordre des vétérinaires. Le fait de
+porter son domicile dans un autre département oblige à un nouvel enregistrement du diplôme.
 
 Dans la limite d'un quota annuel fixé par décret en Conseil d'Etat, le ministre chargé de l'agriculture peut autoriser à
 exercer la médecine et la chirurgie des animaux les personnes de nationalité française ou ressortissantes d'un autre Etat
-membre de la Communauté européenne ou par un autre Etat partie à l'accord sur l'Espace économique Européen qui, titulaires
-d'un diplôme, certificat ou titre de vétérinaire émanant de pays tiers et figurant sur une liste établie par arrêté du
-ministre chargé de l'agriculture, ont satisfait à la vérification de leurs connaissances en matière de législation sanitaire
-ou qui, titulaires d'un diplôme, certificat ou titre de vétérinaire, émanant d'un pays tiers et n'étant pas inscrit sur cette
-liste, ont satisfait à la vérification d'ensemble de leurs connaissances selon des modalités fixées par décret en Conseil
-d'Etat.
+membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui, titulaires d'un
+diplôme, certificat ou titre de vétérinaire non visé par la loi n° 82-899 du 20 octobre 1982 précitée, ont satisfait à la
+vérification d'ensemble de leurs connaissances selon les modalités fixées par décret en Conseil d'Etat.
 
-Ces autorisations sont délivrées selon l'ordre d'antériorité des demandes.
-
-En outre, l'autorisation d'exercer la médecine et la chirurgie des animaux peut être accordée par décision du ministre chargé
-de l'agriculture à tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
-l'Espace économique Européen titulaire d'un diplôme français d'université ou d'un diplôme reconnu comme équivalent délivré
-par un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique Européen.
-Cette disposition est applicable jusqu'à l'expiration d'une période de cinq années à compter de l'année d'entrée en vigueur
-de la loi n° 89-412 du 22 juin 1989 modifiant et complétant certaines dispositions du livre II du code rural ainsi que
-certains articles du code de la santé publique.
+Les vétérinaires de nationalité française qui ont fait l'objet d'un arrêté du ministre chargé de l'agriculture les autorisant
+à exercer la médecine et la chirurgie des animaux pris antérieurement à la promulgation de la loi n° 89-412 du 22 juin 1989
+modifiant et complétant certaines dispositions du livre II du code rural ainsi que certains articles du code de la santé
+publique sont autorisés à poursuivre leurs activités.
 
 Préalablement à l'exercice effectif de la profession, les personnes autorisées à pratiquer la médecine et la chirurgie des
 animaux doivent procéder aux formalités d'enregistrement et d'inscription prévues au premier alinéa du présent article.
@@ -5711,6 +6312,7 @@ animaux doivent procéder aux formalités d'enregistrement et d'inscription pré
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cite_:
 
@@ -5719,7 +6321,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°93-1240 1993-12-31 art. 1 JORF 1er janvier 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 139 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-1
@@ -6380,7 +6986,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre IX : Des pénalités.<a id=30></a>
+## Titre IX : Des pénalités.<a id=31></a>
 
 ###### Article 325
 
@@ -6845,6 +7451,53 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 338
+
+I. - Est puni des peines prévues à l'article L. 213-1 du code de la consommation le fait de mettre sur le marché,
+d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer, de céder en vue d'administrer à des
+animaux dont la chair ou les produits sont destinés à l'alimentation humaine un produit visé au I de l'article 254 ou une
+substance visée au II du même article qui ne bénéficie pas d'une autorisation de l'autorité administrative.
+
+II. - Sont punies de six mois d'emprisonnement et de 200 000 F d'amende les autres infractions aux dispositions de l'article
+254.
+
+III. - Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait de mettre obstacle à l'exercice des fonctions
+des agents habilités en vertu de l'article 259.
+
+IV. - Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également la peine
+complémentaire de l'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du
+code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions prévues au présent article. Elles encourent les peines d'amende, suivant les modalités prévues par
+l'article 131-38 du code pénal, et de l'affichage ou de la diffusion de la décision prononcée dans les conditions prévues au
+9° de l'article 131-39 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 98 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L213-1 (M)
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
+  - Code rural 254, 259
+
+
 ###### Article 340
 
 Exerce illégalement la médecine ou la chirurgie des animaux :
@@ -6917,6 +7570,10 @@ de gestation, notamment par échographie, des femelles équines.
 
 9° Les fonctionnaires ou agents mentionnés à l'article 309-7-1 et intervenant dans les limites prévues par ledit article.
 
+9° (10°) Les fonctionnaires et agents contractuels relevant du service des haras, des courses et de l'équitation du ministère
+chargé de l'agriculture peuvent être spécialement habilités à réaliser l'identification électronique complémentaire des
+équidés sous l'autorité médicale d'un vétérinaire, dans des conditions fixées par un décret en Conseil d'Etat.
+
 b) Les castrations des animaux autres que les équidés et les carnivores domestiques ;
 
 c) Les soins de première urgence autres que ceux nécessités par les maladies contagieuses.
@@ -6925,17 +7582,21 @@ c) Les soins de première urgence autres que ceux nécessités par les maladies 
 
 _Cite_:
 
-  - Code rural 340, 311-1, 309-7-1
+  - Code rural 340, 311-1
   - Loi n°66-1005 1966-12-28
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Ordonnance n°98-774 du 2 septembre 1998 - art. 17 (V) JORF 4 septembre 1998 en vigueur le 15 septembre 1998
-  - Ordonnance n°98-774 du 2 septembre 1998 - art. 4 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+  - Loi n°99-574 du 9 juillet 1999 - art. 96 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 341
@@ -6966,7 +7627,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre X : De la protection des végétaux.<a id=31></a>
+## Titre X : De la protection des végétaux.<a id=32></a>
 
 ###### Article 342
 
@@ -7002,7 +7663,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=32></a>
+### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=33></a>
 
 ###### Article 343
 
@@ -7140,14 +7801,15 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : Mesures de défense contre les organismes nuisibles.<a id=33></a>
+### Chapitre II : Mesures de défense contre les organismes nuisibles.<a id=34></a>
 
 ###### Article 348
 
 Sous réserve d'exceptions autorisées par le ministre chargé de l'agriculture soit pour l'exécution de travaux de recherche,
-soit en application de décisions communautaires concernant les cas de faible contamination, il est interdit d'introduire en
-France, de détenir sciemment et de transporter les organismes nuisibles définis par l'article 342 quel que soit le stade de
-leur évolution (parasites formés, oeufs, larves, nymphes, graines, germes, etc.).
+soit en application de décisions communautaires concernant les cas de faible contamination, il est interdit d'introduire dans
+le territoire métropolitain ou dans les départements d'outre-mer, de détenir sciemment et de transporter les organismes
+nuisibles définis par l'article 342 quel que soit le stade de leur évolution (parasites formés, oeufs, larves, nymphes,
+graines, germes, etc.).
 
 **Liens relatifs à cet article**
 
@@ -7158,74 +7820,103 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
-  - Loi n°92-1477 du 31 décembre 1992 - art. 29 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 349
 
-Des arrêtés du ministre de l'agriculture déterminent les conditions dans lesquelles peuvent circuler en France les végétaux
-ou parties des végétaux, les terres, fumiers et compost, ainsi que les sacs et autres emballages susceptibles de servir de
-support aux organismes nuisibles. Ces arrêtés sont également signés par le ministre de l'économie et des finances quand ils
-règlent les conditions de l'importation de ces matières ou produits ou prévoient l'intervention du service des douanes. Des
-interdictions d'importation peuvent être prononcées.
+Des arrêtés du ministre de l'agriculture déterminent les conditions dans lesquelles peuvent circuler dans le territoire
+métropolitain ou dans les départements d'outre-mer les végétaux ou parties des végétaux, les terres, fumiers et compost,
+ainsi que les sacs et autres emballages susceptibles de servir de support aux organismes nuisibles. Ces arrêtés sont
+également signés par le ministre de l'économie et des finances quand ils règlent les conditions de l'importation de ces
+matières ou produits ou prévoient l'intervention du service des douanes. Des interdictions d'importation peuvent être
+prononcées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 350
 
 Toute personne qui, sur un fonds lui appartenant ou cultivé par elle, ou sur des produits ou matières qu'elle détient en
 magasin, constate la présence d'un organisme nuisible, nouvellement apparu dans la commune, doit en faire immédiatement la
-déclaration au maire de la commune de sa résidence. Le maire la transmet d'urgence au directeur départemental des services
-agricoles.
+déclaration soit au maire de la commune de sa résidence, lequel doit la transmettre au service chargé de la protection des
+végétaux, soit directement au service chargé de la protection des végétaux dont elle dépend.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 351
 
-Les propriétaires ou exploitants ou tous détenteurs ou transporteurs de plantes ou parties de plantes, y compris les fruits
-frais, sont tenus d'ouvrir leurs terrains et jardins clos ou non, ainsi que leurs dépôts ou magasins, aux agents de la
-protection des végétaux chargés de la recherche, de l'identification ou de la destruction des organismes nuisibles. Ces
-agents sont habilités à procéder à la saisie des produits et objets susceptibles de véhiculer des organismes nuisibles.
+Les propriétaires ou exploitants ou tous détenteurs ou transporteurs de végétaux, produits végétaux, autres objets mentionnés
+à l'article 356, y compris les fruits frais, sont tenus d'ouvrir leurs terrains et jardins clos ou non, ainsi que leurs
+dépôts ou magasins, aux agents mentionnés au A de l'article 363-1. Ces agents sont habilités à procéder à la saisie des
+produits et objets susceptibles de véhiculer des organismes nuisibles.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 356, 363-1
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 1999-07-09 art. 92 I, VI JORF 10 juillet 1999
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 352
 
-Le ministre de l'agriculture prescrit par arrêté tous traitements ou mesures nécessaires pour combattre la propagation des
-organismes nuisibles inscrits sur la liste prévue à l'article 342. Il peut ordonner la mise en quarantaine, la désinfection,
-l'interdiction de planter et de multiplier, et, au besoin, la destruction par le feu ou par tout autre procédé, des végétaux
-existants sur le terrain envahi ou sur les terrains et locaux environnants.
+I. - Le ministre de l'agriculture peut prescrire par arrêté les traitements et les mesures nécessaires à la prévention de la
+propagation des organismes nuisibles inscrits sur la liste prévue à l'article 342. Il peut également interdire les pratiques
+susceptibles de favoriser la dissémination des organismes nuisibles, selon les mêmes modalités.
+
+II. - Le ministre de l'agriculture prescrit par arrêté tous traitements ou mesures nécessaires pour combattre la propagation
+des organismes nuisibles inscrits sur la liste prévue à l'article 342. Il peut ordonner la mise en quarantaine, la
+désinfection, l'interdiction de planter et de multiplier, et, au besoin, la destruction par le feu ou par tout autre procédé,
+des végétaux existants sur le terrain envahi ou sur les terrains et locaux environnants.
 
 En cas d'urgence, les mesures ci-dessus spécifiées peuvent être prises par arrêté préfectoral immédiatement applicable.
 L'arrêté préfectoral doit être soumis, dans la quinzaine, à l'approbation du ministre de l'agriculture.
@@ -7239,17 +7930,23 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 353
 
 La destruction de végétaux ne peut être exécutée qu'après constatation contradictoire de l'état des lieux, en présence du
-maire ou de son délégué, d'un agent de la protection des végétaux et du propriétaire ou usager des terrains ou magasins, ou
-de son représentant dûment appelés ; de cette opération, il est dressé procès-verbal signé des parties.
+maire ou de son délégué, d'agents relevant des catégories mentionnées au A de l'article 363-1 et du propriétaire ou usager
+des terrains ou magasins, ou de son représentant dûment appelés ; de cette opération, il est dressé procès-verbal signé des
+parties.
 
 Une allocation, ne dépassant pas les deux tiers de leur valeur, peut être accordée, par décision du préfet et sur proposition
 du directeur des services agricoles, pour la perte résultant de la destruction des végétaux non contaminés ordonnée par
@@ -7264,42 +7961,57 @@ effectués en vue de leur destruction.
 
 _Cite_:
 
-  - Code rural 350
+  - Code rural 363-1, 350
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 354
 
 Si un propriétaire ou usager refuse d'effectuer dans les délais prescrits et conformément aux arrêtés pris en la matière les
-traitements antiparasitaires ou la destruction des végétaux, l'inspecteur de la protection des végétaux prend les mesures
-nécessaires pour l'exécution de ces arrêtés. Il les notifie aux intéressés par lettre recommandée, avant leur exécution ; il
-adresse copie de cette notification au préfet du département et au maire de la commune sur le territoire de laquelle les
-opérations doivent avoir lieu.
+traitements antiparasitaires ou la destruction des végétaux, un ingénieur chargé de l'inspection et du contrôle des végétaux
+relevant des catégories mentionnées au A de l'article 363-1 prend les mesures nécessaires pour l'exécution de ces arrêtés. Il
+les notifie aux intéressés par lettre recommandée, avant leur exécution ; il adresse copie de cette notification au préfet du
+département et au maire de la commune sur le territoire de laquelle les opérations doivent avoir lieu.
 
 Les travaux de défense sanitaire sont alors effectués par le groupement agréé de défense contre les organismes nuisibles sous
 le contrôle du service de la protection des végétaux, et, au cas de carence de ce groupement, par ce service lui-même.
 
 Le coût des travaux est recouvré par ledit groupement. Faute de paiement par les intéressés dans un délai de trois mois, ou
 toutes les fois que le traitement est assuré par le service de la protection des végétaux, le recouvrement en est opéré,
-comme en matière de contributions directes, sur un rôle dressé par l'inspecteur de la protection des végétaux et rendu
-exécutoire par le préfet. Au cas de recouvrement par voie de rôle, la somme due par les intéressés est majorée de 25 p. 100.
+comme en matière de contributions directes, sur un rôle dressé par un ingénieur chargé de l'inspection et du contrôle des
+végétaux relevant des catégories mentionnées au A de l'article 363-1 et rendu exécutoire par le préfet. Au cas de
+recouvrement par voie de rôle, la somme due par les intéressés est majorée de 25 p. 100.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 363-1
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 355
@@ -7323,7 +8035,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=34></a>
+### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=35></a>
 
 ###### Article 356
 
@@ -7426,6 +8138,31 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 356-3
+
+L'inscription au registre du contrôle sanitaire peut être requise pour les végétaux non mentionnés à l'article 356, dont la
+liste est fixée par arrêté du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 356
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ###### Article 357
 
 Le contrôle sanitaire donne lieu à la perception de droits dont le taux et le mode de recouvrement sont fixés par des arrêtés
@@ -7447,10 +8184,10 @@ _Modifié par_:
 
 Lorsque, à l'occasion du contrôle sanitaire effectué chez les personnes visées à l'article 356-1 ou au point d'entrée sur le
 territoire français en provenance de pays extérieurs à la Communauté économique européenne, les végétaux, produits végétaux
-et autres objets mentionnés à l'article 356 n'apparaissent pas contaminés par les organismes nuisibles mentionnés au a de
-l'article 342, l'autorité chargée de ce contrôle délivre, dans des conditions fixées par décret, un passeport phytosanitaire
-qui reste attaché auxdits végétaux, produits végétaux ou autres objets. La validité géographique de ce passeport peut être
-limitée si les végétaux, produits végétaux ou autres objets présentent des risques pour certaines zones.
+et autres objets mentionnés à l'article 356 n'apparaissent pas contaminés par les organismes nuisibles mentionnés à l'article
+342, l'autorité chargée de ce contrôle délivre, dans des conditions fixées par décret, un passeport phytosanitaire qui reste
+accompagne lesdits végétaux, produits végétaux ou autres objets. La validité géographique de ce passeport peut être limitée
+si les végétaux, produits végétaux ou autres objets présentent des risques pour certaines zones.
 
 Lorsque les résultats du contrôle sanitaire ne sont pas satisfaisants, le passeport n'est pas délivré.
 
@@ -7463,27 +8200,33 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
-  - Loi n°92-1477 du 31 décembre 1992 - art. 32 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 359
 
-Le contrôle de l'état sanitaire des végétaux, produits végétaux et autres objets mentionnés à l'article 356 est assuré par
-les inspecteurs et contrôleurs de la protection des végétaux. Lorsqu'ils constatent la présence d'un des organismes nuisibles
-inscrits sur la liste prévue à l'article 342, ces fonctionnaires peuvent faire procéder à la destruction de tout ou partie
-des végétaux, produits végétaux et autres objets mentionnés à l'article 356 contaminés ou à leur mise en quarantaine jusqu'à
-désinfection complète.
+A. - Le contrôle et l'inspection de l'état sanitaire des végétaux, produits végétaux et autres objets mentionnés à l'article
+356 est assuré par les agents visés au A de l'article 363-1 ou par toute autre personne désignée par l'autorité
+administrative et remplissant les conditions de qualification fixées par décret.
 
-Ils mettent au préalable en demeure le propriétaire, d'exécuter dans un délai de six jours les mesures de destruction ou de
-désinfection nécessaires.
+B. - Lorsqu'ils constatent la présence d'un organisme nuisible inscrit sur la liste prévue à l'article 342, les agents visés
+au A de l'article 363-1 peuvent ordonner soit la mise en quarantaine jusqu'à désinfection complète d'un lot de végétaux,
+produits végétaux ou autres objets mentionnés à l'article 356 contaminés, soit l'exécution de toute autre mesure de
+surveillance ou de traitement autorisée dans des conditions fixées par décret en Conseil d'Etat. Ils peuvent également faire
+procéder à la destruction de tout ou partie du lot.
 
-Au cas d'inexécution de ces mesures dans les délais prescrits, procès-verbal est dressé aux fins de poursuites judiciaires ;
-la destruction des sujets contaminés est alors exécutée par le service de la protection des végétaux, aux frais du
-contrevenant, après prélèvement, en sa présence, de quatre échantillons destinés à une expertise contradictoire.
+Le propriétaire ou le détenteur du lot est mis en mesure de présenter ses observations.
+
+En cas d'inexécution des mesures ordonnées dans les délais prescrits, les agents visés au A de l'article 363-1 font procéder
+à la destruction d'office du lot, aux frais du propriétaire ou du détenteur.
 
 Le coût des travaux est recouvré dans les formes et conditions prévues à l'article 354.
 
@@ -7491,40 +8234,52 @@ Le coût des travaux est recouvré dans les formes et conditions prévues à l'a
 
 _Cite_:
 
-  - Code rural 356, 342, 354
+  - Code rural 356, 363-1, 342, 354
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
-  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
-  - Loi n°92-1477 du 31 décembre 1992 - art. 33 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=35></a>
+### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=36></a>
 
 ###### Article 360
 
 Tous les végétaux ou parties de végétaux destinés à l'exportation pour lesquels un certificat phytopathologique est exigé par
 les pays importateurs doivent être accompagnés d'un certificat attestant leur origine et leur état sanitaire dit "certificat
-de santé-origine". Ce certificat doit être présenté aux agents de la protection des végétaux au moment où lesdits végétaux
-sont soumis à leur contrôle.
+de santé-origine". Ce certificat doit être présenté aux agents mentionnés au A de l'article 363-1 au moment où lesdits
+végétaux sont soumis à leur contrôle.
 
 Le certificat de santé-origine et le certificat phytopathologique ne peuvent être délivrés que pour des produits provenant de
 cultures régulièrement soumises au contrôle phytosanitaire de l'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Ordonnance 45-2627 1945-11-02 art. 19
+  - Code rural 363-1
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 361
@@ -7557,85 +8312,399 @@ par chaque importateur sont calculés d'après un tarif fixé par arrêté des m
 finances. Ils sont acquittés par les intéressés comme en matière de douane au moment de la déclaration en douane de ces
 végétaux, matières et produits.
 
-Les mesures de refoulement ou de destruction de produits contaminés ordonnées par les agents du service de la protection des
-végétaux, sont exécutées aux frais des importateurs et sous le contrôle de l'administration des douanes. Les modalités
+Les mesures de refoulement ou de destruction de produits contaminés ordonnées par les agents mentionnés au A de l'article
+363-1, sont exécutées aux frais des importateurs et sous le contrôle de l'administration des douanes. Les modalités
 d'application de ces mesures pourront être précisées par des arrêtés concertés des ministres de l'agriculture et de
 l'économie et des finances.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 363-1
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre V : Sanctions et dispositions diverses.<a id=36></a>
+### Chapitre V : Sanctions et dispositions diverses.<a id=37></a>
 
 ###### Article 363
 
-Toute infraction aux dispositions du présent titre et à celles des règlements pris pour son application sera punie de
-l'amende prévue pour les contraventions de la 5e classe.
+A. - Est puni de deux ans d'emprisonnement et de 500000 F d'amende :
 
-Seront punis d'un emprisonnement d'un an et d'une amende de 25 000 F ceux qui auront introduit en France l'un des objets
-énoncés aux articles 348 et 349 sans déclaration ou à l'aide d'une fausse déclaration de provenance ou de toute autre
-manoeuvre frauduleuse.
+a) Le fait d'introduire sur le territoire métropolitain et dans les départements d'outre-mer, de détenir sciemment et de
+transporter les organismes nuisibles visés à l'article 342, quel que soit le stade de leur évolution ;
 
-En cas de récidive, dans le délai de cinq ans, les peines peuvent être portées au double du maximum fixé ci-dessus.
+b) Le fait de faire circuler des végétaux, produits végétaux et autres objets sans respecter les conditions prévues par les
+arrêtés prévus à l'article 349 ;
+
+c) Le fait de ne pas accompagner les végétaux, produits végétaux et autres objets mentionnés à l'article 356 d'un passeport
+phytosanitaire.
+
+B. - Est puni de six mois d'emprisonnement et de 200000 F d'amende :
+
+a) Le fait de ne pas déclarer soit au maire de la commune de sa résidence, soit directement au service chargé de la
+protection des végétaux la présence d'un organisme nuisible nouvellement apparu dans la commune ;
+
+b) Le fait de ne pas respecter les prescriptions édictées en application des articles 352, 354 et 359 ordonnées par les
+agents habilités en vertu du A de l'article 363-1.
+
+C. - Est puni de six mois d'emprisonnement et de 50000 F d'amende le fait de mettre obstacle à l'exercice des fonctions des
+agents habilités en vertu de l'article 363-1 et du A de l'article 359.
+
+D. - Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également la peine
+complémentaire de l'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du
+code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions prévues au présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- l'affichage ou la diffusion de la décision prononcée dans les conditions prévues au 9° de l'article 131-39 du code pénal.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 348, 349
+  - Code rural 342, 349, 356, 352, 354, 359, 363-1
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 363-1
+
+A. - L'inspection et le contrôle des mesures que nécessite l'application des dispositions du présent titre sont effectués par
+les ingénieurs chargés de la protection des végétaux assistés de techniciens des services du ministère de l'agriculture et
+des autres personnels qualifiés du ministère de l'agriculture ayant la qualité de fonctionnaires ou d'agents de l'Etat. Ces
+fonctionnaires ou agents peuvent être assermentés en vue de la recherche et de la constatation des infractions aux
+dispositions du présent titre.
+
+B. - Sont habilités à procéder au contrôle documentaire et vérifier par simple inspection visuelle la concordance entre les
+documents et les végétaux, produits végétaux ou autres objets mentionnés à l'article 356, et à rechercher et constater les
+infractions relatives à ces documents, les agents des douanes dans les conditions prévues aux articles 60, 61, 63 ter, 65 et
+322 bis du code des douanes et les agents de la concurrence, de la consommation et de la répression des fraudes dans les
+conditions prévues aux sections 1, 2 et 3 du chapitre V du titre Ier du livre II du code de la consommation, ainsi qu'à
+l'article L. 215-9 de ce même code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 356
+  - Code de la consommation - art. L215-9 (M)
+  - Code des douanes - art. 322 bis (M)
+  - Code des douanes - art. 60 (V)
+  - Code des douanes - art. 61 (V)
+  - Code des douanes - art. 63 ter (M)
+  - Code des douanes - art. 65 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 364
 
-Les inspecteurs et contrôleurs du cadre permanent de la protection des végétaux sont qualifiés pour constater les infractions
-aux dispositions prévues ci-dessus. En outre, sont habilitées à rechercher et constater les infractions à l'obligation de
-faire accompagner les végétaux, produits végétaux ou autres objets mentionnés à l'article 356 du passeport phytosanitaire
-prévu à l'article 358 les agents des douanes dans les conditions prévues aux articles 60, 61, 65 et 322 bis du code des
-douanes et les agents de la concurrence, de la consommation et de la répression des fraudes dans les conditions prévues par
-la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services.
+A. - Dans le cadre des inspections et des contrôles phytosanitaires, les agents visés au A de l'article 363-1 et au A de
+l'article 359 ont accès aux locaux, installations, lieux, véhicules de transport à usage professionnel, à l'exclusion des
+domiciles et de la partie des locaux à usage de domicile.
 
-Un décret contresigné par le ministre de l'agriculture, le ministre de l'économie et des finances et le garde des sceaux,
-ministre de la justice, détermine leurs pouvoirs ainsi que ceux des autres fonctionnaires appelés à collaborer à
-l'application du présent titre en matière de recherche et de constatation des infractions.
+A l'exception des contrôles à l'importation, cet accès a lieu entre 8 heures et 20 heures ou en dehors de ces heures lorsque
+l'accès au public est autorisé ou, lorsqu'une activité est en cours, en présence du directeur de l'établissement ou de son
+représentant ou, à défaut, d'un membre du personnel.
+
+Un procès-verbal d'inspection et de contrôle est établi et une copie en est remise à l'intéressé.
+
+Ces agents peuvent recueillir sur convocation ou sur place les renseignements propres à l'accomplissement de leur mission et
+en prendre copie.
+
+Ils peuvent également prélever des échantillons de végétaux, produits végétaux et autres objets afin de vérifier qu'ils sont
+indemnes d'organismes nuisibles.
+
+Dans l'attente des résultats d'analyses d'échantillons, ces agents peuvent prononcer la mise en quarantaine de ces végétaux,
+produits végétaux ou autres objets, jusqu'à ce que les résultats d'analyse soient disponibles.
+
+Ces opérations sont constatées par procès-verbal mentionnant les végétaux, produits végétaux ou autres objets faisant l'objet
+de la mise en quarantaine.
+
+Mainlevée de la mise en quarantaine est ordonnée par ces agents.
+
+Les frais résultant des analyses et de la consignation sont à la charge du propriétaire ou du détenteur.
+
+Celui-ci peut à tout moment présenter une demande d'expertise contradictoire.
+
+B. - Dans le cadre de la recherche des infractions aux dispositions du présent titre, le procureur de la République est
+préalablement informé des opérations envisagées et peut s'y opposer.
+
+Les infractions sont constatées par des procès-verbaux qui font foi jusqu'à preuve contraire.
+
+Les procès-verbaux doivent, sous peine de nullité, être adressés dans les huit jours qui suivent leur clôture au procureur de
+la République. Une copie en est également transmise, dans le même délai, à l'intéressé.
+
+Les agents peuvent prélever des échantillons de végétaux, produits végétaux ou autres objets dans des conditions fixées par
+décret en Conseil d'Etat.
+
+Dans l'attente des résultats d'analyses des échantillons, ces agents peuvent consigner les végétaux, produits végétaux ou
+autres objets.
+
+Le procureur de la République est informé sans délai des mesures de consignation par les agents chargés du contrôle.
+
+Ces opérations sont constatées par procès-verbal mentionnant les végétaux, produits végétaux ou autres objets faisant l'objet
+de la mesure de consignation.
+
+Ces procès-verbaux sont transmis au procureur de la République dans les vingt-quatre heures. Une copie est remise à
+l'intéressé dans le même délai.
+
+Les produits consignés sont laissés à la garde de leur détenteur.
+
+La consignation ne peut excéder quinze jours que sur autorisation du procureur de la République.
+
+Mainlevée de la mesure de consignation peut être ordonnée à tout moment par les agents habilités ou par le procureur de la
+République.
+
+C. - Lorsqu'ils ne sont pas adressés aux laboratoires des services chargés de contrôler l'application des dispositions du
+présent titre, les échantillons sont analysés par des laboratoires agréés par l'autorité administrative selon des modalités
+fixées par décret en Conseil d'Etat.
+
+Les agents visés au A de l'article 363-1 sont habilités à vérifier que les conditions de l'agrément sont respectées.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 363-1, 359
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 34 () JORF 5 janvier 1993
+  - Loi n°99-574 du 9 juillet 1999 - art. 92 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre VI : Surveillance biologique du territoire.<a id=38></a>
+
+###### Article 364 bis
+
+I. - Les végétaux, y compris les semences, les produits antiparasitaires à usage agricole et les produits assimilés, les
+matières fertilisantes et les supports de cultures composés en tout ou partie d'organismes génétiquement modifiés disséminés
+dans l'environnement ou mis sur le marché, font l'objet d'une surveillance renforcée effectuée par les agents chargés de la
+protection des végétaux habilités en vertu des lois et règlements applicables à ces produits.
+
+Ces agents sont habilités à rechercher et à constater les infractions prévues au présent chapitre et aux textes pris pour son
+application dans les conditions et les limites prévues par les lois et règlements applicables à ces produits ainsi que celles
+relatives à la mise sur le marché des végétaux, y compris les semences, composés en tout ou en partie d'organismes
+génétiquement modifiés.
+
+En tant que de besoin, il peut être fait appel à toute autre personne désignée par le ministre de l'agriculture et
+remplissant les conditions de qualification fixées par décret en Conseil d'Etat.
+
+La mise en place de cette surveillance doit permettre d'identifier et de suivre l'apparition éventuelle d'effets non
+intentionnels sur les écosystèmes agricoles ou naturels, notamment les effets sur les populations de ravageurs, sur la faune
+et la flore sauvages, sur les milieux aquatiques et les sols, ainsi que sur les populations microbiennes, y compris les
+virus.
+
+II. - Un comité de biovigilance est chargé de donner un avis sur les protocoles de suivi de l'apparition éventuelle
+d'événements indésirables et d'alerter le ministre de l'agriculture et le ministre chargé de l'environnement lorsque de tels
+événements sont mis en évidence. Ce comité est placé sous la présidence conjointe du ministre de l'agriculture et du ministre
+chargé de l'environnement. Il est composé de personnalités compétentes en matière scientifique, d'un député et d'un sénateur
+membres de l'Office parlementaire d'évaluation des choix scientifiques et technologiques, et de représentants des
+associations de protection de l'environnement agréées au titre de l'article L. 252-1, des associations de consommateurs et
+des groupements professionnels concernés. Ces représentants forment au moins la moitié des membres du comité.
+
+Un décret en Conseil d'Etat détermine les conditions d'organisation et de fonctionnement du comité de biovigilance.
+
+III. - Toute personne qui constate une anomalie ou des effets indésirables susceptibles d'être liés à la dissémination ou à
+la mise sur le marché des produits mentionnés au présent article en informe immédiatement le service chargé de la protection
+des végétaux.
+
+IV. - Le responsable de la mise sur le marché ou de la dissémination, le distributeur et l'utilisateur de ces produits
+doivent participer au dispositif de surveillance biologique et répondre aux obligations liées à la mise en oeuvre des
+dispositions du présent article, notamment celle leur imposant de communiquer aux agents chargés de la protection des
+végétaux toutes les informations nécessaires à la surveillance biologique. La traçabilité des produits doit être assurée soit
+par suivi du produit, soit par analyse. Un décret en Conseil d'Etat, pris dans les conditions prévues à l'article 258-2, en
+fixe les modalités. A cet effet, le responsable de la mise sur le marché fournit toute information concernant la modification
+génétique introduite ainsi que la méthode d'analyse à mettre en oeuvre. Il peut s'agir de séquences nucléotidiques, d'amorces
+ou d'autres types d'informations utiles pour l'inscription dans le registre considéré. Un décret en Conseil d'Etat détermine,
+notamment par catégorie de produits, les modalités de leur participation et les obligations auxquelles ils sont tenus.
+
+V. - Dans l'intérêt de la santé publique et de l'environnement, l'autorité administrative peut, par arrêté, prendre toutes
+mesures destinées à collecter les données et informations relatives à ces opérations, afin d'en assurer le traitement et la
+diffusion, ainsi que des mesures d'interdiction, de restriction ou de prescriptions particulières concernant la mise sur le
+marché, la délivrance et l'utilisation des produits mentionnés au présent article.
+
+Dans l'intérêt de la protection des appellations d'origine contrôlée, l'Institut national des appellations d'origine peut
+proposer à l'autorité administrative les mesures prévues à l'alinéa précédent.
+
+VI. - Le Gouvernement, après avis du comité de biovigilance, adresse chaque année à l'Assemblée nationale et au Sénat un
+rapport d'activité sur la surveillance biologique du territoire.
+
+**Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des douanes - art. 322 bis (M)
-  - Code des douanes - art. 60 (V)
-  - Code des douanes - art. 61 (V)
-  - Code des douanes - art. 65 (M)
-  - Code rural 358
-  - Loi n°1905-08-01
+  - Code rural L252-1, 258-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 91 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.<a id=37></a>
+###### Article 364 quater
+
+I. - Est puni de 10 000 F d'amende le non-respect de l'obligation d'information prévue au III de l'article 364 bis.
+
+II. - Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait de mettre obstacle à l'exercice des fonctions des
+agents mentionnés à l'article 364 ter.
+
+III. - Est puni de six mois d'emprisonnement et de 200 000 F d'amende :
+
+- le non-respect par les opérateurs de leurs obligations mentionnées au IV de l'article 364 bis ;
+
+- l'inexécution des mesures prises en application du V de l'article 364 bis ou ordonnées en application de l'article 364 ter.
+
+IV. - Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également la peine
+complémentaire de l'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du
+code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions prévues au présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- l'affichage ou la diffusion de la décision prononcée dans les conditions prévues au 9° de l'article 131-39 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 364 bis, 364 ter
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 91 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364 ter
+
+I. - Dans le cadre de la surveillance biologique du territoire, les agents mentionnés à l'article 364 bis ont accès aux
+installations, lieux et locaux, à l'exclusion des domiciles et de la partie des locaux à usage de domicile, y compris les
+lieux où sont réalisées les opérations de dissémination ou de mise sur le marché des produits mentionnés.
+
+Ils ont également accès aux lieux, locaux et installations se trouvant à proximité du site de ces opérations, sous réserve de
+l'information et de l'accord des personnes chez lesquelles ils entendent intervenir.
+
+Cet accès a lieu entre 8 heures et 20 heures ou en dehors de ces heures lorsqu'une opération est en cours ou lorsque l'accès
+est autorisé au public, en présence du propriétaire ou de l'occupant. Un rapport de visite est établi et copie en est remise
+à l'intéressé.
+
+Ils peuvent recueillir sur convocation ou sur place les renseignements et justifications propres à l'accomplissement de leur
+mission et en prendre copie.
+
+Ils peuvent également, dans des conditions déterminées par décret en Conseil d'Etat, prélever des échantillons, placés sous
+la responsabilité du service de la protection des végétaux, afin d'assurer le respect de la confidentialité des secrets
+industriels. Ils sont analysés, le cas échéant, dans des laboratoires préalablement agréés par l'autorité administrative.
+Après analyse, ils sont restitués à leur propriétaire, qui peut demander à ce qu'une contre-expertise soit effectuée.
+
+II. - Lorsqu'à l'occasion de cette surveillance les agents mentionnés à l'article 364 bis constatent que la dissémination, la
+mise sur le marché ou l'utilisation des produits mentionnés à ce même article présente ou est susceptible de présenter un
+danger pour la santé publique ou pour l'environnement, ces agents peuvent ordonner, dans des conditions définies par décret
+en Conseil d'Etat pris après avis du comité de biovigilance, la consignation, la destruction totale ou partielle de ces
+produits, ainsi que des végétaux et des animaux présentant des anomalies ou des effets indésirables, ou toutes autres mesures
+propres à éviter ou à éliminer tout danger. Ces opérations sont constatées par procès-verbal.
+
+Préalablement à l'exécution de ces mesures, l'intéressé est mis à même de présenter ses observations. Ces mesures sont à la
+charge du responsable de la dissémination ou de la mise sur le marché, du distributeur ou de l'utilisateur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 364 bis
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 91 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.<a id=39></a>
 
 ###### Article 364-1
 
@@ -7664,7 +8733,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 1 : De la garde des animaux domestiques.<a id=38></a>
+### Section 1 : De la garde des animaux domestiques.<a id=40></a>
 
 ###### Article 364-2
 
@@ -7690,7 +8759,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 2 : De la lutte contre les maladies des animaux.<a id=39></a>
+### Section 2 : De la lutte contre les maladies des animaux.<a id=41></a>
 
 ###### Article 364-3
 
@@ -7928,7 +8997,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 3 : Du contrôle sanitaire des animaux et des viandes.<a id=40></a>
+### Section 3 : Du contrôle sanitaire des animaux et des viandes.<a id=42></a>
 
 ###### Article 364-12
 
@@ -8042,7 +9111,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 5 : Des pénalités.<a id=41></a>
+### Section 5 : Des pénalités.<a id=43></a>
 
 ###### Article 364-18
 
@@ -8072,7 +9141,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 6 : De la protection des végétaux.<a id=42></a>
+### Section 6 : De la protection des végétaux.<a id=44></a>
 
 ###### Article 364-19
 
@@ -8177,7 +9246,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 7 : Dispositions communes.<a id=43></a>
+### Section 7 : Dispositions communes.<a id=45></a>
 
 ###### Article 364-23
 
@@ -8212,7 +9281,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre XII : Agence française de sécurité sanitaire des aliments<a id=44></a>
+## Titre XII : Agence française de sécurité sanitaire des aliments<a id=46></a>
 
 ###### Article 365
 
@@ -8243,11 +9312,11 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=45></a>
+# Livre IV : Institutions et groupements professionnels agricoles<a id=47></a>
 
-## Titre Ier : Chambres d'agriculture<a id=46></a>
+## Titre Ier : Chambres d'agriculture<a id=48></a>
 
-### Chapitre IV : Dispositions financières et d'application.<a id=47></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=49></a>
 
 ###### Article 545-2
 
@@ -8266,9 +9335,9 @@ _Modifié par_:
   - Décret n°81-276 du 18 mars 1981 (V) art 1
 
 
-## Titre II : Coopératives agricoles<a id=48></a>
+## Titre II : Coopératives agricoles<a id=50></a>
 
-### Chapitre unique : Sanctions pénales.<a id=49></a>
+### Chapitre unique : Sanctions pénales.<a id=51></a>
 
 ###### Article 551
 
@@ -8297,7 +9366,7 @@ _Abrogé par_:
   - Rapport - art. 7 (V) JORF 22 juin 2000
 
 
-# Livre V : Crédit agricole<a id=50></a>
+# Livre V : Crédit agricole<a id=52></a>
 
 ###### Article 614
 
@@ -8332,9 +9401,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-20 (M)
 
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=51></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=53></a>
 
-### Chapitre Ier : Organisation.<a id=52></a>
+### Chapitre Ier : Organisation.<a id=54></a>
 
 ###### Article 615
 
@@ -8811,7 +9880,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=53></a>
+### Chapitre II : Fonctionnement.<a id=55></a>
 
 ###### Article 632
 
@@ -9122,7 +10191,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-43 (M)
 
 
-### Chapitre III : Ressources.<a id=54></a>
+### Chapitre III : Ressources.<a id=56></a>
 
 ###### Article 645
 
@@ -9250,9 +10319,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=55></a>
+### Chapitre IV : Opérations de crédit<a id=57></a>
 
-#### Section 1 : Crédit à court terme.<a id=56></a>
+#### Section 1 : Crédit à court terme.<a id=58></a>
 
 ###### Article 655
 
@@ -9412,9 +10481,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=57></a>
+#### Section 2 : Crédit à moyen terme<a id=59></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=58></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=60></a>
 
 ###### Article 672
 
@@ -9470,7 +10539,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=59></a>
+#### Section 3 : Crédit à long terme individuel.<a id=61></a>
 
 ###### Article 690
 
@@ -9530,7 +10599,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=60></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=62></a>
 
 ###### Article 697
 
@@ -9563,7 +10632,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=61></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=63></a>
 
 ###### Article 704
 
@@ -9609,9 +10678,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=62></a>
+## Titre II : Caisse nationale de crédit agricole<a id=64></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=63></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=65></a>
 
 ###### Article 711
 
@@ -9637,7 +10706,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-47 (M)
 
 
-### Chapitre II : Ressources.<a id=64></a>
+### Chapitre II : Ressources.<a id=66></a>
 
 ###### Article 717
 
@@ -9758,7 +10827,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=65></a>
+### Chapitre III : Opérations de crédit.<a id=67></a>
 
 ###### Article 723
 
@@ -10077,7 +11146,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=66></a>
+## Titre III : Inspection et contrôle.<a id=68></a>
 
 ###### Article 737
 
@@ -10265,9 +11334,9 @@ _Cité par_:
   - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
-## Titre IV : Dispositions diverses<a id=67></a>
+## Titre IV : Dispositions diverses<a id=69></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=68></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=70></a>
 
 ###### Article 745
 
@@ -10321,7 +11390,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=69></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=71></a>
 
 ###### Article 747
 
@@ -10403,9 +11472,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=70></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=72></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=71></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=73></a>
 
 ###### Article 752
 
@@ -10511,7 +11580,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=72></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=74></a>
 
 ###### Article 757
 
@@ -10615,7 +11684,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=73></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=75></a>
 
 ###### Article 763
 
@@ -10745,7 +11814,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=74></a>
+#### Section 4 : Dispositions communes.<a id=76></a>
 
 ###### Article 770
 
@@ -10794,7 +11863,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=75></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=77></a>
 
 ###### Article 773
 
@@ -10823,7 +11892,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=76></a>
+### Chapitre V : Domaine - Retraite.<a id=78></a>
 
 ###### Article 774
 
@@ -11127,7 +12196,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=77></a>
+### Chapitre VI : Dispositions d'application.<a id=79></a>
 
 ###### Article 788
 
@@ -11159,11 +12228,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=78></a>
+# Livre VII : Dispositions sociales<a id=80></a>
 
-## Titre Ier : Régime du travail<a id=79></a>
+## Titre Ier : Régime du travail<a id=81></a>
 
-### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=80></a>
+### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=82></a>
 
 ###### Article 983
 
@@ -11267,7 +12336,7 @@ _Cite_:
   - Code du travail - art. L611-6 (M)
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=81></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=83></a>
 
 ###### Article 992
 
@@ -11833,7 +12902,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Médecine du travail.<a id=82></a>
+### Chapitre III : Médecine du travail.<a id=84></a>
 
 ###### Article 1000-1
 
@@ -12001,7 +13070,166 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre II : Mutualité sociale agricole<a id=83></a>
+### Chapitre IV : Titre emploi simplifié agricole.<a id=85></a>
+
+###### Article 1000-6
+
+L'employeur qui, au moment de l'embauche d'un salarié par contrat à durée déterminée à l'exclusion des contrats visés à
+l'article L. 122-2 du code du travail, remet au salarié et adresse à la caisse de mutualité sociale agricole les parties qui
+leur sont respectivement destinées du document appelé "titre emploi simplifié agricole" est réputé satisfaire aux obligations
+prévues par les articles L. 122-3-1, L. 143-3, L. 212-4-3 et L. 320 du code du travail, et par les articles 1028 et 1031 du
+présent code, ainsi qu'aux déclarations au titre de la médecine du travail et du régime des prestations mentionnées à
+l'article L. 351-2 du code du travail.
+
+L'inscription sur le registre unique du personnel est réputée accomplie lorsque les employeurs tiennent à la disposition des
+personnes mentionnées au troisième alinéa de l'article L. 620-3 du code du travail, et pour chacun des salariés concernés, un
+double du document prévu ci-dessus portant un numéro correspondant à leur ordre d'embauchage.
+
+Le titre emploi simplifié agricole est délivré par les caisses de mutualité sociale agricole aux employeurs qui font appel,
+au moyen d'un ou plusieurs contrats de travail à durée déterminée, à des salariés relevant de l'article 1144 (1°, 2°, 3° et
+5°) du présent code ainsi qu'aux coopératives d'utilisation de matériel agricole, et aux coopératives agricoles employant
+moins de onze salariés permanents.
+
+Par dérogation à l'article L. 143-2 du code du travail, lorsqu'il est fait usage de ce titre, pour des travaux saisonniers,
+les salariés sont rémunérés à l'issue de chaque campagne saisonnière et au moins une fois par mois.
+
+Par dérogation aux dispositions de l'article 10 de la loi n° 86-966 du 18 août 1986 portant diverses mesures relatives au
+financement des retraites et pensions, la mention des cotisations patronales de sécurité sociale, d'origine législative,
+réglementaire ou conventionnelle n'est pas obligatoire sur le titre emploi simplifié agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1028, 1031, 1144
+  - Loi n°86-966 du 18 août 1986 - art. 10 (M)
+  - Code du travail - art. L122-2 (T)
+  - Code du travail - art. L122-3-1 (M)
+  - Code du travail - art. L143-2 (AbD)
+  - Code du travail - art. L143-3 (MMN)
+  - Code du travail - art. L212-4-3 (M)
+  - Code du travail - art. L320 (M)
+  - Code du travail - art. L351-2 (M)
+  - Code du travail - art. L620-3 (M)
+
+_Nouveaux textes_:
+
+  - Code rural L712-1
+  - Code rural - art. L712-1 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 38 (V) JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+### Chapitre V : Dispositions relatives aux comités des activités sociales et culturelles.<a id=86></a>
+
+###### Article 1000-7
+
+Un comité des activités sociales et culturelles est constitué au plan départemental au bénéfice des salariés énumérés aux 1°,
+2°, 3° et 5° de l'article 1144, et de leurs familles, employés dans les exploitations ou entreprises agricoles dont
+l'effectif est inférieur à cinquante salariés et qui n'ont pas de comité d'entreprise.
+
+Une convention ou un accord collectif de travail étendu conclu sur le plan départemental, régional ou national détermine les
+modalités de constitution du comité et contient obligatoirement des dispositions concernant :
+
+1° La composition du comité, les modalités de désignation des représentants et la durée de leur mandat ;
+
+2° Les modalités d'exercice du mandat détenu par les représentants des organisations de salariés ;
+
+3° Le taux de la contribution versée par chaque employeur ainsi que les modalités de recouvrement de celle-ci ;
+
+4° La destination des fonds recouvrés et les modalités d'utilisation de ceux-ci.
+
+Le comité est doté de la personnalité civile et détermine ses modalités de fonctionnement dans un règlement intérieur.
+
+Le comité est composé en nombre égal de représentants des organisations syndicales d'employeurs et de salariés agricoles
+représentatives dans le champ d'application de la convention ou de l'accord. Les représentants sont choisis parmi les
+salariés et les employeurs entrant dans le champ d'application territorial et professionnel de la convention ou de l'accord
+collectif de travail étendu.
+
+Le comité exerce les attributions dévolues aux comités d'entreprise par l'article L. 432-8 du code du travail. La
+contribution qui est versée par les employeurs des salariés mentionnés au premier alinéa du présent article et qui est
+destinée à couvrir le fonctionnement et les activités sociales et culturelles du comité est assise sur la masse salariale
+brute.
+
+Les contributions versées et les avantages servis suivent, en matière de cotisations sociales et de fiscalité, le régime
+applicable aux activités sociales et culturelles des comités d'entreprise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 41 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L718-1 (V)
+  - Code rural L718-1
+
+_Cite_:
+
+  - Code du travail - art. L432-8 (T)
+  - Code rural 1144
+
+
+### Chapitre VI : Dispositions relatives aux observatoires de l'emploi salarié en agriculture.<a id=87></a>
+
+###### Article 1000-8
+
+Il est créé, auprès de chaque préfet de département, un observatoire départemental de l'emploi salarié en agriculture.
+
+L'observatoire départemental de l'emploi salarié en agriculture a pour mission de suivre l'évolution des emplois salariés
+visés aux 1°, 2°, 3° et 5° de l'article 1144, et notamment des contrats à durée indéterminée et des contrats à durée
+déterminée, et de proposer, le cas échéant, des solutions pour inciter à la conclusion de contrats à durée indéterminée.
+
+Il remet chaque année un rapport au préfet du département, qui est rendu public.
+
+Un décret détermine la composition et les modalités de fonctionnement de cet organisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1144
+
+_Nouveaux textes_:
+
+  - Code rural R718-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 44 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+## Titre II : Mutualité sociale agricole<a id=88></a>
 
 ###### Article 1001
 
@@ -12033,7 +13261,9 @@ _Abrogé par_:
 
 ###### Article 1002
 
-Les caisses de mutualité sociale agricole sont dotées de la personnalité morale et régies par l'article 1235 du présent code.
+Les caisses de mutualité sociale agricole sont dotées de la personnalité morale et sont constitués et fonctionnent
+conformément aux prescriptions du code de la mutualité, sous réserve des dispositions du présent code et du code de la
+sécurité sociale et des textes pris pour leur application.
 
 Les caisses de mutualité sociale agricole sont départementales ou pluridépartementales. Elles sont chargées de la gestion des
 régimes obligatoires de protection sociale des salariés et non-salariés agricoles. Elles peuvent être autorisées à gérer des
@@ -12044,27 +13274,34 @@ Les statuts et règlements intérieurs des caisses de mutualité sociale agricol
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 1235
+
+_Nouveaux textes_:
+
+  - Code rural L723-1
+  - Code rural L723-2
+  - Code rural - art. L723-1 (V)
+  - Code rural - art. L723-2 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 20 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 49 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L152-1 (V)
   - Code de la sécurité sociale. - art. L153-3 (V)
-
-_Nouveaux textes_:
-
-  - Code rural - art. L723-1 (V)
-  - Code rural - art. L723-2 (M)
-
-_Cite_:
-
-  - Code rural 1235
 
 
 ###### Article 1002-1
@@ -12125,25 +13362,31 @@ En cas de fusion de plusieurs caisses de mutualité sociale agricole, la circons
 constituée par l'ensemble des circonscriptions des caisses fusionnées. Les modalités selon lesquelles sont attribués les
 biens, droits et obligations des caisses intéressées par la fusion sont fixées par décret. Les opérations entraînées par ce
 transfert, qui n'apporte aucune modification à l'affectation définitive des ressources attribuées à chacun des régimes
-précédemment gérés par lesdites caisses, bénéficient de l'exonération prévue par l'article 1069 du code général des impôts.
+précédemment gérés par lesdites caisses, bénéficient de l'exonération prévue par l'article 1085 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1069
+  - CGI 1085
+
+_Nouveaux textes_:
+
+  - Code rural L723-4
+  - Code rural - art. L723-4 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 54 () JORF 10 juillet 1999
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L723-4 (V)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1002-3
@@ -12156,21 +13399,58 @@ caisses qui les ont créés. Les modalités de leur fonctionnement sont détermi
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
-
 _Nouveaux textes_:
 
   - Code rural - art. L723-5 (V)
+  - Code rural L723-5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cite_:
 
   - Loi n°1901-07-01
+
+_Modifié par_:
+
+  - Loi n°99-574 1999-07-09 art. 1 JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1002-3-1
+
+La circonscription des caisses fusionnées et celle des associations à but non lucratif créées par regroupement de deux ou
+plusieurs caisses de mutualité sociale agricole, mentionnées aux articles 1002-2 et 1002-3, ne peuvent, sauf dérogation
+accordée par le ministre de l'agriculture, excéder la circonscription de la région administrative.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1002-2, 1002-3
+
+_Nouveaux textes_:
+
+  - Code rural L723-6
+  - Code rural - art. L723-6 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 48 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1002-4
@@ -12228,10 +13508,15 @@ réglementaire de son action, ainsi que le processus d'évaluation contradictoir
 fixés. Cette convention définit des orientations pluriannuelles cohérentes avec celles mentionnées dans la convention
 d'objectifs et de gestion de la branche maladie du régime général. L'avenant qui est conclu à la suite de la publication de
 la loi de financement de la sécurité sociale comporte des clauses analogues à celles de l'avenant ayant le même objet de la
-branche maladie du régime général.
+branche maladie du régime général. La convention d'objectifs et de gestion est signée, pour le compte de la Caisse centrale
+de mutualité sociale agricole, par le président du conseil central d'administration et par le directeur de la Caisse centrale
+de mutualité sociale agricole. La mise en oeuvre de la convention d'objectifs et de gestion fait l'objet de contrats
+pluriannuels de gestion conclus entre la Caisse centrale de mutualité sociale agricole et chacune des caisses de mutualité
+sociale agricole. Les contrats pluriannuels de gestion sont signés pour chacun des deux organismes par le président du
+conseil d'administration et par le directeur.
 
-Elle est soumise aux dispositions applicables, en matière de gestion comptable et financière, aux caisses départementales et
-pluridépartementales de mutualité sociale agricole.
+Elle est soumise aux dispositions applicables en matière de gestion administrative, comptable et financière aux caisses
+départementales et pluridépartementales de mutualité sociale agricole.
 
 Les statuts de la caisse centrale de la mutualité sociale agricole sont approuvés par le ministre chargé de l'agriculture.
 
@@ -12246,10 +13531,16 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Ordonnance 96-344 1996-04-24 art. 3 JORF 25 avril 1996
+  - Loi n°99-574 1999-07-09 art. 49 I, II JORF 10 juillet 1999
+  - Loi n°99-574 du 9 juillet 1999 - art. 49 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Cité par_:
 
@@ -12259,6 +13550,8 @@ _Nouveaux textes_:
 
   - Code rural - art. L723-11 (M)
   - Code rural - art. L723-12 (M)
+  - Code rural L723-11
+  - Code rural L723-12
 
 
 ###### Article 1003
@@ -12554,7 +13847,8 @@ d'associés participant aux travaux que comprend la coexploitation ou la sociét
 20 p. 100 de la surface minimum d'installation lorsque des époux dirigent, seuls ou avec d'autres personnes, l'exploitation
 ou l'entreprise. Si plusieurs couples dirigent ensemble l'exploitation ou l'entreprise, cette réduction est appliquée à
 chacun de ceux-ci. Ces dispositions ne sont pas applicables aux personnes déjà affiliées à la date de publication de la loi
-n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social.
+n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social
+ainsi qu'aux conjoints collaborateurs mentionnés à l'article L. 321-5 du présent code.
 
 II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une exploitation ou entreprise agricoles ne
 répondant pas à la condition d'importance minimale fixée au I sont affiliées, sur leur demande, par décision des conseils
@@ -12599,6 +13893,7 @@ calculée en pourcentage de ces revenus. Le taux de la cotisation est détermin�
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cité par_:
 
@@ -12609,11 +13904,15 @@ _Cite_:
 
   - Loi n°80-502 1980-07-04
   - Loi n°88-1202 1988-12-30
-  - Code rural 188-4, 1060, 1003-12, 1122-1
+  - Code rural 1060, 188-4, L321-5, 1122-1, 1003-12
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 32 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 25 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -12625,6 +13924,14 @@ _Nouveaux textes_:
   - Code rural - art. L731-23 (M)
   - Code rural - art. L731-24 (M)
   - Code rural - art. L731-39 (V)
+  - Code rural L722-4
+  - Code rural L722-5
+  - Code rural L722-6
+  - Code rural L722-7
+  - Code rural L731-11
+  - Code rural L731-23
+  - Code rural L731-24
+  - Code rural L731-39
 
 
 ###### Article 1003-8
@@ -12808,15 +14115,33 @@ modalités d'assiette qui résultent d'une option du contribuable. Ils sont majo
 correspondent pas à des dépenses nécessitées par l'exercice de la profession, à l'exception de la déduction opérée en
 application de l'article 72 D du code général des impôts.
 
-III. - L'assiette des cotisations est déterminée forfaitairement dans les conditions fixées par décret :
+III. - Les cotisations sont calculées, à titre provisionnel, sur une assiette forfaitaire lorsque la durée d'assujettissement
+ne permet pas de connaître les revenus professionnels servant de base à celles-ci et font l'objet d'une régularisation
+lorsque ces revenus sont connus. Par dérogation aux dispositions prévues au premier alinéa du II, les cotisations sont
+calculées, pour la première année, sur les revenus d'une seule année et, pour la deuxième année, sur la moyenne des revenus
+des deux années. Un décret fixe les modalités d'application de ces dispositions.
 
-1° Lorsque la durée d'assujettissement ne permet pas de calculer la moyenne des revenus professionnels se rapportant aux
-trois années de référence ;
+Toutefois, par dérogation au précédent alinéa, lorsqu'un conjoint s'installe en qualité de coexploitant ou d'associé, au sein
+d'une coexploitation ou d'une société formées entre les conjoints, et qu'il a participé aux travaux de ladite exploitation ou
+entreprise agricole et a donné lieu à ce titre au versement de la cotisation prévue au a de l'article 1123 pendant la période
+prise en compte pour le calcul des cotisations en application du premier alinéa du II ou du premier alinéa du VI, il n'est
+pas fait application de l'assiette forfaitaire provisionnelle et ses cotisations sont calculées sur la part, correspondant à
+sa participation aux bénéfices, des revenus agricoles du foyer fiscal relatifs, selon les cas, à la période visée au premier
+alinéa du II ou au premier alinéa du VI.
 
-2° Lorsque les personnes non salariées des professions agricoles ayant la qualité de gérants ou d'associés de sociétés ne
-sont pas soumises à l'impôt sur le revenu dans l'une des catégories mentionnées au paragraphe I du présent article.
+Par dérogation au premier alinéa du présent III, en cas de transfert de la qualité de chef d'exploitation ou d'entreprise
+entre des conjoints quels qu'en soient le motif et les modalités, les cotisations dues par le conjoint poursuivant la mise en
+valeur de l'exploitation ou de l'entreprise sont assises sur la totalité des revenus professionnels agricoles du foyer fiscal
+au cours de la période visée, selon le cas, au premier alinéa du II ou au premier alinéa du VI.
 
-IV. - En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque les revenus professionnels de chacun des
+Les dispositions des deux alinéas précédents ne sont applicables que si la consistance de l'exploitation ou de l'entreprise
+n'est pas affectée à l'occasion des modifications visées auxdits alinéas au-delà de proportions définies par décret.
+
+IV. - L'assiette des cotisations est déterminée forfaitairement dans des conditions fixées par décret lorsque les personnes
+non salariées des professions agricoles ayant la qualité de gérant ou d'associé de société ne sont pas soumises à l'impôt sur
+le revenu dans l'une des catégories mentionnées au I.
+
+V. - En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque les revenus professionnels de chacun des
 coexploitants ou associés n'ont pas fait l'objet d'une imposition séparée, le montant total des revenus est réparti entre les
 coexploitants ou associés au prorata de la participation de chacun d'eux aux bénéfices, telle qu'elle est déterminée par les
 statuts de la société ou, à défaut, à parts égales.
@@ -12825,8 +14150,6 @@ Si les revenus professionnels dégagés par les membres d'une même famille ayan
 d'entreprise et dirigeant des exploitations ou entreprises distinctes n'ont pas fait l'objet d'une imposition séparée, le
 montant total des revenus est réparti entre eux en fonction de l'importance respective de leur exploitation ou de leur
 entreprise dans des conditions définies par décret.
-
-V. (paragraphe abrogé).
 
 VI. - Par dérogation aux dispositions du premier alinéa du II du présent article, les chefs d'exploitation ou d'entreprise
 agricole soumis à un régime forfaitaire d'imposition peuvent, dans des conditions fixées par décret, opter pour une assiette
@@ -12867,7 +14190,7 @@ ou d'entreprise agricoles peuvent exercer l'option prévue au présent VI jusqu'
 Les chefs d'exploitation ou d'entreprise agricoles ayant dénoncé l'option ne peuvent ultérieurement demander l'application
 des dispositions prévues au présent VI.
 
-VII - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles ayant exercé l'option prévue à l'article 13
+VII. - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles ayant exercé l'option prévue à l'article 13
 de la loi n° 91-1407 du 31 décembre 1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent dénoncer ladite
 option à effet du 1er janvier 1994.
 
@@ -12879,17 +14202,9 @@ ultérieurement exercer l'option mentionnée au VI du présent article.
 _Cite_:
 
   - CGI 62, 8, 72 D
+  - Code rural 1060, 1123
   - Loi n°91-1407 1991-12-31 art. 13
   - Loi n°93-121 1993-01-27 art. 35
-  - Code rural 1060
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°95-95 du 1 février 1995 - art. 68 (V) JORF 2 février 1995
 
 _Nouveaux textes_:
 
@@ -12902,9 +14217,31 @@ _Nouveaux textes_:
   - Code rural - art. L731-20 (Ab)
   - Code rural - art. L731-21 (M)
   - Code rural - art. L731-22 (Ab)
+  - Code rural L731-14
+  - Code rural L731-15
+  - Code rural L731-16
+  - Code rural L731-17
+  - Code rural L731-18
+  - Code rural L731-19
+  - Code rural L731-20
+  - Code rural L731-21
+  - Code rural L731-22
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 34 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=84></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=89></a>
 
 ###### Article 1004
 
@@ -13173,13 +14510,22 @@ _Abrogé par_:
 
 ###### Article 1010
 
-Lorsque la circonscription des caisses de mutualité sociale s'étend sur deux ou plusieurs départements, le conseil
-d'administration comprend : douze représentants du premier collège, douze représentants du deuxième collège et six
-représentants du troisième collège élus dans les conditions prévues à l'article précédent ainsi que trois représentants des
-familles dont au moins un salarié et un non-salarié désignés conjointement par les unions départementales des associations
-familiales concernées sur proposition des associations familiales rurales. Siègent également, avec voix consultative, trois
-représentants du personnel de la caisse, désignés par le comité d'entreprise et pris en son sein, à raison de deux
-représentants des employés et assimilés et d'un représentant des cadres et assimilés.
+Lorsque la circonscription des caisses de mutualité sociale agricole s'étend sur deux ou plusieurs départements, le conseil
+d'administration comprend :
+
+1° Trente membres élus en nombre égal par les délégués cantonaux de chaque collège de chacun des départements réunis en
+assemblée générale de la caisse pluridépartementale, selon les modalités prévues à l'article 1009, pour cinq ans, à raison
+de : douze représentants du premier collège, douze représentants du deuxième collège et six représentants du troisième
+collège ;
+
+2° Trois représentants des familles dont au moins un salarié et un non-salarié désignés conjointement par les unions
+départementales des associations familiales concernées sur proposition des associations familiales rurales.
+
+Siègent également, avec voix consultative, trois représentants du personnel de la caisse, désignés par le comité d'entreprise
+et pris en son sein, à raison de deux représentants des employés et assimilés et d'un représentant des cadres et assimilés.
+
+En ce qui concerne les caisses de mutualité sociale agricole d'Ile-de-France, de la Haute-Saône et du territoire de Belfort,
+les représentants des trois collèges pourront être élus dans les conditions prévues par l'article 1009.
 
 Les administrateurs des deuxième et troisième collèges ainsi que le ou les administrateurs représentants des familles, qui
 appartiennent au deuxième collège, forment le comité de la protection sociale des salariés agricoles.
@@ -13189,18 +14535,29 @@ des premier ou troisième collèges, forment le comité de la protection sociale
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 29 () JORF 11 février 1994
+  - Code rural 1009
 
 _Nouveaux textes_:
 
+  - Code rural L723-30
+  - Code rural L723-31
   - Code rural - art. L723-30 (M)
   - Code rural - art. L723-31 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 55 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1011
@@ -13238,23 +14595,35 @@ Les administrateurs centraux des premier et troisième collèges ainsi que l'adm
 qui appartient au premier ou au troisième collège forment le comité central de la protection sociale des non-salariés
 agricoles.
 
+Le ministre de l'agriculture est représenté auprès de la Caisse centrale de la mutualité sociale agricole par un commissaire
+du Gouvernement. Le commissaire du Gouvernement assiste aux séances de l'assemblée générale centrale ainsi qu'à celles du
+conseil central d'administration.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°94-114 1994-02-10 art. 23 I, II JORF 11 février 1994
-  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
+  - Code rural L723-28
+  - Code rural L723-32
+  - Code rural L723-33
+  - Code rural L723-34
   - Code rural - art. L723-28 (M)
   - Code rural - art. L723-32 (M)
   - Code rural - art. L723-33 (V)
   - Code rural - art. L723-34 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 49 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1012
@@ -13659,11 +15028,13 @@ _Cite_:
 ###### Article 1023
 
 En cas d'irrégularités graves, de mauvaise gestion ou de carence du conseil d'administration d'un organisme de mutualité
-sociale agricole, ce conseil peut être suspendu ou dissous par un arrêté du ministre de l'agriculture qui nomme un
-administrateur provisoire.
+sociale agricole, ce conseil peut, à l'expiration d'un délai déterminé, être suspendu ou dissous par un arrêté du ministre de
+l'agriculture qui nomme un administrateur provisoire.
 
 En cas de faute grave d'un administrateur, celui-ci peut être révoqué, après avis du conseil, par arrêté du ministre de
-l'agriculture.
+l'agriculture. Cette disposition est applicable, dans les conditions prévues par décret en Conseil d'Etat, en cas de non-
+paiement par un administrateur des cotisations dont il est redevable en application des articles 1031, 1062, 1106-6 et
+suivants et 1123 et suivants du présent code.
 
 Les administrateurs révoqués ainsi que les membres d'un conseil d'administration qui a été dissous ne peuvent faire partie
 d'un conseil d'administration, à quelque titre que ce soit, pendant une durée de quatre ans à compter de la révocation ou de
@@ -13671,17 +15042,27 @@ la dissolution.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Code rural 1031, 1062, 1106-6, 1123
 
 _Nouveaux textes_:
 
+  - Code rural L723-39
   - Code rural - art. L723-39 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 50 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1023-1
@@ -13751,9 +15132,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances sociales<a id=85></a>
+### Chapitre II : Assurances sociales<a id=90></a>
 
-#### Section 1 : Affiliation.<a id=86></a>
+#### Section 1 : Affiliation.<a id=91></a>
 
 ###### Article 1024
 
@@ -13975,7 +15356,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=87></a>
+#### Section 2 : Cotisations.<a id=92></a>
 
 ###### Article 1031
 
@@ -14186,6 +15567,52 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1031-4
+
+I. - Les dispositions prévues au III de l'article L. 241-10 du code de la sécurité sociale sont applicables aux cotisations
+patronales d'assurances sociales, d'accidents du travail et d'allocations familiales, dues par les associations et organismes
+sur les rémunérations des salariés affiliés au régime de protection sociale agricole, dans les conditions mentionnées par cet
+article.
+
+Les conditions d'application de l'exonération prévue au III de l'article L. 241-10 précité au bénéfice des associations et
+organismes visés au premier alinéa sont fixées par décret. Celui-ci détermine notamment les informations et pièces que les
+associations et organismes précités doivent produire auprès des caisses de mutualité sociale agricole ainsi que les modalités
+permettant aux caisses de mutualité sociale agricole de vérifier la qualité de bénéficiaires des prestations mentionnées aux
+b, c, d et e du I de l'article L. 241-10 précité ou des prestations d'aide ménagère visées au III du même article.
+
+II. - Les caisses de mutualité sociale agricole procèdent auprès des associations et organismes affiliés au régime agricole
+et bénéficiant de l'exonération prévue à l'article L. 241-10 précité à des contrôles identiques à ceux réalisés par les
+caisses de sécurité sociale auprès des associations et organismes relevant du régime général, afin de s'assurer de la
+régularité des opérations financières et comptables et d'apprécier la qualité des prestations servies.
+
+III. - Les dispositions du I sont applicables aux gains et rémunérations versés postérieurement au 31 décembre 1998.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L241-10
+  - Code de la sécurité sociale. - art. L241-10 (M)
+
+_Nouveaux textes_:
+
+  - Code rural L741-27
+  - Code rural - art. L741-27 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 45 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1032
 
 Les cotisations d'assurances sociales agricoles sont obligatoirement versées à la caisse de mutualité sociale agricole agréée
@@ -14390,7 +15817,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Prestations.<a id=88></a>
+#### Section 3 : Prestations.<a id=93></a>
 
 ###### Article 1038
 
@@ -14507,7 +15934,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Régime facultatif, régime complémentaire.<a id=89></a>
+#### Section 4 : Régime facultatif, régime complémentaire.<a id=94></a>
 
 ###### Article 1049
 
@@ -14625,7 +16052,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 5 : Organisation administrative et financière.<a id=90></a>
+#### Section 5 : Organisation administrative et financière.<a id=95></a>
 
 ###### Article 1052
 
@@ -14756,9 +16183,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=91></a>
+### Chapitre III : Prestations familiales<a id=96></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=92></a>
+#### Section 1 : Affiliations et cotisations.<a id=97></a>
 
 ###### Article 1060
 
@@ -14770,6 +16197,9 @@ Le régime agricole des prestations familiales est applicable :
 l'exception des personnes exerçant la profession d'exploitant forestier négociant en bois achetant des coupes en vue de la
 revente du bois dans des conditions telles que cette activité comporte inscription au registre du commerce ou paiement d'une
 patente en tant que commerçant ;
+
+2° bis Aux mandataires des sociétés ou caisses locales d'assurances mutuelles agricoles exerçant leur activité en qualité de
+non-salariés dans les conditions prévues au 4° de l'article R. 511-2 et à l'article R. 512-2 du code des assurances ;
 
 3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente ;
 
@@ -14786,26 +16216,36 @@ effectués au temps, à la tâche ou au forfait.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Loi n°85-542 1985-05-22
-  - Code rural 1144
-  - Décret n°1852-01-09
-
-_Modifié par_:
-
-  - Loi n°97-1051 du 18 novembre 1997 - art. 54 () JORF 19 novembre 1997
-
 _Nouveaux textes_:
 
   - Code rural - art. L722-22 (V)
   - Code rural - art. L722-28 (V)
   - Code rural - art. L722-4 (V)
   - Code rural - art. L722-9 (V)
+  - Code rural L722-22
+  - Code rural L722-28
+  - Code rural L722-4
+  - Code rural L722-9
+
+_Cite_:
+
+  - Code des assurances - art. R*512-2 (M)
+  - Code rural 1144, R511-2
+  - Décret n°1852-01-09
+  - Loi n°85-542 1985-05-22
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 52 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1061
@@ -15245,7 +16685,7 @@ _Cite_:
   - Code pénal - art. 226-14 (M)
 
 
-#### Section 2 : Dégrèvements.<a id=93></a>
+#### Section 2 : Dégrèvements.<a id=98></a>
 
 ###### Article 1073
 
@@ -15326,7 +16766,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Recouvrement.<a id=94></a>
+#### Section 3 : Recouvrement.<a id=99></a>
 
 ###### Article 1080
 
@@ -15421,7 +16861,7 @@ _Cite_:
   - Loi n°1946-08-22 art. 18, art. 19, art. 20, art. 21
 
 
-#### Section 4 : Prestations.<a id=95></a>
+#### Section 4 : Prestations.<a id=100></a>
 
 ###### Article 1090
 
@@ -15567,7 +17007,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=96></a>
+#### Section 5 : Organisation administrative et financière.<a id=101></a>
 
 ###### Article 1094
 
@@ -15625,9 +17065,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=97></a>
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=102></a>
 
-#### Section 1 : Champ d'application.<a id=98></a>
+#### Section 1 : Champ d'application.<a id=103></a>
 
 ###### Article 1106-1
 
@@ -15737,7 +17177,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-103 (Ab)
 
 
-#### Section 2 : Prestations.<a id=99></a>
+#### Section 2 : Prestations.<a id=104></a>
 
 ###### Article 1106-2
 
@@ -15929,14 +17369,14 @@ _Nouveaux textes_:
 
 ###### Article 1106-3-1
 
-L'assurance prévue au présent chapitre prend en charge la couverture partielle des frais exposés par les personnes du sexe
-féminin mentionnées aux 1°, 2°, 4° et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les travaux de
-l'exploitation agricole lorsque, prenant part de manière constante à ces travaux, elles sont empêchées de les accomplir en
-raison de la maternité ou de l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service d'aide sociale à
-l'enfance ou par un organisme autorisé pour l'adoption. Le bénéfice de l'allocation de remplacement ci-dessus prévue est
-également accordé aux non salariées agricoles visées à l'article 1106-1 (1°, 2° et 5°) qui perçoivent leurs prestations du
-régime de leur activité salariée, au prorata de leur activité à temps partiel sur l'exploitation lorsqu'elles répondent à des
-conditions de durée maximale d'activité salariée précisées par le décret en Conseil d'Etat prévu ci-après.
+L'assurance prévue au présent chapitre prend en charge la couverture des frais exposés par les personnes du sexe féminin
+mentionnées aux 1°, 2°, 4° et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les travaux de l'exploitation
+agricole lorsque, prenant part de manière constante à ces travaux, elles sont empêchées de les accomplir en raison de la
+maternité ou de l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service d'aide sociale à l'enfance ou
+par un organisme autorisé pour l'adoption. Le bénéfice de l'allocation de remplacement ci-dessus prévue est également accordé
+aux non salariées agricoles visées à l'article 1106-1 (1°, 2° et 5°) qui perçoivent leurs prestations du régime de leur
+activité salariée, au prorata de leur activité à temps partiel sur l'exploitation lorsqu'elles répondent à des conditions de
+durée maximale d'activité salariée précisées par le décret en Conseil d'Etat prévu ci-après.
 
 L'allocation de remplacement est également accordée aux femmes visées à l'alinéa précédent titulaires de l'agrément mentionné
 aux articles 63 ou 100-3 du code de la famille et de l'aide sociale lorsqu'elles adoptent ou accueillent un enfant en vue de
@@ -15952,14 +17392,6 @@ Les dépenses afférentes au service de cette prestation sont financées par la 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°96-604 du 5 juillet 1996 - art. 57 () JORF 6 juillet 1996
-
 _Nouveaux textes_:
 
   - Code rural - art. L732-10 (V)
@@ -15967,12 +17399,30 @@ _Nouveaux textes_:
   - Code rural - art. L732-12 (M)
   - Code rural - art. L732-13 (M)
   - Code rural - art. L732-14 (V)
+  - Code rural L732-10
+  - Code rural L732-11
+  - Code rural L732-12
+  - Code rural L732-13
+  - Code rural L732-14
 
 _Cite_:
 
   - Code de la famille et de l'aide sociale. - art. 100-3 (M)
   - Code de la famille et de l'aide sociale. - art. 63 (M)
   - Code rural 1106-1, 1106-6
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 33 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1106-4
@@ -16044,7 +17494,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=100></a>
+#### Section 3 : Financement.<a id=105></a>
 
 ###### Article 1106-6
 
@@ -16246,7 +17696,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Assujettissement et organisation.<a id=101></a>
+#### Section 4 : Assujettissement et organisation.<a id=106></a>
 
 ###### Article 1106-9
 
@@ -16485,7 +17935,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=102></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=107></a>
 
 ###### Article 1106-17
 
@@ -16817,7 +18267,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=103></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=108></a>
 
 ###### Article 1107
 
@@ -16875,7 +18325,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=104></a>
+#### Section 1 : Prestations<a id=109></a>
 
 ###### Article 1110
 
@@ -16921,7 +18371,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-22 (M)
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=105></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=110></a>
 
 ###### Article 1111
 
@@ -17029,7 +18479,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 2 : Retraite.<a id=106></a>
+##### Paragraphe 2 : Retraite.<a id=111></a>
 
 ###### Article 1120-1
 
@@ -17329,6 +18779,71 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1121-5
+
+Les personnes dont la retraite servie à titre personnel a pris effet après le 31 décembre 1997 bénéficient, à compter de sa
+date d'effet, d'une attribution gratuite de points de retraite proportionnelle. Les dispositions du présent article sont
+applicables aux personnes qui justifient d'une durée d'assurance fixée par décret accomplie dans le régime d'assurance
+vieillesse des personnes non salariées des professions agricoles et qui ne sont pas titulaires d'un des avantages mentionnés
+au deuxième alinéa de l'article 1121-1, à l'article 1122, au troisième alinéa de l'article 1122-1 et au cinquième alinéa du I
+de l'article 1122-1-1.
+
+Le nombre de points attribué au titre du présent article afin d'assurer à ces personnes un niveau minimum de pension de
+retraite proportionnelle est déterminé en fonction de l'année de prise d'effet de la retraite selon des modalités fixées par
+décret en tenant compte des durées d'assurance justifiées par l'intéressé et des points de retraite proportionnelle qu'il a
+acquis ou, lorsqu'il s'agit d'un conjoint d'exploitant agricole retraité après le 31 décembre 1999, qu'il aurait pu acquérir
+par rachat à compter du 1er janvier 2000 s'il avait opté pour la qualité de conjoint collaborateur d'exploitation ou
+d'entreprise mentionnée à l'article 1122-1-1.
+
+Pour les conjoints dont la retraite a pris effet en 1998 ou 1999, les conjoints dont la retraite a pris effet postérieurement
+au 31 décembre 1999 et qui ont opté pour la qualité de conjoint collaborateur d'exploitation ou d'entreprise mentionnée à
+l'article 1122-1-1, les aides familiaux et, le cas échéant, les chefs d'exploitation ou d'entreprise, le niveau minimum de
+retraite proportionnelle prévu à l'alinéa précédent est majoré, à compter du 1er janvier 1999 ou de la date de prise d'effet
+de leur retraite, et porté à un niveau différencié selon que les années sur lesquelles porte la revalorisation ont été
+exercées en qualité de conjoint ou d'aide familial. Le nombre de points supplémentaires gratuits attribué au titre du présent
+alinéa est déterminé selon des modalités fixées par décret et qui tiennent notamment compte des durées d'assurance de
+l'intéressé, du nombre de points qu'il a acquis et, s'agissant des conjoints collaborateurs d'exploitation ou d'entreprise ou
+des chefs d'exploitation ou d'entreprise, du nombre de points qu'ils sont susceptibles d'acquérir en application des
+dispositions du quatrième alinéa du I de l'article 1122-1-1 ou du II du même article.
+
+Pour l'application des dispositions du troisième alinéa, les personnes qui avaient au 31 décembre 1998 la qualité de conjoint
+définie à l'article 1122-1 ne sont considérées comme conjoint collaborateur que si elles ont opté avant le 1er juillet 2000
+pour le statut mentionné à l'article L. 321-5 et ont conservé ce statut de manière durable. Un décret fixe les modalités
+selon lesquelles est apprécié le caractère durable susmentionné.
+
+A compter du 1er janvier 2000, le niveau différencié prévu au troisième alinéa est relevé par décret.
+
+En cas d'obtention d'une pension de réversion mentionnée au premier alinéa postérieurement à l'attribution de points de
+retraite proportionnelle gratuits, le nombre de points gratuits est plafonné, à compter du 1er janvier de l'année qui suit
+cette obtention, au niveau atteint durant l'année au cours de laquelle a pris effet la pension de réversion.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1121-1, 1122, 1122-1, 1122-1-1, L321-5
+
+_Nouveaux textes_:
+
+  - Code rural L732-31
+  - Code rural - art. L732-31 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi - art. 114 () JORF 31 décembre 1999 en vigueur le 10 juillet 1999
+  - Loi - art. 116 (V) JORF 31 décembre 1999 en vigueur le 10 juillet 1999
+  - Loi n°99-1172 1999-12-30 art. 114 IV, art. 116 I, III Finances pour 2000 JORF 31 décembre 1999 en vigueur le 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1121-6
 
 I. - Les chefs d'exploitation ou d'entreprise agricole dont la pension servie à titre personnel a pris effet avant le 1er
@@ -17427,16 +18942,16 @@ _Abrogé par_:
 
 ###### Article 1122-1
 
-Le conjoint du chef d'exploitation ou d'entreprise agricole et les membres de la famille ont droit à la pension de retraite
-forfaitaire dans les conditions prévues au 1° du premier alinéa de l'article 1121. Les membres de la famille s'entendent des
-ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou d'entreprise ou de son conjoint.
-Dès lors qu'ils ne justifient pas de leur affiliation à un régime légal ou réglementaire de retraite à raison de l'exercice
-d'une activité professionnelle personnelle, qu'ils ne sont pas atteints d'une incapacité absolue de travail et qu'ils ne sont
-pas bénéficiaires des dispositions des chapitres V et VI du titre III du code de la famille et de l'aide sociale, le conjoint
-et les membres de la famille vivant sur l'exploitation sont présumés, sauf preuve contraire, participer à la mise en valeur
-de celle-ci. Les membres de la famille âgés d'au moins dix-huit ans et ayant la qualité d'aide familial au sens du 2° de
-l'article 1106-1 ont également droit à la retraite proportionnelle dans les conditions prévues au 2° de l'article 1121 et au
-2° de l'article 1142-5.
+Le conjoint du chef d'exploitation ou d'entreprise agricole, sous réserve des dispositions du dernier alinéa du présent
+article, et les membres de la famille ont droit à la pension de retraite forfaitaire dans les conditions prévues au 1° de
+l'article 1121. Les membres de la famille s'entendent des ascendants, descendants, frères, soeurs et alliés au même degré du
+chef d'exploitation ou d'entreprise ou de son conjoint. Dès lors qu'ils ne justifient pas de leur affiliation à un régime
+légal ou réglementaire de retraite à raison de l'exercice d'une activité professionnelle personnelle, qu'ils ne sont pas
+atteints d'une incapacité absolue de travail et qu'ils ne sont pas bénéficiaires des dispositions des chapitres V et VI du
+titre III du code de la famille et de l'aide sociale, le conjoint et les membres de la famille vivant sur l'exploitation sont
+présumés, sauf preuve contraire, participer à la mise en valeur de celle-ci. Les membres de la famille âgés d'au moins dix-
+huit ans et ayant la qualité d'aide familial au sens du 2° de l'article 1106-1 ont également droit à la retraite
+proportionnelle dans les conditions prévues au 2° de l'article 1121 et au 2° de l'article 1142-5.
 
 Lorsqu'un ménage d'exploitants a opté, selon des modalités fixées par décret, pendant une période donnée, pour un partage à
 parts égales des points obtenus en contrepartie des cotisations visées aux b et c de l'article 1123, le conjoint du chef
@@ -17449,15 +18964,23 @@ et, le cas échéant, de la retraite proportionnelle visée aux alinéas précé
 Lorsque le conjoint survivant est titulaire d'avantages personnels de vieillesse ou d'invalidité, il est fait application des
 dispositions prévues au troisième alinéa de l'article 1122.
 
+A compter du premier jour du mois suivant la publication du décret prévu à l'article L. 321-5, la qualité de conjoint
+participant aux travaux au sens de la troisième phrase du premier alinéa du présent article ne peut plus être acquise.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab) JORF 2 février 1995
+  - Loi n°99-574 du 9 juillet 1999 - art. 27 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Cité par_:
 
@@ -17468,10 +18991,64 @@ _Nouveaux textes_:
   - Code rural - art. L732-34 (M)
   - Code rural - art. L732-42 (M)
   - Code rural - art. L732-46 (M)
+  - Code rural L732-34
+  - Code rural L732-42
 
 _Cite_:
 
-  - Code rural 1121, 1106-1, 1142-5, 1123, 1122
+  - Code rural 1121, 1106-1, 1142-5, 1123, 1122, L321-5
+
+
+###### Article 1122-1-1
+
+I. - Le conjoint du chef d'exploitation ou d'entreprise agricole qui a exercé une activité non salariée agricole en ayant
+opté pour la qualité de collaborateur d'exploitation ou d'entreprise dans des conditions prévues par décret en Conseil d'Etat
+a droit à une pension de retraite qui comprend : 
+
+1° Une pension de retraite forfaitaire dans les conditions prévues au 1° de l'article 1121 et sous réserve des dispositions
+du premier alinéa de l'article 1121-1 ; 
+
+2° Une pension de retraite proportionnelle dans les conditions prévues, selon le cas, au 2° de l'article 1121 ou au 2° de
+l'article 1142-5.
+
+Les personnes mentionnées au premier alinéa du présent I peuvent, dans un délai de deux ans suivant la publication de la loi
+n° 99-574 du 9 juillet 1999 d'orientation agricole et pour les périodes antérieures au 1er janvier 1999, qui seront définies
+par décret, pendant lesquelles elles ont cotisé et acquis des droits en qualité de conjoint au régime d'assurance vieillesse
+des personnes non salariées des professions agricoles en application de l'article 1122-1 et du a de l'article 1123, acquérir
+des droits à la pension de retraite proportionnelle moyennant le versement de cotisations afférentes à ces périodes. Les
+conditions d'application du présent alinéa sont fixées par un décret qui précise notamment le mode de calcul des cotisations
+et le nombre maximum d'années pouvant faire l'objet du rachat.
+
+Le conjoint survivant du collaborateur d'exploitation ou d'entreprise agricole a droit, dans les conditions énoncées au
+premier alinéa de l'article 1122, à une retraite de réversion d'un montant égal à un pourcentage, fixé par décret, de la
+retraite forfaitaire et de la retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré décédé. Lorsque le conjoint
+survivant est titulaire d'avantages personnels de vieillesse ou d'invalidité, il est fait application des dispositions
+prévues au troisième alinéa de l'article 1122.
+
+II. - Les chefs d'exploitation ou d'entreprise agricole qui ont participé aux travaux de l'exploitation ou de l'entreprise en
+qualité de conjoint peuvent également acquérir des droits à la retraite proportionnelle au titre de cette période, dans les
+conditions prévues à l'avant-dernier alinéa du I du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Cite_:
+
+  - Loi n°99-574 1999-07-09
+  - Code rural 1121, 1121-1, 1142-5, 1122-1, 1123, 1122
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 28 () JORF 10 juillet 1999
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-35 (M)
+  - Code rural - art. L732-43 (M)
+  - Code rural - art. L732-44 (M)
 
 
 ###### Article 1122-2
@@ -17577,7 +19154,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-##### Paragraphe 3 : Allocation complémentaire agricole.<a id=107></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=112></a>
 
 ###### Article 1122-5
 
@@ -17668,7 +19245,39 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=108></a>
+###### Article 1122-9
+
+Le montant des pensions de réversion visées au deuxième alinéa de l'article 1121-1, au deuxième alinéa de l'article 1122, au
+troisième alinéa de l'article 1122-1 et au cinquième alinéa de l'article 1121-1-1 ne peut être inférieur à un montant
+minimum, fixé par décret pour chacune des pensions susmentionnées, en tenant compte de la durée d'assurance lorsque celle-ci
+est inférieure à la durée d'assurance déterminée par ce décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1121-1, 1122, 1122-1, 1121-1-1
+
+_Nouveaux textes_:
+
+  - Code rural L732-48
+  - Code rural - art. L732-48 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 31 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 2 : Cotisations.<a id=113></a>
 
 ###### Article 1123
 
@@ -17679,12 +19288,22 @@ a) Une cotisation due pour chaque personne non salariée âgée d'au moins dix-h
 ou d'entreprise mentionnés à l'article 1121-1 ;
 
 b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise et une cotisation due pour chaque aide familial majeur
-au sens du 2° de l'article 1106-1. Cette cotisation est calculée dans les conditions prévues à l'article 1125 ;
+au sens du 2° de l'article 1106-1 ainsi que pour le conjoint collaborateur d'exploitation ou d'entreprise mentionné à
+l'article 1122-1-1. Cette cotisation est calculée dans les conditions prévues à l'article 1125 ;
 
 c) Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise, calculée sur la totalité des revenus
 professionnels ou sur l'assiette forfaitaire définis à l'article 1003-12.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-42 (M)
+  - Code rural L731-42
+
+_Cité par_:
+
+  - Code rural - art. R732-69 (V)
 
 _Cite_:
 
@@ -17693,18 +19312,15 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 29 () JORF 10 juillet 1999
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L731-42 (M)
-
-_Cité par_:
-
-  - Code rural - art. R732-69 (V)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1124
@@ -17945,7 +19561,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Organisation administrative et financière.<a id=109></a>
+#### Section 3 : Organisation administrative et financière.<a id=114></a>
 
 ###### Article 1136
 
@@ -18058,7 +19674,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=110></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=115></a>
 
 ###### Article 1142-1
 
@@ -18378,7 +19994,7 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=111></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=116></a>
 
 ###### Article 1142-12
 
@@ -18749,7 +20365,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=112></a>
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=117></a>
 
 ###### Article 1142-25
 
@@ -18878,7 +20494,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=113></a>
+### Chapitre V : Contentieux.<a id=118></a>
 
 ###### Article 1143
 
@@ -19126,11 +20742,42 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=114></a>
+###### Article 1143-7
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=115></a>
+Nonobstant toutes dispositions législatives ou réglementaires contraires, les dispositions de l'article L. 355-2 du code de
+la sécurité sociale sont applicables aux allocations, pensions et rentes des régimes d'assurance vieillesse et d'assurance
+invalidité des personnes non salariées des professions agricoles.
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=116></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 37 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L725-11 (V)
+  - Code rural L725-11
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L355-2 (M)
+
+
+## Titre III : Accidents du travail et risques agricoles<a id=119></a>
+
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=120></a>
+
+#### Section 1 : Bénéficiaires et risques couverts.<a id=121></a>
 
 ###### Article 1144
 
@@ -19482,7 +21129,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 2 : Prestations.<a id=117></a>
+#### Section 2 : Prestations.<a id=122></a>
 
 ###### Article 1148
 
@@ -19509,7 +21156,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=118></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=123></a>
 
 ###### Article 1149
 
@@ -19517,7 +21164,9 @@ Les dispositions des articles L. 451-1, L. 452-1 à L. 452-5, L. 453-1, L. 454-1
 sécurité sociale sont applicables au régime défini au présent chapitre.
 
 Toutefois, à la référence au livre III du code de la sécurité sociale contenue dans l'article L. 453-1, est substituée la
-référence à l'article 1038 du code rural.
+référence à l'article 1038 du code rural. En outre, l'indemnité forfaitaire prévue à l'article L. 454-1 du code de la
+sécurité sociale et recouvrée par un organisme de mutualité sociale agricole auprès d'un tiers responsable d'un accident
+constitue une recette de gestion pour ledit organisme.
 
 Des décrets en Conseil d'Etat fixeront les modalités d'application du premier alinéa du présent article.
 
@@ -19526,10 +21175,20 @@ Des décrets en Conseil d'Etat fixeront les modalités d'application du premier 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 56 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code rural - art. L751-9 (M)
+  - Code rural L751-9
 
 _Cite_:
 
@@ -19540,10 +21199,10 @@ _Cite_:
   - Code de la sécurité sociale. - art. L455-1 (V)
   - Code de la sécurité sociale. - art. L455-2 (M)
   - Code de la sécurité sociale. - art. R452-1 (V)
-  - Code rural 1038, L453-1
+  - Code rural 1038
 
 
-#### Section 4 : Organisation administrative et financière.<a id=119></a>
+#### Section 4 : Organisation administrative et financière.<a id=124></a>
 
 ###### Article 1150
 
@@ -20027,7 +21686,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=120></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=125></a>
 
 ###### Article 1163
 
@@ -20237,7 +21896,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=121></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=126></a>
 
 ###### Article 1170
 
@@ -20263,7 +21922,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=122></a>
+#### Section 7 : Prévention.<a id=127></a>
 
 ###### Article 1171
 
@@ -20290,7 +21949,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=123></a>
+#### Section 8 : Contrôles et sanctions.<a id=128></a>
 
 ###### Article 1172
 
@@ -20473,7 +22132,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=124></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=129></a>
 
 ###### Article 1178
 
@@ -20725,7 +22384,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=125></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=130></a>
 
 ###### Article 1198
 
@@ -21912,7 +23571,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=126></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=131></a>
 
 ###### Article 1234-1
 
@@ -22557,7 +24216,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=127></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=132></a>
 
 ###### Article 1234-20
 
@@ -22783,7 +24442,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=128></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=133></a>
 
 ###### Article 1234-27
 
@@ -22846,7 +24505,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=129></a>
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=134></a>
 
 ###### Article 1234-29
 
@@ -22882,9 +24541,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre IV : Dispositions diverses<a id=130></a>
+## Titre IV : Dispositions diverses<a id=135></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=131></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=136></a>
 
 ###### Article 1235
 
@@ -22892,21 +24551,32 @@ Les sociétés ou caisses de mutualité sociale agricole qui sont gérées et ad
 en fait, ne réalisent aucun bénéfice, sont affranchies des formalités prescrites par la loi du 24 juillet 1867 et les décrets
 relatifs aux sociétés d'assurances.
 
-Elles peuvent se constituer en se soumettant aux prescriptions du titre Ier du livre III du code du travail.
+Les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles peuvent se constituer en se soumettant aux
+prescriptions du titre Ier du livre IV du code du travail.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L771-1
+  - Code rural - art. L771-1 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Nouveaux textes_:
-
-  - Code rural - art. L771-1 (M)
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cite_:
 
   - Loi n°1867-07-24
+
+_Modifié par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 49 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1236
@@ -22966,22 +24636,44 @@ accord collectif étendu. Ces conventions peuvent stipuler que les caisses de mu
 recouvrement et au contrôle de ces cotisations selon les règles et sous les garanties et sanctions applicables au
 recouvrement des cotisations dues au titre des assurances sociales agricoles obligatoires.
 
-III. - Un décret en Conseil d'Etat fixe les conditions dans lesquelles les caisses de mutualité sociale agricole participent
-aux unions et services communs mentionnés aux I et II ci-dessus.
+Les caisses de mutualité sociale agricole et leurs associations peuvent également conclure des conventions avec des tiers en
+vue de la gestion partielle d'une activité en relation directe ou complémentaire avec la mission de service public dont elles
+sont chargées.
+
+III. - Lorsque la participation financière, directe ou indirecte, des caisses de mutualité sociale agricole et de leurs
+associations, mentionnées aux articles 1002 à 1002-4 du présent code, atteint ou dépasse la majorité des parts du capital
+social des unions d'économie sociale, groupements d'intérêt économique ou sociétés civiles immobilières auxquels elles sont
+autorisées à participer, les budgets et comptes annuels des unions d'économie sociale, groupements d'intérêt économique et
+sociétés civiles immobilières sont soumis à l'approbation de l'autorité compétente de l'Etat dans les mêmes conditions que
+celles prévues pour les caisses de mutualité sociale agricole. Ces dispositions sont également applicables aux unions et
+associations dont au moins la moitié des moyens de fonctionnement est financée, de manière directe ou indirecte, par les
+caisses de mutualité sociale agricole et leurs associations.
+
+IV. - Un décret en Conseil d'Etat fixe les conditions d'application des dispositions prévues aux I, II et III ci-dessus.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1002 à 1002-4
+
+_Nouveaux textes_:
+
+  - Code rural L723-7
+  - Code rural - art. L723-7 (VD)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 22 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 51 () JORF 10 juillet 1999
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L723-7 (VD)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1238
@@ -23075,6 +24767,36 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1240-1
+
+Par dérogation aux dispositions de l'article L. 434-2 du code du travail, la présidence du comité d'entreprise d'un organisme
+de mutualité sociale agricole est assurée par le directeur de l'organisme.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L723-41
+  - Code rural - art. L723-41 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-574 du 9 juillet 1999 - art. 57 () JORF 10 juillet 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Cite_:
+
+  - Code du travail - art. L434-2 (M)
+
+
 ###### Article 1241
 
 Les organismes de la mutualité agricole peuvent faire des dépôts de fonds à vue aux caisses régionales de crédit agricole
@@ -23106,28 +24828,36 @@ Les assemblées générales des organismes de mutualité sociale agricole et cel
 Les commissaires aux comptes peuvent procéder à toute époque aux contrôles et investigations comptables relevant de leur
 mission. Ils rendent compte de leur mandat à l'assemblée générale appelée à statuer sur les comptes de chaque exercice.
 
-Un exemplaire du rapport du ou des commissaires aux comptes et une copie du procès-verbal de chaque assemblée générale
-doivent être transmis dans le délai d'un mois au ministre de l'agriculture et au ministre des finances par l'intermédiaire de
-la caisse centrale de mutualité sociale agricole.
+Les décisions des assemblées générales des caisses départementales et pluridépartementales de mutualité sociale agricole et
+de la Caisse centrale de la mutualité sociale agricole ainsi que des associations et groupements d'intérêt économique,
+mentionnés aux articles 1000-2 et 1002 à 1002-4, sont soumises à l'approbation de l'autorité compétente de l'Etat dans les
+mêmes conditions que les délibérations des conseils d'administration desdits organismes.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 1236, 1237
+  - Code rural 1236, 1237, 1000-2, 1002 à 1002-4
+
+_Nouveaux textes_:
+
+  - Code rural L723-46
+  - Code rural L724-1
+  - Code rural - art. L723-46 (V)
+  - Code rural - art. L724-1 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+  - Loi n°99-574 du 9 juillet 1999 - art. 47 () JORF 10 juillet 1999
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L723-46 (V)
-  - Code rural - art. L724-1 (V)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1243
@@ -23601,7 +25331,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Prévention en assurance maladie.<a id=132></a>
+### Chapitre II : Prévention en assurance maladie.<a id=137></a>
 
 ###### Article 1250-2
 
@@ -23633,7 +25363,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=133></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=138></a>
 
 ###### Article 1251
 
@@ -24177,9 +25907,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=134></a>
+## Titre VI : Français résidant à l'étranger<a id=139></a>
 
-### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=135></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=140></a>
 
 ###### Article 1263-1
 
@@ -24314,7 +26044,7 @@ _Cite_:
   - Code rural 1263-1
 
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=136></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=141></a>
 
 ###### Article 1263-4
 
@@ -24380,7 +26110,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=137></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=142></a>
 
 ###### Article 1263-6
 
@@ -24430,7 +26160,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=138></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=143></a>
 
 ###### Article 1263-8
 
@@ -24482,13 +26212,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=139></a>
+# Livre VIII : Formation professionnelle et recherche<a id=144></a>
 
-## Titre III : Recherche<a id=140></a>
+## Titre III : Recherche<a id=145></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=141></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=146></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=142></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=147></a>
 
 ###### Article 1337
 
