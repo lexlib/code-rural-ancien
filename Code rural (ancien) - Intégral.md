@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-03-28
+Version Consolidée au 1991-07-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -23427,13 +23427,22 @@ _Cite_:
 
 Les exploitants agricoles exerçant leur activité dans les départements d'outre-mer bénéficient des prestations familiales
 mentionnées au chapitre V du titre V du livre VII du code de la sécurité sociale, dans les conditions prévues par le présent
-chapitre et par les articles L. 755-3, L. 755-4, L. 755-12, L. 755-14, L. 755-16 à L. 755-25 du code de la sécurité sociale.
+chapitre et par les articles L. 755-3, L. 755-4, L. 755-11, L. 755-16 à L. 755-25 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
 _Modifié par_:
 
-  - Loi n°86-1383 1986-12-31 art. 14 I JORF 3 janvier 1987
+  - Loi n°91-738 du 31 juillet 1991 - art. 11 () JORF 1er août 1991 en vigueur le 1er juillet 1991
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Cité par_:
 
@@ -23442,12 +23451,12 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code rural - art. L762-6 (M)
+  - Code rural L762-6
 
 _Cite_:
 
-  - Code de la sécurité sociale L755-3, L755-4, L755-12, L755-14, L755-16 à L755-25
-  - Code de la sécurité sociale. - art. L755-12 (M)
-  - Code de la sécurité sociale. - art. L755-14 (Ab)
+  - Code de la sécurité sociale L755-3, L755-4, L755-11, L755-16 à L755-25
+  - Code de la sécurité sociale. - art. L755-11 (Ab)
   - Code de la sécurité sociale. - art. L755-3 (M)
   - Code de la sécurité sociale. - art. L755-4 (M)
 
