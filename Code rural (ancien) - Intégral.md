@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-01-05
+Version Consolidée au 1972-01-06
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -39,8 +39,8 @@ Version Consolidée au 1972-01-05
       - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 151-3)](#36)
       - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#37)
       - [Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes. (art. 175 à 179)](#38)
-      - [Chapitre IV : Restauration de l'habitat rural (art. 181 à 188)](#39)
-        - [Section 1 : Travaux de restauration de l'habitat. (art. 181 à 183)](#40)
+      - [Chapitre IV : Restauration de l'habitat rural (art. 180 à 188)](#39)
+        - [Section 1 : Travaux de restauration de l'habitat. (art. 180 à 183)](#40)
         - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 184 à 186)](#41)
         - [Section 3 : Desserte des exploitations dont l'habitat est amélioré. (art. 187 à 188)](#42)
     - [Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 188-10 à 188-17)](#43)
@@ -4795,6 +4795,50 @@ _Anciens textes_:
 ### Chapitre IV : Restauration de l'habitat rural<a id=39></a>
 
 #### Section 1 : Travaux de restauration de l'habitat.<a id=40></a>
+
+###### Article 180
+
+La participation financière de l'Etat, sous forme de subvention, peut être accordée, par le ministre de l'agriculture ou par
+le préfet sur délégation du ministre, pour les travaux ayant pour objet l'amélioration de l'habitation rurale et du logement
+des animaux ainsi que, d'une façon générale, l'aménagement rationnel des bâtiments ruraux, de leurs abords et de leurs accès.
+
+Le taux maximum de la subvention est de 50 % du montant de la dépense admise par l'administration. Le montant de la
+subvention ne peut être supérieur à 5.000 F ou à 10.000 F dans les zones de montagne délimitées en application de l'article
+1110 du code rural.
+
+En outre, dans des conditions particulières déterminées par arrêté concerté du ministre de l'agriculture et du ministre de
+l'économie et des finances, les agriculteurs et certains groupements d'agriculteurs qui construisent ou aménagent les
+bâtiments d'élevage définis audit arrêté peuvent recevoir, pour chaque exploitation individuelle, une subvention spéciale
+d'un montant maximum de 25.000 F pour les aménagements de bâtiments existants et de 40.000 F pour les constructions neuves.
+Les taux de cette subvention spéciale ne peuvent dépasser, dans le premier cas, 25 % de la dépense admise et, dans le second
+cas, 40 %. Dans certains cas et selon les conditions fixées par l'arrêté interministériel prévu ci-dessus, des majorations à
+ces taux peuvent être accordées sans pouvoir dépasser 50 % du montant de la dépense admise.
+
+Les dispositions du présent article ne peuvent prendre effet que dans la limite des crédits ouverts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1110
+
+_Nouveaux textes_:
+
+  - Code rural R346-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°66-323 1966-05-25 art. 1, art. 2 JORF 27 mai 1966
+  - Loi n°56-780 1956-08-04 art. 30 II JORF 7 août 1956
+
+_Abrogé par_:
+
+  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
 
 ###### Article 181
 
