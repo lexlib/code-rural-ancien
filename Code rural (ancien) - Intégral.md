@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-01-01
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#1)
     - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#2)
@@ -11,11 +11,11 @@ Version Consolidée au 2000-12-31
   - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#8)
     - [Titre Ier : Chambres d'agriculture (art. 545-2)](#9)
       - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#10)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#11)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#12)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#13)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#14)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#15)
+  - [Livre V : Crédit agricole (art. 617 à 789)](#11)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 617 à 710)](#12)
+      - [Chapitre Ier : Organisation. (art. 617 à 629)](#13)
+      - [Chapitre II : Fonctionnement. (art. 633 à 643)](#14)
+      - [Chapitre III : Ressources. (art. 647 à 652)](#15)
       - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#16)
         - [Section 1 : Crédit à court terme. (art. 655 à 662)](#17)
         - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#18)
@@ -27,7 +27,7 @@ Version Consolidée au 2000-12-31
       - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#24)
       - [Chapitre II : Ressources. (art. 717 à 721)](#25)
       - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#26)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#27)
+    - [Titre III : Inspection et contrôle. (art. 738 à 744)](#27)
     - [Titre IV : Dispositions diverses (art. 745 à 789)](#28)
       - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#29)
       - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#30)
@@ -184,94 +184,9 @@ _Modifié par_:
 
 # Livre V : Crédit agricole<a id=11></a>
 
-###### Article 614
-
-Les caisses de crédit agricole régies par le présent livre sont :
-
-1° Les caisses locales de crédit agricole mutuel, qu'elles soient affiliées ou non aux caisses régionales visées ci-après ;
-
-2° Les caisses régionales de crédit agricole mutuel, c'est-à-dire les caisses régionales recevant des avances de la caisse
-nationale de crédit agricole et fonctionnant sous son contrôle ;
-
-3° La caisse nationale de crédit agricole.
-
-Les caisses locales et régionales sont des sociétés coopératives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-20 (M)
-
-
 ## Titre Ier : Des caisses de crédit agricole mutuel<a id=12></a>
 
 ### Chapitre Ier : Organisation.<a id=13></a>
-
-###### Article 615
-
-Les caisses de crédit agricole mutuel ont exclusivement pour objet de faciliter et de garantir les opérations concernant la
-production agricole et l'équipement agricole et rural effectuées par leurs sociétaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-21 (V)
-
-
-###### Article 616
-
-Sans préjudice de l'application des dispositions de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut
-de la coopération, les caisses de crédit agricole mutuel admettent comme sociétaires les membres des groupements visés à
-l'article suivant, 1° à 7°, les collectivités énumérées audit article ainsi que les artisans ruraux n'employant pas plus de
-deux ouvriers de façon permanente.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1775 1947-09-10 art. 3 bis
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°92-643 du 13 juillet 1992 - art. 54 () JORF 14 juillet 1992
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-22 (V)
-
 
 ###### Article 617
 
@@ -353,152 +268,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R512-4 (V)
 
 
-###### Article 618
-
-Le capital des caisses de crédit agricole mutuel ne peut être formé par des souscriptions d'actions. Il doit l'être par les
-sociétaires au moyen de parts.
-
-Ces parts sont nominatives. Elles sont négociables, mais leur cession est soumise à l'agrément du conseil d'administration de
-la caisse.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°92-643 du 13 juillet 1992 - art. 55 () JORF 14 juillet 1992
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Cité par_:
-
-  - Code rural ancien - art. 626 (Ab)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-23 (V)
-
-
-###### Article 619
-
-Les caisses de crédit agricole mutuel ne peuvent être constituées qu'après versement du quart du capital social.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-23 (V)
-
-
-###### Article 620
-
-Dans le cas où la caisse est à capital variable, le capital ne peut être réduit, par la reprise des apports des sociétaires
-sortants, au-dessous du montant du capital de fondation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-24 (V)
-
-
-###### Article 621
-
-Les sociétaires des caisses de crédit agricole mutuel ne peuvent, en principe, être libérés de leurs engagements envers
-celles-ci qu'après liquidation des opérations en cours au moment où ils se retirent. Dans tous les cas, leur responsabilité
-cesse cinq ans après la date de leur sortie.
-
-En aucun cas, la responsabilité des personnes morales de droit public n'est engagée au-delà des parts souscrites.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-26 (V)
-
-
-###### Article 622
-
-Les caisses de crédit agricole mutuel ont, pour toutes les obligations de leurs sociétaires vis-à-vis d'elles, un privilège
-sur les parts formant le capital social.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-27 (V)
-
-
-###### Article 623
-
-La durée des caisses de crédit agricole mutuel est illimitée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-28 (V)
-
-
 ###### Article 624
-
-Avant toute opération, les statuts, avec la liste complète des administrateurs ou directeurs et des sociétaires indiquant
-leur nom, leur profession, leur domicile, l'association agricole à laquelle ils appartiennent et le montant de leur
-souscription, sont déposés, en double exemplaire, au greffe du tribunal d'instance du canton où la caisse de crédit agricole
-mutuel a son siège principal. Il en est donné récépissé.
-
-La caisse est valablement constituée dès ce dépôt effectué.
 
 Un des exemplaires des statuts et de la liste des membres de la caisse est, par les soins du juge du tribunal d'instance,
 déposé au greffe du tribunal de grande instance.
@@ -516,114 +286,59 @@ Les documents déposés au greffe du tribunal d'instance et du tribunal de grand
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-
-###### Article 625
-
-Les caisses de crédit agricole mutuel sont dispensées de l'immatriculation au registre du commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
 
-_Abrogé par_:
+_Modifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
 _Nouveaux textes_:
 
-  - Code monétaire et financier - art. L512-30 (V)
+  - Code monétaire et financier - art. R512-7 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 626
-
-Les statuts déterminent le siège, la circonscription territoriale et le mode d'administration des caisses de crédit agricole
-mutuel.
-
-Ils fixent la nature et l'étendue de leurs opérations, les règles à suivre pour la modification des statuts, la dissolution
-de la société, la composition du capital, la proportion dans laquelle chacun des membres peut contribuer à la constitution de
-ce capital et les conditions dans lesquelles il peut se retirer.
-
-Ils peuvent prévoir la possibilité pour les caisses de crédit agricole mutuel d'admettre comme sociétaires les personnes pour
-lesquelles elles ont effectué une des opérations visées aux articles 1er, 5, 6 et 7 de la loi n° 84-46 du 24 janvier 1984
-relative à l'activité et au contrôle des établissements de crédit.
-
-Ils règlent l'étendue et les conditions de la responsabilité qui incombe à chacun des sociétaires dans les engagements pris
-par la caisse, conformément aux dispositions de l'article 621.
 
 Les statuts des caisses de crédit agricole mutuel doivent en outre, rappeler expressément les règles visées dans les articles
 618, troisième alinéa, 637, 640 et 647.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural 618, 621, 637, 640, 647
-  - Loi n°84-46 1984-01-24 art. 1, art. 5, art. 6, art. 7
-  - Loi n°84-46 du 24 janvier 1984 - art. 6 (M)
-  - Loi n°84-46 du 24 janvier 1984 - art. 7 (M)
-
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Décret n°92-916 du 2 septembre 1992 - art. 1 () JORF 8 septembre 1992
-
-
-###### Article 627
-
-Les caisses locales de crédit agricole mutuel peuvent consentir, à tous les sociétaires, des prêts d'argent à court terme, à
-moyen terme et, à leurs sociétaires individuels, des prêts d'argent à long terme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 _Abrogé par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+_Cite_:
+
+  - Code rural ancien - art. 618 (M)
+  - Code rural ancien - art. 637 (Ab)
+  - Code rural ancien - art. 640 (Ab)
+  - Code rural ancien - art. 647 (M)
 
 _Nouveaux textes_:
 
-  - Code monétaire et financier - art. L512-32 (V)
+  - Code monétaire et financier - art. R512-8 (V)
 
+**Liens**:
 
-###### Article 628
-
-Les caisses régionales de crédit agricole mutuel ont pour but :
-
-1° De faciliter les opérations à court terme, à moyen terme et à long terme effectuées par les membres des caisses locales de
-crédit agricole mutuel de leur circonscription et garanties par ces sociétés.
-
-Toutefois, dans le cas où il n'existe pas de caisse locale susceptible d'examiner les demandes, les caisses régionales
-peuvent, à titre exceptionnel, si elles ont des garanties suffisantes, consentir directement ces divers prêts, notamment les
-prêts à court terme pour le financement des récoltes.
-
-2° De transmettre aux collectivités bénéficiaires les prêts à long terme qui peuvent leur être consentis par la caisse
-nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-33 (M)
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 629
@@ -649,115 +364,13 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-###### Article 630
-
-Le nom de "caisse régionale de crédit agricole mutuel" est réservé aux caisses régionales recevant des avances de la caisse
-nationale de crédit agricole et fonctionnant sous son contrôle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-34 (M)
-
-
-###### Article 631
-
-Pour faire des opérations avec une caisse régionale de crédit agricole mutuel, une caisse de crédit agricole doit y être
-préalablement autorisée par la caisse nationale de crédit agricole. Elle doit, en outre, être régulièrement affiliée à cette
-caisse régionale et avoir souscrit au moins une part du capital social.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Décret n°62-1038 1962-08-27 art. 2 JORF 1er septembre 1962
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-35 (M)
-
-
 ### Chapitre II : Fonctionnement.<a id=14></a>
-
-###### Article 632
-
-Les caisses de crédit agricole mutuel sont administrées par un conseil d'administration dont les membres sont élus par
-l'assemblée générale des sociétaires.
-
-Les fonctions des membres du conseil d'administration sont gratuites, sous réserve du remboursement à ces membres, le cas
-échéant, et sur leur demande, des frais spéciaux nécessités par l'exercice de leurs fonctions et de l'attribution éventuelle,
-à l'administrateur spécialement chargé d'exercer une surveillance effective sur la marche de la société, d'une indemnité
-compensatrice du temps passé, fixée chaque année par l'assemblée générale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-36 (V)
-
 
 ###### Article 633
 
-La responsabilité personnelle des membres chargés de l'administration de la caisse n'est engagée qu'en cas de violation des
-statuts ou des dispositions du présent livre.
-
-En outre, en cas de fausses déclarations relatives aux statuts ou aux noms et qualités des administrateurs ou du directeur,
-ils peuvent être poursuivis et punis de l'amende prévue pour les contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-
-###### Article 635
-
-Dans le cas où le conseil d'administration d'une caisse régionale de crédit agricole mutuel cesserait ses fonctions ou
-prendrait des décisions contraires aux dispositions légales ou réglementaires ou aux instructions de la caisse nationale de
-crédit agricole, celle-ci peut nommer une commission chargée de la gestion provisoire de la caisse régionale en attendant
-l'élection d'un nouveau conseil d'administration.
-
-Les prêts à des administrateurs de caisses régionales de crédit agricole mutuel ne peuvent être consentis que par une
-délibération spéciale motivée des conseils d'administration et doivent être autorisés par la caisse nationale de crédit
-agricole. De même, les prêts aux administrateurs de caisses locales doivent faire l'objet d'une délibération analogue des
-conseils d'administration et être autorisés par la caisse régionale.
-
-Les prêts consentis à une collectivité qui a un ou plusieurs administrateurs communs avec la caisse prêteuse doivent faire
-l'objet d'une décision spéciale motivée du conseil d'administration de la caisse régionale, ladite décision devant être
-communiquée à la caisse nationale de crédit agricole.
+En cas de fausses déclarations relatives aux statuts ou aux noms et qualités des administrateurs ou du directeur, les membres
+chargés de l'administration de la caisse peuvent être poursuivis et punis de l'amende prévue pour les contraventions de la 5e
+classe.
 
 **Liens relatifs à cet article**
 
@@ -766,50 +379,21 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
 
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-38 (M)
-
-
-###### Article 636
-
-Les conseils d'administration des caisses régionales de crédit agricole mutuel ont sur l'administration et la gestion des
-caisses locales qui leurs sont affiliées des pouvoirs analogues à ceux confiés par l'article précédent à la caisse nationale
-de crédit agricole sur l'administration et la gestion des caisses locales. L'élection, par les conseils d'administration des
-caisses locales de crédit agricole mutuel de leurs président, vice-présidents et administrateurs délégués doit être approuvée
-par la caisse régionale de crédit agricole, ainsi que le chiffre de l'indemnité qui peut être attribuée en exécution du
-dernier alinéa de l'article 632.
-
-Mais les décisions des conseils d'administration des caisses régionales relatives à la nomination d'une commission chargée de
-la gestion provisoire d'une caisse locale ne sont définitives qu'après approbation par la caisse nationale de crédit
-agricole.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 632
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
 _Modifié par_:
 
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 _Abrogé par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 _Nouveaux textes_:
 
-  - Code monétaire et financier - art. L512-39 (M)
+  - Code monétaire et financier - art. L512-37 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 637
@@ -839,59 +423,9 @@ _Nouveaux textes_:
 
 ###### Article 638
 
-La nomination des directeurs des caisses régionales de crédit agricole mutuel est soumise à l'agrément de la caisse nationale
-de crédit agricole. Elle ne peut comporter, de la part de la caisse régionale, aucun engagement de maintenir le directeur
-dans ses fonctions pour une durée déterminée.
-
-Les directeurs peuvent être révoqués par décision du directeur général de la caisse nationale de crédit agricole, prise après
-avis du conseil d'administration.
-
-Ils reçoivent, à l'exclusion de tout pourcentage sur les bénéfices ou les opérations, un traitement fixe approuvé par la
-caisse nationale de crédit agricole. Une gratification exceptionnelle peut, chaque année, suivant les services, leur être
-accordée par le conseil d'administration après approbation de la caisse nationale de crédit agricole.
-
-Il leur est interdit, sauf autorisation spéciale de la caisse nationale de crédit agricole, soit d'exercer une profession
-industrielle ou commerciale, soit de remplir un emploi privé rétribué, soit d'effectuer, à titre privé, un travail moyennant
-rémunération, soit enfin de remplir des fonctions d'administrateur d'une institution susceptible de recevoir des prêts du
-crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 640
-
-Les assemblées générales ordinaires doivent être tenues avant le 31 mars pour les caisses régionales et avant le 30 avril
-pour les caisses locales de crédit agricole mutuel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Cité par_:
-
-  - Code rural ancien - art. 626 (Ab)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-41 (V)
-
-
-###### Article 641
-
-Les livres des caisses de crédit agricole mutuel doivent être tenus conformément aux prescriptions du code de commerce et
-suivant les instructions de la caisse nationale de crédit agricole pour celles qui ont reçu des avances de la caisse
-nationale de crédit agricole.
+Les directeurs reçoivent, à l'exclusion de tout pourcentage sur les bénéfices ou les opérations, un traitement fixe approuvé
+par la caisse nationale de crédit agricole. Une gratification exceptionnelle peut, chaque année, suivant les services, leur
+être accordée par le conseil d'administration après approbation de la caisse nationale de crédit agricole.
 
 **Liens relatifs à cet article**
 
@@ -902,15 +436,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 _Abrogé par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 _Nouveaux textes_:
 
-  - Code monétaire et financier - art. L512-42 (M)
+  - Code monétaire et financier - art. R512-10 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 642
@@ -974,18 +512,12 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R512-11 (V)
 
 
-###### Article 644
+### Chapitre III : Ressources.<a id=15></a>
 
-En cas de dissolution de caisses régionales de crédit agricole mutuel ayant reçu des avances de la caisse nationale de crédit
-agricole, le reliquat de l'actif est, après paiement des dettes sociales et remboursement du capital effectivement versé,
-placé en dépôt, sans intérêt, à la caisse nationale de crédit agricole, jusqu'à ce que le montant puisse en être mis, au fur
-et à mesure des besoins, à la disposition de toute caisse régionale de crédit agricole mutuel qui se constituerait pour
-remplacer la caisse dissoute dans le même département.
+###### Article 647
 
-En cas de dissolution de caisses locales de crédit agricole mutuel ayant participé au bénéfice de ces avances par
-l'intermédiaire des caisses régionales, leur actif, y compris les réserves, est, après paiement des dettes sociales et
-remboursement du capital effectivement versé, affecté à une oeuvre d'intérêt agricole, sur décision de l'assemblée générale
-approuvée par la caisse nationale de crédit agricole.
+Les statuts des caisses de crédit agricole mutuel ne bénéficiant pas d'avances de la caisse nationale de crédit agricole
+déterminent le maximum des dépôts à recevoir en compte courant.
 
 **Liens relatifs à cet article**
 
@@ -996,58 +528,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 _Abrogé par_:
 
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-43 (M)
-
-
-### Chapitre III : Ressources.<a id=15></a>
-
-###### Article 645
-
-Les caisses de crédit agricole mutuel peuvent recevoir de toute personne des dépôts de fonds avec ou sans intérêt et tout
-dépôt de titres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-44 (V)
-
-
-###### Article 647
-
-Les statuts des caisses de crédit agricole mutuel ne bénéficiant pas d'avances de la caisse nationale de crédit agricole
-déterminent le maximum des dépôts à recevoir en compte courant.
-
-Ceux des caisses de crédit agricole mutuel ayant fait appel au concours financier de la caisse nationale de crédit agricole
-fixent le maximum des dépôts à recevoir en compte courant ou à échéance, le montant de ces dépôts devant toujours être
-représenté par un actif égal, immédiatement réalisable au moment des échéances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
+  - Ordonnance n°2005-429 du 6 mai 2005 - art. 111 () JORF 7 mai 2005
 
 _Cité par_:
 
   - Code rural ancien - art. 626 (Ab)
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L512-31 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 648
@@ -1063,14 +560,53 @@ terme ou pour prêts à long terme individuels et collectifs.
 Les dépôts de fonds reçus par ces caisses, et dont l'échéance est supérieure à deux ans, sont employés par elles en
 opérations de crédit à moyen terme ou à long terme d'une durée correspondante ou en opérations de crédit à court terme.
 
-Toutefois, les dépôts reçus par les caisses locales affiliées à une caisse régionale de crédit agricole mutuel doivent être
-transmis immédiatement à ladite caisse régionale qui en assure la gestion.
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. R512-12 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
+
+
+###### Article 649
+
+Lorsqu'une caisse régionale a un excédent de dépôt, cet excédent doit être déposé à la caisse nationale de crédit agricole.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-429 du 6 mai 2005 - art. 110 () JORF 7 mai 2005
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L512-45 (M)
 
 
 ###### Article 650
@@ -1091,9 +627,6 @@ _Abrogé par_:
 
 ###### Article 651
 
-Les caisses régionales de crédit agricole mutuel ne peuvent émettre des bons de caisse à échéance variable, avec ou sans
-intérêt, qu'en faveur des agriculteurs domiciliés dans la circonscription de la caisse régionale.
-
 Les bons émis par les caisses de crédit agricole mutuel à deux ans au plus d'échéance doivent être utilisés en opérations de
 crédit à court terme conformément aux dispositions de l'article 648, premier et deuxième alinéas.
 
@@ -1109,10 +642,23 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-46 1984-01-24 art. 94 XII JORF 25 janvier 1984
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. R512-13 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 652
@@ -1562,26 +1108,6 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-###### Article 718
-
-La caisse nationale de crédit agricole est habilitée à recevoir tous dépôts de fonds et de titres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-50 (M)
-
-
 ###### Article 719
 
 La caisse nationale de crédit agricole est habilitée à effectuer toutes opérations d'escompte et de réescompte et à
@@ -1680,19 +1206,28 @@ _Abrogé par_:
 L'Etat jouit d'un privilège sur les parts composant le capital social des sociétés pour toutes les sommes dues à raison des
 avances ou prêts consentis à l'aide de fonds publics.
 
-En outre, le capital des caisses de crédit agricole mutuel ayant fait appel au concours financier de la caisse nationale de
-crédit agricole, ne peut être réduit sans une autorisation expresse de cet établissement au-dessous du chiffre qu'il avait
-atteint lors de l'attribution de la dernière avance.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L512-25 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
 
 
 ###### Article 725
@@ -1964,43 +1499,6 @@ _Abrogé par_:
 
 ## Titre III : Inspection et contrôle.<a id=27></a>
 
-###### Article 737
-
-Toutes les institutions de crédit agricole mutuel placées sous le régime du présent livre et susceptibles de bénéficier des
-exonérations fiscales prévues aux articles 130, 207, 1°, 1045, deuxième alinéa, 1111, 1114 et 1454, 5°, du code général des
-impôts sont soumises d'une part, au contrôle de l'Etat, d'autre part, pour les caisses mentionnées aux articles 630 et 631, à
-celui de la caisse nationale de crédit agricole.
-
-Ces organismes sont tenus, sous les sanctions prévues par l'article 2005 du code général des impôts, de fournir, à toute
-réquisition des agents du ministère de l'agriculture ou de la caisse nationale de crédit agricole, tous leurs livres de
-comptabilité et pièces annexes et toutes justifications utiles tendant à prouver qu'ils fonctionnent conformément aux
-prescriptions du présent livre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 130, 207, 1045, 1111, 1114, 1454, 2005
-  - Code rural 630, 631
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-51 (M)
-
-
 ###### Article 738
 
 Lorsqu'il aura été constaté qu'une caisse de crédit agricole mutuel n'observe pas strictement les prescriptions légales ou
@@ -2022,10 +1520,10 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-###### Article 739
+###### Article 740
 
-Les institutions ou collectivités ayant reçu des avances ou des prêts de la caisse nationale de crédit agricole en
-application du présent livre sont soumises au contrôle de l'inspection générale des finances.
+La caisse nationale de crédit agricole est soumise au contrôle parlementaire, prévu par l'article 1er de la loi du 18 juillet
+1949, renforçant le contrôle parlementaire des dépenses publiques et par l'article 70 de la loi du 21 mars 1947.
 
 **Liens relatifs à cet article**
 
@@ -2034,57 +1532,18 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
 
-_Abrogé par_:
+_Modifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 _Nouveaux textes_:
 
-  - Code monétaire et financier - art. L512-52 (M)
-
-
-###### Article 740
-
-La caisse nationale de crédit agricole est soumise aux contrôles institués par l'ordonnance du 23 novembre 1944 portant
-organisation du contrôle économique et financier et par les articles 56 à 62 de la loi n° 48-24 du 6 janvier 1948 ainsi qu'au
-contrôle de l'inspection générale des finances. Elle est également soumise au contrôle parlementaire, prévu par l'article 1er
-de la loi du 18 juillet 1949, renforçant le contrôle parlementaire des dépenses publiques et par l'article 70 de la loi du 21
-mars 1947.
-
-**Liens relatifs à cet article**
+  - Code monétaire et financier - art. L512-53 (M)
 
 _Cite_:
 
   - Loi n°1947-03-21 art. 70
   - Loi n°1949-07-18 art. 1
-  - Loi n°48-24 1948-01-06 art. 56 à 62
-  - Ordonnance 1944-11-23
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-
-###### Article 741
-
-La caisse nationale de crédit agricole contrôle le fonctionnement de toutes les institutions ou collectivités ayant reçu en
-application du présent livre, directement ou indirectement, des avances, des prêts à long terme ainsi que des prêts des
-caisses de crédit agricole mutuel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Abrogé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-54 (M)
 
 
 ###### Article 742
