@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-06-14
+Version Consolidée au 1998-06-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -16917,31 +16917,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
-
-
-###### Article 1122-7
-
-Il est créé, au profit des chefs d'exploitation et d'entreprise agricoles ainsi que de leurs conjoints et des membres de leur
-famille visés au premier alinéa de l'article 1122-1 du présent code, un régime complémentaire d'assurance vieillesse
-fonctionnant à titre facultatif. L'organisation et le fonctionnement de ce régime sont fixés par décret.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1122-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 42 () JORF 31 décembre 1988
-
-_Abrogé par_:
-
-  - Loi n°97-1051 1997-11-18 art. 55 VIII JORF 19 novembre 1997 en vigueur le 30 juin 1998
 
 
 ###### Article 1122-8
