@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1986-01-07
+Version Consolidée au 1986-01-08
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -172,46 +172,47 @@ Version Consolidée au 1986-01-07
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#169)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#170)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#171)
-        - [Section 1 : Prestations (art. 1110 à 1122-2-2)](#172)
+        - [Section 1 : Prestations (art. 1110 à 1122-5)](#172)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#173)
-          - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2-2)](#174)
-        - [Section 2 : Cotisations. (art. 1123 à 1135)](#175)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#176)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#177)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#178)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#179)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#180)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#181)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#182)
-        - [Section 2 : Prestations. (art. 1148)](#183)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#184)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1162)](#185)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#186)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#187)
-        - [Section 7 : Prévention. (art. 1171)](#188)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#189)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#190)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#191)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#192)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#193)
-      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#194)
-      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#195)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#196)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#197)
-      - [Chapitre II : Médecine préventive. (art. 1250-2)](#198)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#199)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#200)
-      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#201)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#202)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#203)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#204)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#205)
-    - [Titre II : Enseignement (art. 1281)](#206)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#207)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#208)
-    - [Titre III : Recherche (art. 1337)](#209)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#210)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#211)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-2)](#174)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-5)](#175)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#176)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#177)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#178)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#179)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#180)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#181)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#182)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#183)
+        - [Section 2 : Prestations. (art. 1148)](#184)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#185)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1162)](#186)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#187)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#188)
+        - [Section 7 : Prévention. (art. 1171)](#189)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#190)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#191)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#192)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#193)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#194)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#195)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#196)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#197)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#198)
+      - [Chapitre II : Médecine préventive. (art. 1250-2)](#199)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#200)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#201)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#202)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#203)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#204)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#205)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#206)
+    - [Titre II : Enseignement (art. 1281)](#207)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#208)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#209)
+    - [Titre III : Recherche (art. 1337)](#210)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#211)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#212)
 ###### Article 40-3
 
 Les propriétaires de parcelles reconnues incultes ou manifestement sous-exploitées en application des dispositions du
@@ -334,6 +335,67 @@ _Abrogé par_:
 _Modifié par_:
 
   - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+
+
+###### Article 1142-5
+
+Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
+salariée agricole, ont droit à une retraite qui comprend :
+
+1° Une pension de retraite forfaitaire dont le montant maximal attribué pour trente-sept années et demie au moins d'activité
+non salariée agricole est égal à celui que fixe l'article 1116 pour l'allocation de vieillesse. Lorsque la durée d'activité a
+été inférieure à trente-sept années et demie, le montant de la retraite est calculé proportionnellement à cette durée ;
+
+2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
+
+l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
+application de l'article L. 344 du code de la sécurité sociale ; Toutefois, en cas de coexploitation, le montant total des
+pensions de retraite proportionnelle servies à l'ensemble de ces exploitants ne peut excéder celui de la pension qui serait
+servie à un agriculteur dirigeant seul la même exploitation. Un décret en Conseil d'Etat détermine les dispositions
+particulières applicables aux associés actifs constituant une exploitation agricole à responsabilité limitée ;
+
+3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
+des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
+l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+
+Pour les assurés qui demandent la liquidation de leurs droits à retraite avant l'âge de soixante-cinq ans et qui ne
+justifient pas, tant dans le régime institué par le présent chapitre que dans un ou plusieurs autres régimes obligatoires,
+d'une durée minimale de trente-sept années et demie d'assurance ou de périodes reconnues équivalentes, il est appliqué un
+coefficient de minoration au montant de la retraite forfaitaire et de la retraite proportionnelle. Ce coefficient n'est pas
+applicable au montant de la retraite forfaitaire et de la retraite proportionnelle liquidée en application de l'article
+1120-2.
+
+Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
+nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
+sociale.
+
+Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Nota - Loi 86-19 du 6 janvier 1986 : les dispositions du 1° du 1er alinéa et du deuxième alinéa sont applicables aux pensions
+de retraite prenant effet postérieurement au 31 décembre 1985. Toutefois, à titre transitoire, la pension de retraite
+forfaitaire est calculée sur la base de trente-trois années et demie d'activité non salariée agricole en 1986, trente-quatre
+années et demie en 1987, trente-cinq années et demie en 1988, trente-six années et demie en 1989.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°80-502 1980-07-04 art. 18
+  - Code de la sécurité sociale L344
+  - Code rural 1116, 1123, 1120-2
+
+_Modifié par_:
+
+  - Loi n°86-19 1986-01-06 art. 2 JORF 8 janvier 1986
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-29 (M)
+  - Code rural - art. L762-30 (V)
+  - Code rural - art. L762-31 (VT)
+  - Code rural - art. L762-32 (VT)
 
 
 ###### Article 1143-2
@@ -25451,21 +25513,13 @@ _Abrogé par_:
 
 ###### Article 1110
 
-L'organisation autonome des professions agricoles est chargée de servir aux exploitants agricoles ayant exercé comme dernière
-activité professionnelle l'une des activités visées à l'article 1060 en qualité de chef d'exploitation ou d'entreprise :
+L'organisation autonome des professions agricoles est chargée de servir aux assurés exerçant ou ayant exercé en qualité de
+non salarié les professions énumérées à l'article 1060 :
 
-- soit, pour ceux qui ne peuvent bénéficier d'une retraite, une allocation dans les conditions prévues aux articles 1111 à
-1120 inclus s'ils ont exercé cette activité pendant quinze ans au moins ;
+1° Soit, pour ceux qui ne peuvent bénéficier d'une pension de retraite, une allocation dans les conditions prévues aux
+articles 1111 à 1120 inclus s'ils ont exercé cette activité pendant quinze ans au moins ;
 
-- soit une retraite dans les conditions prévues aux articles 1121 et 1122.
-
-Est considérée comme chef d'exploitation ou d'entreprise sans préjudice de l'application de l'article 645 du code de la
-sécurité sociale la personne dont l'exploitation ou l'entreprise a une importance au moins égale ou équivalente à la moitié
-de l'exploitation type ouvrant droit à l'intégralité des prestations familiales agricoles ou qui justifie exercer
-exclusivement une activité professionnelle agricole non salariée. Toutefois, le minimum prévu ci-dessus est ramené à 16 F de
-revenu cadastral pour les personnes mettant en valeur des terres dont le revenu cadastral moyen est inférieur à 6 F par
-hectare. En outre, ce chiffre pourra, dans les mêmes conditions, être abaissé au-dessous de 16 F pour les exploitants
-montagnards dont la cotisation sera alors établie sur la base d'un revenu cadastral égal à 16 F.
+2° Soit une pension de retraite dans les conditions prévues aux articles 1120-1 à 1122-5.
 
 Par dérogation aux prescriptions du premier alinéa du présent article, l'interruption d'activité résultant d'un fait de
 guerre ou de maladie ou d'infirmité graves empêchant toute activité professionnelle ne privera pas le requérant du droit à
@@ -25483,18 +25537,12 @@ l'article 3 modifié de la loi n° 48-101 du 17 janvier 1948.
 
 _Cite_:
 
-  - Code rural 1060, 1111 à 1120, 1121, 1122
+  - Code rural 1060, 1111 à 1120, 1120-1 à 1122-5
   - Loi n°48-101 du 17 janvier 1948 - art. 3, v. init.
-  - Code de la sécurité sociale 645
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 _Modifié par_:
 
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+  - Loi n°86-19 1986-01-06 art. 7 I JORF 8 janvier 1986
 
 _Nouveaux textes_:
 
@@ -25613,24 +25661,88 @@ _Nouveaux textes_:
 
 ##### Paragraphe 2 : Retraite.<a id=174></a>
 
+###### Article 1120-1
+
+L'assurance vieillesse garantit une pension de retraite à l'assuré qui en demande la liquidation à partir de l'âge de
+soixante ans.
+
+Les dispositions de l'alinéa précédent entreront en vigueur le 1er janvier 1990. A titre transitoire, l'âge minimum auquel
+l'assuré peut faire valoir ses droits à une pension de retraite est fixé à à soixante-quatre ans à compter du 1er janvier
+1986, à soixante-trois ans à compter du 1er janvier 1987, à soixante-deux ans à compter du 1er janvier 1988 et à soixante et
+un ans à compter du 1er janvier 1989.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L732-18
+  - Code rural - art. L732-18 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°86-19 1986-01-06 art. 1 JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Décret n°2004-860 du 24 août 2004 - art. 1 () JORF 25 août 2004
+
+
+###### Article 1120-2
+
+La pension de retraite peut être accordée à partir de l'âge de soixante ans aux assurés reconnus inaptes au travail dans les
+conditions prévues aux articles 1122-3 et 1122-4 ainsi qu'à ceux qui sont mentionnés au c et au e de l'article L. 332 du code
+de la sécurité sociale, dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-23 (M)
+
+_Cite_:
+
+  - Code de la sécurité sociale L332
+  - Code rural 1122-3, 1122-4
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°86-19 1986-01-06 art. 1 JORF 8 janvier 1986
+
+
 ###### Article 1121
 
 Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
 salariée agricole ont droit à une retraite qui comprend :
 
-1° Une retraite forfaitaire dont le montant maximal, attribué pour vingt-cinq années d'activité au moins, est égal à celui
-que fixe l'article 1116 du présent code pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à
-vingt-cinq ans, le montant de la retraite est calculé proportionnellement à cette
-
-durée ;
+1° Une pension de retraite forfaitaire dont le montant maximal attribué pour trente-sept années et demie au moins d'activité
+non salariée agricole est égal à celui que fixe l'article 1116 pour l'allocation de vieillesse. Lorsque la durée d'activité a
+été inférieure à trente-sept années et demie, le montant de la retraite est calculé proportionnellement à cette durée ;
 
 2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
 l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
-application de l'article L. 344 du code de la sécurité sociale ;
+application de l'article L. 344 du code de la sécurité sociale. Toutefois, en cas de coexploitation, le montant total des
+pensions de retraite proportionnelle servies à l'ensemble de ces exploitants ne peut excéder celui de la pension qui serait
+servie à un agriculteur dirigeant seul la même exploitation. Un décret en Conseil d'Etat détermine les dispositions
+particulières applicables aux associés actifs constituant une exploitation agricole à responsabilité limitée ;
 
 3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
 des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
 l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+
+Pour les assurés qui demandent la liquidation de leurs droits à retraite avant l'âge de soixante-cinq ans et qui ne
+justifient pas, tant dans le régime institué par le présent chapitre que dans un ou plusieurs autres régimes obligatoires,
+d'une durée minimale de trente-sept années et demie d'assurance ou de périodes reconnues équivalentes, il est appliqué un
+coefficient de minoration au montant de la retraite forfaitaire et de la retraite proportionnelle. Ce coefficient n'est pas
+applicable au montant de la retraite forfaitaire et de la retraite proportionnelle liquidée en application de l'article
+1120-2.
 
 Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
 nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
@@ -25645,19 +25757,13 @@ cotisations versées par des exploitants agricoles au titre des assurances socia
 
 _Cite_:
 
-  - Code rural 1116, 1123
+  - Code rural 1116, 1123, 1120-2
   - Loi n°80-502 1980-07-04 art. 18
   - Code de la sécurité sociale L344
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 _Modifié par_:
 
-  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
-  - Loi n°72-1121 1972-12-20 art. 63 III JORF 21 décembre 1972
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+  - Loi n°86-19 1986-01-06 art. 2 JORF 8 janvier 1986
 
 _Nouveaux textes_:
 
@@ -25675,7 +25781,9 @@ caractère accessoire peuvent seulement prétendre à la retraite proportionnell
 Le conjoint survivant des personnes visées au premier alinéa a droit, s'il n'est pas lui-même bénéficiaire d'un avantage au
 titre d'un régime de sécurité sociale, et s'il satisfait à des conditions d'âge, de ressources personnelles et de durée du
 mariage fixées par décret, à une retraite de réversion dont le montant est égal à un pourcentage fixé par voie réglementaire
-de la retraite proportionnelle dont bénéficiait ou aurait pu bénéficier l'assuré.
+de la retraite proportionnelle dont bénéficiait ou aurait pu bénéficier l'assuré. Toutefois, dans le cas où l'avantage
+personnel non cumulable est d'un montant inférieur à la pension de réversion susceptible d'être accordée, celle-ci est servie
+sous forme de complément différentiel.
 
 **Liens relatifs à cet article**
 
@@ -25683,9 +25791,9 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+  - Loi n°86-19 1986-01-06 art. 4 JORF 8 janvier 1986
 
 _Nouveaux textes_:
 
@@ -25695,40 +25803,20 @@ _Nouveaux textes_:
 
 ###### Article 1122
 
-A droit à la retraite à l'âge de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, tout chef
-d'exploitation qui a satisfait à toutes les prescriptions du présent chapitre.
+En cas de décès d'un chef d'exploitation ou d'entreprise agricole, son conjoint survivant a droit à une pension de réversion
+s'il remplit les conditions de ressources personnelles, de durée de mariage et d'âge définies par voie réglementaire et sous
+réserve s'il ne soit pas lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité sociale. Toutefois, dans le cas
+où l'avantage personnel non cumulable est d'un montant inférieur à la pension de réversion susceptible d'être accordée,
+celle-ci est servie sous forme de complément différentiel.
 
-Sous réserve des dispositions du 1er alinéa du présent article, le conjoint du chef d'exploitation, âgé de soixante-cinq ans,
-ou de soixante ans en cas d'inaptitude au travail, perçoit la retraite de base prévue au 1° de l'article 1121 s'il n'est pas
-lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité sociale.
+Cette pension de réversion se compose de la retraite forfaitaire et d'un pourcentage, fixé par voie réglementaire, de la
+pension de retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré.
 
-Sous réserve des dispositions des deux alinéas précédents, exception faite de celle relative à l'âge, le conjoint survivant
-d'un chef d'exploitation, âgé de soixante-cinq ans, ou soixante ans en cas d'inaptitude au travail, percevra une retraite
-comprenant la retraite de base et la moitié de la retraite complémentaire à laquelle pouvait prétendre le chef
-d'exploitation. Cette retraite est accordée, sous les mêmes réserves, au conjoint survivant n'ayant pas atteint l'âge prévu
-ci-dessus s'il satisfait en outre aux conditions, fixées par décret, relatives à son âge, à ses ressources personnelles,
-ainsi qu'à la durée du mariage. Si le chef d'exploitation est décédé avant d'avoir acquis droit à retraite, le conjoint
-continuant l'exploitation peut ajouter ses annuités propres à celles acquises par le de cujus pour le calcul de sa pension à
-l'âge de soixante-cinq ans, ou soixante ans en cas d'invalidité.
-
-Au cas de coexploitation, le total des retraites complémentaires servies à l'ensemble de ces exploitants ne peut excéder
-celle qui serait servie à un agriculteur dirigeant seul la même exploitation.
-
-Sous réserve des dispositions précédentes, les personnes qui ont travaillé pendant les cinq dernière années d'exercice de
-leur profession, avec ou sans le concours de leur conjoint et avec ou sans l'aide d'un seul salarié ou d'un seul aide
-familial, ont droit à la retraite de vieillesse agricole à partir de l'âge de soixante ans, si elles sont reconnues inaptes
-au travail dans les conditions prévues par la loi n° 71-1132 du 31 décembre 1971. Le service de la retraite visée ci-dessus
-est suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle.
-
-Les modalités d'application des dispositions de l'alinéa ci-dessus seront déterminées, autant que de besoin, par décret
-interministériel.
+Si le chef d'exploitation ou d'entreprise est décédé avant d'avoir demandé la liquidation de sa retraite, le conjoint
+survivant continuant l'exploitation peut, pour le calcul de sa pension de retraite, ajouter à ses annuités propres celles qui
+ont été acquises par le défunt.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1121
-  - Loi n°71-1132 1971-12-31
 
 _Codifié par_:
 
@@ -25736,10 +25824,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°72-1121 1972-12-20 art. 63 IV JORF 21 décembre 1972
-  - Loi n°73-1129 1973-12-21 art. 2 JORF 23 décembre 1973
-  - Loi n°75-1278 1975-12-30 art. 68 Finances pour 1976 JORF 31 décembre 1975
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+  - Loi n°86-19 1986-01-06 art. 3 JORF 8 janvier 1986
 
 _Nouveaux textes_:
 
@@ -25749,25 +25834,20 @@ _Nouveaux textes_:
 
 ###### Article 1122-1
 
-Sans préjudice de l'application de l'article 1122, deuxième et troisième alinéas, du présent code, ont droit à la retraite
-forfaitaire prévue à l'article 1121, 1°, et dans les mêmes conditions, à l'âge de soixante-cinq ans ou de soixante ans en cas
-d'inaptitude au travail, les membres de la famille du chef d'exploitation qui ont satisfait à toutes les prescriptions du
-chapitre IV du titre II du livre VII du présent code.
+Le conjoint du chef d'exploitation ou d'entreprise agricole et les membres de la famille ont droit à la pension de retraite
+forfaitaire dans les conditions prévues au 1° du premier alinéa de l'article 1121. Les membres de la famille s'entendent des
+ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou d'entreprise ou de son conjoint. Le
+conjoint et les membres de la famille doivent remplir les conditions fixées par l'article 1124.
 
-Le conjoint survivant des personnes visées à l'alinéa précédent a droit, s'il n'est pas lui-même bénéficiaire d'un avantage
-au titre d'un régime de sécurité sociale, st s'il satisfait aux conditions, fixées par décret, relatives à son âge, à ses
-ressources personnelles, ainsi qu'à la durée du mariage, à une retraite de réversion d'un montant égal à celui de la retraite
-forfaitaire dont bénéficiait ou aurait bénéficié l'assuré.
+Le conjoint survivant des personnes mentionnées à l'alinéa précédent a droit, dans les conditions fixées au premier alinéa de
+l'article 1122, à une retraite de réversion d'un montant égal à celui de la retraite forfaitaire dont bénéficiait ou aurait
+pu bénéficier l'assuré.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 _Modifié par_:
 
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+  - Loi n°86-19 1986-01-06 art. 5, art. 6 JORF 8 janvier 1986
 
 _Cité par_:
 
@@ -25781,39 +25861,46 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code rural 1122, 1121
+  - Code rural 1121, 1122, 1124
 
 
 ###### Article 1122-2
 
-Dans le cas de divorce, lors du décès d'une personne visée au premier alinéa de l'article 1122 et au premier alinéa de
-l'article 1122-1, la retraite de réversion prévue auxdits articles est attribuée ou répartie  dans les mêmes conditions que
-celles de l'article 351-2 du code de la sécurité sociale, selon des modalités fixées par décret.
+Dans le cas de divorce, lors du décès d'une personne visée au premier alinéa des articles 1121, 1121-1 et 1122-1, la retraite
+de réversion prévue auxdits articles est attribuée ou répartie dans les mêmes conditions que celles de l'article 351-2 du
+code de la sécurité sociale, selon des modalités fixées par décret.
 
 **Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural - art. L732-47 (M)
-
-_Cite_:
-
-  - Code de la sécurité sociale 351-2
-  - Code rural 1122, 1122-1
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-2 du 2 janvier 1984 - art. 19 () JORF 3 janvier 1984
+  - Loi n°78-753 du 17 juillet 1978 - art. 41
+  - Loi n°86-19 1986-01-06 art. 7 II JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-47 (M)
+  - Code rural L732-47
+
+_Cite_:
+
+  - Code de la sécurité sociale 351-2
+  - Code rural 1121, 1121-1, 1122-1
 
 
 ###### Article 1122-2-1
 
-La condition de durée du mariage prévue aux articles 1122, troisième alinéa, et 1122-1, deuxième alinéa, n'est pas exigée
-pour l'attribution de la pension de réversion lorsqu'un enfant au moins est issu du mariage.
+La condition de durée du mariage prévue aux articles 1122, premier alinéa, et 1121-1, deuxième alinéa et 1122-1, deuxième
+alinéa, n'est pas exigée pour l'attribution de la pension de réversion lorsqu'un enfant au moins est issu du mariage.
 
 **Liens relatifs à cet article**
 
@@ -25824,6 +25911,14 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°86-19 1986-01-06 art. 7 III JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab) JORF 2 février 1995
 
 
 ###### Article 1122-2-2
@@ -25852,7 +25947,84 @@ _Cite_:
   - Code de la sécurité sociale. - art. L351-1 (M)
 
 
-#### Section 2 : Cotisations.<a id=175></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=175></a>
+
+###### Article 1122-3
+
+L'inaptitude au travail est appréciée en déterminant si, à la date de la demande ou à une date postérieure, l'assuré, compte
+tenu de son âge, de son état de santé, de ses capacités physiques et mentales, de ses aptitudes et de sa formation
+professionnelle, n'est plus en mesure d'exercer une activité professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°86-19 1986-01-06 art. 9 JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Loi n°95-95 du 1 février 1995 - art. 72 () JORF 2 février 1995
+
+
+###### Article 1122-4
+
+Par dérogation à l'article 1122-3, l'inaptitude au travail des chefs d'exploitation ou d'entreprise agricole est appréciée
+dans les conditions prévues à l'article L. 333 du code de la sécurité sociale lorsque, pendant les cinq dernières années
+d'exercice de leur profession, les intéressés ont travaillé seuls et, éventuellement, avec le concours de leur conjoint et
+d'un seul salarié ou d'un seul membre de la famille.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1122-3
+  - Code de la sécurité sociale L333
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°86-19 1986-01-06 art. 9 JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Loi n°95-95 du 1 février 1995 - art. 72 () JORF 2 février 1995
+
+
+###### Article 1122-5
+
+Le service d'une pension de retraite attribuée au titre de l'inaptitude au travail est suspendu lorsque le titulaire, âgé de
+moins de soixante-cinq ans, exerce une activité professionnelle non salariée, ou une activité professionnelle salariée lui
+procurant des revenus supérieurs à un montant fixé par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L732-36
+  - Code rural - art. L732-36 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°86-19 1986-01-06 art. 9 JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 2 : Cotisations.<a id=176></a>
 
 ###### Article 1123
 
@@ -25861,8 +26033,7 @@ Les dépenses de prestations de l'assurance vieillesse agricole sont couvertes :
 1° Par une double cotisation professionnelle :
 
 a) L'une à la charge de chaque membre non salarié âgé d'au moins dix-huit ans dépendant du régime, à l'exception des chefs
-d'exploitation définis à l'article 1121-1 et des titulaires soit d'une allocation, pension ou rente de vieillesse, soit d'une
-retraite, âgés d'au moins soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, et de leurs conjoints ;
+d'exploitation définis à l'article 1121-1 ;
 
 b) L'autre à la charge de chaque exploitation ou entreprise et dont le montant global est fixé chaque année dans le budget
 annexe des prestations sociales agricoles ;
@@ -25871,18 +26042,9 @@ annexe des prestations sociales agricoles ;
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural 1121-1, 1140
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 _Modifié par_:
 
-  - Loi n°75-1278 1975-12-30 art. 70 Finances pour 1976 JORF 31 décembre 1975
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+  - Loi n°86-19 1986-01-06 art. 8 JORF 8 janvier 1986
 
 _Nouveaux textes_:
 
@@ -25891,6 +26053,10 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code rural - art. R732-69 (V)
+
+_Cite_:
+
+  - Code rural 1121-1, 1140
 
 
 ###### Article 1124
@@ -26087,7 +26253,7 @@ _Cite_:
   - Code rural 1130
 
 
-#### Section 3 : Organisation administrative et financière.<a id=176></a>
+#### Section 3 : Organisation administrative et financière.<a id=177></a>
 
 ###### Article 1136
 
@@ -26186,7 +26352,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=177></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=178></a>
 
 ###### Article 1142-1
 
@@ -26301,57 +26467,6 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-###### Article 1142-5
-
-Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
-salariée agricole, ont droit à une retraite qui comprend :
-
-1° Une retraite forfaitaire dont le montant maximal, attribué pour vingt-cinq années d'activité au moins, est égal à celui
-que fixe l'article 1116 du présent code pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à
-vingt-cinq ans, le montant de la retraite est calculé proportionnellement à cette
-
-durée ;
-
-2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
-
-l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
-application de l'article L. 344 du code de la sécurité sociale ;
-
-3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
-des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
-l'article 18 de la loi n° 80-502 du 4 juillet 1980.
-
-Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
-nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
-sociale.
-
-Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°66-935 1966-12-17 art. 60 JORF 18 décembre 1966
-  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
-
-_Cite_:
-
-  - Loi n°80-502 1980-07-04 art. 18
-  - Code de la sécurité sociale L344
-  - Code rural 1116, 1123
-
-_Nouveaux textes_:
-
-  - Code rural - art. L762-29 (M)
-  - Code rural - art. L762-30 (V)
-  - Code rural - art. L762-31 (VT)
-  - Code rural - art. L762-32 (VT)
-
-
 ###### Article 1142-6
 
 Le taux de la cotisation prévue à l'article 1123, 1° a du présent code est égal à la moitié du taux appliqué dans la
@@ -26443,26 +26558,36 @@ _Abrogé par_:
 
 ###### Article 1142-11
 
-Ne sont pas applicables à l'assurance vieillesse des non-salariés agricoles des départements d'outre-mer les articles 1107,
-1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135 inclus du présent code, ainsi que toutes les dispositions contraires à
-celles du présent chapitre.
+Ne sont pas applicables à l'assurance vieillesse des non salariés agricoles des départements d'outre-mer les articles 1107,
+1109, 1110, 1111, 1114, 1121, 1125 à 1135 inclus du présent code, ainsi que toutes les dispositions contraires à celles du
+présent chapitre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°86-19 1986-01-06 art. 10 JORF 8 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code rural - art. L762-27 (M)
+  - Code rural L762-27
 
 _Cite_:
 
-  - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135
+  - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=178></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=179></a>
 
 ###### Article 1142-12
 
@@ -26758,7 +26883,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=179></a>
+### Chapitre V : Contentieux.<a id=180></a>
 
 ###### Article 1143
 
@@ -26889,11 +27014,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=180></a>
+## Titre III : Accidents du travail et risques agricoles<a id=181></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=181></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=182></a>
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=182></a>
+#### Section 1 : Bénéficiaires et risques couverts.<a id=183></a>
 
 ###### Article 1144
 
@@ -27157,7 +27282,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 2 : Prestations.<a id=183></a>
+#### Section 2 : Prestations.<a id=184></a>
 
 ###### Article 1148
 
@@ -27184,7 +27309,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=184></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=185></a>
 
 ###### Article 1149
 
@@ -27218,7 +27343,7 @@ _Cite_:
   - Code rural 1038, L453-1
 
 
-#### Section 4 : Organisation administrative et financière.<a id=185></a>
+#### Section 4 : Organisation administrative et financière.<a id=186></a>
 
 ###### Article 1150
 
@@ -27574,7 +27699,7 @@ _Abrogé par_:
   - Loi n°87-39 du 27 janvier 1987 - art. 13 (V) JORF 28 janvier en vigueur le 1er janvier 1987
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=186></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=187></a>
 
 ###### Article 1163
 
@@ -27784,7 +27909,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=187></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=188></a>
 
 ###### Article 1170
 
@@ -27810,7 +27935,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=188></a>
+#### Section 7 : Prévention.<a id=189></a>
 
 ###### Article 1171
 
@@ -27837,7 +27962,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=189></a>
+#### Section 8 : Contrôles et sanctions.<a id=190></a>
 
 ###### Article 1172
 
@@ -28000,7 +28125,7 @@ _Nouveaux textes_:
   - Code rural - art. L751-37 (M)
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=190></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=191></a>
 
 ###### Article 1178
 
@@ -28252,7 +28377,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=191></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=192></a>
 
 ###### Article 1198
 
@@ -29432,7 +29557,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=192></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=193></a>
 
 ###### Article 1234-1
 
@@ -30050,7 +30175,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=193></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=194></a>
 
 ###### Article 1234-20
 
@@ -30264,7 +30389,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=194></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=195></a>
 
 ###### Article 1234-27
 
@@ -30327,7 +30452,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=195></a>
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=196></a>
 
 ###### Article 1234-29
 
@@ -30363,9 +30488,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre IV : Dispositions diverses<a id=196></a>
+## Titre IV : Dispositions diverses<a id=197></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=197></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=198></a>
 
 ###### Article 1235
 
@@ -30972,7 +31097,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Médecine préventive.<a id=198></a>
+### Chapitre II : Médecine préventive.<a id=199></a>
 
 ###### Article 1250-2
 
@@ -30994,7 +31119,7 @@ _Nouveaux textes_:
   - Code rural - art. L742-5 (V)
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=199></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=200></a>
 
 ###### Article 1251
 
@@ -31480,9 +31605,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=200></a>
+## Titre VI : Français résidant à l'étranger<a id=201></a>
 
-### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=201></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=202></a>
 
 ###### Article 1263-1
 
@@ -31617,7 +31742,7 @@ _Cite_:
   - Code rural 1263-1
 
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=202></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=203></a>
 
 ###### Article 1263-4
 
@@ -31683,7 +31808,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=203></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=204></a>
 
 ###### Article 1263-6
 
@@ -31733,7 +31858,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=204></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=205></a>
 
 ###### Article 1263-8
 
@@ -31785,13 +31910,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=205></a>
+# Livre VIII : Formation professionnelle et recherche<a id=206></a>
 
-## Titre II : Enseignement<a id=206></a>
+## Titre II : Enseignement<a id=207></a>
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=207></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=208></a>
 
-#### Section 2 : Dispositions pénales.<a id=208></a>
+#### Section 2 : Dispositions pénales.<a id=209></a>
 
 ###### Article 1281
 
@@ -31808,11 +31933,11 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-## Titre III : Recherche<a id=209></a>
+## Titre III : Recherche<a id=210></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=210></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=211></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=211></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=212></a>
 
 ###### Article 1337
 
