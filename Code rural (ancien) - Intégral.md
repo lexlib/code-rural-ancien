@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1988-02-24
+Version Consolidée au 1988-10-02
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 1988-02-24
     - [Titre Ier : De la chasse (art. 365 à 400)](#82)
       - [Chapitre Ier : De l'exercice du droit de chasse. (art. 365 à 373-1)](#83)
       - [Chapitre II : Des pénalités. (art. 374 à 391)](#84)
-      - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 395)](#85)
+      - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 394)](#85)
       - [Chapitre IV : Des groupements de chasseurs. (art. 396 à 400)](#86)
     - [Titre II : De la pêche et de la gestion des ressources piscicoles en eaux douces (art. 401 à 466)](#87)
       - [Chapitre Ier : Champ d'application. (art. 401 à 406)](#88)
@@ -12703,9 +12703,9 @@ la mise en vente, la vente, l'achat, le transport en vue de la vente ou le colpo
 Il est interdit de mettre en vente, de vendre, de transporter, de colporter ou d'acheter sciemment du gibier mort soumis au
 plan de chasse non muni du bracelet de marquage ou non accompagné d'une attestation justifiant l'origine.
 
-Le ministre de l'agriculture, après avis du Conseil national de la chasse et de la faune sauvage, peut réglementer la mise en
-vente, la vente, l'achat, le transport et le colportage des animaux classés comme nuisibles et régulièrement détruits dans
-les conditions prévues aux articles 373 et 393.
+Un décret, après avis du Conseil national de la chasse et de la faune sauvage, peut réglementer la mise en vente, la vente,
+l'achat, le transport et le colportage des animaux classés comme nuisibles et régulièrement détruits dans les conditions
+prévues aux articles 373 et 393.
 
 Il est également interdit en toute saison de mettre en vente, de vendre, de transporter, de colporter ou même d'acheter
 sciemment le gibier tué à l'aide d'engins ou d'instruments prohibés.
@@ -12738,8 +12738,7 @@ délégués.
 
 Il est interdit, en temps de fermeture, d'enlever les nids, de prendre ou de détruire, de colporter ou de mettre en vente, de
 vendre ou d'acheter, de transporter ou d'exporter les oeufs ou les couvées de perdrix, faisans, cailles et de tous autres
-oiseaux, ainsi que les portées ou petits de tous animaux qui n'auront pas été déclarés nuisibles par des arrêtés du ministre
-de l'agriculture.
+oiseaux, ainsi que les portées ou petits de tous animaux sous réserve des dispositions relatives aux animaux nuisibles.
 
 Les détenteurs du droit de chasse et leurs préposés auront le droit de recueillir, pour les faire couver, les oeufs mis à
 découvert par la fauchaison ou l'enlèvement des récoltes.
@@ -12752,15 +12751,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural 371-1, 373, 393
+  - Code rural 373, 393, 371-1
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1844-05-03
+  - Décret n°88-940 1988-09-30 art. 1 I, II JORF 2 octobre 1988
+  - Décret n°88-940 du 30 septembre 1988 - art. 1 () JORF 2 octobre 1988
 
 
 ###### Article 373
@@ -12770,10 +12770,6 @@ Dans le temps où la chasse est ouverte, le permis donne à celui qui l'a obtenu
 ses propres terres et sur les terres d'autrui avec le consentement de celui à qui le droit de chasse appartient.
 
 Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme moyens de rabat, sont formellement prohibés.
-
-L'utilisation des bourses et furets destinés à prendre les lapins est autorisée dans les départements ou parties de
-départements où le lapin est classé comme animal nuisible. Dans les autres lieux, des autorisations individuelles et
-exceptionnelles, données par les préfets, sont nécessaires pour la capture des lapins avec bourses et furets.
 
 Le ministre chargé de la chasse peut prendre des arrêtés :
 
@@ -12787,7 +12783,7 @@ substituant à la limitation annuelle de la période de chasse le nombre d'anima
 isard, bouquetin, et mouflon) sur les territoires de chasse pendant la période de chasse propre à chaque département, telle
 qu'elle est définie au premier alinéa de l'article 371.
 
-L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande conjointe du conservateur des eaux et forêts
+L'arrêté du Ministre est pris sur proposition du préfet, présentée à la demande conjointe du conservateur des eaux et forêts
 et du président de la fédération départementale des chasseurs.
 
 En cas de calamité, incendie, inondations, gel prolongé, susceptible de provoquer ou de favoriser la destruction du gibier,
@@ -12816,7 +12812,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°86-571 1986-03-14 art. 1 JORF 18 mars 1986
+  - Décret n°88-940 du 30 septembre 1988 - art. 1 () JORF 2 octobre 1988
 
 
 ###### Article 373-1
@@ -13545,9 +13541,9 @@ _Abrogé par_:
 
 ###### Article 393
 
-Le ministre de l'agriculture, assisté du conseil national de la chasse et de la faune sauvage, prend des arrêtés pour
-déterminer les espèces d'animaux malfaisants ou nuisibles que le propriétaire, possesseur ou fermier peut, en tout temps,
-détruire sur ses terres et les conditions d'exercice de ce droit.
+Un décret en conseil en d'Etat désigne l'autorité administrative compétente pour déterminer les espèces d'animaux malfaisants
+ou nuisibles que le propriétaire, possesseur ou fermier peut, en tout temps, détruire sur ses terres et les conditions
+d'exercice de ce droit.
 
 Indépendamment des dispositions prévues à l'alinéa précédent, tout propriétaire ou fermier peut repousser ou détruire, même
 avec des armes à feu, mais à l'exclusion du collet et de la fosse, les bêtes fauves qui porteraient dommages à ses
@@ -13560,9 +13556,21 @@ _Cite_:
 
   - Code rural 373
 
+_Nouveaux textes_:
+
+  - Code rural L227-8, L227-9
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°88-940 du 30 septembre 1988 - art. 1 () JORF 2 octobre 1988
+
+_Abrogé par_:
+
+  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
 ###### Article 394
@@ -13598,38 +13606,6 @@ _Cite_:
 _Abrogé par_:
 
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 395
-
-Il en est de même pour le lapin de garenne dans les départements ou parties de département, où il est déclaré gravement
-nuisible par des arrêtés préfectoraux pris sur avis du conservateur des eaux et forêts, le conseil général entendu.
-
-Le préfet ordonne d'office les battues ou autres mesures nécessaires après avoir mis en demeure les propriétaires ou les
-détenteurs du droit de chasse d'opérer eux-mêmes les destructions pendant le temps qui leur est fixé. Il détermine les
-conditions auxquelles est soumise l'exécution de ces mesures dont la direction et la surveillance sont confiées au lieutenant
-de louveterie.
-
-Il est prélevé, en faveur de l'hospice ou, à défaut, en faveur du bureau de bienfaisance de la commune où est exécutée la
-mesure exceptionnelle de destruction, au moins la moitié des lapins tués.
-
-La mise en demeure ci-dessus prescrite a lieu par lettre recommandée et ne fait pas obstacle, si elle reçoit satisfaction, à
-des mises en demeure ultérieures pour le cas où, malgré la destruction, il est reconnu que le lapin de garenne est encore
-surabondant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°88-940 du 30 septembre 1988 - art. 1 () JORF 2 octobre 1988
-
-_Anciens textes_:
-
-  - Loi n°1930-03-10 art. 1
 
 
 ### Chapitre IV : Des groupements de chasseurs.<a id=86></a>
