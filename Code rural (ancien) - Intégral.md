@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-01-19
+Version Consolidée au 1994-02-11
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 188)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122)](#2)
@@ -20,134 +20,138 @@ Version Consolidée au 1994-01-19
       - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#17)
       - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#18)
       - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 213-2)](#19)
-    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#20)
+    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 243)](#20)
       - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#21)
-      - [Chapitre III : De la police sanitaire (art. 219 à 252)](#22)
+      - [Chapitre III : De la police sanitaire (art. 219 à 243)](#22)
         - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224 à 243)](#23)
-        - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#24)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#25)
-      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#26)
-      - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#27)
-    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-6)](#28)
-    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#29)
-    - [Titre VII : De la production des animaux domestiques (art. 308)](#30)
-      - [Chapitre II : De l'insémination artificielle. (art. 308)](#31)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#32)
-    - [Titre IX : Des pénalités. (art. 325 à 341)](#33)
-    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#34)
-      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 343 à 347)](#35)
-      - [Chapitre II : Mesures de défense contre les organismes nuisibles. (art. 348 à 355)](#36)
-      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 356 à 359)](#37)
-      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#38)
-      - [Chapitre V : Sanctions et dispositions diverses. (art. 363 à 364)](#39)
-    - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte. (art. 364-1 à 364-23)](#40)
-      - [Section 1 : De la garde des animaux domestiques. (art. 364-2)](#41)
-      - [Section 2 : De la lutte contre les maladies des animaux. (art. 364-3 à 364-11)](#42)
-      - [Section 3 : Du contrôle sanitaire des animaux et des viandes. (art. 364-12 à 364-16)](#43)
-      - [Section 4 : De l'insémination artificielle. (art. 364-17)](#44)
-      - [Section 5 : Des pénalités. (art. 364-18)](#45)
-      - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#46)
-      - [Section 7 : Dispositions communes. (art. 364-23)](#47)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#48)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#49)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#50)
-    - [Titre II : Coopératives agricoles (art. 551)](#51)
-      - [Chapitre unique : Sanctions pénales. (art. 551)](#52)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#53)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#54)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#55)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#56)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#57)
-      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#58)
-        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#59)
-        - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#60)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#61)
-          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#62)
-          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 676 à 680)](#63)
-        - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#64)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#65)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#66)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#67)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#68)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#69)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#70)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#71)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#72)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#73)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#74)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#75)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#76)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#77)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#78)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#79)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#80)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#81)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#82)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#83)
-    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#84)
-      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#85)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#86)
-      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#87)
-    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#88)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#89)
-      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#90)
-        - [Section 1 : Affiliation. (art. 1024 à 1030)](#91)
-        - [Section 2 : Cotisations. (art. 1031 à 1036)](#92)
-        - [Section 3 : Prestations. (art. 1038 à 1047)](#93)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#94)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#95)
-      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#96)
-        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#97)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#98)
-        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#99)
-        - [Section 4 : Prestations. (art. 1090 à 1092)](#100)
-        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#101)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#102)
-        - [Section 1 : Champ d'application. (art. 1106-1)](#103)
-        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#104)
-        - [Section 3 : Financement. (art. 1106-6 à 1106-7)](#105)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#106)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#107)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#108)
-        - [Section 1 : Prestations (art. 1110 à 1122-8)](#109)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#110)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#111)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-8)](#112)
-        - [Section 2 : Cotisations. (art. 1123 à 1135)](#113)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#114)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#115)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#116)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#117)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#118)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#119)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#120)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#121)
-        - [Section 2 : Prestations. (art. 1148)](#122)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#123)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#124)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#125)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#126)
-        - [Section 7 : Prévention. (art. 1171)](#127)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#128)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#129)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#130)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#131)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#132)
-      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#133)
-      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#134)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#135)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#136)
-      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#137)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#138)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#139)
-      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#140)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#141)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#142)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#143)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#144)
-    - [Titre III : Recherche (art. 1337)](#145)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#146)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#147)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#24)
+      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#25)
+      - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#26)
+    - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale (art. 275-1 à 275-12)](#27)
+      - [Chapitre Ier : Dispositions générales. (art. 275-1 à 275-3)](#28)
+      - [Chapitre II : Des importations. (art. 275-4)](#29)
+      - [Chapitre III : Des échanges intracommunautaires. (art. 275-5 à 275-8)](#30)
+      - [Chapitre IV : Dispositions diverses. (art. 275-9 à 275-12)](#31)
+    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-6)](#32)
+    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#33)
+    - [Titre VII : De la production des animaux domestiques (art. 308)](#34)
+      - [Chapitre II : De l'insémination artificielle. (art. 308)](#35)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#36)
+    - [Titre IX : Des pénalités. (art. 325 à 341)](#37)
+    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#38)
+      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 343 à 347)](#39)
+      - [Chapitre II : Mesures de défense contre les organismes nuisibles. (art. 348 à 355)](#40)
+      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 356 à 359)](#41)
+      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#42)
+      - [Chapitre V : Sanctions et dispositions diverses. (art. 363 à 364)](#43)
+    - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte. (art. 364-1 à 364-23)](#44)
+      - [Section 1 : De la garde des animaux domestiques. (art. 364-2)](#45)
+      - [Section 2 : De la lutte contre les maladies des animaux. (art. 364-3 à 364-11)](#46)
+      - [Section 3 : Du contrôle sanitaire des animaux et des viandes. (art. 364-12 à 364-16)](#47)
+      - [Section 4 : De l'insémination artificielle. (art. 364-17)](#48)
+      - [Section 5 : Des pénalités. (art. 364-18)](#49)
+      - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#50)
+      - [Section 7 : Dispositions communes. (art. 364-23)](#51)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#52)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#53)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#54)
+    - [Titre II : Coopératives agricoles (art. 551)](#55)
+      - [Chapitre unique : Sanctions pénales. (art. 551)](#56)
+  - [Livre V : Crédit agricole (art. 614 à 789)](#57)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#58)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#59)
+      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#60)
+      - [Chapitre III : Ressources. (art. 645 à 652)](#61)
+      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#62)
+        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#63)
+        - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#64)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#65)
+          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#66)
+          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 676 à 680)](#67)
+        - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#68)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#69)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#70)
+    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#71)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#72)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#73)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#74)
+    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#75)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#76)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#77)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#78)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#79)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#80)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#81)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#82)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#83)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#84)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#85)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#86)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#87)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#88)
+      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#89)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#90)
+      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#91)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#92)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#93)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#94)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#95)
+        - [Section 2 : Cotisations. (art. 1031 à 1036)](#96)
+        - [Section 3 : Prestations. (art. 1038 à 1047)](#97)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#98)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#99)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#100)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#101)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#102)
+        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#103)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#104)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#105)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#106)
+        - [Section 1 : Champ d'application. (art. 1106-1)](#107)
+        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#108)
+        - [Section 3 : Financement. (art. 1106-6 à 1106-7)](#109)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#110)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#111)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#112)
+        - [Section 1 : Prestations (art. 1110 à 1122-8)](#113)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#114)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#115)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-8)](#116)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#117)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#118)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#119)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#120)
+      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#121)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#122)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#123)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#124)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#125)
+        - [Section 2 : Prestations. (art. 1148)](#126)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#127)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#128)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#129)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#130)
+        - [Section 7 : Prévention. (art. 1171)](#131)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#132)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#133)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#134)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#135)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#136)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#137)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#138)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#139)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#140)
+      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#141)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#142)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#143)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#144)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#145)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#146)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#147)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#148)
+    - [Titre III : Recherche (art. 1337)](#149)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#150)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#151)
 ###### Article 1143-2
 
 Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et, éventuellement, des pénalités de
@@ -2153,26 +2157,27 @@ ou sauvages, en vue de procéder à tous les examens nécessaires à l'exécutio
 animaux prévues aux articles 214 à 252 du présent code. Lors de ces visites, ils peuvent procéder à la constatation des
 infractions aux dispositions desdits articles et des textes réglementaires pris pour leur application.
 
-Ils doivent, si la visite a lieu après le coucher du soleil, être accompagnés par un officier ou un agent de police
-judiciaire.
+Ils doivent, si la visite a lieu après le coucher du soleil, dans tout autre lieu qu'un des postes d'inspection frontaliers
+mentionnés à l'article 275-4, être accompagnés par un officier ou un agent de police judiciaire.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 214 à 252
+  - Code rural 214 à 252, 275-4
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°82-373 1982-05-06 art. 2 JORF 7 mai 1982
+  - Loi n°94-114 du 10 février 1994 - art. 2 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 215-5
@@ -3176,232 +3181,9 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-#### Section 3 : Des importations et des exportations.<a id=24></a>
+## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=24></a>
 
-###### Article 244
-
-Les animaux des espèces chevaline, asine, bovine, ovine, caprine et porcine sont soumis, en tout temps, aux frais des
-importateurs, à une visite sanitaire au moment de leur entrée en France, soit par terre, soit par mer.
-
-La même mesure peut être appliquée aux animaux des autres espèces, lorsqu'il y a lieu de craindre, par suite de leur
-introduction, l'invasion d'une maladie contagieuse.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1898-06-21 art. 55
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 246
-
-Sont interdites :
-
-a) L'exportation des bovidés porteurs de lésions d'hypodermose, ainsi que leur expédition en Algérie ou dans tous les
-territoires d'outre-mer ;
-
-b) L'introduction sur le territoire métropolitain des mêmes animaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1941-02-22 art. 2
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 247
-
-Le ministre chargé de l'agriculture peut prohiber l'entrée en France ou ordonner la mise en quarantaine et le contrôle des
-animaux pouvant communiquer une maladie contagieuse ou non, ainsi que de tous produits, denrées animales ou d'origine animale
-ou de tous objets pouvant présenter le même danger.
-
-Il peut, à la frontière ou sur le territoire national durant la quarantaine, prescrire l'abattage des animaux malades ou
-ayant été exposés à la contagion, la destruction des produits, denrées animales ou d'origine animale ou objets exposés à la
-contamination et, enfin, prendre toutes les mesures que la crainte de l'invasion d'une maladie rendrait nécessaires.
-
-Les mesures susceptibles d'être prises en application de l'alinéa précédent ne donnent lieu à aucune indemnité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°89-412 du 22 juin 1989 - art. 15 () JORF 24 juin 1989
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 247-1
-
-Les dispositions prévues à l'article 247 sont applicables aux animaux, produits, objets, denrées animales ou d'origine
-animale dans lesquels sont suspectés ou détectés des substances toxiques ou leurs résidus.
-
-Un décret en Conseil d'Etat détermine les conditions d'application de cet article.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 247
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°89-412 du 22 juin 1989 - art. 16 () JORF 24 juin 1989
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 248
-
-Les mesures sanitaires à prendre à la frontière sont ordonnées par les maires dans les communes rurales, par les commissaires
-de police dans les gares-frontières et dans les ports de mer, conformément à l'avis du vétérinaire désigné par
-l'administration pour la visite du bétail.
-
-En attendant l'intervention de ces autorités, les agents des douanes peuvent être requis de prêter main-forte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1898-06-21 art. 58
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 249
-
-Dans les ports de mer ouverts à l'importation du bétail, il est établi des quais spéciaux de débarquement, munis des agrès
-nécessaires, ainsi que des locaux destinés à recevoir les animaux mis en quarantaine par mesure sanitaire.
-
-Les installations prévues à l'alinéa précédent sont préalablement soumises à l'agrément du ministre de l'agriculture.
-
-Pour couvrir les dépenses de ces installations, il peut être perçu des taxes spéciales sur les animaux importés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1898-06-21 art. 59
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 250
-
-Le ministre de l'agriculture peut prescrire à la sortie les mesures nécessaires pour empêcher l'exportation des animaux
-atteints de maladies contagieuses.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1898-06-21 art. 60
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 251
-
-Les frais d'abattage, d'enfouissement, de transport, de quarantaine, de désinfection, ainsi que tous autres frais auxquels
-peut donner lieu l'exécution des mesures sanitaires prescrites, sont à la charge des propriétaires ou conducteurs d'animaux.
-
-En cas de refus des propriétaires ou conducteurs d'animaux de se conformer aux injonctions de l'autorité administrative, il y
-est pourvu d'office à leur compte.
-
-Les frais de ces opérations sont recouvrés sur un état dressé par le maire et rendu exécutoire par le préfet. Les oppositions
-sont portées devant le juge du tribunal d'instance.
-
-La désinfection des wagons de chemin de fer prescrite en application de l'article 242 a lieu par les soins des sociétés
-exploitantes ; les frais de cette désinfection sont fixés par le ministre chargé des travaux publics, les sociétés
-exploitantes entendues.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 242
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1898-06-21 art. 61
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-###### Article 252
-
-Il n'est alloué aucune indemnité aux propriétaires d'animaux importés des pays étrangers, abattus pour cause de péripneumonie
-contagieuse dans les trois mois qui ont suivi leur introduction en France.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1898-06-21 art. 47
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
-
-
-## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=25></a>
-
-### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=26></a>
+### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=25></a>
 
 ###### Article 253
 
@@ -3524,9 +3306,9 @@ _Modifié par_:
 ###### Article 259
 
 Les fonctions d'inspection sanitaire que nécessite l'application des dispositions de l'article 258 ci-dessus sont effectuées
-par un service d'Etat d'hygiène alimentaire constitué de vétérinaires spécialisés assistés de préposés sanitaires ayant la
-qualité de fonctionnaires ou agents de l'Etat. Ces fonctionnaires ou agents peuvent être assermentés en vue de la
-constatation des infractions.
+par un service d'Etat d'hygiène alimentaire constitué de vétérinaires spécialisés assistés de techniciens des services
+vétérinaires et de préposés sanitaires ayant la qualité de fonctionnaires ou agents de l'Etat. Ces fonctionnaires ou agents
+peuvent être assermentés en vue de la constatation des infractions.
 
 Les fonctions d'inspection sanitaire ainsi définies s'exercent sur les animaux et les denrées animales ou d'origine animale
 tant à leur entrée en France qu'à l'intérieur du territoire. Elles ne font pas obstacle à l'exercice des fonctions
@@ -3542,14 +3324,53 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Anciens textes_:
-
-  - Loi n°1887-04-05 art. 2, art. 3
-  - Loi n°1933-07-07 art. 11
-
 _Modifié par_:
 
-  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
+  - Loi n°94-114 du 10 février 1994 - art. 3 () JORF 11 février 1994
+
+
+###### Article 260
+
+Les établissements préparant, traitant, transformant, manipulant ou entreposant des denrées animales ou d'origine animale
+destinées à la consommation humaine ne peuvent mettre leurs produits sur le marché que s'ils satisfont à des conditions
+sanitaires et ont reçu l'agrément sanitaire de l'autorité administrative.
+
+Des arrêtés du ministre chargé de l'agriculture ou, le cas échéant, des arrêtés conjoints du ministre chargé de l'agriculture
+et du ministre chargé de la pêche maritime fixent ces conditions sanitaires ainsi que les modalités suivant lesquelles leur
+respect est contrôlé et attesté.
+
+Les établissements dont la totalité des produits est destinée à être cédée directement aux particuliers pour leur propre
+consommation ne sont pas soumis à l'agrément. Ceux dont une partie limitée de la production n'est pas destinée à être cédée
+directement aux particuliers, ou dont la production est destinée à des établissements de restauration, peuvent être dispensés
+de l'agrément par décision du préfet dans des conditions prévues par arrêté du ou des mêmes ministres.
+
+Les établissements qui ne satisfont qu'en partie aux conditions sanitaires ne peuvent commercialiser leur production que sous
+réserve des restrictions apportées au volume de cette production, à l'aire de distribution et à la destination des produits,
+fixées par les arrêtés mentionnés au deuxième alinéa du présent article.
+
+En cas de manquement aux conditions sanitaires, le ministre chargé de l'agriculture peut suspendre l'agrément en fixant un
+délai pour y remédier. S'il n'est pas remédié à ce manquement à l'issue du délai fixé, l'agrément est retiré.
+
+Le contrôle des dispositions du présent article est assuré par les personnes mentionnées au premier alinéa de l'article 259.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 259
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 5 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 261
@@ -3576,36 +3397,28 @@ _Abrogé par_:
 
 ###### Article 262
 
-Un règlement d'administration publique détermine, en tant que de besoin, les conditions d'application des articles 258 et
-259, notamment en ce qui concerne les produits importés et exportés, les établissements et fabriques où sont préparées les
-conserves et denrées d'origine animale destinées à la consommation humaine ou animale, les ateliers d'équarrissage et les
-dépôts de cadavres d'animaux.
+Un décret détermine, en tant que de besoin, les conditions d'application des articles 258, 259 et 260, notamment en ce qui
+concerne les établissements et fabriques où sont préparées les conserves et denrées d'origine animale destinées à la
+consommation humaine ou animale, les ateliers d'équarrissage et les dépôts de cadavres d'animaux.
 
-Le règlement définira, sans préjudice, le cas échéant, des prescriptions des règlements sanitaires départementaux, les
+Le décret définira, sans préjudice, le cas échéant, des prescriptions des règlements sanitaires départementaux, les
 conditions d'hygiène et de salubrité que devront observer les personnes assujetties auxdites inspections et surveillances et
 les modalités de celles-ci. Il pourra, toutefois, pour les modalités de ces conditions, renvoyer à des arrêtés
 interministériels.
-
-Ce même règlement peut décider que les établissements dans lesquels des animaux sont abattus, des denrées d'origine animale
-préparées ou entreposées, devront être agréés pour certaines exportations.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 258, 259
+  - Code rural 258, 259, 260
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Anciens textes_:
-
-  - Loi n°1933-07-07 art. 14
-
 _Modifié par_:
 
-  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
+  - Loi n°94-114 du 10 février 1994 - art. 6 () JORF 11 février 1994
 
 
 ###### Article 263
@@ -3639,7 +3452,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : De l'équarrissage des animaux.<a id=27></a>
+### Chapitre II : De l'équarrissage des animaux.<a id=26></a>
 
 ###### Article 264
 
@@ -3947,7 +3760,338 @@ _Abrogé par_:
   - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
 
 
-## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=28></a>
+## Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale<a id=27></a>
+
+### Chapitre Ier : Dispositions générales.<a id=28></a>
+
+###### Article 275-1
+
+Pour être introduits sur le territoire métropolitain et dans les départements d'outre-mer, les animaux vivants et leurs
+produits, ainsi que les denrées animales ou d'origine animale, doivent répondre aux conditions sanitaires ou ayant trait à la
+protection des animaux fixées par le ministre chargé de l'agriculture.
+
+Lorsque leur introduction est susceptible de constituer un danger grave pour la santé humaine ou animale, le ministre chargé
+de l'agriculture prend les mesures préventives nécessaires à l'égard des marchandises mentionnées à l'alinéa précédent et
+peut imposer un agrément aux personnes physiques et aux établissements destinataires de ces mêmes marchandises.
+
+Il peut également exiger que soient soumis à un agrément les personnes physiques et les établissements en provenance desquels
+viennent ces mêmes marchandises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+
+###### Article 275-2
+
+Pour être destinées aux échanges ou exportées, les marchandises visées au premier alinéa de l'article 275-1 doivent répondre
+aux conditions sanitaires ou ayant trait à la protection des animaux fixées par le ministre chargé de l'agriculture ; ces
+conditions peuvent comprendre un agrément de l'exploitation, du centre de regroupement, de l'établissement ou de la personne
+physique concernée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275-1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+
+###### Article 275-3
+
+Le ministre chargé de l'agriculture peut prendre des mesures particulières complémentaires ou dérogatoires aux dispositions
+prévues aux chapitres Ier, II et III du présent titre, au titre des importations dans les départements d'outre-mer ou des
+échanges en provenance ou à destination de ces départements, ou entre eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre II : Des importations.<a id=29></a>
+
+###### Article 275-4
+
+Lorsqu'ils sont originaires ou en provenance de pays non membres de la Communauté européenne, les animaux vivants et leurs
+produits, dont la liste est arrêtée par le ministre chargé de l'agriculture, ainsi que les denrées animales ou d'origine
+animale sont soumis, aux frais des importateurs et au moment de leur entrée sur le territoire métropolitain ou dans les
+départements d'outre-mer, à un contrôle vétérinaire qui doit être effectué dans l'un des postes d'inspection frontaliers dont
+la liste est fixée par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé des douanes et dont les
+moyens en personnel, en locaux et en installations sont déterminés par arrêté du ministre chargé de l'agriculture.
+
+Ces contrôles, dont les modalités sont fixées par le ministre chargé de l'agriculture, sont exécutés par les agents
+mentionnés aux articles 215-1, 215-2, 259, 283-1 et 283-2. Les marchandises qui ont subi un contrôle favorable dans un poste
+d'inspection frontalier habilité d'un autre Etat membre de la Communauté européenne font éventuellement l'objet des contrôles
+prévus en application de l'article 275-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 215-1, 215-2, 259, 275-5, 283-1, 283-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+
+### Chapitre III : Des échanges intracommunautaires.<a id=30></a>
+
+###### Article 275-5
+
+Des contrôles vétérinaires exécutés par les agents mentionnés aux articles 215-1, 215-2, 283-1 et 283-2 peuvent être
+appliqués aux animaux vivants et à leurs produits, ainsi qu'aux denrées animales ou d'origine animale, introduits sur le
+territoire métropolitain ou dans les départements d'outre-mer et ayant le statut de marchandises communautaires, dès lors
+qu'ils sont effectués à destination, dans des conditions fixées par le ministre chargé de l'agriculture.
+
+En cas de manquement grave ou répété aux dispositions prévues à l'article 275-1 de la part d'une entreprise expéditrice ou
+destinataire ou de toute autre personne qui participe à l'opération d'échange, les contrôles peuvent comporter la mise en
+quarantaine des animaux vivants ou la consigne des produits et denrées animales ou d'origine animale, dans des conditions
+fixées par arrêté du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 215-1, 215-2, 283-1, 283-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+
+###### Article 275-6
+
+Au titre des dispositions dérogatoires de l'article 2 bis du code des douanes, les agents des douanes peuvent, dans les
+conditions prévues aux articles 60, 61, 65 et 410 du même code, effectuer des contrôles documentaires et vérifier par simple
+inspection visuelle la concordance entre les documents ou certificats et les marchandises mentionnées à l'article 275-5 du
+présent code ainsi que la présence des estampilles et marques qui doivent figurer sur les marchandises.
+
+Ils sont habilités à constater les infractions aux obligations documentaires ainsi que les infractions au présent article.
+
+En outre, ils peuvent consigner les marchandises mentionnées au premier alinéa de l'article 275-5 ainsi que leurs moyens de
+transport, dans les conditions fixées à l'article 322 bis du code des douanes, dans l'attente de l'inspection vétérinaire
+effectuée par les agents chargés des contrôles prévus à l'article 275-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 2 bis (V)
+  - Code des douanes - art. 322 bis (M)
+  - Code des douanes - art. 410 (M)
+  - Code des douanes - art. 60 (V)
+  - Code des douanes - art. 61 (V)
+  - Code des douanes - art. 65 (M)
+  - Code rural 275-5
+
+
+###### Article 275-7
+
+Lorsque des marchandises communautaires mentionnées à l'article 275-5 sont introduites, à l'occasion d'échanges
+intracommunautaires, sur le territoire métropolitain ou dans les départements d'outre-mer par des postes d'inspection
+frontaliers, leur détenteur doit présenter au service des douanes les documents relatifs à ces marchandises. Des contrôles
+documentaires sont réalisés par les agents des douanes afin de déterminer leur origine et leur statut. Les infractions au
+présent alinéa sont constatées par les agents des douanes et sanctionnées conformément à l'article 410 du code des douanes.
+
+Cette mesure ne s'applique pas aux animaux vivants ou à leurs produits, ainsi qu'aux denrées animales ou d'origine animale,
+transportés par des moyens de transport reliant de manière régulière et directe deux points géographiques de la Communauté
+européenne.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275-5
+  - Code des douanes - art. 410 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+
+###### Article 275-8
+
+Les établissements et les personnes qui participent ou procèdent aux échanges intracommunataires des marchandises mentionnées
+à l'article 275-5 peuvent être soumis à un enregistrement préalable auprès des services vétérinaires départementaux et à la
+tenue d'un registre sur lequel sont mentionnées les livraisons, leur origine ou leur destination. Ces établissements ou ces
+opérateurs doivent être en mesure de présenter, à la demande des agents chargés des contrôles prévus à l'article 275-5, tous
+certificats sanitaires, certificats de salubrité ou autres documents attestant de la provenance ou de l'origine des animaux
+vivants, produits ou denrées animales ou d'origine animale.
+
+Le ministre chargé de l'agriculture fixe par arrêté les catégories d'établissements et d'opérateurs soumis à ces obligations.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275-5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre IV : Dispositions diverses.<a id=31></a>
+
+###### Article 275-9
+
+Lorsque les animaux vivants ou leurs produits, les denrées animales ou d'origine animale ne répondent pas aux conditions
+fixées en application de l'article 275-1, les agents chargés des contrôles prévus aux articles 275-1 à 275-5 et 275-8 peuvent
+prescrire :
+
+- la mise en quarantaine des animaux, leur abattage, la consigne des produits, la destruction ou la réexpédition des animaux
+ou de leurs produits ;
+
+- la consigne, la saisie et la destruction des denrées ou leur utilisation à d'autres fins, y compris leur réexpédition ;
+
+- l'immobilisation et la désinfection des moyens de transport.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275-1 à 275-5, 275-8
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+
+###### Article 275-10
+
+Les frais induits par les mesures prises en application de l'article 275-9, y compris les frais de transport, d'enfouissement
+ou de désinfection, sont à la charge du propriétaire, du destinataire, de l'importateur, de l'exportateur ou, à défaut, de
+toute autre personne qui participe à l'opération d'importation ou d'échange ; ces mesures ne donnent lieu à aucune indemnité.
+
+En cas de refus de se conformer aux injonctions de l'autorité administrative, il y est pourvu d'office à leur compte.
+
+Les frais de ces opérations sont recouvrés sur un état dressé par le préfet.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275-9
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 275-11
+
+Il n'est alloué aucune indemnité aux propriétaires d'animaux abattus pour cause de péripneumonie contagieuse dans les trois
+mois qui ont suivi leur introduction en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 275-12
+
+Des décrets en Conseil d'Etat fixent, en tant que de besoin, les conditions d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=32></a>
 
 ###### Article 276
 
@@ -4402,22 +4546,29 @@ captivité, à l'exclusion des habitations privées ;
 transportés des animaux et à y pénétrer, sauf si ces véhicules ne sont pas utilisés à des fins professionnelles au moment du
 contrôle.
 
-Si la visite des véhicules a lieu entre le coucher et le lever du soleil, ces fonctionnaires et agents doivent être
-accompagnés par un officier ou agent de police judiciaire.
+Si la visite des véhicules a lieu entre le coucher et le lever du soleil dans tout autre lieu qu'un des postes d'inspection
+frontaliers mentionnés à l'article 275-4, ces fonctionnaires et agents doivent être accompagnés par un officier ou agent de
+police judiciaire ;
+
+3° A procéder ou à faire procéder, de jour comme de nuit, à l'abattage, au refoulement ou au déchargement immédiat, à
+l'hébergement, à l'abreuvement, à l'alimentation et au repos des animaux lors des contrôles effectués dans les postes
+d'inspection frontaliers mentionnés à l'article 275-4. Les frais induits par ces mesures, qui ne peuvent donner lieu à aucune
+indemnité, sont à la charge du propriétaire, du destinataire, de l'importateur, de l'exportateur ou, à défaut, de toute autre
+personne qui participe à l'opération d'importation ou d'échange.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 276 à 283, 283-1, 283-2
+  - Code rural 275-4, 276 à 283, 283-1, 283-2
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°82-373 1982-05-06 art. 4 JORF 7 mai 1982
+  - Loi n°94-114 du 10 février 1994 - art. 8 () JORF 11 février 1994
 
 
 ###### Article 283-6
@@ -4446,7 +4597,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=29></a>
+## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=33></a>
 
 ###### Article 284
 
@@ -4831,9 +4982,9 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VII : De la production des animaux domestiques<a id=30></a>
+## Titre VII : De la production des animaux domestiques<a id=34></a>
 
-### Chapitre II : De l'insémination artificielle.<a id=31></a>
+### Chapitre II : De l'insémination artificielle.<a id=35></a>
 
 ###### Article 308
 
@@ -4863,7 +5014,7 @@ _Abrogé par_:
   - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
-## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=32></a>
+## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=36></a>
 
 ###### Article 309
 
@@ -5579,7 +5730,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre IX : Des pénalités.<a id=33></a>
+## Titre IX : Des pénalités.<a id=37></a>
 
 ###### Article 325
 
@@ -5910,6 +6061,50 @@ _Créé par_:
   - Loi n°91-639 du 10 juillet 1991 - art. 10 () JORF 12 juillet 1991
 
 
+###### Article 337
+
+Est puni d'une peine d'emprisonnement de deux mois à deux ans et d'une amende de de 10 000 F à 100 000 F ou de l'une de ces
+deux peines seulement :
+
+a) Le fait d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer des animaux vivants ou leurs
+produits, des denrées animales ou d'origine animale ne répondant pas aux conditions sanitaires ou ayant trait à la protection
+des animaux prévues à l'article 275-1 ;
+
+b) Le fait de destiner aux échanges intracommunautaires ou à l'exportation des animaux vivants ou leurs produits, des denrées
+animales ou d'origine animale ne répondant pas aux conditions sanitaires ou ayant trait à la protection des animaux prévues à
+l'article 275-2 ;
+
+c) Le fait d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer, lorsqu'ils sont originaires ou
+en provenance de pays non membres de la Communauté européenne, des animaux vivants ou leurs produits, des denrées animales ou
+d'origine animale n'ayant pas subi le contrôle vétérinaire prévu à l'article 275-4 ;
+
+d) Le fait de procéder à des échanges intracommunautaires d'animaux vivants ou de leurs produits, de denrées animales ou
+d'origine animale sans être en mesure de présenter aux agents chargés des contrôles prévus à l'article 275-5 les registres,
+certificats ou documents prévus à l'article 275-8 ;
+
+e) Le fait de ne pas respecter les prescriptions édictées en application de l'article 275-9.
+
+Sont punies d'une peine d'emprisonnement de un an à cinq ans et d'une amende de 100 000 F à 500 000 F ou de l'une de ces deux
+peines seulement les infractions définies aux précédents alinéas lorsqu'elles ont entraîné des atteintes graves pour la santé
+humaine ou animale.
+
+Le tribunal peut ordonner l'affichage ou la diffusion de la décision prononcée dans les conditions prévues par le code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275-1, 275-2, 275-4, 275-5, 275-8, 275-9
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 10 () JORF 11 février 1994
+
+
 ###### Article 339
 
 Quiconque aura transporté, remis, à titre gratuit ou onéreux, de la semence d'animaux domestiques ou aura sciemment procédé à
@@ -6044,7 +6239,7 @@ _Modifié par_:
   - Loi n°89-412 du 22 juin 1989 - art. 35 () JORF 24 juin 1989
 
 
-## Titre X : De la protection des végétaux.<a id=34></a>
+## Titre X : De la protection des végétaux.<a id=38></a>
 
 ###### Article 342
 
@@ -6080,7 +6275,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=35></a>
+### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=39></a>
 
 ###### Article 343
 
@@ -6218,7 +6413,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : Mesures de défense contre les organismes nuisibles.<a id=36></a>
+### Chapitre II : Mesures de défense contre les organismes nuisibles.<a id=40></a>
 
 ###### Article 348
 
@@ -6401,7 +6596,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=37></a>
+### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=41></a>
 
 ###### Article 356
 
@@ -6582,7 +6777,7 @@ _Modifié par_:
   - Loi n°92-1477 du 31 décembre 1992 - art. 33 () JORF 5 janvier 1993
 
 
-### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=38></a>
+### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=42></a>
 
 ###### Article 360
 
@@ -6651,7 +6846,7 @@ _Modifié par_:
   - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
-### Chapitre V : Sanctions et dispositions diverses.<a id=39></a>
+### Chapitre V : Sanctions et dispositions diverses.<a id=43></a>
 
 ###### Article 363
 
@@ -6716,7 +6911,7 @@ _Cite_:
   - Loi n°1905-08-01
 
 
-## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.<a id=40></a>
+## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.<a id=44></a>
 
 ###### Article 364-1
 
@@ -6745,7 +6940,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 1 : De la garde des animaux domestiques.<a id=41></a>
+### Section 1 : De la garde des animaux domestiques.<a id=45></a>
 
 ###### Article 364-2
 
@@ -6771,7 +6966,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 2 : De la lutte contre les maladies des animaux.<a id=42></a>
+### Section 2 : De la lutte contre les maladies des animaux.<a id=46></a>
 
 ###### Article 364-3
 
@@ -7009,7 +7204,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 3 : Du contrôle sanitaire des animaux et des viandes.<a id=43></a>
+### Section 3 : Du contrôle sanitaire des animaux et des viandes.<a id=47></a>
 
 ###### Article 364-12
 
@@ -7157,7 +7352,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 4 : De l'insémination artificielle.<a id=44></a>
+### Section 4 : De l'insémination artificielle.<a id=48></a>
 
 ###### Article 364-17
 
@@ -7190,7 +7385,7 @@ _Abrogé par_:
   - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
-### Section 5 : Des pénalités.<a id=45></a>
+### Section 5 : Des pénalités.<a id=49></a>
 
 ###### Article 364-18
 
@@ -7220,7 +7415,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 6 : De la protection des végétaux.<a id=46></a>
+### Section 6 : De la protection des végétaux.<a id=50></a>
 
 ###### Article 364-19
 
@@ -7325,7 +7520,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 7 : Dispositions communes.<a id=47></a>
+### Section 7 : Dispositions communes.<a id=51></a>
 
 ###### Article 364-23
 
@@ -7360,11 +7555,11 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=48></a>
+# Livre IV : Institutions et groupements professionnels agricoles<a id=52></a>
 
-## Titre Ier : Chambres d'agriculture<a id=49></a>
+## Titre Ier : Chambres d'agriculture<a id=53></a>
 
-### Chapitre IV : Dispositions financières et d'application.<a id=50></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=54></a>
 
 ###### Article 545-2
 
@@ -7383,9 +7578,9 @@ _Modifié par_:
   - Décret n°81-276 du 18 mars 1981 (V) art 1
 
 
-## Titre II : Coopératives agricoles<a id=51></a>
+## Titre II : Coopératives agricoles<a id=55></a>
 
-### Chapitre unique : Sanctions pénales.<a id=52></a>
+### Chapitre unique : Sanctions pénales.<a id=56></a>
 
 ###### Article 551
 
@@ -7414,7 +7609,7 @@ _Abrogé par_:
   - Rapport - art. 7 (V) JORF 22 juin 2000
 
 
-# Livre V : Crédit agricole<a id=53></a>
+# Livre V : Crédit agricole<a id=57></a>
 
 ###### Article 614
 
@@ -7449,9 +7644,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-20 (M)
 
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=54></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=58></a>
 
-### Chapitre Ier : Organisation.<a id=55></a>
+### Chapitre Ier : Organisation.<a id=59></a>
 
 ###### Article 615
 
@@ -7928,7 +8123,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=56></a>
+### Chapitre II : Fonctionnement.<a id=60></a>
 
 ###### Article 632
 
@@ -8235,7 +8430,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-43 (M)
 
 
-### Chapitre III : Ressources.<a id=57></a>
+### Chapitre III : Ressources.<a id=61></a>
 
 ###### Article 645
 
@@ -8363,9 +8558,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=58></a>
+### Chapitre IV : Opérations de crédit<a id=62></a>
 
-#### Section 1 : Crédit à court terme.<a id=59></a>
+#### Section 1 : Crédit à court terme.<a id=63></a>
 
 ###### Article 653
 
@@ -8576,9 +8771,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=60></a>
+#### Section 2 : Crédit à moyen terme<a id=64></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=61></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=65></a>
 
 ###### Article 666
 
@@ -8671,7 +8866,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=62></a>
+##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=66></a>
 
 ###### Article 674-1
 
@@ -8700,7 +8895,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=63></a>
+##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=67></a>
 
 ###### Article 676
 
@@ -8857,7 +9052,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=64></a>
+#### Section 3 : Crédit à long terme individuel.<a id=68></a>
 
 ###### Article 686
 
@@ -9111,7 +9306,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=65></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=69></a>
 
 ###### Article 697
 
@@ -9144,7 +9339,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=66></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=70></a>
 
 ###### Article 704
 
@@ -9190,9 +9385,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=67></a>
+## Titre II : Caisse nationale de crédit agricole<a id=71></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=68></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=72></a>
 
 ###### Article 711
 
@@ -9218,7 +9413,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-47 (M)
 
 
-### Chapitre II : Ressources.<a id=69></a>
+### Chapitre II : Ressources.<a id=73></a>
 
 ###### Article 717
 
@@ -9339,7 +9534,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=70></a>
+### Chapitre III : Opérations de crédit.<a id=74></a>
 
 ###### Article 723
 
@@ -9658,7 +9853,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=71></a>
+## Titre III : Inspection et contrôle.<a id=75></a>
 
 ###### Article 737
 
@@ -9846,9 +10041,9 @@ _Cité par_:
   - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
-## Titre IV : Dispositions diverses<a id=72></a>
+## Titre IV : Dispositions diverses<a id=76></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=73></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=77></a>
 
 ###### Article 745
 
@@ -9902,7 +10097,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=74></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=78></a>
 
 ###### Article 747
 
@@ -9984,9 +10179,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=75></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=79></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=76></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=80></a>
 
 ###### Article 752
 
@@ -10092,7 +10287,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=77></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=81></a>
 
 ###### Article 757
 
@@ -10196,7 +10391,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=78></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=82></a>
 
 ###### Article 763
 
@@ -10326,7 +10521,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=79></a>
+#### Section 4 : Dispositions communes.<a id=83></a>
 
 ###### Article 770
 
@@ -10375,7 +10570,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=80></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=84></a>
 
 ###### Article 773
 
@@ -10404,7 +10599,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=81></a>
+### Chapitre V : Domaine - Retraite.<a id=85></a>
 
 ###### Article 774
 
@@ -10708,7 +10903,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=82></a>
+### Chapitre VI : Dispositions d'application.<a id=86></a>
 
 ###### Article 788
 
@@ -10740,11 +10935,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=83></a>
+# Livre VII : Dispositions sociales<a id=87></a>
 
-## Titre Ier : Régime du travail<a id=84></a>
+## Titre Ier : Régime du travail<a id=88></a>
 
-### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=85></a>
+### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=89></a>
 
 ###### Article 983
 
@@ -10989,7 +11184,7 @@ _Abrogé par_:
   - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=86></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=90></a>
 
 ###### Article 992
 
@@ -11540,7 +11735,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Médecine du travail.<a id=87></a>
+### Chapitre III : Médecine du travail.<a id=91></a>
 
 ###### Article 1000-1
 
@@ -11702,76 +11897,48 @@ _Créé par_:
   - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
 
 
-## Titre II : Mutualité sociale agricole<a id=88></a>
+## Titre II : Mutualité sociale agricole<a id=92></a>
 
 ###### Article 1001
 
 Le politique sociale agricole relève du ministre de l'agriculture.
 
-Elle est mise en oeuvre notamment par la caisse centrale de secours mutuels agricoles et par les caisses départementales ou
-pluridépartementales.
+Elle est mise en oeuvre notamment par la caisse centrale de la mutualité sociale agricole et par les caisses départementales
+ou pluridépartementales.
 
 **Liens relatifs à cet article**
 
 _Nouveaux textes_:
 
+  - Code rural L721-1
   - Code rural - art. L721-1 (V)
-
-_Anciens textes_:
-
-  - Décret n°1938-05-31 art. 1 al. 1
-  - Loi n°1941-04-05 art. 1
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1002
 
-Dans leurs circonscriptions respectives départementales ou pluri-départementales, les caisses mutuelles d'assurances sociales
-agricoles, les caisses mutuelles d'allocations familiales agricoles et les caisses mutuelles d'assurance vieillesse agricoles
-sont fusionnées dans des organismes uniques qui prennent la dénomination de caisse de mutualité sociale agricole.
+Les caisses de mutualité sociale agricole sont dotées de la personnalité morale et régies par l'article 1235 du présent code.
 
-Les caisses de mutualité sociale agricole sont dotées de la personnalité civile et régies par les articles 1235 du code rural
-et 1045 du code général des impôts. Elles sont chargées de la gestion des services antérieurement confiés aux caisses
-mutuelles d'allocations familiales agricoles et aux caisses mutuelles d'assurance vieillesse agricoles. Dans cette gestion,
-il ne pourra être apporté aucune modification à l'affectation définitive des ressources attribuées à chacun des régimes
-précédemment gérés par ces caisses.
+Les caisses de mutualité sociale agricole sont départementales ou pluridépartementales. Elles sont chargées de la gestion des
+régimes obligatoires de protection sociale des salariés et non-salariés agricoles. Elles peuvent être autorisées à gérer des
+régimes complémentaires d'assurance maladie, maternité, invalidité et de vieillesse pour les personnes non salariées des
+professions agricoles, dans des conditions fixées par décret en Conseil d'Etat.
 
-Les statuts et règlements intérieurs des caisses de mutualité sociale agricole sont approuvés par le ministre chargé de
-l'agriculture, après avis du conseil central d'administration de la mutualité sociale agricole. Le ministre peut déléguer ce
-pouvoir au commissaire de la République pour la région.
-
-Les caisses de mutualité sociale agricole comprennent un service de recouvrement, contrôle et contentieux et des sections
-dont les opérations font l'objet de comptabilités distinctes dans des conditions fixées par décret pris sur le rapport du
-ministre de l'agriculture et du ministre de l'économie et des finances.
-
-Les caisses comprennent obligatoirement les sections suivantes :
-
-a) Assurances sociales obligatoires ;
-
-b) Prestations familiales ;
-
-c) Assurance vieillesse agricole.
-
-Les caisses de mutualité sociale agricole peuvent, en outre, créer, une section d'action sanitaire et sociale et, après
-autorisation du ministre de l'agriculture, toute section dont la création paraîtrait nécessaire.
-
-Le service du recouvrement, contrôle et contentieux est notamment chargé de la liquidation et du recouvrement des cotisations
-dues par les professionnels de l'agriculture. Il en met le produit à la disposition des sections intéressées. Les caisses de
-mutualité sociale agricole peuvent, sous leur responsabilité, créer des échelons locaux.
+Les statuts et règlements intérieurs des caisses de mutualité sociale agricole sont approuvés par l'autorité administrative.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1045
-  - Code rural 1235
 
 _Codifié par_:
 
@@ -11779,7 +11946,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-192 du 11 février 1985 - art. 14 (Ab) JORF 12 février 1985
+  - Loi n°94-114 du 10 février 1994 - art. 20 () JORF 11 février 1994
 
 _Cité par_:
 
@@ -11791,15 +11958,97 @@ _Nouveaux textes_:
   - Code rural - art. L723-1 (V)
   - Code rural - art. L723-2 (M)
 
+_Cite_:
 
-###### Article 1003
+  - Code rural 1235
 
-Les caisses de mutualité sociale agricole, la caisse centrale de secours mutuels agricoles, la caisse centrale d'allocations
-familiales agricoles sont administrées par les conseils d'administration de la mutualité sociale agricole élus par les
-assemblées générales de la mutualité sociale agricole, élues elles-mêmes dans les conditions fixées au présent titre et au
-titre IV.
 
-Un arrêté du ministre de l'agriculture fixe les modalités d'application desdits titres.
+###### Article 1002-1
+
+Les caisses de mutualité sociale agricole comprennent un service du recouvrement, contrôle et contentieux et des sections
+dont les opérations font l'objet de comptabilités distinctes dans des conditions fixées par décret.
+
+Le service du recouvrement, contrôle et contentieux est notamment chargé du calcul et du recouvrement des cotisations dues
+par les ressortissants des régimes obligatoires de protection sociale agricole. Il en met le produit à la disposition des
+sections intéressées.
+
+Les caisses comprennent obligatoirement les sections suivantes :
+
+a) Assurances sociales des salariés ;
+
+b) Prestations familiales ;
+
+c) Assurance vieillesse et assurance veuvage des non-salariés ;
+
+d) Assurance maladie, invalidité et maternité des non-salariés ;
+
+e) Assurance contre les accidents du travail et les maladies professionnelles des salariés ;
+
+f) Action sanitaire et sociale ;
+
+g) Le cas échéant, des sections assurances complémentaires facultatives maladie, invalidité et maternité et assurance
+vieillesse des non-salariés agricoles.
+
+Les caisses de mutualité sociale agricole peuvent créer toute autre section qui s'avérerait nécessaire après autorisation de
+l'autorité administrative.
+
+Elles peuvent également, sous leur responsabilité, créer des échelons locaux.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L723-3 (M)
+  - Code rural L723-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1002-2
+
+En cas de fusion de plusieurs caisses de mutualité sociale agricole, la circonscription de la nouvelle caisse ainsi créée est
+constituée par l'ensemble des circonscriptions des caisses fusionnées. Les modalités selon lesquelles sont attribués les
+biens, droits et obligations des caisses intéressées par la fusion sont fixées par décret. Les opérations entraînées par ce
+transfert, qui n'apporte aucune modification à l'affectation définitive des ressources attribuées à chacun des régimes
+précédemment gérés par lesdites caisses, bénéficient de l'exonération prévue par l'article 1069 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1069
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
+
+_Nouveaux textes_:
+
+  - Code rural - art. L723-4 (V)
+
+
+###### Article 1002-3
+
+Les caisses de mutualité sociale agricole peuvent, en vue de créer des services d'intérêt commun, se regrouper sous forme
+d'associations à but non lucratif régies par la loi du 1er juillet 1901 ou de groupements d'intérêt économique.
+
+Les statuts et règlements intérieurs de ces groupements ou associations sont approuvés dans les mêmes conditions que ceux des
+caisses qui les ont créés. Les modalités de leur fonctionnement sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11807,13 +12056,112 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
+
 _Nouveaux textes_:
 
+  - Code rural - art. L723-5 (V)
+
+_Cite_:
+
+  - Loi n°1901-07-01
+
+
+###### Article 1002-4
+
+I. - La caisse centrale d'allocations familiales mutuelles agricoles, la caisse nationale d'assurance vieillesse mutuelle
+agricole et la caisse centrale de secours mutuels agricoles sont fusionnées à compter du 1er janvier 1994 en un organisme
+unique qui prend la dénomination de caisse centrale de la mutualité sociale agricole.
+
+Les opérations entraînées par ce transfert, qui n'apporte aucune modification à l'affectation définitive des ressources
+attribuées à chacun des régimes précédemment gérés par lesdites caisses, bénéficient de l'exonération prévue par l'article
+1069 du code général des impôts.
+
+II. - La caisse centrale de la mutualité sociale agricole a pour missions :
+
+a) De représenter la mutualité sociale agricole auprès des pouvoirs publics ;
+
+b) De participer à toutes opérations de nature à faciliter l'exercice par les caisses de mutualité sociale agricole de leurs
+attributions, notamment :
+
+- en apportant aux caisses l'information et la documentation relatives à l'application de la législation sociale agricole,
+
+- en mettant en oeuvre des traitements automatisés permettant d'identifier sur le plan national les bénéficiaires des régimes
+de protection sociale agricole et de centraliser les informations nécessaires à la détermination des prestations dues aux
+assurés ;
+
+c) D'assurer la gestion de risques ou de fonds dans les cas prévus par la législation ;
+
+d) De gérer les opérations de compensation en matière de gestion, d'action sanitaire et sociale et de contrôle médical des
+caisses de mutualité sociale agricole ;
+
+e) De procéder aux répartitions des recettes et compensations de charges dans les conditions prévues par décret ;
+
+f) De promouvoir et animer l'action sanitaire et sociale ;
+
+g) De promouvoir la prévention des accidents du travail des salariés agricoles.
+
+III. - La caisse centrale de la mutualité sociale agricole contribue à la mise en oeuvre de la politique sociale agricole. A
+cette fin, elle communique au ministre chargé de l'agriculture des statistiques et lui soumet des propositions.
+
+Elle est soumise aux dispositions applicables, en matière de gestion comptable et financière, aux caisses départementales et
+pluridépartementales de mutualité sociale agricole.
+
+Les statuts de la caisse centrale de la mutualité sociale agricole sont approuvés par le ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1069
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 21 () JORF 11 février 1994
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L152-1 (V)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L723-11 (M)
+  - Code rural - art. L723-12 (M)
+
+
+###### Article 1003
+
+Les caisses de mutualité sociale agricole, la caisse centrale de la mutualité sociale agricole sont administrées par les
+conseils d'administration de la mutualité sociale agricole élus par les assemblées générales de la mutualité sociale
+agricole, élues elles-mêmes dans les conditions fixées au présent titre et au titre IV.
+
+Un arrêté du ministre de l'agriculture fixe les modalités d'application desdits titres.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L723-14
   - Code rural - art. L723-14 (V)
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Loi n°1949-06-08 art. 2, art. 32
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1003-1
@@ -11851,24 +12199,28 @@ familiales agricoles et des organismes visés aux chapitres II et IV du présent
 agricoles et à l'assurance vieillesse des personnes non salariées.
 
 Les avances accordées par le Trésor au fonds national de solidarité agricole, au budget annexe des prestations familiales
-agricoles, à la caisse centrale de secours mutuels agricoles et à la caisse nationale d'assurance vieillesse agricole, ainsi
-que celles qui pourraient éventuellement être accordées au budget annexe des prestations sociales agricoles, sont inscrites à
-un compte hors budget dont les conditions de fonctionnement sont fixées par arrêté du ministre de l'agriculture et du
-ministre de l'économie et des finances.
+agricoles, à la caisse centrale de la mutualité sociale agricole, ainsi que celles qui pourraient éventuellement être
+accordées au budget annexe des prestations sociales agricoles, sont inscrites à un compte hors budget dont les conditions de
+fonctionnement sont fixées par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L731-2
+  - Code rural - art. L731-2 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L731-2 (M)
+  - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
 ###### Article 1003-3
@@ -11961,8 +12313,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°93-936 1993-07-22 art. 11 I, II JORF 23 juillet 1993
-  - Loi n°93-936 du 22 juillet 1993 - art. 11 () JORF 23 juillet 1993
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -12101,9 +12452,10 @@ prestations sociales agricoles.
 
 IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et d'assurance maladie dues par les chefs
 d'exploitation ou d'entreprise mentionnés à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis
-par décret.
+par décret. En ce qui concerne les cotisations d'assurance maladie, ces minima peuvent être modulés pour tenir compte de
+l'importance de l'exploitation ou de l'entreprise.
 
-V. - Bénéficient d'une exonération totale des cotisations à l'assurance maladie des exploitants agricoles (Amexa), les
+V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie des exploitants agricoles (Amexa), les
 titulaires de la retraite de vieillesse agricole et les titulaires de la retraite forfaitaire accordée en vertu de l'article
 1122-1 du présent code, percevant l'allocation supplémentaire prévue au livre IX du code de la sécurité sociale, lorsqu'ils
 ont cessé toute activité professionnelle ou exploitent moins de trois hectares, sous réserve des coefficients d'équivalence
@@ -12137,8 +12489,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°91-1407 1991-12-31 art. 5 I, II JORF 4 janvier 1992 en vigueur le 1er janvier 1992
-  - Loi n°91-1407 du 31 décembre 1991 - art. 5 () JORF 4 janvier 1992 en vigueur le 1er janvier 1992
+  - Loi n°94-114 du 10 février 1994 - art. 32 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -12333,8 +12684,11 @@ bénéfices non commerciaux ;
 au sens de l'article 1060, troisième (2°) à sixième (5°) alinéa, du code rural et soumises à l'impôt sur le revenu dans la
 catégorie visée à l'article 62 du code général des impôts.
 
-II. - Les revenus professionnels pris en compte sont constitués par la moyenne des revenus se rapportant aux trois années
-antérieures à l'année précédant celle au titre de laquelle les cotisations sont dues.
+II. - Pour les chefs d'exploitation ou d'entreprise agricoles soumis à un régime forfaitaire d'imposition, les revenus
+professionnels pris en compte sont constitués par la moyenne des revenus se rapportant aux trois années antérieures à l'année
+précédant celle au titre de laquelle les cotisations sont dues. Pour les chefs d'exploitation ou d'entreprise agricoles
+soumis à un régime réel ou transitoire d'imposition, les revenus professionnels pris en compte sont constitués par la moyenne
+des revenus se rapportant aux trois années antérieures à celle au titre de laquelle les cotisations sont dues.
 
 Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu ou, le cas échéant,
 de leur somme.
@@ -12343,8 +12697,6 @@ Il n'est pas tenu compte des reports déficitaires, des plus-values et moins-val
 modalités d'assiette qui résultent d'une option du contribuable. Ils sont majorés des déductions et abattements qui ne
 correspondent pas à des dépenses nécessitées par l'exercice de la profession, à l'exception de la déduction opérée en
 application de l'article 72 D du code général des impôts.
-
-Pour le calcul de la moyenne des revenus, les déficits sont retenus pour un montant nul.
 
 III. - L'assiette des cotisations est déterminée forfaitairement dans les conditions fixées par décret :
 
@@ -12364,14 +12716,12 @@ d'entreprise et dirigeant des exploitations ou entreprises distinctes n'ont pas 
 montant total des revenus est réparti entre eux en fonction de l'importance respective de leur exploitation ou de leur
 entreprise dans des conditions définies par décret.
 
-V. - A titre transitoire, les cotisations dues au titre de l'année 1990 seront calculées sur la base des revenus de l'année
-1988 et les cotisations dues au titre de l'année 1991 seront calculées sur la base de la moyenne des revenus des années 1988
-et 1989.
+V. (paragraphe abrogé).
 
 VI. - Par dérogation aux dispositions du premier alinéa du II du présent article, les chefs d'exploitation ou d'entreprise
-agricole peuvent, dans des conditions fixées par décret, opter pour une assiette de cotisations constituée de leurs revenus
-professionnels tels que définis au présent article et afférents à l'année précédant celle au titre de laquelle les
-cotisations sont dues.
+agricole soumis à un régime forfaitaire d'imposition peuvent, dans des conditions fixées par décret, opter pour une assiette
+de cotisations constituée de leurs revenus professionnels tels que définis au présent article et afférents à l'année
+précédant celle au titre de laquelle les cotisations sont dues.
 
 Au cours de la première année où ladite option prend effet, l'assiette des cotisations est constituée par la moyenne des
 revenus professionnels tels que définis au présent article et afférents aux deux années précédant celle au titre de laquelle
@@ -12382,27 +12732,45 @@ membres non salariés des professions agricoles.
 L'assiette des cotisations est déterminée forfaitairement dans des conditions fixées par décret lorsque la durée de
 l'assujettissement ne permet pas de calculer les revenus professionnels servant de base aux cotisations.
 
+Par dérogation aux dispositions du premier alinéa du II ou du 1° du III du présent article, les chefs d'exploitation ou
+d'entreprise agricoles soumis à un régime réel ou transitoire d'imposition peuvent, dans des conditions fixées par décret,
+opter pour une assiette de cotisations constituée de leurs revenus professionnels tels que définis au présent article et
+afférents à l'année au titre de laquelle les cotisations sont dues.
+
+Les cotisations sont calculées, chaque année, à titre provisionnel, en pourcentage du revenu professionnel de l'année
+précédente ; pour les chefs d'exploitation ou d'entreprise agricoles qui ont effectué l'option mentionnée à l'alinéa
+précédent lors de leur affiliation au régime de protection sociale des membres non salariés des professions agricoles ou
+lorsque la durée d'assujettissement ne permet pas de déterminer ledit revenu professionnel, les cotisations sont calculées à
+titre provisionnel sur la base d'une assiette fixée forfaitairement dans des conditions déterminées par décret. Lorsque le
+revenu professionnel est définitivement connu, la cotisation fait l'objet d'une régularisation.
+
+Par dérogation au précédent alinéa, les cotisations peuvent être calculées à titre provisionnel sur la base d'une assiette
+forfaitaire dès lors que les éléments d'appréciation sur l'importance des revenus professionnels des assurés au cours de
+l'année au titre de laquelle la cotisation est due établissent que ces revenus sont différents de l'assiette retenue en
+application de cet alinéa. Les modalités d'application du présent alinéa sont fixées par décret.
+
 Un décret détermine les conditions d'application des dispositions ci-dessus, notamment le délai minimal dans lequel les chefs
 d'exploitation ou d'entreprise doivent formuler l'option préalablement à sa prise d'effet, la durée minimale de validité de
-celle-ci, les conditions de sa reconduction et de sa dénonciation. Pour 1993, l'option doit être formulée au plus tard le 31
-mars 1993.
+celle-ci, les conditions de sa reconduction et de sa dénonciation. Pour 1994, à titre exceptionnel, les chefs d'exploitation
+ou d'entreprise agricoles peuvent exercer l'option prévue au présent VI jusqu'au 30 avril 1994.
 
-En cas de dénonciation de l'option, l'assiette des cotisations est constituée :
+Les chefs d'exploitation ou d'entreprise agricoles ayant dénoncé l'option ne peuvent ultérieurement demander l'application
+des dispositions prévues au présent VI.
 
-- la première année au cours de laquelle la dénonciation prend effet par les revenus professionnels tels que définis au
-présent article et se rapportant à l'avant-dernière année précédant celle au titre de laquelle les cotisations sont dues ;
+VII. - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles ayant exercé l'option prévue à l'article 13
+de la loi n° 91-1407 du 31 décembre 1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent dénoncer ladite
+option à effet du 1er janvier 1994.
 
-- et l'année suivante pour ces revenus professionnels se rapportant aux deux années antérieures à l'année précédant celle au
-titre de laquelle les cotisations sont dues.
-
-Le chef d'exploitation ou d'entreprise peut ultérieurement exercer l'option prévue par le présent paragraphe une seule fois à
-l'issue d'une période minimale à compter de la dénonciation dont la durée est fixée par le décret prévu ci-dessus.
+Les chefs d'exploitation ou d'entreprise agricoles qui ont demandé à bénéficier des dispositions ci-dessus ne peuvent plus
+ultérieurement exercer l'option mentionnée au VI du présent article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 62, 72 D
+  - Loi n°91-1407 1991-12-31 art. 13
+  - Loi n°93-121 1993-01-27 art. 35
   - Code rural 1060
 
 _Codifié par_:
@@ -12411,7 +12779,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-121 du 27 janvier 1993 - art. 35 () JORF 30 janvier 1993
+  - Loi n°94-114 du 10 février 1994 - art. 32 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -12426,7 +12794,7 @@ _Nouveaux textes_:
   - Code rural - art. L731-22 (Ab)
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=89></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=93></a>
 
 ###### Article 1004
 
@@ -12487,12 +12855,21 @@ _Abrogé par_:
 
 Dans chaque commune, les électeurs des premier et troisième collèges élisent des délégués communaux.
 
-Toutefois, lorsque le nombre des électeurs d'une ou plusieurs communes est inférieur à cinquante, le représentant de l'Etat
+Toutefois, lorsque le nombre d'électeurs d'une ou plusieurs communes est inférieur à cinquante, le représentant de l'Etat
 dans le département, après avis du conseil d'administration de la mutualité sociale agricole et des maires intéressés, réunit
-deux ou plusieurs communes limitrophes d'un même canton pour former des circonscriptions électorales groupant au moins
+deux ou plusieurs communes limitrophes d'un même canton pour former des circonscriptions électorales regroupant au moins
 cinquante électeurs.
 
-Si des groupements d'au moins cinquante électeurs ne peuvent être constitués, la circonscription électorale est le canton.
+Si de telles circonscriptions ne peuvent être constituées par regroupement de communes, la circonscription électorale est le
+canton.
+
+Lorsque dans une commune, le nombre d'électeurs d'un collège est inférieur à dix, le représentant de l'Etat dans le
+département, après avis des maires intéressés et du conseil d'administration de la mutualité sociale agricole, réunit deux ou
+plusieurs communes limitrophes d'un même canton pour former des circonscriptions électorales pour le collège concerné, afin
+que celui-ci comprenne au moins dix électeurs.
+
+Si de telles circonscriptions ne peuvent regrouper cinquante électeurs au moins et compter au moins dix électeurs par
+collège, la circonscription électorale est le canton.
 
 Dans les cantons qui comprennent une fraction de commune urbaine et des communes suburbaines, la fraction de commune urbaine
 est considérée comme une commune.
@@ -12509,14 +12886,20 @@ un tour.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°94-114 du 10 février 1994 - art. 27 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code rural - art. L723-16 (Ab)
+  - Code rural L723-16
 
 
 ###### Article 1006
@@ -12568,7 +12951,7 @@ Toutefois, si le nombre des électeurs d'un ou plusieurs cantons est inférieur 
 département réunit, après consultation du conseil d'administration de la mutualité sociale agricole, deux ou plusieurs
 cantons pour former des circonscriptions électorales groupant au moins cinquante électeurs ou, à défaut, tous les électeurs
 du département. Dans ce cas, quelle que soit la circonscription électorale, le nombre de délégués cantonaux est égal au
-nombre de cantons regroupés, multiplié par trois.
+nombre de délégués éligibles dans un seul canton majoré d'une unité par canton supplémentaire regroupé.
 
 Les délégués cantonaux sont élus au scrutin de liste à la représentation proportionnelle suivant la règle du plus fort reste
 sans panachage, rature ou vote préférentiel. Les sièges sont attribués dans l'ordre de présentation des candidats.
@@ -12579,17 +12962,23 @@ ce nombre. Il est pourvu aux vacances survenant dans le deuxième collège dans 
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural L723-18
+  - Code rural - art. L723-18 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°94-114 du 10 février 1994 - art. 28 () JORF 11 février 1994
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L723-18 (M)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1008
@@ -12675,7 +13064,7 @@ _Abrogé par_:
 ###### Article 1010
 
 Lorsque la circonscription des caisses de mutualité sociale s'étend sur deux ou plusieurs départements, le conseil
-d'administration comprend : douze représentants du premier collège, dix représentants du deuxième collège et six
+d'administration comprend : douze représentants du premier collège, douze représentants du deuxième collège et six
 représentants du troisième collège élus dans les conditions prévues à l'article précédent ainsi que trois représentants des
 familles dont au moins un salarié et un non-salarié désignés conjointement par les unions départementales des associations
 familiales concernées sur proposition des associations familiales rurales. Siègent également, avec voix consultative, trois
@@ -12696,7 +13085,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°87-588 du 30 juillet 1987 - art. 12 () JORF 31 juillet 1987
+  - Loi n°94-114 du 10 février 1994 - art. 29 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -12706,11 +13095,9 @@ _Nouveaux textes_:
 
 ###### Article 1011
 
-L'assemblée générale centrale de la mutualité sociale agricole, commune à la caisse centrale de secours mutuels agricoles, à
-la caisse centrale d'allocations familiales agricoles et à la caisse nationale d'assurance vieillesse mutuelle agricole, est
-constituée par les délégués élus par leurs pairs au sein du conseil d'administration de chacune des caisses de mutualité
-sociale agricole, à raison de trois délégués pour le premier collège, de deux délégués pour le deuxième collège et d'un
-délégué pour le troisième collège.
+L'assemblée générale centrale de la mutualité sociale agricole est constituée par les délégués élus par leurs pairs au sein
+du conseil d'administration de chacune des caisses de mutualité sociale agricole, à raison de trois délégués pour le premier
+collège, de deux délégués pour le deuxième collège et d'un délégué pour le troisième collège.
 
 Le conseil central d'administration de la mutualité sociale agricole, comprenant vingt-cinq membres, est composé comme suit :
 
@@ -12749,7 +13136,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°87-588 du 30 juillet 1987 - art. 12 () JORF 31 juillet 1987
+  - Loi n°94-114 1994-02-10 art. 23 I, II JORF 11 février 1994
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -12970,26 +13358,32 @@ collège ont lieu le même jour à une date fixée par arrêté du ministre de l
 
 Le vote a lieu dans les mairies sous la présidence du maire ou de son délégué.
 
-L'électeur empêché de prendre part au scrutin peut voter par procuration dans les conditions et limites fixées par le décret
-prévu à l'article 1023-1.
+L'électeur empêché de prendre part au scrutin peut voter par correspondance dans les conditions et limites fixées par le
+décret prévu à l'article 1023-2.
 
 **Liens relatifs à cet article**
 
-_Nouveaux textes_:
-
-  - Code rural - art. L723-23 (M)
-
 _Cite_:
 
-  - Code rural 1023-1
+  - Code rural 1023-2
+
+_Nouveaux textes_:
+
+  - Code rural L723-23
+  - Code rural - art. L723-23 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°94-114 du 10 février 1994 - art. 30 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1019
@@ -13065,13 +13459,15 @@ _Abrogé par_:
 ###### Article 1021
 
 Les caisses de mutualité sociale agricole supportent, sur leur budget de fonctionnement, les dépenses administratives
-nécessitées par les opérations électorales prévues au présent chapitre, ainsi que les frais de déplacement et de séjour des
-délégués à l'assemblée générale départementale.
+afférentes aux opérations électorales prévues au présent chapitre.
 
-Toutefois, les caisses centrales de secours mutuels agricoles et d'allocations familiales agricoles ainsi que la caisse
-nationale d'assurance vieillesse mutuelle agricole supportent les dépenses administratives nécessitées par les opérations
-électorales prévues à l'article 1011 ainsi que les frais de déplacement et de séjour des délégués à l'assemblée générale
-centrale.
+Elles remboursent aux délégués à l'assemblée générale les frais engagés pour l'exercice de leur mandat dans des conditions
+fixées par décret.
+
+Toutefois, la Caisse centrale de la mutualité sociale agricole supporte, sur son propre budget de fonctionnement, les
+dépenses administratives afférentes aux opérations électorales prévues à l'article 1011 ainsi que les frais engagés par les
+délégués à l'assemblée générale centrale pour l'exercice de leur mandat dans les conditions fixées par le décret visé à
+l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -13079,17 +13475,23 @@ _Cite_:
 
   - Code rural 1011
 
+_Nouveaux textes_:
+
+  - Code rural L723-26
+  - Code rural - art. L723-26 (V)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+  - Loi n°94-114 du 10 février 1994 - art. 31 () JORF 11 février 1994
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L723-26 (V)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1022
@@ -13239,9 +13641,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances sociales<a id=90></a>
+### Chapitre II : Assurances sociales<a id=94></a>
 
-#### Section 1 : Affiliation.<a id=91></a>
+#### Section 1 : Affiliation.<a id=95></a>
 
 ###### Article 1024
 
@@ -13463,7 +13865,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=92></a>
+#### Section 2 : Cotisations.<a id=96></a>
 
 ###### Article 1031
 
@@ -13592,24 +13994,31 @@ Elle établit un bordereau descriptif des cotisations reçues et procède, en fi
 cotisations entre les organismes intéressés dans les conditions fixées par arrêté du ministre de l'agriculture et du ministre
 de l'économie et des finances.
 
-Elle adresse le bordereau susvisé à la caisse centrale de secours mutuels agricoles et transfère au compte de cette caisse,
-ouvert à la Caisse des dépôts et consignations, la part des cotisations qui ne lui est pas attribuée.
+Elle adresse le bordereau susvisé à la caisse centrale de la mutualité sociale agricole et transfère au compte de cette
+caisse, ouvert à la Caisse des dépôts et consignations, la part des cotisations qui ne lui est pas attribuée.
 
 La caisse centrale procède à la vérification des bordereaux transmis par la caisse de mutualité sociale agricole.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural L741-23
+  - Code rural R741-79
+  - Code rural - art. L741-23 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code rural - art. L741-23 (M)
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°1944-01-04 art. 1
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1033-1
@@ -13773,7 +14182,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Prestations.<a id=93></a>
+#### Section 3 : Prestations.<a id=97></a>
 
 ###### Article 1038
 
@@ -13883,7 +14292,7 @@ _Nouveaux textes_:
   - Code rural - art. L723-45 (M)
 
 
-#### Section 4 : Régime facultatif, régime complémentaire.<a id=94></a>
+#### Section 4 : Régime facultatif, régime complémentaire.<a id=98></a>
 
 ###### Article 1049
 
@@ -13996,99 +14405,36 @@ _Cite_:
   - Code rural 1050, 1144
 
 
-#### Section 5 : Organisation administrative et financière.<a id=95></a>
+#### Section 5 : Organisation administrative et financière.<a id=99></a>
 
 ###### Article 1052
 
-Les caisses de mutualité sociale agricole sont approuvées dans les conditions de l'article 16 de la loi du 1er avril 1898.
-Elles sont régies par les prescriptions de cette loi, sous réserve des dispositions du présent livre. Elles ont une
-circonscription au moins départementale. Elles sont tenues de s'affilier, pour la réassurance, à la caisse centrale de
-secours mutuels agricoles.
-
-La caisse centrale est, sous réserve des dispositions du présent livre, régie par les prescriptions de la loi du 1er avril
-1898 et soumise à l'approbation ministérielle dans les conditions de l'article 16 de ladite loi.
+Les caisses de mutualité sociale agricole mentionnées à l'article 1002 sont tenues de s'affilier, pour la réassurance, à la
+Caisse centrale de la mutualité sociale agricole.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1935-10-30 art. 4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Nouveaux textes_:
-
-  - Code rural - art. L723-10 (V)
 
 _Cite_:
 
-  - Loi n°1898-04-01 art. 16
+  - Code rural 1002
 
+_Nouveaux textes_:
 
-###### Article 1054
-
-Les caisses de mutualité sociale agricole et la caisse centrale de secours mutuels agricoles doivent déposer à leur compte
-courant postal, à la Caisse des dépôts et consignations ou à la Banque de France les sommes qui dépassent le chiffre de
-l'encaisse qu'elles sont autorisées à conserver. La Caisse des dépôts et consignations garde en dépôt le portefeuille desdits
-organismes.
-
-Les sommes non employées par la Caisse des dépôts et consignations sont versées en compte courant au Trésor et portent
-intérêt à un taux fixé par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.
-
-Les sommes déposées par les divers organismes, en exécution du présent article, à la Caisse des dépôts et consignations, et
-donnent lieu à aucune bonification d'intérêt.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1935-10-28 art. 32
+  - Code rural L723-10
+  - Code rural - art. L723-10 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 25 () JORF 11 février 1994
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Décret n°71-550 du 21 juin 1971 - art. 1 (Ab) JORF 10 juillet 1971
-
-
-###### Article 1055
-
-Les disponibilités de la caisse centrale de secours mutuels agricoles sont employées comme suit :
-
-a) Deux quarts sont placés, sur la désignation du conseil central d'administration de la mutualité sociale agricole ou d'une
-commission choisie dans son sein et habilitée par lui, en prêts aux départements, communes et établissements publics, en vue
-du financement de leurs travaux ;
-
-b) Un quart est investi directement par la Caisse des dépôts et consignations ;
-
-c) Un quart est placé par la Caisse des dépôts et consignations sur la désignation du conseil central d'administration de la
-mutualité sociale agricole ou d'une commission choisie dans son sein et habilitée par lui.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1935-10-28 art. 33
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
+  - Loi n°94-114 du 10 février 1994 - art. 24 () JORF 11 février 1994
 
 _Abrogé par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 25 () JORF 11 février 1994
-
-_Modifié par_:
-
-  - Décret n°71-550 du 21 juin 1971 - art. 1 (Ab) JORF 10 juillet 1971
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1056
@@ -14190,9 +14536,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=96></a>
+### Chapitre III : Prestations familiales<a id=100></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=97></a>
+#### Section 1 : Affiliations et cotisations.<a id=101></a>
 
 ###### Article 1060
 
@@ -14580,7 +14926,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Dégrèvements.<a id=98></a>
+#### Section 2 : Dégrèvements.<a id=102></a>
 
 ###### Article 1073
 
@@ -14651,7 +14997,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Recouvrement.<a id=99></a>
+#### Section 3 : Recouvrement.<a id=103></a>
 
 ###### Article 1080
 
@@ -14743,7 +15089,7 @@ _Cite_:
   - Loi n°1946-08-22 art. 18, art. 19, art. 20, art. 21
 
 
-#### Section 4 : Prestations.<a id=100></a>
+#### Section 4 : Prestations.<a id=104></a>
 
 ###### Article 1090
 
@@ -14889,11 +15235,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=101></a>
+#### Section 5 : Organisation administrative et financière.<a id=105></a>
 
 ###### Article 1094
 
-La caisse centrale d'allocations familiales agricoles gère un fonds national agricole de surcompensation chargé de verser des
+La caisse centrale de la mutualité sociale agricole gère un fonds national agricole de surcompensation chargé de verser des
 allocations aux caisses de mutualité sociale agricole dont les charges se révéleraient anormalement élevées en raison de
 l'importance des charges de famille de leurs allocataires.
 
@@ -14901,14 +15247,18 @@ Ce fonds est alimenté par des cotisations versées par les caisses.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1938-05-31 art. 14
-  - Décret n°1939-07-29 art. 31
-
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1098
@@ -14943,9 +15293,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=102></a>
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=106></a>
 
-#### Section 1 : Champ d'application.<a id=103></a>
+#### Section 1 : Champ d'application.<a id=107></a>
 
 ###### Article 1106-1
 
@@ -15055,7 +15405,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-103 (Ab)
 
 
-#### Section 2 : Prestations.<a id=104></a>
+#### Section 2 : Prestations.<a id=108></a>
 
 ###### Article 1106-2
 
@@ -15347,7 +15697,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=105></a>
+#### Section 3 : Financement.<a id=109></a>
 
 ###### Article 1106-6
 
@@ -15499,7 +15849,7 @@ _Cite_:
   - Code rural 1003-7-1, 1106-1
 
 
-#### Section 4 : Assujettissement et organisation.<a id=106></a>
+#### Section 4 : Assujettissement et organisation.<a id=110></a>
 
 ###### Article 1106-9
 
@@ -15738,7 +16088,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=107></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=111></a>
 
 ###### Article 1106-17
 
@@ -15913,19 +16263,30 @@ la gestion du régime institué par le présent chapitre.
 
 II. - Un décret fixe les conditions dans lesquelles est assurée la couverture par chaque caisse des dépenses résultant de
 l'application du présent chapitre. Il précise notamment les conditions dans lesquelles sont mises à la disposition des
-caisses par la caisse centrale de secours mutuels agricoles, les sommes nécessaires au règlement des prestations légales
+caisses par la caisse centrale de mutualité sociale agricole, les sommes nécessaires au règlement des prestations légales
 ainsi que les conditions dans lesquelles est assurée la couverture des frais de gestion exposés par les caisses.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural L762-1
+  - Code rural L762-24
+  - Code rural - art. L762-1 (M)
+  - Code rural - art. L762-24 (V)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code rural - art. L762-1 (M)
-  - Code rural - art. L762-24 (V)
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1106-22
@@ -16059,7 +16420,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=108></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=112></a>
 
 ###### Article 1107
 
@@ -16086,17 +16447,18 @@ L'organisation autonome des professions agricoles est constituée :
 Par des caisses départementales ou pluridépartementales d'assurance vieillesse agricole dont la circonscription coïncide avec
 celle des caisses d'assurances sociales et d'allocations familiales agricoles ;
 
-Par une caisse nationale d'assurance vieillesse agricole.
+Par une caisse centrale de la mutualité sociale agricole.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
 
 ###### Article 1109
@@ -16116,7 +16478,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=109></a>
+#### Section 1 : Prestations<a id=113></a>
 
 ###### Article 1110
 
@@ -16162,7 +16524,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-22 (M)
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=110></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=114></a>
 
 ###### Article 1111
 
@@ -16270,7 +16632,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 2 : Retraite.<a id=111></a>
+##### Paragraphe 2 : Retraite.<a id=115></a>
 
 ###### Article 1120-1
 
@@ -16662,7 +17024,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-##### Paragraphe 3 : Allocation complémentaire agricole.<a id=112></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=116></a>
 
 ###### Article 1122-3
 
@@ -16826,7 +17188,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=113></a>
+#### Section 2 : Cotisations.<a id=117></a>
 
 ###### Article 1123
 
@@ -17076,7 +17438,7 @@ _Cite_:
   - Code rural 1130
 
 
-#### Section 3 : Organisation administrative et financière.<a id=114></a>
+#### Section 3 : Organisation administrative et financière.<a id=118></a>
 
 ###### Article 1136
 
@@ -17104,7 +17466,7 @@ _Abrogé par_:
 
 ###### Article 1137
 
-La caisse nationale d'assurance vieillesse agricole est chargée notamment :
+La caisse centrale de la mutualité sociale agricole est chargée notamment :
 
 De coordonner l'action des caisses départementales ;
 
@@ -17121,10 +17483,15 @@ sociale agricole.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°84-1 1984-01-02 art. 6 JORF 3 janvier 1984
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1138
@@ -17173,9 +17540,18 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=115></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=119></a>
 
 ###### Article 1142-1
 
@@ -17397,22 +17773,32 @@ _Abrogé par_:
 ###### Article 1142-8
 
 La caisse générale de sécurité sociale de chacun des départements intéressés assure la gestion du régime institué au présent
-chapitre. Elle relève pour cette partie de son activité de la caisse nationale d'assurance vieillesse agricole dans les
+chapitre. Elle relève pour cette partie de son activité de la caisse centrale de la mutualité sociale agricole dans les
 conditions prévues aux articles 1108 et 1137 du présent code.
 
 **Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural - art. L762-1 (M)
 
 _Cite_:
 
   - Code rural 1108, 1137
 
+_Nouveaux textes_:
+
+  - Code rural L762-1
+  - Code rural - art. L762-1 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-9
@@ -17485,7 +17871,7 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=116></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=120></a>
 
 ###### Article 1142-12
 
@@ -17742,30 +18128,35 @@ _Cite_:
 
 Un décret fixe les conditions dans lesquelles est assurée la couverture par chaque caisse des dépenses résultant de
 l'application du présent chapitre. Il précise notamment les conditions dans lesquelles sont mises à la disposition des
-caisses par la caisse centrale d'allocations familiales mutuelles agricoles les sommes nécessaires au règlement des
-prestations prévues à l'article 1142-12, ainsi que les conditions dans lesquelles sont assurés la couverture des frais de
-gestion exposés par les caisses et le financement de l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la
-sécurité sociale.
+caisses par la caisse centrale de la mutualité sociale agricole les sommes nécessaires au règlement des prestations prévues à
+l'article 1142-12, ainsi que les conditions dans lesquelles sont assurés la couverture des frais de gestion exposés par les
+caisses et le financement de l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1142-12
+  - Code de la sécurité sociale. - art. L752-7 (M)
+  - Code de la sécurité sociale. - art. L752-8 (M)
+
+_Nouveaux textes_:
+
+  - Code rural L762-12
+  - Code rural - art. L762-12 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L762-12 (V)
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L752-7 (M)
-  - Code de la sécurité sociale. - art. L752-8 (M)
-  - Code rural 1142-12
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-22
@@ -17851,7 +18242,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=117></a>
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=121></a>
 
 ###### Article 1142-25
 
@@ -17897,8 +18288,8 @@ Les caisses de mutualité sociale agricole sont chargées :
 
 Les dispositions de l'article L. 356-4 du code de la sécurité sociale sont applicables auxdits organismes.
 
-Pour la gestion de l'assurance veuvage, la caisse nationale d'assurance vieillesse mutuelle agricole exerce les fonctions
-prévues à l'article 1137 du présent code.
+Pour la gestion de l'assurance veuvage, la caisse centrale de la mutualité sociale agricole exerce les fonctions prévues à
+l'article 1137 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -17907,18 +18298,25 @@ _Cite_:
   - Code rural 1142-25, 1137
   - Code de la sécurité sociale. - art. L356-4 (Ab)
 
+_Nouveaux textes_:
+
+  - Code rural L731-44
+  - Code rural L732-55
+  - Code rural - art. L731-44 (Ab)
+  - Code rural - art. L732-55 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 53 () JORF 30 décembre 1990
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L731-44 (Ab)
-  - Code rural - art. L732-55 (M)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-27
@@ -17973,7 +18371,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=118></a>
+### Chapitre V : Contentieux.<a id=122></a>
 
 ###### Article 1143
 
@@ -18125,11 +18523,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=119></a>
+## Titre III : Accidents du travail et risques agricoles<a id=123></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=120></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=124></a>
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=121></a>
+#### Section 1 : Bénéficiaires et risques couverts.<a id=125></a>
 
 ###### Article 1144
 
@@ -18467,7 +18865,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 2 : Prestations.<a id=122></a>
+#### Section 2 : Prestations.<a id=126></a>
 
 ###### Article 1148
 
@@ -18494,7 +18892,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=123></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=127></a>
 
 ###### Article 1149
 
@@ -18528,7 +18926,7 @@ _Cite_:
   - Code rural 1038, L453-1
 
 
-#### Section 4 : Organisation administrative et financière.<a id=124></a>
+#### Section 4 : Organisation administrative et financière.<a id=128></a>
 
 ###### Article 1150
 
@@ -18592,7 +18990,7 @@ _Abrogé par_:
 
 ###### Article 1152
 
-La caisse centrale de secours mutuels agricoles est chargée :
+La caisse centrale de la mutualité sociale agricole est chargée :
 
 - de coordonner l'action et la gestion des caisses départementales et pluridépartementales ;
 
@@ -18609,6 +19007,15 @@ section 7 du présent chapitre ;
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1153
@@ -18725,17 +19132,27 @@ _Abrogé par_:
 
 Un arrêté du ministre de l'agriculture fixe annuellement, pour chaque catégorie de risque, le taux des cotisations techniques
 après avis de la section des accidents du travail du conseil supérieur des prestations sociales agricoles, saisie par le
-ministre des propositions établies par la caisse centrale de secours mutuels agricoles.
+ministre des propositions établies par la caisse centrale de la mutualité sociale agricole.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L751-15
+  - Code rural - art. L751-15 (M)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code rural - art. L751-15 (M)
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1156
@@ -18917,7 +19334,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=125></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=129></a>
 
 ###### Article 1163
 
@@ -19127,7 +19544,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=126></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=130></a>
 
 ###### Article 1170
 
@@ -19153,7 +19570,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=127></a>
+#### Section 7 : Prévention.<a id=131></a>
 
 ###### Article 1171
 
@@ -19180,7 +19597,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=128></a>
+#### Section 8 : Contrôles et sanctions.<a id=132></a>
 
 ###### Article 1172
 
@@ -19363,7 +19780,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=129></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=133></a>
 
 ###### Article 1178
 
@@ -19615,7 +20032,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=130></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=134></a>
 
 ###### Article 1198
 
@@ -19743,8 +20160,8 @@ La caisse des dépôts et consignations gère un fonds commun des accidents du t
 prévues aux articles suivants, ainsi que de celles résultant des articles 1178 à 1180, 1182 et 1234-24.
 
 A partir du 1er juillet 1973, la part de ces dépenses effectuées au profit des victimes salariées ou de leurs ayants droit
-est remboursée au fonds commun, en application de l'article 1153, par la caisse centrale de secours mutuels agricoles suivant
-des modalités fixées par décret.
+est remboursée au fonds commun, en application de l'article 1153, par la caisse centrale de la mutualité sociale agricole
+suivant des modalités fixées par décret.
 
 Le fonds commun est également alimenté par les contributions prévues aux articles 1622 et 1624 bis du code général des
 impôts.
@@ -19756,18 +20173,25 @@ _Cite_:
   - CGI 1622, 1624 bis
   - Code rural 1178 à 1180, 1182, 1234-24, 1153
 
+_Nouveaux textes_:
+
+  - Code rural L753-1
+  - Code rural L753-3
+  - Code rural - art. L753-1 (M)
+  - Code rural - art. L753-3 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°85-772 du 25 juillet 1985 - art. 37 () JORF 26 juillet 1985
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L753-1 (M)
-  - Code rural - art. L753-3 (M)
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1204
@@ -20795,7 +21219,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=131></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=135></a>
 
 ###### Article 1234-1
 
@@ -21440,7 +21864,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=132></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=136></a>
 
 ###### Article 1234-20
 
@@ -21666,7 +22090,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=133></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=137></a>
 
 ###### Article 1234-27
 
@@ -21729,7 +22153,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=134></a>
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=138></a>
 
 ###### Article 1234-29
 
@@ -21765,9 +22189,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre IV : Dispositions diverses<a id=135></a>
+## Titre IV : Dispositions diverses<a id=139></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=136></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=140></a>
 
 ###### Article 1235
 
@@ -21794,43 +22218,73 @@ _Cite_:
 
 ###### Article 1236
 
-La caisse centrale de secours mutuels agricoles, la caisse centrale d'allocations familiales agricoles et les caisses
-centrales de réassurances mutuelles agricoles forment l'union des caisses centrales de la mutualité agricole.
+La caisse centrale de la mutualité sociale agricole et la caisse centrale des mutuelles agricoles forment l'union des caisses
+centrales de la mutualité agricole.
 
 Cette union qui est placée sous le régime de la loi du 1er juillet 1901 est chargée de gérer les intérêts communs desdites
 caisses.
 
 L'union est administrée par un comité d'au moins vingt-quatre membres comprenant en nombre égal des délégués de la caisse
-centrale de secours mutuels agricoles et de la caisse centrale d'allocations familiales agricoles, d'une part, et d'autre
-part, des délégués des caisses centrales de réassurances mutuelles agricoles.
+centrale de la mutualité sociale agricole et des délégués de la caisse centrale des mutuelles agricoles.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L723-13
+  - Code rural - art. L723-13 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Nouveaux textes_:
-
-  - Code rural - art. L723-13 (V)
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cite_:
 
   - Loi n°1901-07-01
 
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1237
 
-Les conseils d'administration de la mutualité sociale agricole et des caisses de réassurances mutuelles agricoles peuvent
-créer une union départementale de la mutualité agricole. L'union départementale est administrée par un comité comprenant en
-nombre égal des délégués du conseil d'administration de la mutualité sociale agricole et des délégués des conseils
-d'administration des caisses de réassurances mutuelles agricoles.
+I. - Les caisses de mutualité sociale agricole et leurs associations peuvent, dans les limites de leur circonscription
+géographique, constituer des unions avec les organismes d'assurances mutuelles agricoles ou d'autres organismes à but non
+lucratif se proposant de mener des actions de prévoyance, de solidarité ou d'entraide, en vue de la représentation ou de la
+valorisation d'intérêts communs.
+
+Ces unions sont administrées par un comité comprenant des représentants de chacun des trois collèges des conseils
+d'administration des caisses de mutualité sociale agricole et des représentants des conseils d'administration des autres
+organismes associés.
+
+II. - Les caisses de mutualité sociale agricole peuvent créer avec des tiers des services communs en matière de gestion et
+d'action sanitaire et sociale ou participer à des services préexistants.
+
+Elles peuvent également conclure des conventions avec des organismes administrés paritairement par les organisations
+professionnelles et syndicales représentatives des employeurs et des salariés de l'agriculture, notamment en vue du
+recouvrement, pour le compte de ces organismes, des cotisations qui leur sont dues en application d'une convention ou d'un
+accord collectif étendu. Ces conventions peuvent stipuler que les caisses de mutualité sociale agricole procèdent au
+recouvrement et au contrôle de ces cotisations selon les règles et sous les garanties et sanctions applicables au
+recouvrement des cotisations dues au titre des assurances sociales agricoles obligatoires.
+
+III. - Un décret en Conseil d'Etat fixe les conditions dans lesquelles les caisses de mutualité sociale agricole participent
+aux unions et services communs mentionnés aux I et II ci-dessus.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 22 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -21941,22 +22395,29 @@ _Abrogé par_:
 Les opérations des organismes de mutualité agricole sont soumises au contrôle du ministre de l'agriculture et du ministre des
 finances. Un décret en Conseil d'Etat détermine les modalités de ce contrôle et la compétence des agents qui en sont chargés.
 
-Les assemblées générales de la mutualité sociale agricole et celles des unions départementales de mutualité agricole
-désignent un ou plusieurs commissaires aux comptes, agréés par les cours d'appel. L'un d'eux doit être agréé par l'union des
-caisses centrales de mutualité agricole.
+Les assemblées générales des organismes de mutualité sociale agricole et celle des unions mentionnées aux articles 1236 et
+1237 désignent un ou plusieurs commissaires aux comptes, agréés par les cours d'appel.
 
 Les commissaires aux comptes peuvent procéder à toute époque aux contrôles et investigations comptables relevant de leur
 mission. Ils rendent compte de leur mandat à l'assemblée générale appelée à statuer sur les comptes de chaque exercice.
 
 Un exemplaire du rapport du ou des commissaires aux comptes et une copie du procès-verbal de chaque assemblée générale
 doivent être transmis dans le délai d'un mois au ministre de l'agriculture et au ministre des finances par l'intermédiaire de
-l'union des caisses centrales de mutualité agricole.
+la caisse centrale de mutualité sociale agricole.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1236, 1237
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
 _Nouveaux textes_:
 
@@ -22299,56 +22760,59 @@ _Nouveaux textes_:
 
 ###### Article 1248
 
-Une section de vérification comptable des caisses d'allocations familiales agricoles exerce son contrôle toutes les fois que
-les frais de gestion des caisses dépassent un pourcentage fixé par un arrêté ministériel pris après avis de la caisse
-centrale d'allocations familiales.
+Une section de vérification comptable des caisses de mutualité sociale agricole exerce son contrôle toutes les fois que les
+frais de gestion des caisses dépassent un pourcentage fixé par un arrêté ministériel pris après avis de la caisse centrale de
+la mutualité sociale agricole.
 
 Les dépenses de fonctionnement de la section de vérification sont à la charge du budget annexe des prestations familiales
 agricoles.
 
 La coordination des opérations de contrôle financier et comptable confiées aux divers corps et services habilités à exercer
-ce contrôle auprès des caisses d'allocations familiales agricoles sera réalisée dans les conditions qui seront définies par
-un décret pris après avis du comité de gestion du budget annexe des prestations familiales agricoles sur le rapport du
-ministre de l'agriculture et du ministre des finances.
+ce contrôle auprès des caisses de mutualité sociale agricole sera réalisée dans les conditions qui seront définies par un
+décret pris après avis du comité de gestion du budget annexe des prestations familiales agricoles sur le rapport du ministre
+de l'agriculture et du ministre des finances.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
+_Modifié par_:
 
-###### Article 1249
-
-Des décrets contresignés par le ministre de l'agriculture et le ministre des finances fixent les règles de comptabilité
-applicables par les caisses mutuelles d'allocations familiales agricoles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
 
 _Abrogé par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 25 () JORF 11 février 1994
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1250
 
 Un décret pris sur le rapport du ministre de l'agriculture et du ministre des finances, après consultation de la caisse
-centrale de secours mutuels agricoles, fixe les règles relatives à la comptabilité des organismes d'assurances sociales
-agricoles et à l'établissement de leur situation active et passive.
+centrale de la mutualité sociale agricole, fixe les règles relatives à la comptabilité des caisses de mutualité sociale
+agricole et à l'établissement de leur situation active et passive.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L723-47
+  - Code rural - art. L723-47 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code rural - art. L723-47 (V)
+  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1250-1
@@ -22374,7 +22838,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Prévention en assurance maladie.<a id=137></a>
+### Chapitre II : Prévention en assurance maladie.<a id=141></a>
 
 ###### Article 1250-2
 
@@ -22406,7 +22870,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=138></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=142></a>
 
 ###### Article 1251
 
@@ -22950,9 +23414,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=139></a>
+## Titre VI : Français résidant à l'étranger<a id=143></a>
 
-### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=140></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=144></a>
 
 ###### Article 1263-1
 
@@ -23087,7 +23551,7 @@ _Cite_:
   - Code rural 1263-1
 
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=141></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=145></a>
 
 ###### Article 1263-4
 
@@ -23153,7 +23617,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=142></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=146></a>
 
 ###### Article 1263-6
 
@@ -23203,7 +23667,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=143></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=147></a>
 
 ###### Article 1263-8
 
@@ -23255,13 +23719,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=144></a>
+# Livre VIII : Formation professionnelle et recherche<a id=148></a>
 
-## Titre III : Recherche<a id=145></a>
+## Titre III : Recherche<a id=149></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=146></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=150></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=147></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=151></a>
 
 ###### Article 1337
 
