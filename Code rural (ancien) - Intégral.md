@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-07-23
+Version Consolidée au 1980-10-24
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -9073,17 +9073,6 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°75-1336 1975-12-31 art. 7 JORF 3 janvier 1976
-
-
-###### Article 272
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 
 ###### Article 273
