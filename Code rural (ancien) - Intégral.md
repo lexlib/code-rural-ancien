@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-03-28
+Version Consolidée au 1973-05-25
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -7301,21 +7301,6 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1884-08-02 art. 4
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 289
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 _Abrogé par_:
 
