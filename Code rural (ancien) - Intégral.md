@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-12-20
+Version Consolidée au 1967-12-22
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -147,8 +147,8 @@ Version Consolidée au 1967-12-20
         - [Section 3 : Recouvrement. (art. 1081 à 1088)](#144)
         - [Section 4 : Prestations. (art. 1091-1)](#145)
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#146)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-5 à 1106-16 bis)](#147)
-        - [Section 2 : Prestations. (art. 1106-5)](#148)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-4 à 1106-16 bis)](#147)
+        - [Section 2 : Prestations. (art. 1106-4 à 1106-5)](#148)
         - [Section 3 : Financement. (art. 1106-8)](#149)
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#150)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#151)
@@ -16329,6 +16329,44 @@ _Abrogé par_:
 ### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=147></a>
 
 #### Section 2 : Prestations.<a id=148></a>
+
+###### Article 1106-4
+
+Il est créé un fonds spécial d'action sociale destiné à promouvoir et à développer une action sociale en faveur de l'ensemble
+des bénéficiaires du présent chapitre et, particulièrement, des plus défavorisés.
+
+Ce fonds, géré par la mutualité agricole, est administré par un comité national et des comités départementaux d'action
+sociale où sont représentés exclusivement les organismes assureurs compte tenu du nombre de leurs adhérents.
+
+Un décret détermine les conditions d'application du présent article et notamment la part des cotisations complémentaires
+prévues à l'article 1003-8 affectée au financement du fonds spécial, les diverses catégories de prestations supplémentaires
+pouvant être allouées, les règles de fonctionnement du fonds spécial, la composition et le rôle du comité national et des
+comités départementaux.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L726-2 (M)
+  - Code rural L726-2
+
+_Cite_:
+
+  - Code rural 1003-8
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°67-1114 1967-12-21 art. 65 JORF 22 décembre 1967
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1106-5
 
