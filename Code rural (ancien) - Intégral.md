@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-01-14
+Version Consolidée au 1989-06-14
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -73,7 +73,7 @@ Version Consolidée au 1989-01-14
     - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#70)
     - [Titre VII : De la production des animaux domestiques (art. 308)](#71)
       - [Chapitre II : De l'insémination artificielle. (art. 308)](#72)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#73)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#73)
     - [Titre IX : Des pénalités. (art. 325 à 341)](#74)
     - [Titre X : De la protection des végétaux. (art. 342 à 364)](#75)
       - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#76)
@@ -11603,6 +11603,26 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
+
+
+###### Article 324-1
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les conditions d'application du titre VIII du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°89-412 du 22 juin 1989 - art. 32 () JORF 24 juin 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ## Titre IX : Des pénalités.<a id=74></a>
