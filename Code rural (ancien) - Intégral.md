@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-05-31
+Version Consolidée au 1980-06-28
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -128,7 +128,7 @@ Version Consolidée au 1980-05-31
     - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#125)
       - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#126)
     - [Titre V : Bail emphytéotique. (art. 948)](#127)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-4)](#128)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#128)
     - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#129)
       - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#130)
       - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 986)](#131)
@@ -183,22 +183,24 @@ Version Consolidée au 1980-05-31
     - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#180)
     - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#181)
       - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#182)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1272 à 1337)](#183)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#184)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#185)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#186)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#187)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#188)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#189)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#190)
-    - [Titre III : Recherche (art. 1297 à 1337)](#191)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#192)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#193)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#194)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#195)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#196)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#197)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#198)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#183)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#184)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1272 à 1337)](#185)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#186)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#187)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#188)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#189)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#190)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#191)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#192)
+    - [Titre III : Recherche (art. 1297 à 1337)](#193)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#194)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#195)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#196)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#197)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#198)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#199)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#200)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -25850,9 +25852,92 @@ _Cite_:
   - Code rural 1263-2
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=183></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=183></a>
 
-## Titre II : Enseignement<a id=184></a>
+###### Article 1263-6
+
+Les ressortissants français qui exercent une activité professionnelle agricole non-salariée au regard des législations
+sociales agricoles françaises dans un pays étranger n'appartenant pas à la Communauté économique européenne ont la faculté
+d'adhérer à l'assurance volontaire contre les risques de maladie et les charges de la maternité visée au chapitre III du
+titre VI du livre VII du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Nouveaux textes_:
+
+  - Code rural - art. L764-6 (M)
+
+
+###### Article 1263-7
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent titre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L764-7 (M)
+  - Code rural L764-7
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=184></a>
+
+###### Article 1263-8
+
+Les personnes de nationalité française titulaires d'un avantage de retraite alloué au titre d'un régime français d'assurance
+vieillesse agricole obligatoire ou volontaire, justifiant d'une durée d'assurance minimum audit régime fixée par voie
+réglementaire et qui, n'exerçant aucune activité professionnelle, résident dans un pays étranger n'appartenant pas à la
+Communauté économique européenne, ont la faculté d'adhérer à l'assurance volontaire contre les risques de maladie et les
+charges de la maternité visée au titre III du livre XI du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Nouveaux textes_:
+
+  - Code rural - art. L764-8 (M)
+
+
+###### Article 1263-9
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent titre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L764-9
+  - Code rural - art. L764-9 (Ab)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+# Livre VIII : Formation professionnelle et recherche<a id=185></a>
+
+## Titre II : Enseignement<a id=186></a>
 
 ###### Article 1272
 
@@ -25869,9 +25954,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=185></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=187></a>
 
-#### Section 1 : Organisation.<a id=186></a>
+#### Section 1 : Organisation.<a id=188></a>
 
 ###### Article 1273
 
@@ -25993,7 +26078,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=187></a>
+#### Section 2 : Dispositions pénales.<a id=189></a>
 
 ###### Article 1281
 
@@ -26010,7 +26095,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=188></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=190></a>
 
 ###### Article 1282
 
@@ -26102,7 +26187,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=189></a>
+### Chapitre III : Enseignement ménager agricole.<a id=191></a>
 
 ###### Article 1288
 
@@ -26149,7 +26234,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=190></a>
+### Chapitre IV : Dispositions communes.<a id=192></a>
 
 ###### Article 1291
 
@@ -26245,9 +26330,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=191></a>
+## Titre III : Recherche<a id=193></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=192></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=194></a>
 
 ###### Article 1297
 
@@ -26309,7 +26394,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=193></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=195></a>
 
 ###### Article 1301
 
@@ -26446,7 +26531,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=194></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=196></a>
 
 ###### Article 1310
 
@@ -26523,7 +26608,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=195></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=197></a>
 
 ###### Article 1315
 
@@ -26675,9 +26760,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=196></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=198></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=197></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=199></a>
 
 ###### Article 1325
 
@@ -26769,7 +26854,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=198></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=200></a>
 
 ###### Article 1331
 
