@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 188)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -14699,8 +14699,8 @@ _Nouveaux textes_:
 
 ###### Article 1062-1
 
-Les dispositions de l'article L. 241-6-1 du code de la sécurité sociale sont applicables aux gains et rémunérations versés
-aux salariés visés à l'article 1144.
+Les dispositions des articles L. 241-6-1, L. 241-6-2, L. 241-6-3 du code de la sécurité sociale sont applicables aux gains et
+rémunérations versés aux salariés visés à l'article 1144.
 
 **Liens relatifs à cet article**
 
@@ -14708,9 +14708,9 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-953 du 27 juillet 1993 - art. 3 () JORF 28 juillet 1993
+  - Loi n°95-115 du 4 février 1995 - art. 59 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -14719,6 +14719,8 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la sécurité sociale. - art. L241-6-1 (M)
+  - Code de la sécurité sociale. - art. L241-6-2 (M)
+  - Code de la sécurité sociale. - art. L241-6-3 (M)
   - Code rural 1144
 
 
