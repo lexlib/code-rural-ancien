@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-12-31
+Version Consolidée au 1964-04-07
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -149,8 +149,8 @@ Version Consolidée au 1963-12-31
         - [Section 3 : Financement. (art. 1106-8)](#146)
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16)](#147)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1142)](#148)
-        - [Section 1 : Prestations (art. 1112 à 1122-4)](#149)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1112 à 1120)](#150)
+        - [Section 1 : Prestations (art. 1113 à 1122-4)](#149)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#150)
           - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-4)](#151)
         - [Section 2 : Cotisations. (art. 1126 à 1135)](#152)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#153)
@@ -14983,17 +14983,6 @@ _Abrogé par_:
 #### Section 1 : Prestations<a id=149></a>
 
 ##### Paragraphe 1 : Allocation de vieillesse.<a id=150></a>
-
-###### Article 1112
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 
 ###### Article 1113
 
