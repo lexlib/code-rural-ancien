@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1958-12-25
+Version Consolidée au 1958-12-31
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -27,7 +27,7 @@ Version Consolidée au 1958-12-25
       - [Chapitre Ier : De la suppression des étangs insalubres. (art. 134)](#24)
       - [Chapitre II : De la servitude d'écoulement des eaux nuisibles. (art. 135 à 138)](#25)
     - [Titre VI : Equipement rural (art. 140 à 186)](#26)
-      - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 150)](#27)
+      - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 151)](#27)
       - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#28)
       - [Chapitre IV : Restauration de l'habitat rural (art. 183 à 186)](#29)
         - [Section 1 : Travaux de restauration de l'habitat. (art. 183)](#30)
@@ -1915,6 +1915,37 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 151
+
+Les travaux de recherches d'eau en vue de la réalisation des projets d'alimentation en eau potable des communes rurales
+peuvent être exécutés par l'Etat avec une participation financière ultérieure des collectivités utilisatrices comprise entre
+5 % et 25 % des dépenses.
+
+Les dépenses afférentes aux travaux visés à l'alinéa 1er ci-dessus sont imputées sur les crédits ouverts pour chaque année au
+ministre de l'agriculture en vue de l'octroi de subventions pour travaux d'alimentation en eau potable.
+
+La participation financière ultérieure des collectivités utilisatrices présente un caractère de fonds de concours pour
+dépenses d'intérêt public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1950-07-21 art. 23
+
+_Modifié par_:
+
+  - Ordonnance 58-1374 1958-12-30 art. 106 JORF 31 décembre 1958 rectificatif 5 février 1959
+
+_Abrogé par_:
+
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
