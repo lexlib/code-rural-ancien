@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1956-12-30
+Version Consolidée au 1957-03-24
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -68,12 +68,12 @@ Version Consolidée au 1956-12-30
       - [Chapitre II : Des pénalités. (art. 378 à 391)](#65)
       - [Chapitre III : De la destruction des animaux nuisibles. (art. 395)](#66)
       - [Chapitre IV : Des groupements de chasseurs. (art. 397)](#67)
-    - [Titre II : Pêche fluviale (art. 407 à 425)](#68)
-      - [Du droit de pêche (art. 407 à 425)](#69)
-        - [Chapitre Ier : Dispositions générales. (art. 407 à 410)](#70)
+    - [Titre II : Pêche fluviale (art. 401 à 425)](#68)
+      - [Du droit de pêche (art. 401 à 425)](#69)
+        - [Chapitre Ier : Dispositions générales. (art. 401 à 410)](#70)
         - [Chapitre II : Exploitation du droit de pêche par l'Etat. (art. 413 à 425)](#71)
-    - [Titre III : De la police de la pêche (art. 429 à 499)](#72)
-      - [Chapitre Ier : Dispositions générales et pénales. (art. 429 à 443)](#73)
+    - [Titre III : De la police de la pêche (art. 428 à 499)](#72)
+      - [Chapitre Ier : Dispositions générales et pénales. (art. 428 à 443)](#73)
       - [Chapitre II : Des poursuites au nom de l'administration. (art. 446 à 480)](#74)
       - [Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat. (art. 481 à 484)](#75)
       - [Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines. (art. 485 à 491)](#76)
@@ -5694,6 +5694,22 @@ _Abrogé par_:
 
 #### Chapitre Ier : Dispositions générales.<a id=70></a>
 
+###### Article 401
+
+Nul ne peut exercer le droit de pêche dans les eaux libres, lacs, canaux, ruisseaux ou cours d'eau quelconques qu'en se
+conformant aux dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°57-362 1957-03-23 art. 2 JORF 24 mars 1957
+
+
 ###### Article 407
 
 Dans toutes les rivières et canaux autres que ceux qui sont désignés dans l'article 403, les propriétaires riverains ont,
@@ -6079,6 +6095,32 @@ _Anciens textes_:
 
 ### Chapitre Ier : Dispositions générales et pénales.<a id=73></a>
 
+###### Article 428
+
+Des décrets rendus en Conseil d'Etat, après avis des conseils généraux, déterminent :
+
+1° Les parties de fleuves, rivières, canaux et cours d'eau réservées pour la reproduction, et dans lesquelles la pêche des
+diverses espèces de poissons est absolument interdite pendant l'année entière ;
+
+2° Les parties des fleuves, rivières, canaux et cours d'eau dans les barrages desquelles il peut être établi, après enquête,
+un passage appelé échelle, destiné à assurer la libre circulation du poisson, ainsi que, le cas échéant, des grilles, dans
+les canaux de fuite, en vue d'éviter la pénétration du poisson dans ces canaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1865-05-31 art. 1
+
+_Modifié par_:
+
+  - Loi n°57-362 1957-03-23 art. 3 JORF 24 mars 1957
+
+
 ###### Article 429
 
 L'interdiction de la pêche pendant l'année entière ne peut être prononcée pour une période de plus de cinq ans. Cette
@@ -6141,6 +6183,38 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1829-04-15 art. 31
+
+
+###### Article 440
+
+Dans chaque département, il est interdit de mettre en vente, de vendre, d'acheter, de transporter, de colporter, d'exporter
+et d'importer les diverses espèces de poissons, pendant le temps où la pêche en est interdite.
+
+Cette disposition n'est pas applicable :
+
+1° Aux poissons provenant d'étangs ou réservoirs définis à l'article 438 du présent code ;
+
+2° Aux poissons provenant des lacs et cours d'eau dans lesquels la pêche, en raison de dispositions particulières, a été
+maintenue ouverte, sous réserve qu'il soit justifié de leur origine, dans les conditions à fixer par un arrêté conjoint des
+ministres chargés de l'agriculture et des travaux publics, des transports et du tourisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 438
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1865-05-31 art. 5 al. 1
+
+_Modifié par_:
+
+  - Loi n°57-362 1957-03-23 art. 5 JORF 24 mars 1957
 
 
 ###### Article 441
@@ -6826,6 +6900,28 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 61
 
 
+###### Article 478
+
+Les procès-verbaux sont, sous peine de nullité, adressés dans les quatre jours qui suivent leur affirmation ou leur clôture
+s'ils ne sont pas sujets à l'affirmation, l'original au procureur de la République, une copie au chef de service de
+l'administration chargé de la police de la pêche, et une copie au président de la fédération départementale de pêche et de
+pisciculture, intéressée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°57-362 1957-03-23 art. 8 JORF 24 mars 1957
+
+_Abrogé par_:
+
+  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+
 ###### Article 480
 
 Les dispositions du code de procédure pénale sur les poursuites des délits, sur défauts, oppositions, jugements, appels et
@@ -6985,6 +7081,43 @@ _Abrogé par_:
 _Anciens textes_:
 
   - Loi n°1829-04-15 art. 69
+
+
+###### Article 487
+
+Tout jugement ou arrêt qui prononcera une condamnation pour délit de pêche devra exclure le délinquant des associations de
+pêche et pisciculture, pour une durée qui ne pourra être inférieure à trois mois ni supérieure à deux ans ; en cas de
+récidive, cette exclusion aura une durée minimum d'un an et ne pourra excéder cinq ans.
+
+Celui qui, durant le temps où il aura été exclu des associations de pêche et de pisciculture par jugement ou arrêt s'adonnera
+à la pêche dans les eaux visées à l'article 401, sera puni, alors même qu'il aurait obtenu son affiliation à une association,
+d'une amende de 360 à 3.000 F. En outre, les filets et engins seront confisqués.
+
+Les propriétaires riverains, membres d'une des associations syndicales définies aux articles 407 à 409, agréée comme
+association de pêche et pisciculture continueront, pendant la durée de l'exclusion, à appartenir à l'association syndicale,
+mais seulement pour y jouir des droits et y être tenus à des obligations inhérentes à leur qualité de propriétaires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 401, 407 à 409
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°57-362 1957-03-23 art. 9 JORF 24 mars 1957
+
+_Abrogé par_:
+
+  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+_Anciens textes_:
+
+  - Loi n°1829-04-15 art. 69 bis
 
 
 ###### Article 488
