@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-01-28
+Version Consolidée au 1987-06-17
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -155,7 +155,7 @@ Version Consolidée au 1987-01-28
         - [Section 1 : Affiliation. (art. 1024 à 1030)](#152)
         - [Section 2 : Cotisations. (art. 1031 à 1036)](#153)
         - [Section 3 : Prestations. (art. 1038 à 1047)](#154)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#155)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051-3)](#155)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#156)
       - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#157)
         - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#158)
@@ -23561,6 +23561,85 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code rural - art. L727-3 (V)
+
+
+###### Article 1051-1
+
+L'autorité compétente de l'Etat peut, dans l'intérêt des affiliés, imposer l'usage de clauses types dans les statuts et
+règlements des institutions relevant de l'article 1050, réalisant des opérations de prévoyance et habilitées à gérer des
+plans d'épargne en vue de la retraite.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1050
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
+
+_Abrogé par_:
+
+  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
+
+
+###### Article 1051-2
+
+Les plans d'épargne en vue de la retraite proposés par les institutions relevant de l'article 1050 ne pourront, à peine de
+nullité, être souscrits que par les affiliés bénéficiant d'au moins un avantage garanti par l'institution au titre d'une
+convention collective, d'un accord d'entreprise ou d'un contrat d'assurance de groupe.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1050
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
+
+_Abrogé par_:
+
+  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
+
+
+###### Article 1051-3
+
+Chaque avantage mis en oeuvre par les institutions visées à l'article 1050 sur la base de leurs statuts et règlements relève
+obligatoirement de sections financièrement distinctes.
+
+Les actifs représentatifs des opérations garanties et notamment de celles qui sont relatives au plan d'épargne en vue de la
+retraite sont affectés par un privilège général au règlement des engagements des institutions relevant de l'article 1050
+envers les affiliés correspondant à ces opérations. Ce privilège prend rang après le 6° de l'article 2101 du code civil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
+
+_Abrogé par_:
+
+  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
+
+_Cite_:
+
+  - Code civil - art. 2101 (M)
+  - Code rural 1050
 
 
 #### Section 5 : Organisation administrative et financière.<a id=156></a>
