@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1997-11-01
+Version Consolidée au 1997-11-19
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -14077,8 +14077,10 @@ patente en tant que commerçant ;
 
 4° Aux entrepreneurs de travaux agricoles ainsi qu'aux entrepreneurs de travaux forestiers ;
 
-5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés, sauf lorsque les
-intéressés relèvent du régime social des marins.
+5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés ainsi qu'aux pêcheurs
+maritimes à pied professionnels tels que définis par le décret en Conseil d'Etat prévu par la loi n° 85-542 du 22 mai 1985
+modifiant le décret du 9 janvier 1852 sur l'exercice de la pêche maritime, sauf lorsque les intéressés relèvent du régime
+social des marins.
 
 Les ouvriers agricoles travaillant seuls ou avec l'aide de leur famille, avec des outils leur appartenant en propre, sont
 réputés, pour l'application des présentes dispositions, bénéficier d'un contrat de louage de services, que les travaux soient
@@ -14090,9 +14092,15 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
+_Cite_:
+
+  - Loi n°85-542 1985-05-22
+  - Code rural 1144
+  - Décret n°1852-01-09
+
 _Modifié par_:
 
-  - Loi n°85-1273 du 4 décembre 1985 - art. 23 () JORF 5 décembre 1985
+  - Loi n°97-1051 du 18 novembre 1997 - art. 54 () JORF 19 novembre 1997
 
 _Nouveaux textes_:
 
@@ -14100,10 +14108,6 @@ _Nouveaux textes_:
   - Code rural - art. L722-28 (V)
   - Code rural - art. L722-4 (V)
   - Code rural - art. L722-9 (V)
-
-_Cite_:
-
-  - Code rural 1144
 
 
 ###### Article 1061
@@ -18362,8 +18366,10 @@ vue de la transformation, du conditionnement et de la commercialisation des prod
 constituent le prolongement de l'acte de production ou dans les structures d'accueil touristique qui ont pour support
 l'exploitation.
 
-2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements
-assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
+2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements assimilés
+ainsi qu'aux pêcheurs maritimes à pied professionnels tels que définis par le décret en Conseil d'Etat prévu par la loi n°
+85-542 du 22 mai 1985 modifiant le décret du 9 janvier 1852 sur l'exercice de la pêche maritime, à l'exception de ceux qui
+relèvent du régime social des marins ;
 
 3° Les ouvriers et employés occupés à des travaux forestiers et les salariés des entreprises de travaux forestiers.
 
@@ -18432,14 +18438,17 @@ d'un gérant sont considérées comme possédées par ce dernier.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cite_:
 
   - Loi n°71-575 du 16 juillet 1971 - art. 37 (V)
   - Loi n°84-579 1984-07-09
   - Loi n°84-1285 du 31 décembre 1984 - art. 4, v. init.
+  - Loi n°85-542 1985-05-22
   - Loi n°88-1202 1988-12-30
   - Code rural 1025, 1060
+  - Décret n°1852-01-09
 
 _Cité par_:
 
@@ -18450,7 +18459,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-121 du 27 janvier 1993 - art. 28 () JORF 30 janvier 1993
+  - Loi n°97-1051 du 18 novembre 1997 - art. 54 () JORF 19 novembre 1997
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
