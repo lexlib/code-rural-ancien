@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-01-06
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -25849,6 +25849,39 @@ _Nouveaux textes_:
 
   - Code rural - art. L732-28 (M)
   - Code rural - art. L732-46 (M)
+
+
+###### Article 1121-2
+
+Les dispositions des articles L. 351-15 et L. 351-16 du code de la sécurité sociale sont applicables, dans des conditions
+fixées par décret et relatives, notamment, à la diminution des revenus professionnels, au chef d'exploitation ou d'entreprise
+agricole qui justifie d'une activité à temps partiel exercée à titre exclusif et relevant du régime des personnes non
+salariées des professions agricoles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L732-29
+  - Code rural - art. L732-29 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°88-16 du 5 janvier 1988 - art. 2 () JORF 6 janvier 1988
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L351-15 (M)
+  - Code de la sécurité sociale. - art. L351-16 (M)
 
 
 ###### Article 1122
