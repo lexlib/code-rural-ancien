@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1955-04-19
+Version Consolidée au 1955-09-27
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 185)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8)](#2)
@@ -39,8 +39,8 @@ Version Consolidée au 1955-04-19
         - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#36)
         - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#37)
         - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#38)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 254 à 272)](#39)
-      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 254 à 256)](#40)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 272)](#39)
+      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 261)](#40)
       - [Chapitre II : De l'équarrissage des animaux. (art. 269 à 272)](#41)
     - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#42)
     - [Titre VII : De la production des animaux domestiques (art. 295 à 308)](#43)
@@ -2882,6 +2882,22 @@ _Abrogé par_:
 
 ### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=40></a>
 
+###### Article 253
+
+La chair des animaux morts de maladies contagieuses quelles qu'elles soient ou abattus comme atteints de la peste bovine, de
+la morve, des maladies charbonneuses, du rouget et de la rage, ne peut être vendue et livrée à la consommation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1898-06-21 art. 27 al. 1, art. 42 al. 1
+
+
 ###### Article 254
 
 Lorsque les animaux ont dû être abattus comme atteints de péripneumonie contagieuse dans l'espèce bovine, de peste porcine,
@@ -2945,6 +2961,28 @@ _Codifié par_:
 _Abrogé par_:
 
   - Loi n°65-543 du 8 juillet 1965 - art. 20 (V) JORF 9 juillet 1965
+
+
+###### Article 261
+
+En aucun cas, la responsabilité pénale du propriétaire ne peut être invoquée lors de l'abattage d'animaux malades ou
+accidentés, pratiqué en vue de la boucherie, lorsque cet abattage a été effectué soit dans un abattoir régulièrement
+inspecté, soit sous le contrôle d'un vétérinaire inspecteur agréé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Anciens textes_:
+
+  - Loi n°1933-07-07 art. 13
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ### Chapitre II : De l'équarrissage des animaux.<a id=41></a>
