@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-12-28
+Version Consolidée au 1976-01-03
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -52,13 +52,13 @@ Version Consolidée au 1975-12-28
       - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 212)](#49)
     - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#50)
       - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#51)
-      - [Chapitre III : De la police sanitaire (art. 220 à 252)](#52)
+      - [Chapitre III : De la police sanitaire (art. 219 à 252)](#52)
         - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#53)
         - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#54)
         - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#55)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 272)](#56)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 275)](#56)
       - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#57)
-      - [Chapitre II : De l'équarrissage des animaux. (art. 269 à 272)](#58)
+      - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#58)
     - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 283-1 à 283-4)](#59)
     - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#60)
     - [Titre VII : De la production des animaux domestiques (art. 295 à 308)](#61)
@@ -6304,6 +6304,33 @@ _Cite_:
 
 ### Chapitre III : De la police sanitaire<a id=52></a>
 
+###### Article 219
+
+Les maires doivent donner avis d'urgence au préfet de tous cas d'épizootie qui leur seraient signalés dans le territoire de
+la commune.
+
+Ils peuvent prendre les mesures provisoires qu'ils jugent utiles pour arrêter la propagation du mal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Anciens textes_:
+
+  - Loi n°1898-06-21 art. 28, art. 18 al. 3, al. 4
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 12 JORF 3 janvier 1976
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 #### Section 1 : De la police sanitaire des maladies non contagieuses.<a id=53></a>
 
 ###### Article 220
@@ -6973,22 +7000,6 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 241
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°75-1336 1975-12-31 art. 12 JORF 3 janvier 1976
-  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
 ###### Article 242
 
 Tout entrepreneur de transport par terre ou par eau qui aura transporté des animaux est tenu, en tout temps, de désinfecter,
@@ -7496,9 +7507,128 @@ _Abrogé par_:
 
 ### Chapitre II : De l'équarrissage des animaux.<a id=58></a>
 
-###### Article 269
+###### Article 264
 
-(texte abrogé).
+Les propriétaires ou détenteurs d'un ou plusieurs animaux morts pesant au total plus de 40 kg sont tenus d'avertir dans les
+plus brefs délais l'équarrisseur autorisé d'avoir à procéder à l'enlèvement du ou des cadavres.
+
+Sous réserve des dispositions de l'article 265, ce ou ces cadavres d'animaux doivent être enlevés dans un délai de vingt-
+quatre heures après réception de l'avis du propriétaire ou du détenteur.
+
+Si, dans un délai de vingt-quatre heures, l'équarrisseur n'a pas procédé audit enlèvement, les propriétaires ou détenteurs
+sont tenus d'en aviser le maire de la commune où se trouvent les cadavres.
+
+Dans le cas où le propriétaire de cadavres d'animaux reste inconnu après un délai de douze heures, le maire fait procéder par
+un équarrisseur à l'enlèvement de ces cadavres.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 265
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 5
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 1 JORF 3 janvier 1976
+
+
+###### Article 265
+
+Dans les zones de pâturage estival en montagne et en cas de force majeure ou de nécessité d'ordre sanitaire, constatée par le
+directeur des services vétérinaires du département, il est procédé à la destruction, par incinération ou procédé chimique
+autorisé et à l'enfouissement des cadavres sur place ou dans un enclos communal, dans des conditions déterminées conformément
+à l'article 275.
+
+Il est interdit de jeter en tous lieux les animaux morts dont la livraison à un équarrisseur n'est pas rendue obligatoire ;
+leur destruction doit être assurée par enfouissement, incinération ou procédé chimique autorisé et dans des conditions
+déterminées conformément à l'article 275.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 275
+
+_Anciens textes_:
+
+  - Loi n°55-336 1955-03-31
+  - Loi n°1942-02-02 art. 6
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 2 JORF 3 janvier 1976
+
+
+###### Article 266
+
+L'enlèvement et la destruction des cadavres et déchets d'origine animale constituent un service d'utilité publique.
+
+Autour de chaque établissement d'équarrissage dont l'ouverture a été autorisée, un périmètre est délimité par arrêté
+préfectoral sur rapport du directeur des services vétérinaires du département, après avis de la profession. Si le périmètre
+doit s'étendre sur le territoire de départements différents, chaque préfet intéressé détermine, comme ci-dessus, la fraction
+du périmètre correspondant à son département.
+
+Dans chaque département, la totalité du territoire doit être couverte par l'aire d'activité d'un ou de plusieurs
+équarrisseurs et doit comprendre, si nécessaire, un ou plusieurs dépôts de stockage.
+
+Sous réserve des dispositions de l'article 265, il est interdit d'enfouir, de jeter en quelque lieu que ce soit, ou
+d'incinérer, les cadavres d'animaux ou lots de cadavres d'animaux pesant au total plus de 40 kg. Leur propriétaire ou leur
+détenteur doit les mettre, en entier et non dépouillés, à la disposition de l'équarrisseur établi dans ledit périmètre.
+Toutefois, lorsqu'il est reconnu indispensable par un vétérinaire de pratiquer sur place l'autopsie d'un animal, le
+propriétaire ou le détenteur du cadavre est tenu de remettre à l'équarrisseur en un seul lot, toutes les parties de l'animal
+qui n'ont pas été prélevées à des fins d'analyse.
+
+Ces mesures s'appliquent sans limitation de poids aux viandes, abats et denrées animales ou d'origine animale, sous toutes
+leurs formes, impropres à la consommation, saisis par les services d'inspection vétérinaire à l'intérieur des périmètres
+cités ci-dessus ainsi qu'aux sous-produits d'abattage non récupérés à l'exception, d'une part, des viandes et abats saisis
+comme impropres à la consommation humaine mais dont l'utilisation à l'état cru ou après transformation peut être autorisée en
+vue d'assurer l'alimentation des animaux ou pour la préparation de produits destinés à l'opothérapie et, d'autre part, des
+sous-produits destinés aux industries de transformation.
+
+Le ministre de l'agriculture détermine par arrêté toutes les mesures nécessaires à l'application des dispositions prévues à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 265
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 7
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 3 JORF 3 janvier 1976
+
+
+###### Article 267
+
+Les installations spécialisées, fonctionnant en annexe d'un abattoir avant la date de promulgation de la présente loi pour la
+préparation industrielle des débris animaux reconnus impropres à la consommation humaine, sont maintenues en activité.
+
+Les viandes et abats saisis et les sous-produits divers traités dans un tel atelier ne pourront provenir que de l'abattoir en
+annexe duquel cet atelier est autorisé.
+
+Des mesures particulières sont fixées par arrêté du ministère de l'agriculture concernant ces installations, afin qu'elles
+satisfassent obligatoirement aux conditions d'hygiène imposées aux équarrissages.
 
 **Liens relatifs à cet article**
 
@@ -7506,9 +7636,96 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Abrogé par_:
+_Anciens textes_:
 
-  - Loi n°75-1336 1975-12-31 art. 12 JORF 3 janvier 1976
+  - Loi n°1942-02-02 art. 8
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 4 JORF 3 janvier 1976
+
+
+###### Article 268
+
+L'ouverture d'un atelier destiné à la fabrication de farines animales en annexe d'un abattoir ne peut être autorisée par le
+préfet que dans le cas où les abattages annuels effectués dans cet établissement dépassent un tonnage minimum de viande fixé
+par arrêté du ministre de l'agriculture et sous réserve de l'pplication des dispositions du deuxième alinéa de l'article 267.
+
+Lorsque l'abattoir se trouve dans le périmètre d'un équarrissage dont les aménagements et les équipements sont reconnus
+suffisants pour recueillir et traiter en tous temps, dans les conditions réglementaires, la totalité des viandes et abats
+saisis, des sous-produits divers et des déchets provenant de cet abattoir, l'autorisation prévue à l'alinéa premier est
+accordée par arrêté du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural annexe, 267
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 9
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 5 JORF 3 janvier 1976
+
+
+###### Article 270
+
+Dans la limite de leur périmètre, les équarrisseurs sont tenus de procéder dans les abattoirs à l'enlèvement des viandes
+saisies ainsi que des sous-produits visés à l'article 266, cinquième alinéa. Ils doivent également procéder à l'enlèvement
+des saisies diverses d'origine animale, déposées dans les postes sanitaires vétérinaires désignés par le préfet.
+
+Le délai d'enlèvement est de quarante-huit heures. Toutefois, il peut être porté à cinq jours si, dans les lieux précités,
+l'entreposage est effectué à une température égale ou inférieure à + 2 °C.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 266
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 11
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 6 JORF 3 janvier 1976
+
+
+###### Article 271
+
+La profession d'équarrisseur est incompatible avec toutes les professions ayant pour objet le commerce des viandes et
+produits carnés destinés à l'alimentation humaine ainsi qu'avec les professions de négociant en bétail et de marchand de
+chevaux.
+
+Un agent appartenant à une administration chargée de l'inspection des ateliers d'équarrissage et des dépôts de cadavres ne
+peut exercer la profession d'équarrisseur. Il est, en outre, interdit à cet agent d'avoir des intérêts dans un établissement
+d'équarrissage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 12
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 7 JORF 3 janvier 1976
 
 
 ###### Article 272
@@ -7520,6 +7737,91 @@ _Abrogé par_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+
+###### Article 273
+
+Les équarrisseurs autorisés peuvent en outre être soumis aux mesures édictées par des arrêtés concertés du ministre de
+l'agriculture et du ministre de la qualité de la vie, en vue du traitement de toutes les matières d'origine animale
+introduites dans leurs établissements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 14
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 9 JORF 3 janvier 1976
+
+_Abrogé par_:
+
+  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+
+###### Article 274
+
+Le préfet fixe chaque fois qu'il est nécessaire le prix de chacune des catégories de cadavres et des sous-produits divers en
+provenance des abattoirs et des établissements où sont entreposées, préparées ou exposées pour la vente des denrées animales
+ou d'origine animale et destinées à l'équarrissage, ainsi que, le cas échéant, les modalités financières d'enlèvement des
+mêmes produits lorsque les conditions économiques interdisent une exploitation normale de l'équarrissage, après avoir pris
+l'avis d'une commission de neuf membres comprenant un conseiller général, un maire, le directeur des services vétérinaires du
+département, le directeur départemental de l'agriculture, le directeur du service des prix, deux agriculteurs-éleveurs, un
+représentant du commerce en gros des viandes et un représentant de l'industrie de l'équarrissage.
+
+Chaque équarrisseur est tenu de présenter devant cette commission tous les documents comptables relatifs à l'activité du ou
+des établissements où sont traitées les matières premières collectées à l'intérieur de son périmètre.
+
+Cette commission peut être consultée par le préfet sur tous les problèmes départementaux relatifs à l'équarrissage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1898-06-21 art. 53, art. 54
+  - Loi n°1942-02-02 art. 15
+
+_Modifié par_:
+
+  - Loi n°75-1336 1975-12-31 art. 10 JORF 3 janvier 1976
+
+_Abrogé par_:
+
+  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+
+###### Article 275
+
+Sauf disposition contraire, les conditions d'application du présent chapitre sont fixées, s'il y a lieu, par des arrêtés
+conjoints des ministres chargés de l'agriculture et de la qualité de la vie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°65-543 1965-07-08 art. 20 JORF 9 juillet 1965
+  - Loi n°75-1336 1975-12-31 art. 11 JORF 3 janvier 1976
+
+_Anciens textes_:
+
+  - Loi n°1942-02-02 art. 16
+
+_Abrogé par_:
+
+  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
 
 
 ## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=59></a>
