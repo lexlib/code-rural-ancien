@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-10-21
+Version Consolidée au 1982-12-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -21774,24 +21774,16 @@ _Nouveaux textes_:
 
 ###### Article 1063
 
-Les cotisations varient suivant l'importance et la nature des exploitations ou des affaires dans les conditions déterminées,
-conformément aux dispositions d'un décret pris sur le rapport du ministre de l'agriculture et du ministre de l'économie et
-des finances, par un comité départemental des prestations sociales agricoles institué par arrêté du ministre de
-l'agriculture.
+Les cotisations varient suivant l'importance et la nature des exploitations ou des affaires dans des conditions déterminées,
+conformément aux dispositions d'un décret pris, sur le rapport du ministre de l'agriculture et du ministre chargé du budget,
+par le commissaire de la République, sur proposition du comité départemental des prestations sociales agricoles, institué par
+arrêté du ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1939-07-29 art. 26
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 _Modifié par_:
 
-  - Décret n°62-806 1962-07-12 art. 1 JORF 18 juillet 1962
+  - Loi n°82-1126 du 29 décembre 1982 - art. 109 () JORF 30 décembre 1982
 
 
 ###### Article 1064
