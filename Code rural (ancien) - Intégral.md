@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-07-16
+Version Consolidée au 1975-08-03
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -128,9 +128,9 @@ Version Consolidée au 1975-07-16
     - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#125)
       - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#126)
     - [Titre V : Bail emphytéotique. (art. 948)](#127)
-  - [Livre VII : Dispositions sociales (art. 984 à 1263)](#128)
-    - [Titre Ier : Régime du travail (art. 984 à 1000-5)](#129)
-      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#130)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263)](#128)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#129)
+      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#130)
       - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 996 à 998)](#131)
       - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#132)
     - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#133)
@@ -15615,9 +15615,13 @@ _Anciens textes_:
 
 ### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=130></a>
 
-###### Article 984
+###### Article 983
 
-(texte abrogé).
+Il est institué dans chaque département, par arrêté préfectoral, une commission paritaire de travail en agriculture composée
+en nombre égal de représentants des employeurs et des salariés de l'agriculture.
+
+Cette commission est composée de membres titulaires et de membres suppléants, désignés sur la proposition des organisations
+professionnelles les plus représentatives dans les conditions fixées par arrêté du ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -15629,13 +15633,13 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°75-694 1975-07-30 art. 1 JORF 3 août 1975
 
 _Nouveaux textes_:
 
-  - Code rural - art. L716-1 (M)
+  - Code rural - art. L715-1 (V)
 
 
 ###### Article 985
