@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-11-08
+Version Consolidée au 1967-12-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -110,7 +110,7 @@ Version Consolidée au 1967-11-08
     - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#107)
       - [Chapitre Ier : Organisation et fonctionnement. (art. 716)](#108)
       - [Chapitre II : Ressources. (art. 717 à 721)](#109)
-      - [Chapitre III : Opérations de crédit. (art. 722 à 736)](#110)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#110)
     - [Titre III : Inspection et contrôle. (art. 738 à 743)](#111)
     - [Titre IV : Dispositions diverses (art. 745 à 789)](#112)
       - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745)](#113)
@@ -12362,6 +12362,29 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
+###### Article 720
+
+Le ministre de l'économie et des finances est autorisé à passer toutes conventions avec la caisse nationale de crédit
+agricole en vue de fixer les modalités d'émission, par cet établissement, d'emprunts à moyen ou à long terme dont le produit
+doit être consacré, dans les conditions fixées par le présent livre, à l'octroi des prêts individuels et collectifs à moyen
+et à long terme dont la réalisation incombe à la caisse nationale de crédit agricole et aux institutions de crédit agricole
+mutuel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
+
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+
 ###### Article 721
 
 Les titres de l'emprunt, dont l'émission a été autorisée par la loi n° 48-31 du 7 janvier 1948, peuvent être admis en
@@ -12385,21 +12408,6 @@ _Abrogé par_:
 
 
 ### Chapitre III : Opérations de crédit.<a id=110></a>
-
-###### Article 722
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
-
 
 ###### Article 723
 
@@ -12479,6 +12487,35 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code monétaire et financier - art. R512-15 (V)
+
+
+###### Article 727
+
+Les prêts prévus à l'article 2 (2°) du décret n° 67-1097 du 18 décembre 1967, sont remboursables dans une durée maximum de
+trente ans. Cette durée peut être exceptionnellement portée à quarante ans lorsqu'il s'agit de travaux d'électrification
+rurale ou d'adduction d'eau, et à cinquante ans lorsqu'il s'agit de reboisement.
+
+Ils sont accordés par la caisse nationale de crédit agricole, sous la responsabilité des caisses régionales de crédit
+agricole mutuel par l'intermédiaire desquelles ils sont mis à la disposition des collectivités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°65-576 1965-07-15 art. 16 JORF 17 juillet 1965
+  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
+
+_Cite_:
+
+  - Décret n°67-1097 du 18 décembre 1967 - art. 2 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
 ###### Article 728
@@ -12579,6 +12616,30 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+
+###### Article 734
+
+L'attribution des avances que la caisse nationale de crédit agricole est autorisée à consentir en application de l'article 2
+du décret n° 67-1097 du 18 décembre 1967, peut être subordonnée à la garantie de l'autorité locale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Cite_:
+
+  - Décret n°67-1097 du 18 décembre 1967 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
 
 _Abrogé par_:
 
