@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1962-07-18
+Version Consolidée au 1962-09-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -90,7 +90,7 @@ Version Consolidée au 1962-07-18
       - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#87)
   - [Livre V : Crédit agricole (art. 615 à 789)](#88)
     - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#89)
-      - [Chapitre Ier : Organisation. (art. 615 à 630)](#90)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#90)
       - [Chapitre II : Fonctionnement. (art. 632 à 643)](#91)
       - [Chapitre III : Ressources. (art. 645 à 650)](#92)
       - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#93)
@@ -9342,6 +9342,32 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code monétaire et financier - art. L512-34 (M)
+
+
+###### Article 631
+
+Pour faire des opérations avec une caisse régionale de crédit agricole mutuel, une caisse de crédit agricole doit y être
+préalablement autorisée par la caisse nationale de crédit agricole. Elle doit, en outre, être régulièrement affiliée à cette
+caisse régionale et avoir souscrit au moins une part du capital social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°62-1038 1962-08-27 art. 2 JORF 1er septembre 1962
+
+_Abrogé par_:
+
+  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L512-35 (M)
 
 
 ### Chapitre II : Fonctionnement.<a id=91></a>
