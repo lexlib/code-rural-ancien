@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1986-03-14
+Version Consolidée au 1986-03-18
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -12780,22 +12780,12 @@ L'utilisation des bourses et furets destinés à prendre les lapins est autoris�
 départements où le lapin est classé comme animal nuisible. Dans les autres lieux, des autorisations individuelles et
 exceptionnelles, données par les préfets, sont nécessaires pour la capture des lapins avec bourses et furets.
 
-Néanmoins, le ministre de l'agriculture, assisté du Conseil national de la chasse et de la faune sauvage, prend les arrêtés
-pour déterminer :
-
-1° L'époque de la chasse aux oiseaux de passage, autres que la caille, la nomenclature des oiseaux et les modes et procédés
-de chasse pour les diverses espèces ;
-
-2° Le temps pendant lequel il est permis de chasser le gibier d'eau dans les marais, sur les étangs, fleuves et rivières.
-
-Il peut prendre également des arrêtés :
+Le ministre chargé de la chasse peut prendre des arrêtés :
 
 1° Pour prévenir la destruction ou favoriser le repeuplement des oiseaux ou de toute espèce de gibier, et sans qu'il soit
 ainsi dérogé au droit de destruction des bêtes fauves édictée à l'article 393 ;
 
 2° Pour autoriser l'emploi des chiens lévriers pour la destruction des animaux malfaisants ou nuisibles ;
-
-3° Pour interdire la chasse pendant le temps de neige ;
 
 4° Pour instituer et mettre en oeuvre, chaque année, dans les départements intéressés, un plan de chasse du grand gibier
 substituant à la limitation annuelle de la période de chasse le nombre d'animaux à tirer (cerf, chevreuil, daim, chamois,
@@ -12831,7 +12821,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°85-30 du 9 janvier 1985 - art. 39 () JORF 10 janvier 1985
+  - Décret n°86-571 1986-03-14 art. 1 JORF 18 mars 1986
 
 
 ###### Article 373-1
