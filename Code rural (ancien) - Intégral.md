@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1971-07-10
+Version Consolidée au 1971-08-11
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -12556,6 +12556,35 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+
+###### Article 696
+
+Les prêts spéciaux institués par l'article 675 en vue de la réparation des dégâts causés par les calamités publiques peuvent
+également être accordés sous forme de prêts à long terme et d'une durée maximale de trente ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 675
+
+_Nouveaux textes_:
+
+  - Code rural R361-40
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°56-1327 1956-12-29 art. 101 III JORF 30 décembre 1956
+  - Décret n°71-657 1971-08-04 art. 3 II JORF 11 août 1971
 
 _Abrogé par_:
 
