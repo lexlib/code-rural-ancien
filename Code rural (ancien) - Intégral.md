@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-01-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -139,14 +139,14 @@ Version Consolidée au 1977-12-31
       - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#136)
         - [Section 1 : Affiliation. (art. 1024 à 1030)](#137)
         - [Section 2 : Cotisations. (art. 1032 à 1036)](#138)
-        - [Section 3 : Prestations. (art. 1038-1 à 1047)](#139)
+        - [Section 3 : Prestations. (art. 1038-2 à 1047)](#139)
         - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#140)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#141)
       - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#142)
         - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#143)
         - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#144)
         - [Section 3 : Recouvrement. (art. 1080)](#145)
-        - [Section 4 : Prestations. (art. 1091-1 à 1092-3)](#146)
+        - [Section 4 : Prestations. (art. 1091 à 1092)](#146)
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#147)
       - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-3 à 1106-16 bis)](#148)
         - [Section 2 : Prestations. (art. 1106-3 à 1106-5)](#149)
@@ -18179,25 +18179,6 @@ _Modifié par_:
 
 #### Section 3 : Prestations.<a id=139></a>
 
-###### Article 1038-1
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°72-4 1972-01-03 art. 2 JORF 5 janvier 1972
-
-_Abrogé par_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 58 (Ab) JORF 1er juillet 1975 en vigueur le 1er janvier 1978
-
-
 ###### Article 1038-2
 
 Sous réserve des dispositions des conventions et règlements internationaux et de l'article 1263-3, lorsque des soins sont
@@ -19343,6 +19324,43 @@ _Abrogé par_:
 
 #### Section 4 : Prestations.<a id=146></a>
 
+###### Article 1091
+
+Les prestations familiales visées à l'article 1090, servies aux personnes salariées du régime agricole, sont calculées sur
+les mêmes bases que celles des salariés des professions commerciales et industrielles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1090
+
+_Nouveaux textes_:
+
+  - Code rural L742-1
+  - Code rural - art. L742-1 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°62-806 1962-07-12 art. 1 JORF 18 juillet 1962
+  - Loi n°74-644 1974-07-16 art. 14 JORF 17 juillet 1974
+  - Loi n°75-574 du 4 juillet 1975 - art. 17 (V) JORF 5 juillet 1975 en vigueur le 1er janvier 1978
+
+_Anciens textes_:
+
+  - Loi n°1947-06-25 art. 17
+  - Loi n°1948-03-02 art. 2
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1091-1
 
 A compter du 1er janvier 1956, le bénéfice des prestations familiales au titre de salarié ne peut être accordé qu'aux
@@ -19373,107 +19391,41 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-###### Article 1092-1
+###### Article 1092
 
-Une allocation dite de la "mère au foyer" est attribuée au titre des chefs de famille non-salariés des professions agricoles,
-dont le principal revenu provient de l'exploitation, et dont le conjoint, ne bénéficiant pas d'un revenu professionnel
-distinct, se consacre principalement aux tâches du foyer et à l'éducation des enfants.
-
-Lorsqu'un chef de famille exerce à la fois une activité non-salariée et une activité salariée, il peut bénéficier de
-l'allocation de salaire unique au titre de cette dernière activité, à condition que l'activité non salariée ne soit que
-secondaire.
-
-La même allocation de la mère au foyer sera attribuée, aux mêmes conditions, aux artisans ruraux assujettis au régime
-agricole.
-
-Les personnes seules, ainsi que les membres de la famille de l'exploitant, peuvent également y prétendre.
-
-L'allocation de la mère au foyer cesse d'être due lorsque l'ensemble des ressources du ménage ou de la personne bénéficiaire
-dépasse un plafond fixé compte tenu du nombre des enfants à charge.
-
-L'allocation de la mère au foyer est complétée par une majoration attribuée en raison du nombre ou de l'âge des enfants,
-lorsque l'ensemble des ressources du ménage ou de la personne bénéficiaire ne dépasse pas un chiffre limite inférieur au
-plafond mentionné à l'alinéa précédent, et fixé compte tenu du nombre d'enfants à charge.
+Les prestations familiales visées à l'article 1090, servies aux personnes non salariées du régime agricole, sont calculées
+sur les mêmes bases que celles des salariés des professions commerciales et industrielles.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°55-1045 du 6 août 1955 - art. 2, v. init.
-
-_Modifié par_:
-
-  - Loi n°72-8 1972-01-03 art. 4 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
-
-_Abrogé par_:
-
-  - Loi n°77-765 du 12 juillet 1977 - art. 10 (V) JORF 13 juillet 1977 en vigueur le 1er janvier 1978
-
-
-###### Article 1092-2
-
-L'allocation et la majoration visées à l'article 1092-1 sont calculées sur les mêmes bases et attribuées dans les mêmes
-conditions que l'allocation de salaire unique et la majoration visées à l'article L. 533 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
+  - Code rural - art. L732-2 (V)
+  - Code rural L732-2
 
 _Cite_:
 
-  - Code rural 1092-1
-  - Code de la sécurité sociale L533
+  - Code rural 1090
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Anciens textes_:
 
-  - Loi n°55-1045 du 6 août 1955 - art. 2, v. init.
+  - Loi n°1946-08-22 art. 11
+  - Loi n°1947-06-25 art. 17 al. 1, al. 2
+  - Loi n°1948-03-02 art. 2
 
 _Modifié par_:
 
-  - Loi n°62-1529 1962-12-22 art. 9 JORF 25 décembre 1962
-  - Ordonnance n°67-708 du 21 août 1967 - art. 7 () JORF 22 août 1967
-  - Loi n°72-8 1972-01-03 art. 5 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
+  - Loi n°74-644 1974-07-16 art. 14 JORF 17 juillet 1974
+  - Loi n°75-574 du 4 juillet 1975 - art. 17 (V) JORF 5 juillet 1975 en vigueur le 1er janvier 1978
 
 _Abrogé par_:
 
-  - Loi n°77-765 du 12 juillet 1977 - art. 10 (V) JORF 13 juillet 1977 en vigueur le 1er janvier 1978
-
-
-###### Article 1092-3
-
-Un décret pris sur le rapport du ministre de l'agriculture, du ministre de l'économie et des finances et du ministre de la
-santé publique et de la sécurité sociale fixe les conditions d'application des articles 1092-1 et 1092-2. Il détermine
-notamment le montant mensuel de l'allocation de la mère au foyer, dans l'agriculture et de la majoration, en fonction, le cas
-échéant, du nombre d'enfants à charge, de leur âge et des ressources du ménage ou de la personne bénéficiaire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1092-1, 1092-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°55-1045 du 6 août 1955 - art. 2, v. init.
-
-_Modifié par_:
-
-  - Ordonnance n°67-708 du 21 août 1967 - art. 8 () JORF 22 août 1967
-  - Loi n°72-8 1972-01-03 art. 5 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
-
-_Abrogé par_:
-
-  - Loi n°77-765 du 12 juillet 1977 - art. 10 (V) JORF 13 juillet 1977 en vigueur le 1er janvier 1978
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 5 : Organisation administrative et financière.<a id=147></a>
