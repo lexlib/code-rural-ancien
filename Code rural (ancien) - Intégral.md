@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1958-12-31
+Version Consolidée au 1959-01-08
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -2319,6 +2319,32 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1807-09-16
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 168
+
+Les indemnités dues aux concessionnaires, à raison de la plus-value résultant des dessèchements, sont garanties par une
+hypothèque légale sur toute ladite plus-value à charge de faire publier l'acte de concession ou le décret qui ordonne le
+dessèchement et d'inscrire l'hypothèque légale dans la forme et de la manière prescrite par la loi au bureau ou aux bureaux
+des hypothèques de l'arrondissement ou des arrondissements de la situation des marais desséchés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1807-09-16
+
+_Modifié par_:
+
+  - Ordonnance 59-71 1959-01-07 art. 2 JORF 8 janvier 1959
 
 _Abrogé par_:
 
@@ -10424,6 +10450,46 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
+###### Article 778
+
+Le capital produit depuis le premier versement jusqu'à l'expiration du délai pour lequel le livret de "domaine-retraite" a
+été souscrit ne peut être utilisé par les titulaires de livrets "domaine-retraite" qu'à l'acquisition de biens dont le prix
+d'achat, frais non compris, n'excède pas de plus de 25 p. 100 le montant des sommes capitalisées mentionnées au livret lors
+de cet achat ou à l'aménagement de biens ruraux leur appartenant.
+
+Ledit pourcentage peut être modifié par arrêté conjoint des ministres de l'économie et des finances, de l'agriculture et de
+l'équipement et du logement.
+
+Les versements correspondant au prix d'achat des biens acquis dans la limite fixée au premier alinéa du présent article sont
+effectués directement au vendeur par les caisses de crédit agricole mutuel pour le compte des titulaires de livrets de
+"domaine-retraite".
+
+Les versements correspondant à des aménagements de biens ruraux appartenant aux titulaires de "domaine-retraite" sont
+effectués directement par les caisses régionales de crédit agricole mutuel pour le compte des titulaires de livrets aux
+entrepreneurs ayant effectué les travaux qui doivent être approuvés et suivis par le service du génie rural.
+
+Seul le reliquat des sommes capitalisées après déduction de ces paiements peut faire l'objet d'un versement en espèces aux
+titulaires de livret ou à leurs ayants droit si ce reliquat n'excède pas le quart des sommes capitalisées. Dans le cas
+contraire, il reste acquis à la caisse nationale de crédit agricole.
+
+La caisse nationale de crédit agricole jouit d'une hypothèque légale sur les biens acquis ou aménagés au moyen du livret de
+"domaine-retraite", en cas de revente dans un délai de moins de dix ans de leur acquisition ou de leur aménagement par les
+titulaires du livret eux-mêmes. Cette hypothèque prend rang du jour de son inscription.
+
+L'hypothèque garantit les remboursements, à concurrence de 50 p. 100 du montant des intérêts des intérêts capitalisés
+produits par les versements du titulaire du livret de "domaine-retraite".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Ordonnance 59-71 1959-01-07 art. 2 JORF 8 janvier 1959
+
+
 ###### Article 779
 
 Dans le cas où avant l'expiration du délai pour lequel le livret de "domaine-retraite" a été souscrit, le titulaire ferait
@@ -11563,6 +11629,37 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Loi n°1944-01-04 art. 1
+
+
+###### Article 1033
+
+Le paiement des cotisations ouvrières et patronales pour l'année échue et pour l'année courante est garanti :
+
+1° Par un privilège mobilier qui prend rang, concurremment avec celui établi par l'article 2101 (4°) du code civil ;
+
+2° Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1935-10-28 art. 5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Ordonnance 59-71 1959-01-07 art. 2 JORF 8 janvier 1959
+
+_Abrogé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 15 (V) JORF 31 juillet 1987
+
+_Cite_:
+
+  - Code civil - art. 2101 (M)
 
 
 ###### Article 1035
