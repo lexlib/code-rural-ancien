@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1997-04-24
+Version Consolidée au 1997-07-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -5503,18 +5503,20 @@ _Abrogé par_:
 La chambre de discipline réprime tous les manquements des vétérinaires et docteurs vétérinaires aux devoirs de leur
 profession.
 
-Elle peut être saisie par le conseil supérieur de l'ordre, les syndicats de vétérinaires et également par le préfet, le
-procureur de la République ou tout intéressé.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°47-1564 1947-08-23
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 321
@@ -5590,26 +5592,28 @@ _Abrogé par_:
 ###### Article 323
 
 Appel des décisions des chambres régionales de discipline peut être porté devant la chambre supérieure de discipline. Elle
-est composée des membres du conseil supérieur de l'ordre et d'un conseiller honoraire à la Cour de cassation, exerçant la
-présidence et désigné par le premier président de la Cour de cassation.
+est composée des membres du conseil supérieur de l'ordre et d'un conseiller honoraire à la Cour de cassation, ou à défaut
+d'un conseiller en activité, exerçant la présidence et désigné par le premier président de la Cour de cassation.
 
 La chambre supérieure de discipline peut être saisie, dans le délai de deux mois à dater du jour de la notification, de la
 décision de la chambre régionale de discipline par l'intéressé ou les auteurs de la plainte.
 
 L'appel a un effet suspensif.
 
-Les décisions de la chambre supérieure de discipline peuvent être déférées à la juridiction administrative dans les
-conditions de droit commun.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°47-1564 1947-08-23
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 324
