@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-01-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -157,7 +157,7 @@ Version Consolidée au 1982-01-01
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#154)
       - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#155)
         - [Section 1 : Champ d'application. (art. 1106-1)](#156)
-        - [Section 2 : Prestations. (art. 1106-3 à 1106-5)](#157)
+        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#157)
         - [Section 3 : Financement. (art. 1106-6 à 1106-7)](#158)
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#159)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#160)
@@ -20082,6 +20082,39 @@ _Anciens textes_:
   - Décret n°1935-10-28 art. 2, art. 22
 
 
+###### Article 1031-1
+
+La couverture des charges de l'assurance veuvage est assurée par des cotisations assises sur les rémunérations ou gains
+perçus par les travailleurs salariés ou assimilés.
+
+Ces cotisations, dont le taux est fixé par décret, sont à la charge des salariés.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L741-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°72-4 1972-01-03 art. 1 JORF 5 janvier 1972
+  - Loi n°80-546 du 17 juillet 1980 - art. 6 () JORF 18 juillet 1980 en vigueur le 1 janvier 1981
+
+_Abrogé par_:
+
+  - Loi n°75-534 du 30 juin 1975 - art. 58 (Ab) JORF 1 juillet 1975 en vigueur le 1er janvier 1978
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Modifié par_:
+
+  - Loi n°82-1 du 4 janvier 1982 - art. 5 () JORF 5 janvier 1982
+
+
 ###### Article 1032
 
 Les cotisations d'assurances sociales agricoles sont obligatoirement versées à la caisse de mutualité sociale agricole agréée
@@ -21896,6 +21929,66 @@ _Nouveaux textes_:
 
 
 #### Section 2 : Prestations.<a id=157></a>
+
+###### Article 1106-2
+
+I. - Les membres non salariés des professions agricoles visés à l'article 1106-1 sont obligatoirement assurés à l'égard :
+
+1° De la maternité ;
+
+2° a) Des maladies ;
+
+b) Des accidents des enfants mineurs de seize ans et assimilés qui n'exercent pas d'activité professionnelle, ainsi que des
+suites que peuvent entraîner lesdits accidents pour les victimes après l'âge de seize ans ou, le cas échéant, de vingt ans,
+dès lors qu'elles demeurent assujetties au régime d'assurance obligatoire institué par le présent chapitre ;
+
+c) Des accidents des titulaires de retraites ou d'allocations de vieillesse agricole visés à l'article 1106-1 (I, 3°) et des
+assujettis visés au même article (6°) ainsi que de leurs conjoints, lorsque les uns et les autres n'exercent pas d'activité
+professionnelle ;
+
+d) Des rechutes consécutives aux accidents du travail survenus antérieurement à la date d'application de la loi n° 66-950 du
+22 décembre 1966, aux assujettis visés à l'article 1106-1 (I, 1° à 5° inclus), lorsque ces accidents ont été pris en charge
+au titre de l'adhésion du chef d'exploitation aux dispositions du titre III du présent livre ;
+
+e) Des suites des accidents survenus dans un régime obligatoire d'assurance maladie dont relevaient, soit en qualité
+d'assurés, soit en qualité d'ayants droit, les personnes visées à l'article 1106-1 I avant leur assujettissement au présent
+régime.
+
+3° De l'invalidité.
+
+II. - L'assurance ne comporte en aucun cas l'attribution d'indemnités journalières. Sous réserve des dispositions prévues aux
+alinéas 2°, b et c, du paragraphe I ci-dessus, elle ne couvre pas les conséquences des accidents lors même qu'il n'y aurait
+pas affiliation au régime institué par le chapitre III du titre III du présent livre.
+
+III. - Les prestations prévues aux 1° et 2° du paragraphe I du présent article sont servies dans les mêmes conditions que
+dans le régime des assurances sociales agricoles pour les catégories correspondantes.
+
+IV. - Des décrets fixeront les conditions de liaison et de coordination entre les contrôles médicaux des régimes d'assurances
+sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé sous l'égide du haut comité médical.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1106-1
+  - Loi n°66-950 1966-12-22
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
+  - Loi n°72-1121 1972-12-20 art. 63 II JORF 21 décembre 1972
+  - Loi n°82-1 1982-01-04 art. 10 JORF 5 janvier 1982
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-3 (M)
+  - Code rural - art. L732-4 (M)
+  - Code rural - art. L732-5 (M)
+
 
 ###### Article 1106-3
 
