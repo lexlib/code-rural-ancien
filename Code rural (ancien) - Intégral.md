@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1999-01-01
+Version Consolidée au 1999-01-07
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -10,138 +10,139 @@ Version Consolidée au 1999-01-01
         - [Section 2 : Elargissement, régularisation et redressement. (art. 120)](#7)
         - [Section 3 : Dispositions communes. (art. 121 à 122-2)](#8)
   - [Livre II : Des animaux et des végétaux (art. 200 à 365)](#9)
-    - [Titre II : De la garde des animaux domestiques (art. 200 à 213-2)](#10)
+    - [Titre II : De la garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité (art. 200 à 213-7)](#10)
       - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#11)
       - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#12)
-      - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 213-2)](#13)
-    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 243)](#14)
-      - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#15)
-      - [Chapitre III : De la police sanitaire (art. 219 à 243)](#16)
-        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224 à 243)](#17)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 271-1)](#18)
-      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#19)
-      - [Chapitre II : De l'équarrissage. (art. 264 à 271-1)](#20)
-    - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale (art. 275-1 à 275-12)](#21)
-      - [Chapitre Ier : Dispositions générales. (art. 275-1 à 275-3)](#22)
-      - [Chapitre II : Des importations. (art. 275-4)](#23)
-      - [Chapitre III : Des échanges intracommunautaires. (art. 275-5 à 275-8)](#24)
-      - [Chapitre IV : Dispositions diverses. (art. 275-9 à 275-12)](#25)
-    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-6)](#26)
-    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#27)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#28)
-    - [Titre IX : Des pénalités. (art. 325 à 341)](#29)
-    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#30)
-      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 343 à 347)](#31)
-      - [Chapitre II : Mesures de défense contre les organismes nuisibles. (art. 348 à 355)](#32)
-      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 356 à 359)](#33)
-      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#34)
-      - [Chapitre V : Sanctions et dispositions diverses. (art. 363 à 364)](#35)
-    - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte. (art. 364-1 à 364-23)](#36)
-      - [Section 1 : De la garde des animaux domestiques. (art. 364-2)](#37)
-      - [Section 2 : De la lutte contre les maladies des animaux. (art. 364-3 à 364-11)](#38)
-      - [Section 3 : Du contrôle sanitaire des animaux et des viandes. (art. 364-12 à 364-16)](#39)
-      - [Section 5 : Des pénalités. (art. 364-18)](#40)
-      - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#41)
-      - [Section 7 : Dispositions communes. (art. 364-23)](#42)
-    - [Titre XII : Agence française de sécurité sanitaire des aliments (art. 365)](#43)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#44)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#45)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#46)
-    - [Titre II : Coopératives agricoles (art. 551)](#47)
-      - [Chapitre unique : Sanctions pénales. (art. 551)](#48)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#49)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#50)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#51)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#52)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#53)
-      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#54)
-        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#55)
-        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#56)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#57)
-        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#58)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#59)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#60)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#61)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#62)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#63)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#64)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#65)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#66)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#67)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#68)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#69)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#70)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#71)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#72)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#73)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#74)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#75)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#76)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#77)
-    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#78)
-      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 983 à 985)](#79)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#80)
-      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#81)
-    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-6)](#82)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#83)
-      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#84)
-        - [Section 1 : Affiliation. (art. 1024 à 1030)](#85)
-        - [Section 2 : Cotisations. (art. 1031 à 1036)](#86)
-        - [Section 3 : Prestations. (art. 1038 à 1047)](#87)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#88)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#89)
-      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#90)
-        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1072)](#91)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#92)
-        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#93)
-        - [Section 4 : Prestations. (art. 1090 à 1092)](#94)
-        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#95)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#96)
-        - [Section 1 : Champ d'application. (art. 1106-1)](#97)
-        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#98)
-        - [Section 3 : Financement. (art. 1106-6 à 1106-8)](#99)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#100)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#101)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#102)
-        - [Section 1 : Prestations (art. 1110 à 1122-8)](#103)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#104)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#105)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-5 à 1122-8)](#106)
-        - [Section 2 : Cotisations. (art. 1123 à 1135)](#107)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#108)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#109)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#110)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#111)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-6)](#112)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#113)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#114)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#115)
-        - [Section 2 : Prestations. (art. 1148)](#116)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#117)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#118)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#119)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#120)
-        - [Section 7 : Prévention. (art. 1171)](#121)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#122)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#123)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#124)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#125)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#126)
-      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#127)
-      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#128)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#129)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#130)
-      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#131)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#132)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#133)
-      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#134)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#135)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#136)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#137)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#138)
-    - [Titre III : Recherche (art. 1337)](#139)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#140)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#141)
+      - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 213-6)](#13)
+      - [Chapitre IV : Des mesures conservatoires à l'égard des animaux domestiques ou des animaux sauvages apprivoisés ou tenus en captivité (art. 213-7)](#14)
+    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 243)](#15)
+      - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#16)
+      - [Chapitre III : De la police sanitaire (art. 219 à 243)](#17)
+        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224 à 243)](#18)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 271-1)](#19)
+      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 263)](#20)
+      - [Chapitre II : De l'équarrissage. (art. 264 à 271-1)](#21)
+    - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale (art. 275-1 à 275-12)](#22)
+      - [Chapitre Ier : Dispositions générales. (art. 275-1 à 275-3)](#23)
+      - [Chapitre II : Des importations. (art. 275-4)](#24)
+      - [Chapitre III : Des échanges intracommunautaires. (art. 275-5 à 275-8)](#25)
+      - [Chapitre IV : Dispositions diverses. (art. 275-9 à 275-12)](#26)
+    - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 276 à 283-7)](#27)
+    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#28)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324-1)](#29)
+    - [Titre IX : Des pénalités. (art. 325 à 341)](#30)
+    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#31)
+      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 343 à 347)](#32)
+      - [Chapitre II : Mesures de défense contre les organismes nuisibles. (art. 348 à 355)](#33)
+      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 356 à 359)](#34)
+      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#35)
+      - [Chapitre V : Sanctions et dispositions diverses. (art. 363 à 364)](#36)
+    - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte. (art. 364-1 à 364-23)](#37)
+      - [Section 1 : De la garde des animaux domestiques. (art. 364-2)](#38)
+      - [Section 2 : De la lutte contre les maladies des animaux. (art. 364-3 à 364-11)](#39)
+      - [Section 3 : Du contrôle sanitaire des animaux et des viandes. (art. 364-12 à 364-16)](#40)
+      - [Section 5 : Des pénalités. (art. 364-18)](#41)
+      - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#42)
+      - [Section 7 : Dispositions communes. (art. 364-23)](#43)
+    - [Titre XII : Agence française de sécurité sanitaire des aliments (art. 365)](#44)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#45)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#46)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#47)
+    - [Titre II : Coopératives agricoles (art. 551)](#48)
+      - [Chapitre unique : Sanctions pénales. (art. 551)](#49)
+  - [Livre V : Crédit agricole (art. 614 à 789)](#50)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#51)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#52)
+      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#53)
+      - [Chapitre III : Ressources. (art. 645 à 652)](#54)
+      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#55)
+        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#56)
+        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#57)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#58)
+        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#59)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#60)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#61)
+    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#62)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#63)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#64)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#65)
+    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#66)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#67)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#68)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#69)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#70)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#71)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#72)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#73)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#74)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#75)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#76)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#77)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#78)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#79)
+      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 983 à 985)](#80)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#81)
+      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#82)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-6)](#83)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#84)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#85)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#86)
+        - [Section 2 : Cotisations. (art. 1031 à 1036)](#87)
+        - [Section 3 : Prestations. (art. 1038 à 1047)](#88)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#89)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#90)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#91)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1072)](#92)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#93)
+        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#94)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#95)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#96)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#97)
+        - [Section 1 : Champ d'application. (art. 1106-1)](#98)
+        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#99)
+        - [Section 3 : Financement. (art. 1106-6 à 1106-8)](#100)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#101)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#102)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#103)
+        - [Section 1 : Prestations (art. 1110 à 1122-8)](#104)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#105)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#106)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-5 à 1122-8)](#107)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#108)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#109)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#110)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#111)
+      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#112)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-6)](#113)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#114)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#115)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#116)
+        - [Section 2 : Prestations. (art. 1148)](#117)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#118)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#119)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#120)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#121)
+        - [Section 7 : Prévention. (art. 1171)](#122)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#123)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#124)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#125)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#126)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#127)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#128)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#129)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#130)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#131)
+      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#132)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#133)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#134)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#135)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#136)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#137)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#138)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#139)
+    - [Titre III : Recherche (art. 1337)](#140)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#141)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#142)
 # Livre Ier : Régime du sol<a id=1></a>
 
 ## Titre III : Des cours d'eaux non domaniaux<a id=2></a>
@@ -1026,7 +1027,7 @@ _Nouveaux textes_:
 
 # Livre II : Des animaux et des végétaux<a id=9></a>
 
-## Titre II : De la garde des animaux domestiques<a id=10></a>
+## Titre II : De la garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité<a id=10></a>
 
 ### Chapitre Ier : Des bestiaux et des chèvres.<a id=11></a>
 
@@ -1053,14 +1054,19 @@ en raison des circonstances, de relever l'opposant de la rigueur du délai.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 _Cite_:
 
   - Code civil - art. 1385 (V)
-
-_Anciens textes_:
-
-  - Loi n°1889-04-04 art. 1, art. 2, art. 3
 
 
 ###### Article 201
@@ -1075,10 +1081,15 @@ Les propriétaires de chèvres conduites en commun sont solidairement responsabl
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 1, art. 2, art. 3
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 201-1
@@ -1094,10 +1105,15 @@ au préalable, agréés.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°56-464 1956-05-07 art. 1 JORF 9 mai 1956
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ### Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres.<a id=12></a>
@@ -1118,14 +1134,19 @@ ou étang, appartiennent au propiétaire de ces objets, pourvu qu'ils n'y aient 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 _Cite_:
 
   - Code civil - art. 564 (M)
-
-_Anciens textes_:
-
-  - Loi n°1889-04-04 art. 5
 
 
 ###### Article 203
@@ -1142,11 +1163,15 @@ propriétaire, fermier ou métayer du champ envahi, est tenu de les enfouir sur 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 4
-  - Loi n°1898-06-21 art. 15
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 204
@@ -1161,10 +1186,15 @@ Les colombiers de pigeons voyageurs restent ouverts pendant la période de clôt
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-508 du 23 juin 1994 - art. 4 () JORF 24 juin 1994
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 205
@@ -1185,10 +1215,15 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 7
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 206
@@ -1201,10 +1236,15 @@ propriétés voisines ou la voie publique, sauf, en tout cas, l'action en dommag
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 8
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 207
@@ -1226,10 +1266,15 @@ ruche.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1898-06-21 art. 17
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 208
@@ -1242,10 +1287,15 @@ Dans le cas où les ruches à miel pourraient être saisies séparément du fond
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 10
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 209
@@ -1258,10 +1308,15 @@ autrement l'essaim appartient au propriétaire du terrain sur lequel il s'est fi
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 9
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 210
@@ -1274,28 +1329,394 @@ nécessaires.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1889-04-04 art. 11
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ### Chapitre III : Des animaux dangereux et errants.<a id=13></a>
 
 ###### Article 211
 
-Les animaux dangereux doivent être tenus enfermés, attachés, enchaînés et de manière qu'ils ne puissent causer aucun
-accident, soit aux personnes, soit aux animaux domestiques.
+Si un animal est susceptible, compte tenu des modalités de sa garde, de présenter un danger pour les personnes ou les animaux
+domestiques, le maire, de sa propre initiative ou à la demande de toute personne concernée, peut prescrire au propriétaire ou
+au gardien de cet animal de prendre des mesures de nature à prévenir le danger.
+
+En cas d'inexécution, par le propriétaire ou le gardien de l'animal, des mesures prescrites, le maire peut, par arrêté,
+placer l'animal dans un lieu de dépôt adapté à l'accueil et à la garde de celui-ci. Les frais sont à la charge du
+propriétaire ou du gardien.
+
+Si, à l'issue d'un délai franc de garde de huit jours ouvrés, le propriétaire ou le gardien ne présente pas toutes les
+garanties quant à l'application des mesures prescrites, le maire autorise le gestionnaire du lieu de dépôt, après avis d'un
+vétérinaire mandaté par la direction des services vétérinaires, soit à faire procéder à l'euthanasie de l'animal, soit à en
+disposer dans les conditions prévues au II de l'article 213-4.
+
+Le propriétaire ou le gardien de l'animal est invité à présenter ses observations avant la mise en oeuvre des dispositions du
+présent article. En cas d'urgence, cette formalité n'est pas exigée et les pouvoirs du maire peuvent être exercés par le
+préfet.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 213-4
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 1 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-1
+
+Les types de chiens susceptibles d'être dangereux faisant l'objet des mesures spécifiques prévues par les articles 211-2 à
+211-5, sans préjudice des dispositions de l'article 211, sont répartis en deux catégories :
+
+- première catégorie : les chiens d'attaque ;
+
+- deuxième catégorie : les chiens de garde et de défense.
+
+Un arrêté du ministre de l'intérieur et du ministre de l'agriculture établit la liste des types de chiens relevant de chacune
+de ces catégories.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211-2 à 211-5, 211
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-2
+
+I. - Ne peuvent détenir les chiens mentionnés à l'article 211-1 :
+
+- les personnes âgées de moins de dix-huit ans ;
+
+- les majeurs en tutelle à moins qu'ils n'y aient été autorisés par le juge des tutelles ;
+
+- les personnes condamnées pour crime ou à une peine d'emprisonnement avec ou sans sursis pour délit inscrit au bulletin n° 2
+du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent ;
+
+- les personnes auxquelles la propriété ou la garde d'un chien a été retirée en application de l'article 211. Le maire peut
+accorder une dérogation à l'interdiction en considération du comportement du demandeur depuis la décision de retrait, à
+condition que celle-ci ait été prononcée plus de dix ans avant le dépôt de la déclaration visée à l'article 211-3.
+
+II. - Est puni de trois mois d'emprisonnement et de 25 000 F d'amende le fait de détenir un chien appartenant à la première
+ou la deuxième catégorie mentionnées à l'article 211-1, en contravention avec l'interdiction édictée au I du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211-1, 211, 211-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-5 du 6 janvier 1999 - art. 30 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-3
+
+I. - Pour les personnes autres que celles mentionnées à l'article 211-2, la détention de chiens mentionnés à l'article 211-1
+est subordonnée au dépôt d'une déclaration à la mairie du lieu de résidence du propriétaire de l'animal ou, quand il diffère
+de celui de son propriétaire, du lieu de résidence du chien. Cette déclaration doit être à nouveau déposée chaque fois à la
+mairie du nouveau domicile.
+
+II. - Il est donné récépissé de cette déclaration par le maire lorsque y sont jointes les pièces justifiant :
+
+- de l'identification du chien conforme à l'article 276-2 ;
+
+- de la vaccination antirabique du chien en cours de validité ;
+
+- pour les chiens mâles et femelles de la première catégorie, le certificat vétérinaire de stérilisation de l'animal ;
+
+- dans des conditions fixées par décret, d'une assurance garantissant la responsabilité civile du propriétaire du chien ou de
+celui qui le détient, pour les dommages causés aux tiers par l'animal. Les membres de la famille du propriétaire ou de celui
+qui détient l'animal sont considérés comme tiers au sens des présentes dispositions.
+
+III. - Une fois la déclaration déposée, il doit être satisfait en permanence aux conditions énumérées au II.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211-2, 211-1, 276-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-5 du 6 janvier 1999 - art. 30 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-4
+
+I. - L'acquisition, la cession à titre gratuit ou onéreux, hormis les cas prévus au troisième alinéa de l'article 211 ou au
+troisième alinéa de l'article 213-7, l'importation et l'introduction sur le territoire métropolitain, dans les départements
+d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon des chiens de la première catégorie mentionnée à
+l'article 211-1 sont interdites.
+
+II. - La stérilisation des chiens de la première catégorie est obligatoire. Cette stérilisation donne lieu à un certificat
+vétérinaire.
+
+III. - Le fait d'acquérir, de céder à titre gratuit ou onéreux, hormis les cas prévus au troisième alinéa de l'article 211 ou
+au troisième alinéa de l'article 213-7, d'importer ou d'introduire sur le territoire métropolitain, dans les départements
+d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon des chiens de la première catégorie mentionnée à
+l'article 211-1 est puni de six mois d'emprisonnement et de 100 000 F d'amende.
+
+Le fait de détenir un chien de la première catégorie sans avoir fait procéder à sa stérilisation est puni des peines prévues
+au premier alinéa.
+
+Les peines complémentaires suivantes peuvent être prononcées à l'égard des personnes physiques :
+
+1° La confiscation du ou des chiens concernés, dans les conditions prévues à l'article 131-21 du code pénal ;
+
+2° L'interdiction, pour une durée de trois ans au plus, d'exercer une activité professionnelle ou sociale dès lors que les
+facilités que procure cette activité ont été sciemment utilisées pour préparer ou commettre l'infraction, dans les conditions
+prévues à l'article 131-29 du même code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211, 213-7, 211-1
+  - Code pénal - art. 131-21 (M)
+  - Code pénal - art. 131-29 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-5 du 6 janvier 1999 - art. 30 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-5
+
+I. - L'accès des chiens de la première catégorie aux transports en commun, aux lieux publics à l'exception de la voie
+publique et aux locaux ouverts au public est interdit. Leur stationnement dans les parties communes des immeubles collectifs
+est également interdit.
+
+II. - Sur la voie publique, dans les parties communes des immeubles collectifs, les chiens de la première et de la deuxième
+catégorie doivent être muselés et tenus en laisse par une personne majeure. Il en est de même pour les chiens de la deuxième
+catégorie dans les lieux publics, les locaux ouverts au public et les transports en commun.
+
+III. - Un bailleur ou un copropriétaire peut saisir le maire en cas de dangerosité d'un chien résidant dans un des logements
+dont il est propriétaire. Le maire peut alors procéder, s'il le juge nécessaire, à l'application des mesures prévues à
+l'article 211.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-6
+
+I. - Le dressage des chiens au mordant n'est autorisé que dans le cadre des activités de sélection canine encadrées par une
+association agréée par le ministre de l'agriculture et des activités de surveillance, de gardiennage et de transport de
+fonds.
+
+Seuls les dresseurs détenant un certificat de capacité peuvent exercer l'activité de dressage des chiens au mordant et
+acquérir des objets et des matériels destinés à ce dressage. Il en est de même pour les responsables des activités de
+sélection canine mentionnées à l'alinéa précédent. Le certificat de capacité est délivré par l'autorité administrative aux
+candidats justifiant d'une aptitude professionnelle.
+
+L'acquisition, à titre gratuit ou onéreux, par des personnes non titulaires du certificat de capacité, d'objets et de
+matériels destinés au dressage au mordant est interdite. Le certificat de capacité doit être présenté au vendeur avant toute
+cession. Celle-ci est alors inscrite sur un registre spécial tenu par le vendeur ou le cédant et mis à la disposition des
+autorités de police et des administrations chargées de l'application du présent article quand elles le demandent.
+
+II. - Le fait de dresser ou de faire dresser des chiens au mordant, ou de les utiliser, en dehors des activités mentionnées
+au premier alinéa du I est puni de six mois d'emprisonnement et de 50 000 F d'amende et de la peine complémentaire de la
+confiscation du ou des chiens concernés.
+
+Le fait, pour une personne physique, d'exercer une activité de dressage au mordant sans être titulaire du certificat de
+capacité mentionné au I est puni de six mois d'emprisonnement et de 50 000 F d'amende et de la peine complémentaire de la
+confiscation du ou des chiens concernés ainsi que des objets ou matériels qui ont servi au dressage.
+
+Le fait de vendre ou de céder des objets ou du matériel destinés au dressage au mordant à une personne non titulaire du
+certificat de capacité mentionné au I est puni de six mois d'emprisonnement et de 50 000 F d'amende. La peine complémentaire
+de confiscation des objets ou du matériel proposés à la vente ou à la cession est également encourue.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Créé par_:
 
-  - Loi n°1898-06-21 art. 14
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-5 du 6 janvier 1999 - art. 30 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-7
+
+Les dispositions des articles 211-2 à 211-6 ne s'appliquent pas aux services et unités de la police nationale, des armées, de
+la gendarmerie, des douanes et des services publics de secours, utilisateurs de chiens.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211-2 à 211-6
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-8
+
+La procédure de l'amende forfaitaire figurant aux articles 529 à 529-2 et 530 à 530-3 du code de procédure pénale est
+applicable en cas de contravention aux dispositions des articles 211-3 et 211-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211-3, 211-5
+  - Code de procédure pénale 529 à 529-2, 530 à 530-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 211-9
+
+Des décrets en Conseil d'Etat déterminent les modalités d'application des articles 211 à 211-6.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 211 à 211-6
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 2 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 212
@@ -1317,42 +1738,81 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1898-06-21 art. 15 al. 1, al. 2
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 213
+###### Article 212-1
 
-Les maires doivent prendre toutes dispositions propres à empêcher la divagation des chiens et des chats. Ils peuvent ordonner
-que ces animaux soient tenus en laisse et que les chiens soient muselés. Ils prescrivent que les chiens et les chats errants
-et tous ceux qui seraient saisis sur la voie publique, dans les champs ou dans les bois, seront conduits à la fourrière où il
-seront gardés pendant un délai minimum de quatre jours ouvrés et francs. Dans le cas où ces animaux sont identifiés par le
-port d'un collier sur lequel figurent le nom et le domicile de leur maître ou par tout autre procédé défini par arrêté du
-ministre compétent, ce délai minimum est porté à huit jours ouvrés et francs. Les propriétaires des animaux identifiés sont
-avisés par les soins des responsables de la fourrière.
+Les maires prescrivent que les animaux d'espèce sauvage apprivoisés ou tenus en captivité, trouvés errants et qui sont saisis
+sur le territoire de la commune, sont conduits à un lieu de dépôt désigné par eux. Ces animaux y sont maintenus aux frais du
+propriétaire ou du gardien.
 
-Les propriétaires, locataires, fermiers ou métayers ont le droit de saisir ou de faire saisir par un agent de la force
-publique les chiens et les chats que leurs maîtres laissent divaguer dans les propriétés privées. Les animaux saisis sont
-conduits à la fourrière.
+Les propriétaires, locataires, fermiers ou métayers peuvent saisir ou faire saisir par un agent de la force publique, dans
+les propriétés dont ils ont l'usage, les animaux d'espèce sauvage apprivoisés ou tenus en captivité, échappés à leur gardien
+ou que celui-ci laisse divaguer. Les animaux saisis sont conduits à un lieu de dépôt désigné par le maire. Ils y sont
+maintenus, le cas échéant, aux frais du propriétaire ou du gardien.
 
-La capacité de chaque fourrière est constatée par arrêté du maire de la commune où elle est installée. Passé les délais fixés
-au premier alinéa du présent article, les animaux peuvent être gardés jusqu'à ce que la capacité maximale de la fourrière
-soit atteinte. L'euthanasie est pratiquée sur les animaux non réclamés, selon l'ordre, sauf nécessité, de leur entrée dans
-l'établissement.
-
-Les animaux ne peuvent être restitués à leurs propriétaire qu'après paiement des frais de fourrière.
+A l'issue d'un délai franc de garde de huit jours ouvrés au lieu de dépôt désigné, si l'animal n'a pas été réclamé par son
+propriétaire auprès du maire de la commune où l'animal a été saisi, il est alors considéré comme abandonné et le maire peut
+le céder ou, après avis d'un vétérinaire, le faire euthanasier.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 5 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 213
+
+Les maires prennent toutes dispositions propres à empêcher la divagation des chiens et des chats. Ils peuvent ordonner que
+ces animaux soient tenus en laisse et que les chiens soient muselés. Ils prescrivent que les chiens et les chats errants et
+tous ceux qui seraient saisis sur le territoire de la commune sont conduits à la fourrière, où ils sont gardés pendant les
+délais fixés aux articles 213-4 et 213-5.
+
+Les propriétaires, locataires, fermiers ou métayers peuvent saisir ou faire saisir par un agent de la force publique, dans
+les propriétés dont ils ont l'usage, les chiens et les chats que leurs maîtres laissent divaguer. Les animaux saisis sont
+conduits à la fourrière.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 213-4, 213-5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 1 () JORF 24 juin 1989
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 6 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 213-1
@@ -1371,44 +1831,15 @@ ainsi que tout chat dont le propriétaire n'est pas connu et qui est saisi sur l
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 2 () JORF 24 juin 1989
-
-
-###### Article 213-1 A
-
-Les chiens et les chats conduits en fourrières qui, à l'expiration d'un délai de cinquante jours après leur capture, n'ont
-pas été réclamés par leur propriétaire sont considérés comme abandonnés et deviennent la propriété du gestionnaire de la
-fourrière.
-
-Dans les territoires qui ne sont pas couverts par un arrêté ministériel déclarant une zone atteinte par la rage, la garde des
-chiens et des chats non réclamés peut être confiée, à l'issue des délais de garde en fourrière fixés au premier alinéa de
-l'article 213, à des associations de protection des animaux en vue de la cession de l'animal à un nouveau propriétaire.
-
-Cette cession ne peut intervenir qu'à l'issue du délai de cinquante jours à compter de la capture, au cours duquel l'animal
-doit être périodiquement examiné par un vétérinaire.
-
-Les dispositions du présent article entrent en vigueur le 1er janvier 1992.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 213
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°89-412 du 22 juin 1989 - art. 1 () JORF 24 juin 1989 en vigueur le 1er janvier 1992
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
 
 _Abrogé par_:
 
-  - Loi n°99-5 du 6 janvier 1999 - art. 7 (Ab) JORF 7 janvier 1999
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 213-2
@@ -1426,17 +1857,233 @@ modalités d'application du présent article.
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 3 () JORF 24 juin 1989
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 _Cite_:
 
   - Code de procédure pénale 529 à 529-2, 530 à 530-2
 
 
-## Titre III : De la lutte contre les maladies des animaux<a id=14></a>
+###### Article 213-3
+
+Chaque commune doit disposer soit d'une fourrière communale apte à l'accueil et à la garde des chiens et chats trouvés
+errants ou en état de divagation jusqu'au terme des délais fixés aux articles 213-4 et 213-5, soit du service d'une fourrière
+établie sur le territoire d'une autre commune, avec l'accord de cette commune.
+
+Chaque fourrière doit avoir une capacité adaptée aux besoins de chacune des communes pour lesquelles elle assure le service
+d'accueil des animaux en application du présent code. La capacité de chaque fourrière est constatée par arrêté du maire de la
+commune où elle est installée.
+
+La surveillance dans la fourrière des maladies réputées contagieuses au titre de l'article 214 est assurée par un vétérinaire
+titulaire du mandat sanitaire instauré par l'article 215-8, désigné par le gestionnaire de la fourrière. La rémunération de
+cette surveillance sanitaire est prévue conformément aux dispositions du troisième alinéa de l'article 215-8.
+
+Les animaux ne peuvent être restitués à leur propriétaire qu'après paiement des frais de fourrière. En cas de non-paiement,
+le propriétaire est passible d'une amende forfaitaire dont les modalités sont définies par décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 213-4, 213-5, 214, 215-8
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 8 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 213-4
+
+I. - Lorsque les chiens et les chats accueillis dans la fourrière sont identifiés conformément à l'article 276-2 ou par le
+port d'un collier où figurent le nom et l'adresse de leur maître, le gestionnaire de la fourrière recherche, dans les plus
+brefs délais, le propriétaire de l'animal. Dans les départements officiellement déclarés infectés par la rage, seuls les
+animaux vaccinés contre la rage peuvent être rendus à leur propriétaire.
+
+A l'issue d'un délai franc de garde de huit jours ouvrés, si l'animal n'a pas été réclamé par son propriétaire, il est
+considéré comme abandonné et devient la propriété du gestionnaire de la fourrière, qui peut en disposer dans les conditions
+définies ci-après.
+
+II. - Dans les départements indemnes de rage, le gestionnaire de la fourrière peut garder les animaux dans la limite de la
+capacité d'accueil de la fourrière. Après avis d'un vétérinaire, le gestionnaire peut céder les animaux à titre gratuit à des
+fondations ou des associations de protection des animaux disposant d'un refuge qui, seules, sont habilitées à proposer les
+animaux à l'adoption à un nouveau propriétaire. Ce don ne peut intervenir que si le bénéficiaire s'engage à respecter les
+exigences liées à la surveillance vétérinaire de l'animal, dont les modalités et la durée sont fixées par arrêté du ministre
+de l'agriculture.
+
+Après l'expiration du délai de garde, si le vétérinaire en constate la nécessité, il procède à l'euthanasie de l'animal.
+
+III. - Dans les départements officiellement déclarés infectés de rage, il est procédé à l'euthanasie des animaux non remis à
+leur propriétaire à l'issue du délai de garde.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 8 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cité par_:
+
+  - Arrêté du 12 décembre 2000 - art. Annexe I (V)
+
+_Cite_:
+
+  - Code rural 276-2
+
+
+###### Article 213-5
+
+I. - Dans les départements indemnes de rage, lorsque les chiens et les chats accueillis dans la fourrière ne sont pas
+identifiés, les animaux sont gardés pendant un délai franc de huit jours ouvrés. L'animal ne peut être remis à son
+propriétaire qu'après avoir été identifié conformément à l'article 276-2. Les frais de l'identification sont à la charge du
+propriétaire.
+
+Si, à l'issue de ce délai, l'animal n'a pas été réclamé par son propriétaire, il est considéré comme abandonné et devient la
+propriété du gestionnaire de la fourrière, qui peut en disposer dans les mêmes conditions que celles mentionnées au II de
+l'article 213-4.
+
+II. - Dans les départements officiellement déclarés infectés de rage, il est procédé à l'euthanasie des chiens et des chats
+non identifiés admis à la fourrière.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 276-2, 213-4
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 8 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 213-6
+
+Le maire peut, par arrêté, à son initiative ou à la demande d'une association de protection des animaux, faire procéder à la
+capture de chats non identifiés, sans propriétaire ou sans gardien, vivant en groupe dans des lieux publics de la commune,
+afin de faire procéder à leur stérilisation et à leur identification conformément à l'article 276-2, préalablement à leur
+relâcher dans ces mêmes lieux. Cette identification doit être réalisée au nom de la commune ou de ladite association.
+
+La gestion, le suivi sanitaire et les conditions de la garde au sens de l'article 211 de ces populations sont placés sous la
+responsabilité du représentant de la commune et de l'association de protection des animaux mentionnée à l'alinéa précédent.
+
+Ces dispositions ne sont applicables que dans les départements indemnes de rage. Toutefois, sans préjudice des articles 232 à
+232-6, dans les départements déclarés officiellement infectés de rage, des dérogations peuvent être accordées aux communes
+qui le demandent, par arrêté préfectoral, après avis favorable du Centre national d'études vétérinaires et alimentaires selon
+des critères scientifiques visant à évaluer le risque rabique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 276-2, 211, 232 à 232-6
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 8 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre IV : Des mesures conservatoires à l'égard des animaux domestiques ou des animaux sauvages apprivoisés ou tenus en captivité<a id=14></a>
+
+###### Article 213-7
+
+Les mesures conservatoires à l'égard des animaux domestiques ou des animaux sauvages apprivoisés ou tenus en captivité sont
+fixées à l'article 99-1 du code de procédure pénale, ci-après reproduit :
+
+"Art. 99-1. - Lorsque, au cours d'une procédure judiciaire ou des contrôles mentionnés à l'article 283-5 du code rural, il a
+été procédé à la saisie ou au retrait, à quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la
+République près le tribunal de grande instance du lieu de l'infraction, ou, lorsqu'il est saisi, le juge d'instruction, peut
+placer l'animal dans un lieu de dépôt prévu à cet effet et qu'il désigne jusqu'à ce qu'il ait été statué sur l'infraction.
+
+"Lorsque les conditions du placement sont susceptibles de rendre l'animal dangereux ou de mettre sa santé en péril, le juge
+d'instruction, lorsqu'il est saisi, ou le président du tribunal de grande instance ou un magistrat du siège délégué par lui,
+peut, par ordonnance motivée prise sur les réquisitions du procureur de la République et après avis d'un vétérinaire,
+ordonner qu'il sera cédé à titre onéreux ou confié à un tiers ou qu'il sera procédé à son euthanasie.
+
+"Cette ordonnance est notifiée au propriétaire s'il est connu, qui peut la déférer soit au premier président de la cour
+d'appel du ressort ou à un magistrat de cette cour désigné par lui, soit, lorsqu'il s'agit d'une ordonnance du juge
+d'instruction, à la chambre d'accusation dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
+
+"Le produit de la vente de l'animal est consigné pendant une durée de cinq ans. Lorsque l'instance judiciaire qui a motivé la
+saisie se conclut par un non-lieu ou par une décision de relaxe, le produit de la vente est restitué à la personne qui était
+propriétaire de l'animal au moment de la saisie si celle-ci en fait la demande. Dans le cas où l'animal a été confié à un
+tiers, son propriétaire peut saisir le magistrat désigné au deuxième alinéa d'une requête tendant à la restitution de
+l'animal.
+
+"Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la charge du propriétaire, sauf décision contraire
+du magistrat désigné au deuxième alinéa saisi d'une demande d'exonération ou du tribunal statuant sur le fond. Cette
+exonération peut également être accordée en cas de non-lieu ou de relaxe".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 283-5
+  - CODE DE PROCEDURE PENALE - art. 99 (M)
+  - CODE DE PROCEDURE PENALE - art. 99-1 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 10 () JORF 7 janvier 1999
+  - Loi n°99-5 du 6 janvier 1999 - art. 4 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+## Titre III : De la lutte contre les maladies des animaux<a id=15></a>
 
 ###### Article 214
 
@@ -1843,7 +2490,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.<a id=15></a>
+### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.<a id=16></a>
 
 ###### Article 216
 
@@ -1867,7 +2514,7 @@ _Cite_:
   - Code de la santé publique L611 à L617
 
 
-### Chapitre III : De la police sanitaire<a id=16></a>
+### Chapitre III : De la police sanitaire<a id=17></a>
 
 ###### Article 219
 
@@ -1896,7 +2543,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=17></a>
+#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=18></a>
 
 ###### Article 224
 
@@ -2672,9 +3319,9 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=18></a>
+## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=19></a>
 
-### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=19></a>
+### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=20></a>
 
 ###### Article 253
 
@@ -2943,7 +3590,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : De l'équarrissage.<a id=20></a>
+### Chapitre II : De l'équarrissage.<a id=21></a>
 
 ###### Article 264
 
@@ -3416,9 +4063,9 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale<a id=21></a>
+## Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale<a id=22></a>
 
-### Chapitre Ier : Dispositions générales.<a id=22></a>
+### Chapitre Ier : Dispositions générales.<a id=23></a>
 
 ###### Article 275-1
 
@@ -3488,7 +4135,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : Des importations.<a id=23></a>
+### Chapitre II : Des importations.<a id=24></a>
 
 ###### Article 275-4
 
@@ -3519,7 +4166,7 @@ _Créé par_:
   - Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994
 
 
-### Chapitre III : Des échanges intracommunautaires.<a id=24></a>
+### Chapitre III : Des échanges intracommunautaires.<a id=25></a>
 
 ###### Article 275-5
 
@@ -3646,7 +4293,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre IV : Dispositions diverses.<a id=25></a>
+### Chapitre IV : Dispositions diverses.<a id=26></a>
 
 ###### Article 275-9
 
@@ -3747,7 +4394,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=26></a>
+## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.<a id=27></a>
 
 ###### Article 276
 
@@ -3805,50 +4452,191 @@ _Abrogé par_:
 
 ###### Article 276-2
 
-Tous les chiens et chats faisant l'objet soit d'un transfert de propriété à titre onéreux, soit d'une cession à titre gratuit
-par une association ou une fondation de protection des animaux doivent être, à la diligence du vendeur ou du donateur,
-préalablement identifiés par tatouage ou par tout autre procédé agréé par le ministre chargé de l'agriculture, selon les
-modalités fixées par décret en Conseil d'Etat.
-
-Dans les territoires couverts par un arrêté ministériel déclarant une zone atteinte par la rage, tous les chiens et les chats
-faisant l'objet d'un transfert de propriété, à quelque titre que ce soit, doivent être identifiés selon les modalités prévues
-à l'alinéa précédent.
-
-A compter du 1er janvier 1992, tous les chiens et les chats faisant l'objet d'un transfert de propriété, à quelque titre que
-ce soit, doivent être identifiés selon les modalités prévues au premier alinéa du présent article.
+Tous les chiens et chats, préalablement à leur cession, à titre gratuit ou onéreux, sont identifiés par un procédé agréé par
+le ministre de l'agriculture. Il en est de même, en dehors de toute cession, pour les chiens âgés de plus de quatre mois et
+nés après la promulgation de la loi n° 99-5 du 6 janvier 1999 relative aux animaux dangereux et errants et à la protection
+des animaux. L'identification est à la charge du cédant.
 
 Dans les départements officiellement déclarés infectés de rage, l'identification est obligatoire pour tous les carnivores
 domestiques.
 
+Les dispositions du premier alinéa peuvent être étendues et adaptées à des espèces animales non domestiques protégées au
+titre des articles L. 211-1 et L. 212-1. La liste de ces espèces et les modalités d'identification sont établies par arrêté
+conjoint des ministres de l'agriculture et chargé de l'environnement.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L211-1, L212-1
+  - Loi n°99-5 1999-01-06
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
+  - Loi n°99-5 du 6 janvier 1999 - art. 12 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 276-3
 
-L'utilisation habituelle d'installations en vue de la vente, du toilettage, du transit ou de la garde de chiens ou de chats
-est soumise à des règles sanitaires qui sont, ainsi que les modalités de contrôle correspondantes, fixées par décret en
-Conseil d'Etat.
+I. - Au titre du présent code, on entend par animal de compagnie tout animal détenu ou destiné à être détenu par l'homme pour
+son agrément.
+
+II. - Au titre du présent code, on entend par refuge un établissement à but non lucratif géré par une fondation ou une
+association de protection des animaux désignée à cet effet par le préfet, accueillant et prenant en charge des animaux soit
+en provenance d'une fourrière à l'issue des délais de garde fixés aux articles 213-3 et 213-4, soit donnés par leur
+propriétaire.
+
+III. - Au titre du présent code, on entend par élevage de chiens ou de chats l'activité consistant à détenir des femelles
+reproductrices et donnant lieu à la vente d'au moins deux portées d'animaux par an.
+
+IV. - La gestion d'une fourrière ou d'un refuge, l'élevage, l'exercice à titre commercial des activités de vente, de transit
+ou de garde, d'éducation, de dressage et de présentation au public de chiens et de chats :
+
+- font l'objet d'une déclaration au préfet ;
+
+- sont subordonnés à la mise en place et à l'utilisation d'installations conformes aux règles sanitaires et de protection
+animale pour ces animaux ;
+
+- ne peuvent s'exercer que si au moins une personne, en contact direct avec les animaux, possède un certificat de capacité
+attestant de ses connaissances relatives aux besoins biologiques, physiologiques, comportementaux et à l'entretien des
+animaux de compagnie. Ce certificat est délivré par l'autorité administrative, qui statue au vu des connaissances ou de la
+formation, et notamment des diplômes ou de l'expérience professionnelle d'au moins trois ans des postulants.
+
+Les mêmes dispositions s'appliquent pour l'exercice à titre commercial des activités de vente et de présentation au public
+des autres animaux de compagnie d'espèces domestiques.
+
+Les établissements où s'exerce le toilettage des chiens et des chats sont soumis aux dispositions figurant aux deuxième et
+troisième alinéas du présent paragraphe.
+
+V. - Les personnes qui, sans exercer les activités mentionnées au III, détiennent plus de neuf chiens sevrés doivent mettre
+en place et utiliser des installations conformes aux règles sanitaires et de protection animale pour ces animaux.
+
+VI. - Seules les associations de protection des animaux reconnues d'utilité publique ou les fondations ayant pour objet la
+protection des animaux peuvent gérer des établissements dans lesquels les actes vétérinaires sont dispensés gratuitement aux
+animaux des personnes dépourvues de ressources suffisantes.
+
+La gestion de ces établissements est subordonnée à une déclaration auprès du préfet du département où ils sont installés.
+
+Les conditions sanitaires et les modalités de contrôle correspondantes sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 213-3, 213-4
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 13 () JORF 7 janvier 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-5 du 6 janvier 1999 - art. 30 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 276-4
+
+La cession, à titre gratuit ou onéreux, des chiens et des chats et autres animaux de compagnie dont la liste est fixée par un
+arrêté du ministre de l'agriculture et du ministre chargé de l'environnement est interdite dans les foires, marchés,
+brocantes, salons, expositions ou toutes autres manifestations non spécifiquement consacrés aux animaux.
+
+Des dérogations exceptionnelles pour des ventes précises et circonscrites dans le temps sur une ou plusieurs périodes
+prédéfinies et en des lieux précis peuvent être accordées par le préfet à des commerçants non sédentaires pour la vente
+d'animaux de compagnie dans des lieux non spécifiquement consacrés aux animaux.
+
+L'organisateur d'une exposition ou de toute autre manifestation consacrée à des animaux de compagnie est tenu d'en faire
+préalablement la déclaration au préfet du département et de veiller à la mise en place et à l'utilisation, lors de cette
+manifestation, d'installations conformes aux règles sanitaires et de protection animale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Créé par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
+  - Loi n°99-5 du 6 janvier 1999 - art. 15 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 276-4
+###### Article 276-5
+
+I. - Toute vente d'animaux de compagnie réalisée dans le cadre des activités prévues au IV de l'article 276-3 doit
+s'accompagner, au moment de la livraison à l'acquéreur, de la délivrance :
+
+- d'une attestation de cession ;
+
+- d'un document d'information sur les caractéristiques et les besoins de l'animal contenant également, au besoin, des
+conseils d'éducation.
+
+La facture tient lieu d'attestation de cession pour les transactions réalisées entre des professionnels.
+
+Les dispositions du présent article sont également applicables à toute cession, à titre gratuit ou onéreux, par une
+association de protection des animaux ou une fondation consacrée à la protection des animaux.
+
+II. - Seuls les chiens et les chats âgés de plus de huit semaines peuvent faire l'objet d'une cession à titre onéreux.
+
+III. - Ne peuvent être dénommés comme chiens ou chats appartenant à une race que les chiens ou les chats inscrits à un livre
+généalogique reconnu par le ministre de l'agriculture.
+
+IV. - Toute cession à titre onéreux d'un chien ou d'un chat, faite par une personne autre que celles pratiquant les activités
+mentionnées au IV de l'article 276-3, est subordonnée à la délivrance d'un certificat de bonne santé établi par un
+vétérinaire.
+
+V. - Toute publication d'une offre de cession de chats ou de chiens, quel que soit le support utilisé, doit mentionner le
+numéro d'identification prévu à l'article L. 324-11-2 du code du travail ou, si son auteur n'est pas soumis au respect des
+formalités prévues à l'article L. 324-10 du même code, mentionner soit le numéro d'identification de chaque animal, soit le
+numéro d'identification de la femelle ayant donné naissance aux animaux, ainsi que le nombre d'animaux de la portée.
+
+Dans cette annonce doivent figurer également l'âge des animaux et l'existence ou l'absence d'inscription de ceux-ci à un
+livre généalogique reconnu par le ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 16 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code du travail - art. L324-10 (M)
+  - Code du travail - art. L324-11-2 (M)
+  - Code rural 276-3
+
+
+###### Article 276-6
 
 Tous les équidés faisant l'objet d'un transfert de propriété, à quelque titre que ce soit, doivent être préalablement, à la
 diligence du vendeur ou du donateur, identifiés par tatouage ou par tout autre procédé agréé par le ministre chargé de
@@ -3856,9 +4644,9 @@ l'agriculture, selon les modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code rural 276-6
+  - Code rural 276-4
 
 _Codifié par_:
 
@@ -3866,38 +4654,262 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
-
-_Transféré par_:
-
   - Loi n°99-5 du 6 janvier 1999 - art. 14 (Ab) JORF 7 janvier 1999
 
 
-###### Article 277
+###### Article 276-7
 
-Tout entrepreneur de transport par terre ou par eau doit pourvoir, toutes les douze heures au moins, à l'abreuvement et à
-l'alimentation des animaux confiés à sa garde.
+Sont habilités à rechercher et constater les infractions aux dispositions des articles 276-4 (premier alinéa), 276-5 et 276-6
+et des textes pris pour leur application :
 
-Si les animaux transportés sont accompagnés d'un gardien, l'entrepreneur est tenu de fournir gratuitement les seaux, auges,
-et autres ustensiles pour permettre l'alimentation et l'abreuvement et aussi l'eau nécessaire.
+- les officiers et les agents de police judiciaire agissant dans les conditions prévues au code de procédure pénale ;
 
-Les transports par chemin de fer restent d'ailleurs soumis aux règlements arrêtés par le ministre chargé des travaux publics,
-après avis du ministre de l'agriculture, les sociétés exploitantes entendues. Ces règlements déterminent les obligations des
-sociétés exploitantes et la rémunération qui peut leur être due.
+- les agents cités aux articles 283-1 et 283-2 du présent code ;
+
+- les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes agissant dans les
+conditions prévues aux articles L. 215-3 et L. 217-10 du code de la consommation et dans les lieux où s'exercent les
+activités visées au IV de l'article 276-3, au premier alinéa de l'article 276-4 et à l'article 276-5 ;
+
+- les agents assermentés et commissionnés de l'Office national de la chasse et du Conseil supérieur de la pêche.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
-_Anciens textes_:
+_Créé par_:
 
-  - Loi n°1898-06-21 art. 66
+  - Loi n°99-5 du 6 janvier 1999 - art. 17 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-3 (M)
+  - Code de la consommation - art. L217-10 (M)
+  - Code rural 276-4, 276-5, 276-6, 283-1, 283-2, 276-3
+
+
+###### Article 276-8
+
+Lorsqu'un des agents mentionnés aux articles 283-1 et 283-2 constate un manquement aux dispositions de l'article 276-3 et aux
+règlements pris pour son application, à la police sanitaire des maladies contagieuses, aux règles relatives aux échanges
+intracommunautaires ou aux importations ou exportations d'animaux vivants ainsi qu'aux règles d'exercice de la pharmacie, de
+la chirurgie vétérinaire ou de la médecine vétérinaire, le préfet met en demeure l'intéressé de satisfaire à ces obligations
+dans un délai qu'il détermine et l'invite à présenter ses observations dans le même délai. Il peut aussi suspendre ou retirer
+provisoirement ou définitivement le certificat de capacité.
+
+Si, à l'expiration de ce délai, il n'a pas obtempéré à cette injonction, le préfet peut ordonner la suspension de l'activité
+en cause jusqu'à ce que l'exploitant se soit conformé à son injonction.
+
+Pendant la période de suspension de l'activité, l'intéressé est tenu d'assurer l'entretien des animaux qu'il détient.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 283-1, 283-2, 276-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 18 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 276-9
+
+Est puni de 50 000 F d'amende :
+
+1° Le fait, pour toute personne gérant un refuge ou une fourrière ou exerçant l'une des activités visées à l'article 276-3,
+en méconnaissance d'une mise en demeure prononcée en application de l'article 276-8 :
+
+- de ne pas avoir procédé à la déclaration prévue au IV de l'article 276-3 ;
+
+- de ne pas disposer d'installations conformes aux règles sanitaires et de protection animale pour les animaux ou de ne pas
+les utiliser ;
+
+- de ne pas être titulaire d'un certificat de capacité, ou de ne pas s'assurer qu'au moins une personne en contact avec les
+animaux, dans les lieux où s'exercent les activités, est titulaire d'un certificat de capacité ;
+
+2° Le fait, pour tout détenteur de plus de neuf chiens sevrés visés au V de l'article 276-3, de ne pas disposer
+d'installations conformes aux règles sanitaires et de protection animale pour ces animaux, malgré la mise en demeure
+prononcée en application de l'article 276-8.
+
+Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également la peine
+complémentaire de l'affichage et la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du
+code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions prévues au présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- l'affichage ou la diffusion ordonnés dans les conditions prévues par l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 18 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code rural 276-3, 276-8
+
+
+###### Article 276-10
+
+Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait pour toute personne exploitant un établissement de
+vente, de toilettage, de transit, de garde, d'éducation, de dressage ou de présentation au public d'animaux de compagnie, une
+fourrière, un refuge ou un élevage d'exercer ou de laisser exercer sans nécessité des mauvais traitements envers les animaux
+placés sous sa garde. L'exploitant encourt également la peine complémentaire prévue au 11° de l'article 131-6 du code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions prévues au présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- la peine prévue au 4° de l'article 131-39 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 18 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 131-6 (M)
+
+
+###### Article 276-11
+
+La procédure de l'amende forfaitaire figurant aux articles 529 à 529-2 et 530 à 530-3 du code de procédure pénale est
+applicable en cas de contraventions aux dispositions des articles 276 à 276-12.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 276 à 276-12
+  - Code de procédure pénale 529 à 529-2, 530 à 530-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 18 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 276-12
+
+Des décrets en Conseil d'Etat fixent les modalités d'application des articles 276-1 à 276-8.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 276-1 à 276-8
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 18 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 277
+
+I. - Toute personne procédant, dans un but lucratif, pour son compte ou pour le compte d'un tiers, au transport d'animaux
+vivants doit recevoir un agrément délivré par les services vétérinaires placés sous l'autorité du préfet. Ceux-ci s'assurent
+que le demandeur est en mesure d'exécuter les transports dans le respect des règles techniques et sanitaires en vigueur ainsi
+que des règles concernant la formation des personnels.
+
+II. - Est puni d'une peine de six mois d'emprisonnement et de 50 000 F d'amende le fait de transporter des animaux sans
+détenir l'agrément prévu au I. Les personnes morales peuvent être déclarées responsables pénalement dans les conditions
+prévues par l'article 121-2 du code pénal de l'infraction prévue au présent article. La peine encourue par les personnes
+morales est l'amende suivant les modalités prévues par l'article 131-38 du code pénal.
+
+III. - Un décret en Conseil d'Etat détermine les conditions de délivrance, de suspension ou de retrait de l'agrément et les
+règles applicables au transport des animaux vivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°76-629 du 10 juillet 1976 - art. 11 () JORF 13 juillet 1976
+  - Loi n°99-5 du 6 janvier 1999 - art. 19 () JORF 7 janvier 1999
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-5 du 6 janvier 1999 - art. 30 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
 
 
 ###### Article 278
@@ -4192,39 +5204,64 @@ _Abrogé par_:
 
 ###### Article 283-5
 
-Pour l'exercice des contrôles, examens et interventions de toute nature qu'implique l'exécution des mesures de protection des
-animaux prévues aux articles 276 à 283, les fonctionnaires et agents mentionnés aux articles 283-1 et 283-2 sont habilités :
+I. - Pour l'exercice des inspections, des contrôles et des interventions de toute nature qu'implique l'exécution des mesures
+de protection des animaux prévues aux articles 276 à 283 et des textes pris pour leur application, les fonctionnaires et
+agents mentionnés aux articles 283-1 et 283-2 :
 
-1° à pénétrer de jour dans tous les lieux où vivent des animaux domestiques ou des animaux sauvages apprivoisés ou tenus en
-captivité, à l'exclusion des habitations privées ;
+1° Ont accès aux locaux et aux installations où se trouvent des animaux à l'exclusion des domiciles et de la partie des
+locaux à usage de domicile, entre 8 et 20 heures ou en dehors de ces heures lorsque l'accès au public est autorisé ou
+lorsqu'une activité est en cours ;
 
-2° à procéder ou à faire procéder, de jour et de nuit, à l'ouverture des véhicules à usage professionnel dans lesquels sont
-transportés des animaux et à y pénétrer, sauf si ces véhicules ne sont pas utilisés à des fins professionnelles au moment du
-contrôle.
+2° Peuvent procéder ou faire procéder, de jour et de nuit, à l'ouverture des véhicules à usage professionnel dans lesquels
+sont transportés des animaux et y pénétrer, sauf si ces véhicules ne sont pas utilisés à des fins professionnelles au moment
+du contrôle. Si la visite des véhicules a lieu entre le coucher et le lever du soleil dans tout autre lieu qu'un des postes
+d'inspection frontaliers mentionnés à l'article 275-4, ces fonctionnaires et agents doivent être accompagnés par un officier
+ou un agent de police judiciaire ;
 
-Si la visite des véhicules a lieu entre le coucher et le lever du soleil dans tout autre lieu qu'un des postes d'inspection
-frontaliers mentionnés à l'article 275-4, ces fonctionnaires et agents doivent être accompagnés par un officier ou agent de
-police judiciaire ;
+3° Peuvent faire procéder, en présence d'un officier ou d'un agent de police judiciaire, à l'ouverture de tout véhicule
+stationné en plein soleil lorsque la vie de l'animal est en danger ;
 
-3° A procéder ou à faire procéder, de jour comme de nuit, à l'abattage, au refoulement ou au déchargement immédiat, à
-l'hébergement, à l'abreuvement, à l'alimentation et au repos des animaux lors des contrôles effectués dans les postes
-d'inspection frontaliers mentionnés à l'article 275-4. Les frais induits par ces mesures, qui ne peuvent donner lieu à aucune
-indemnité, sont à la charge du propriétaire, du destinataire, de l'importateur, de l'exportateur ou, à défaut, de toute autre
-personne qui participe à l'opération d'importation ou d'échange.
+4° Peuvent recueillir sur convocation et sur place les renseignements propres à l'accomplissement de leur mission et en
+prendre copie.
+
+II. - Dans le cadre de la recherche des infractions aux dispositions des articles 276 à 283 et des textes pris pour leur
+application, le procureur de la République est préalablement informé des opérations envisagées et peut s'y opposer.
+
+III. - Les infractions sont constatées par des procès-verbaux qui font foi jusqu'à preuve contraire.
+
+Les procès-verbaux doivent, sous peine de nullité, être adressés dans les trois jours qui suivent leur clôture au procureur
+de la République. Une copie en est également transmise, dans le même délai, à l'intéressé.
+
+IV. - Si, au cours des contrôles mentionnés aux I et II, il apparaît que des animaux domestiques ou des animaux sauvages
+apprivoisés ou tenus en captivité font l'objet de mauvais traitements, les fonctionnaires et agents mentionnés aux articles
+283-1 et 283-2 dressent un procès-verbal qu'ils transmettent au procureur de la République dans les conditions mentionnées au
+III. En cas d'urgence, ces fonctionnaires et agents peuvent ordonner le retrait des animaux et les confier à une fondation ou
+une association de protection des animaux jusqu'au jugement ; il en est fait mention dans le procès-verbal.
+
+V. - Les fonctionnaires et agents mentionnés aux articles 283-1 et 283-2 sont habilités à procéder ou à faire procéder, de
+jour comme de nuit, à l'abattage, au refoulement ou au déchargement immédiat, à l'hébergement, à l'abreuvement, à
+l'alimentation et au repos des animaux lors des contrôles effectués dans les postes d'inspection frontaliers mentionnés à
+l'article 275-4. Les frais induits par ces mesures sont à la charge du propriétaire, du destinataire, de l'importateur, de
+l'exportateur ou, à défaut, de toute autre personne qui participe à l'opération d'importation ou d'échange.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 275-4, 276 à 283, 283-1, 283-2
+  - Code rural 276 à 283, 283-1, 283-2, 275-4
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 8 () JORF 11 février 1994
+  - Loi n°99-5 du 6 janvier 1999 - art. 20 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 283-6
@@ -4253,7 +5290,32 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=27></a>
+###### Article 283-7
+
+Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait d'entraver l'exercice des fonctions des agents
+habilités en vertu des articles 283-1 et 283-2.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 283-1, 283-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 21 () JORF 7 janvier 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=28></a>
 
 ###### Article 284
 
@@ -4278,8 +5340,8 @@ _Abrogé par_:
 
 ###### Article 285
 
-Sont réputés vices rédhibitoires et donnent seuls ouverture aux actions résultant des articles 1641 et suivants du code
-civil, sans distinction des localités où les ventes et échanges ont lieu, les maladies ou défauts ci-après, savoir :
+Sont réputés vices rédhibitoires et donnent ouverture aux actions résultant des articles 1641 et suivants du code civil, sans
+distinction des localités où les ventes et échanges ont lieu, les maladies ou défauts ci-après, savoir :
 
 Pour le cheval, l'âne et le mulet :
 
@@ -4340,9 +5402,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°89-412 du 22 juin 1989 - art. 20 () JORF 24 juin 1989
-  - Loi n°89-412 du 22 juin 1989 - art. 21 () JORF 24 juin 1989
-  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
+  - Loi n°99-5 du 6 janvier 1999 - art. 26 () JORF 7 janvier 1999
 
 _Cite_:
 
@@ -4429,32 +5489,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 285-3
-
-Sous réserve des dispositions du chapitre IV de la loi n° 78-23 du 10 janvier 1978 sur la protection et l'information des
-consommateurs de produits et services et des décrets pris pour son application, aucune action en garantie ne saurait être
-introduite si l'acheteur a libéré par écrit, de façon manuscrite, au moment de la vente de l'animal, le vendeur de toute
-garantie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Loi n°78-23 1978-01-10
-
-_Abrogé par_:
-
-  - Loi n°99-5 1996-01-06 art. 27 JORF 7 janvier 1999
-
-_Créé par_:
-
-  - Loi n°89-412 du 22 juin 1989 - art. 22 () JORF du 24 juin 1989
 
 
 ###### Article 285-4
@@ -4638,7 +5672,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=28></a>
+## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=29></a>
 
 ###### Article 309
 
@@ -5346,7 +6380,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre IX : Des pénalités.<a id=29></a>
+## Titre IX : Des pénalités.<a id=30></a>
 
 ###### Article 325
 
@@ -5932,7 +6966,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre X : De la protection des végétaux.<a id=30></a>
+## Titre X : De la protection des végétaux.<a id=31></a>
 
 ###### Article 342
 
@@ -5968,7 +7002,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=31></a>
+### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=32></a>
 
 ###### Article 343
 
@@ -6106,7 +7140,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : Mesures de défense contre les organismes nuisibles.<a id=32></a>
+### Chapitre II : Mesures de défense contre les organismes nuisibles.<a id=33></a>
 
 ###### Article 348
 
@@ -6289,7 +7323,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=33></a>
+### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=34></a>
 
 ###### Article 356
 
@@ -6470,7 +7504,7 @@ _Modifié par_:
   - Loi n°92-1477 du 31 décembre 1992 - art. 33 () JORF 5 janvier 1993
 
 
-### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=34></a>
+### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=35></a>
 
 ###### Article 360
 
@@ -6539,7 +7573,7 @@ _Modifié par_:
   - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
-### Chapitre V : Sanctions et dispositions diverses.<a id=35></a>
+### Chapitre V : Sanctions et dispositions diverses.<a id=36></a>
 
 ###### Article 363
 
@@ -6601,7 +7635,7 @@ _Cite_:
   - Loi n°1905-08-01
 
 
-## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.<a id=36></a>
+## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.<a id=37></a>
 
 ###### Article 364-1
 
@@ -6630,7 +7664,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 1 : De la garde des animaux domestiques.<a id=37></a>
+### Section 1 : De la garde des animaux domestiques.<a id=38></a>
 
 ###### Article 364-2
 
@@ -6656,7 +7690,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 2 : De la lutte contre les maladies des animaux.<a id=38></a>
+### Section 2 : De la lutte contre les maladies des animaux.<a id=39></a>
 
 ###### Article 364-3
 
@@ -6894,7 +7928,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 3 : Du contrôle sanitaire des animaux et des viandes.<a id=39></a>
+### Section 3 : Du contrôle sanitaire des animaux et des viandes.<a id=40></a>
 
 ###### Article 364-12
 
@@ -7008,7 +8042,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 5 : Des pénalités.<a id=40></a>
+### Section 5 : Des pénalités.<a id=41></a>
 
 ###### Article 364-18
 
@@ -7038,7 +8072,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 6 : De la protection des végétaux.<a id=41></a>
+### Section 6 : De la protection des végétaux.<a id=42></a>
 
 ###### Article 364-19
 
@@ -7143,7 +8177,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Section 7 : Dispositions communes.<a id=42></a>
+### Section 7 : Dispositions communes.<a id=43></a>
 
 ###### Article 364-23
 
@@ -7178,7 +8212,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre XII : Agence française de sécurité sanitaire des aliments<a id=43></a>
+## Titre XII : Agence française de sécurité sanitaire des aliments<a id=44></a>
 
 ###### Article 365
 
@@ -7209,11 +8243,11 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=44></a>
+# Livre IV : Institutions et groupements professionnels agricoles<a id=45></a>
 
-## Titre Ier : Chambres d'agriculture<a id=45></a>
+## Titre Ier : Chambres d'agriculture<a id=46></a>
 
-### Chapitre IV : Dispositions financières et d'application.<a id=46></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=47></a>
 
 ###### Article 545-2
 
@@ -7232,9 +8266,9 @@ _Modifié par_:
   - Décret n°81-276 du 18 mars 1981 (V) art 1
 
 
-## Titre II : Coopératives agricoles<a id=47></a>
+## Titre II : Coopératives agricoles<a id=48></a>
 
-### Chapitre unique : Sanctions pénales.<a id=48></a>
+### Chapitre unique : Sanctions pénales.<a id=49></a>
 
 ###### Article 551
 
@@ -7263,7 +8297,7 @@ _Abrogé par_:
   - Rapport - art. 7 (V) JORF 22 juin 2000
 
 
-# Livre V : Crédit agricole<a id=49></a>
+# Livre V : Crédit agricole<a id=50></a>
 
 ###### Article 614
 
@@ -7298,9 +8332,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-20 (M)
 
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=50></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=51></a>
 
-### Chapitre Ier : Organisation.<a id=51></a>
+### Chapitre Ier : Organisation.<a id=52></a>
 
 ###### Article 615
 
@@ -7777,7 +8811,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=52></a>
+### Chapitre II : Fonctionnement.<a id=53></a>
 
 ###### Article 632
 
@@ -8088,7 +9122,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-43 (M)
 
 
-### Chapitre III : Ressources.<a id=53></a>
+### Chapitre III : Ressources.<a id=54></a>
 
 ###### Article 645
 
@@ -8216,9 +9250,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=54></a>
+### Chapitre IV : Opérations de crédit<a id=55></a>
 
-#### Section 1 : Crédit à court terme.<a id=55></a>
+#### Section 1 : Crédit à court terme.<a id=56></a>
 
 ###### Article 655
 
@@ -8378,9 +9412,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=56></a>
+#### Section 2 : Crédit à moyen terme<a id=57></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=57></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=58></a>
 
 ###### Article 672
 
@@ -8436,7 +9470,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=58></a>
+#### Section 3 : Crédit à long terme individuel.<a id=59></a>
 
 ###### Article 690
 
@@ -8496,7 +9530,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=59></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=60></a>
 
 ###### Article 697
 
@@ -8529,7 +9563,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=60></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=61></a>
 
 ###### Article 704
 
@@ -8575,9 +9609,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=61></a>
+## Titre II : Caisse nationale de crédit agricole<a id=62></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=62></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=63></a>
 
 ###### Article 711
 
@@ -8603,7 +9637,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-47 (M)
 
 
-### Chapitre II : Ressources.<a id=63></a>
+### Chapitre II : Ressources.<a id=64></a>
 
 ###### Article 717
 
@@ -8724,7 +9758,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=64></a>
+### Chapitre III : Opérations de crédit.<a id=65></a>
 
 ###### Article 723
 
@@ -9043,7 +10077,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=65></a>
+## Titre III : Inspection et contrôle.<a id=66></a>
 
 ###### Article 737
 
@@ -9231,9 +10265,9 @@ _Cité par_:
   - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
-## Titre IV : Dispositions diverses<a id=66></a>
+## Titre IV : Dispositions diverses<a id=67></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=67></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=68></a>
 
 ###### Article 745
 
@@ -9287,7 +10321,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=68></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=69></a>
 
 ###### Article 747
 
@@ -9369,9 +10403,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=69></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=70></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=70></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=71></a>
 
 ###### Article 752
 
@@ -9477,7 +10511,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=71></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=72></a>
 
 ###### Article 757
 
@@ -9581,7 +10615,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=72></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=73></a>
 
 ###### Article 763
 
@@ -9711,7 +10745,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=73></a>
+#### Section 4 : Dispositions communes.<a id=74></a>
 
 ###### Article 770
 
@@ -9760,7 +10794,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=74></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=75></a>
 
 ###### Article 773
 
@@ -9789,7 +10823,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=75></a>
+### Chapitre V : Domaine - Retraite.<a id=76></a>
 
 ###### Article 774
 
@@ -10093,7 +11127,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=76></a>
+### Chapitre VI : Dispositions d'application.<a id=77></a>
 
 ###### Article 788
 
@@ -10125,11 +11159,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=77></a>
+# Livre VII : Dispositions sociales<a id=78></a>
 
-## Titre Ier : Régime du travail<a id=78></a>
+## Titre Ier : Régime du travail<a id=79></a>
 
-### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=79></a>
+### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=80></a>
 
 ###### Article 983
 
@@ -10233,7 +11267,7 @@ _Cite_:
   - Code du travail - art. L611-6 (M)
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=80></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=81></a>
 
 ###### Article 992
 
@@ -10799,7 +11833,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Médecine du travail.<a id=81></a>
+### Chapitre III : Médecine du travail.<a id=82></a>
 
 ###### Article 1000-1
 
@@ -10967,7 +12001,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre II : Mutualité sociale agricole<a id=82></a>
+## Titre II : Mutualité sociale agricole<a id=83></a>
 
 ###### Article 1001
 
@@ -11870,7 +12904,7 @@ _Nouveaux textes_:
   - Code rural - art. L731-22 (Ab)
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=83></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=84></a>
 
 ###### Article 1004
 
@@ -12717,9 +13751,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances sociales<a id=84></a>
+### Chapitre II : Assurances sociales<a id=85></a>
 
-#### Section 1 : Affiliation.<a id=85></a>
+#### Section 1 : Affiliation.<a id=86></a>
 
 ###### Article 1024
 
@@ -12941,7 +13975,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=86></a>
+#### Section 2 : Cotisations.<a id=87></a>
 
 ###### Article 1031
 
@@ -13356,7 +14390,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Prestations.<a id=87></a>
+#### Section 3 : Prestations.<a id=88></a>
 
 ###### Article 1038
 
@@ -13473,7 +14507,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Régime facultatif, régime complémentaire.<a id=88></a>
+#### Section 4 : Régime facultatif, régime complémentaire.<a id=89></a>
 
 ###### Article 1049
 
@@ -13591,7 +14625,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 5 : Organisation administrative et financière.<a id=89></a>
+#### Section 5 : Organisation administrative et financière.<a id=90></a>
 
 ###### Article 1052
 
@@ -13722,9 +14756,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=90></a>
+### Chapitre III : Prestations familiales<a id=91></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=91></a>
+#### Section 1 : Affiliations et cotisations.<a id=92></a>
 
 ###### Article 1060
 
@@ -14211,7 +15245,7 @@ _Cite_:
   - Code pénal - art. 226-14 (M)
 
 
-#### Section 2 : Dégrèvements.<a id=92></a>
+#### Section 2 : Dégrèvements.<a id=93></a>
 
 ###### Article 1073
 
@@ -14292,7 +15326,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Recouvrement.<a id=93></a>
+#### Section 3 : Recouvrement.<a id=94></a>
 
 ###### Article 1080
 
@@ -14387,7 +15421,7 @@ _Cite_:
   - Loi n°1946-08-22 art. 18, art. 19, art. 20, art. 21
 
 
-#### Section 4 : Prestations.<a id=94></a>
+#### Section 4 : Prestations.<a id=95></a>
 
 ###### Article 1090
 
@@ -14533,7 +15567,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=95></a>
+#### Section 5 : Organisation administrative et financière.<a id=96></a>
 
 ###### Article 1094
 
@@ -14591,9 +15625,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=96></a>
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=97></a>
 
-#### Section 1 : Champ d'application.<a id=97></a>
+#### Section 1 : Champ d'application.<a id=98></a>
 
 ###### Article 1106-1
 
@@ -14703,7 +15737,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-103 (Ab)
 
 
-#### Section 2 : Prestations.<a id=98></a>
+#### Section 2 : Prestations.<a id=99></a>
 
 ###### Article 1106-2
 
@@ -15010,7 +16044,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=99></a>
+#### Section 3 : Financement.<a id=100></a>
 
 ###### Article 1106-6
 
@@ -15212,7 +16246,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Assujettissement et organisation.<a id=100></a>
+#### Section 4 : Assujettissement et organisation.<a id=101></a>
 
 ###### Article 1106-9
 
@@ -15451,7 +16485,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=101></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=102></a>
 
 ###### Article 1106-17
 
@@ -15783,7 +16817,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=102></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=103></a>
 
 ###### Article 1107
 
@@ -15841,7 +16875,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=103></a>
+#### Section 1 : Prestations<a id=104></a>
 
 ###### Article 1110
 
@@ -15887,7 +16921,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-22 (M)
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=104></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=105></a>
 
 ###### Article 1111
 
@@ -15995,7 +17029,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 2 : Retraite.<a id=105></a>
+##### Paragraphe 2 : Retraite.<a id=106></a>
 
 ###### Article 1120-1
 
@@ -16543,7 +17577,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-##### Paragraphe 3 : Allocation complémentaire agricole.<a id=106></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=107></a>
 
 ###### Article 1122-5
 
@@ -16634,7 +17668,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=107></a>
+#### Section 2 : Cotisations.<a id=108></a>
 
 ###### Article 1123
 
@@ -16911,7 +17945,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Organisation administrative et financière.<a id=108></a>
+#### Section 3 : Organisation administrative et financière.<a id=109></a>
 
 ###### Article 1136
 
@@ -17024,7 +18058,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=109></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=110></a>
 
 ###### Article 1142-1
 
@@ -17344,7 +18378,7 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=110></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=111></a>
 
 ###### Article 1142-12
 
@@ -17715,7 +18749,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=111></a>
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=112></a>
 
 ###### Article 1142-25
 
@@ -17844,7 +18878,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=112></a>
+### Chapitre V : Contentieux.<a id=113></a>
 
 ###### Article 1143
 
@@ -18092,11 +19126,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=113></a>
+## Titre III : Accidents du travail et risques agricoles<a id=114></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=114></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=115></a>
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=115></a>
+#### Section 1 : Bénéficiaires et risques couverts.<a id=116></a>
 
 ###### Article 1144
 
@@ -18448,7 +19482,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 2 : Prestations.<a id=116></a>
+#### Section 2 : Prestations.<a id=117></a>
 
 ###### Article 1148
 
@@ -18475,7 +19509,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=117></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=118></a>
 
 ###### Article 1149
 
@@ -18509,7 +19543,7 @@ _Cite_:
   - Code rural 1038, L453-1
 
 
-#### Section 4 : Organisation administrative et financière.<a id=118></a>
+#### Section 4 : Organisation administrative et financière.<a id=119></a>
 
 ###### Article 1150
 
@@ -18993,7 +20027,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=119></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=120></a>
 
 ###### Article 1163
 
@@ -19203,7 +20237,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=120></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=121></a>
 
 ###### Article 1170
 
@@ -19229,7 +20263,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=121></a>
+#### Section 7 : Prévention.<a id=122></a>
 
 ###### Article 1171
 
@@ -19256,7 +20290,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=122></a>
+#### Section 8 : Contrôles et sanctions.<a id=123></a>
 
 ###### Article 1172
 
@@ -19439,7 +20473,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=123></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=124></a>
 
 ###### Article 1178
 
@@ -19691,7 +20725,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=124></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=125></a>
 
 ###### Article 1198
 
@@ -20878,7 +21912,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=125></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=126></a>
 
 ###### Article 1234-1
 
@@ -21523,7 +22557,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=126></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=127></a>
 
 ###### Article 1234-20
 
@@ -21749,7 +22783,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=127></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=128></a>
 
 ###### Article 1234-27
 
@@ -21812,7 +22846,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=128></a>
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=129></a>
 
 ###### Article 1234-29
 
@@ -21848,9 +22882,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre IV : Dispositions diverses<a id=129></a>
+## Titre IV : Dispositions diverses<a id=130></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=130></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=131></a>
 
 ###### Article 1235
 
@@ -22567,7 +23601,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Prévention en assurance maladie.<a id=131></a>
+### Chapitre II : Prévention en assurance maladie.<a id=132></a>
 
 ###### Article 1250-2
 
@@ -22599,7 +23633,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=132></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=133></a>
 
 ###### Article 1251
 
@@ -23143,9 +24177,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=133></a>
+## Titre VI : Français résidant à l'étranger<a id=134></a>
 
-### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=134></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=135></a>
 
 ###### Article 1263-1
 
@@ -23280,7 +24314,7 @@ _Cite_:
   - Code rural 1263-1
 
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=135></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=136></a>
 
 ###### Article 1263-4
 
@@ -23346,7 +24380,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=136></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=137></a>
 
 ###### Article 1263-6
 
@@ -23396,7 +24430,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=137></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=138></a>
 
 ###### Article 1263-8
 
@@ -23448,13 +24482,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=138></a>
+# Livre VIII : Formation professionnelle et recherche<a id=139></a>
 
-## Titre III : Recherche<a id=139></a>
+## Titre III : Recherche<a id=140></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=140></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=141></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=141></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=142></a>
 
 ###### Article 1337
 
