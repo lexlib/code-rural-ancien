@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-06-30
+Version Consolidée au 1998-07-02
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -9,7 +9,7 @@ Version Consolidée au 1998-06-30
         - [Section 1 : Curage et entretien. (art. 114 à 119)](#6)
         - [Section 2 : Elargissement, régularisation et redressement. (art. 120)](#7)
         - [Section 3 : Dispositions communes. (art. 121 à 122-2)](#8)
-  - [Livre II : Des animaux et des végétaux (art. 189 à 364-23)](#9)
+  - [Livre II : Des animaux et des végétaux (art. 189 à 365)](#9)
     - [Titre Ier : Vaine pâture. (art. 189 à 199)](#10)
     - [Titre II : De la garde des animaux domestiques (art. 200 à 213-2)](#11)
       - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#12)
@@ -47,104 +47,105 @@ Version Consolidée au 1998-06-30
       - [Section 5 : Des pénalités. (art. 364-18)](#44)
       - [Section 6 : De la protection des végétaux. (art. 364-19 à 364-22)](#45)
       - [Section 7 : Dispositions communes. (art. 364-23)](#46)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#47)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#48)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#49)
-    - [Titre II : Coopératives agricoles (art. 551)](#50)
-      - [Chapitre unique : Sanctions pénales. (art. 551)](#51)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#52)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#53)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#54)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#55)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#56)
-      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#57)
-        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#58)
-        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#59)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#60)
-        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#61)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#62)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#63)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#64)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#65)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#66)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#67)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#68)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#69)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#70)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#71)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#72)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#73)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#74)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#75)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#76)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#77)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#78)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#79)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#80)
-    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#81)
-      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 983 à 985)](#82)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#83)
-      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#84)
-    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-6)](#85)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#86)
-      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#87)
-        - [Section 1 : Affiliation. (art. 1024 à 1030)](#88)
-        - [Section 2 : Cotisations. (art. 1031 à 1036)](#89)
-        - [Section 3 : Prestations. (art. 1038 à 1047)](#90)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#91)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#92)
-      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#93)
-        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1072)](#94)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#95)
-        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#96)
-        - [Section 4 : Prestations. (art. 1090 à 1092)](#97)
-        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#98)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#99)
-        - [Section 1 : Champ d'application. (art. 1106-1)](#100)
-        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#101)
-        - [Section 3 : Financement. (art. 1106-6 à 1106-8)](#102)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#103)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#104)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#105)
-        - [Section 1 : Prestations (art. 1110 à 1122-8)](#106)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#107)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#108)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-5 à 1122-8)](#109)
-        - [Section 2 : Cotisations. (art. 1123 à 1135)](#110)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#111)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#112)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#113)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#114)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-6)](#115)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#116)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#117)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#118)
-        - [Section 2 : Prestations. (art. 1148)](#119)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#120)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#121)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#122)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#123)
-        - [Section 7 : Prévention. (art. 1171)](#124)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#125)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#126)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#127)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#128)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#129)
-      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#130)
-      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#131)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#132)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#133)
-      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#134)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#135)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#136)
-      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#137)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#138)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#139)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#140)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#141)
-    - [Titre III : Recherche (art. 1337)](#142)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#143)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#144)
+    - [Titre XII : Agence française de sécurité sanitaire des aliments (art. 365)](#47)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#48)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#49)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#50)
+    - [Titre II : Coopératives agricoles (art. 551)](#51)
+      - [Chapitre unique : Sanctions pénales. (art. 551)](#52)
+  - [Livre V : Crédit agricole (art. 614 à 789)](#53)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#54)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#55)
+      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#56)
+      - [Chapitre III : Ressources. (art. 645 à 652)](#57)
+      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#58)
+        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#59)
+        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#60)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#61)
+        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#62)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#63)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#64)
+    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#65)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#66)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#67)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#68)
+    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#69)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#70)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#71)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#72)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#73)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#74)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#75)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#76)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#77)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#78)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#79)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#80)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#81)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#82)
+      - [Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles. (art. 983 à 985)](#83)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#84)
+      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#85)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-6)](#86)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#87)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#88)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#89)
+        - [Section 2 : Cotisations. (art. 1031 à 1036)](#90)
+        - [Section 3 : Prestations. (art. 1038 à 1047)](#91)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#92)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#93)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#94)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1072)](#95)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#96)
+        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#97)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#98)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#99)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#100)
+        - [Section 1 : Champ d'application. (art. 1106-1)](#101)
+        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#102)
+        - [Section 3 : Financement. (art. 1106-6 à 1106-8)](#103)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#104)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#105)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#106)
+        - [Section 1 : Prestations (art. 1110 à 1122-8)](#107)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#108)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#109)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-5 à 1122-8)](#110)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#111)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#112)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#113)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#114)
+      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-25 à 1142-28)](#115)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-6)](#116)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#117)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#118)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#119)
+        - [Section 2 : Prestations. (art. 1148)](#120)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#121)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#122)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#123)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#124)
+        - [Section 7 : Prévention. (art. 1171)](#125)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#126)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#127)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#128)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#129)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#130)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#131)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#132)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#133)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#134)
+      - [Chapitre II : Prévention en assurance maladie. (art. 1250-2)](#135)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#136)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#137)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#138)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#139)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#140)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#141)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#142)
+    - [Titre III : Recherche (art. 1337)](#143)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#144)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#145)
 # Livre Ier : Régime du sol<a id=1></a>
 
 ## Titre III : Des cours d'eaux non domaniaux<a id=2></a>
@@ -7627,11 +7628,42 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=47></a>
+## Titre XII : Agence française de sécurité sanitaire des aliments<a id=47></a>
 
-## Titre Ier : Chambres d'agriculture<a id=48></a>
+###### Article 365
 
-### Chapitre IV : Dispositions financières et d'application.<a id=49></a>
+L'Agence française de sécurité sanitaire des aliments est consultée sur les projets de dispositions législatives ou
+réglementaires relatives à la lutte contre les maladies des animaux ou au contrôle de produits végétaux susceptibles d'être
+consommés par l'homme, à la qualité et à la salubrité des denrées propres à l'alimentation humaine et animale, au traitement
+des denrées impropres, aux importations, exportations et échanges intracommunautaires d'animaux, de produits animaux et de
+produits destinés à l'alimentation humaine ou animale.
+
+Les avis émis par l'agence sont rendus publics.
+
+Dans les cas d'urgence dûment motivée, l'Agence française de sécurité sanitaire des aliments est informée sans délai des
+dispositions arrêtées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+# Livre IV : Institutions et groupements professionnels agricoles<a id=48></a>
+
+## Titre Ier : Chambres d'agriculture<a id=49></a>
+
+### Chapitre IV : Dispositions financières et d'application.<a id=50></a>
 
 ###### Article 545-2
 
@@ -7650,9 +7682,9 @@ _Modifié par_:
   - Décret n°81-276 du 18 mars 1981 (V) art 1
 
 
-## Titre II : Coopératives agricoles<a id=50></a>
+## Titre II : Coopératives agricoles<a id=51></a>
 
-### Chapitre unique : Sanctions pénales.<a id=51></a>
+### Chapitre unique : Sanctions pénales.<a id=52></a>
 
 ###### Article 551
 
@@ -7681,7 +7713,7 @@ _Abrogé par_:
   - Rapport - art. 7 (V) JORF 22 juin 2000
 
 
-# Livre V : Crédit agricole<a id=52></a>
+# Livre V : Crédit agricole<a id=53></a>
 
 ###### Article 614
 
@@ -7716,9 +7748,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-20 (M)
 
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=53></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=54></a>
 
-### Chapitre Ier : Organisation.<a id=54></a>
+### Chapitre Ier : Organisation.<a id=55></a>
 
 ###### Article 615
 
@@ -8195,7 +8227,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=55></a>
+### Chapitre II : Fonctionnement.<a id=56></a>
 
 ###### Article 632
 
@@ -8506,7 +8538,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-43 (M)
 
 
-### Chapitre III : Ressources.<a id=56></a>
+### Chapitre III : Ressources.<a id=57></a>
 
 ###### Article 645
 
@@ -8634,9 +8666,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=57></a>
+### Chapitre IV : Opérations de crédit<a id=58></a>
 
-#### Section 1 : Crédit à court terme.<a id=58></a>
+#### Section 1 : Crédit à court terme.<a id=59></a>
 
 ###### Article 655
 
@@ -8796,9 +8828,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=59></a>
+#### Section 2 : Crédit à moyen terme<a id=60></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=60></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=61></a>
 
 ###### Article 672
 
@@ -8854,7 +8886,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=61></a>
+#### Section 3 : Crédit à long terme individuel.<a id=62></a>
 
 ###### Article 690
 
@@ -8914,7 +8946,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=62></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=63></a>
 
 ###### Article 697
 
@@ -8947,7 +8979,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=63></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=64></a>
 
 ###### Article 704
 
@@ -8993,9 +9025,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=64></a>
+## Titre II : Caisse nationale de crédit agricole<a id=65></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=65></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=66></a>
 
 ###### Article 711
 
@@ -9021,7 +9053,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-47 (M)
 
 
-### Chapitre II : Ressources.<a id=66></a>
+### Chapitre II : Ressources.<a id=67></a>
 
 ###### Article 717
 
@@ -9142,7 +9174,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=67></a>
+### Chapitre III : Opérations de crédit.<a id=68></a>
 
 ###### Article 723
 
@@ -9461,7 +9493,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=68></a>
+## Titre III : Inspection et contrôle.<a id=69></a>
 
 ###### Article 737
 
@@ -9649,9 +9681,9 @@ _Cité par_:
   - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
-## Titre IV : Dispositions diverses<a id=69></a>
+## Titre IV : Dispositions diverses<a id=70></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=70></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=71></a>
 
 ###### Article 745
 
@@ -9705,7 +9737,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=71></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=72></a>
 
 ###### Article 747
 
@@ -9787,9 +9819,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=72></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=73></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=73></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=74></a>
 
 ###### Article 752
 
@@ -9895,7 +9927,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=74></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=75></a>
 
 ###### Article 757
 
@@ -9999,7 +10031,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=75></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=76></a>
 
 ###### Article 763
 
@@ -10129,7 +10161,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=76></a>
+#### Section 4 : Dispositions communes.<a id=77></a>
 
 ###### Article 770
 
@@ -10178,7 +10210,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=77></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=78></a>
 
 ###### Article 773
 
@@ -10207,7 +10239,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=78></a>
+### Chapitre V : Domaine - Retraite.<a id=79></a>
 
 ###### Article 774
 
@@ -10511,7 +10543,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=79></a>
+### Chapitre VI : Dispositions d'application.<a id=80></a>
 
 ###### Article 788
 
@@ -10543,11 +10575,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=80></a>
+# Livre VII : Dispositions sociales<a id=81></a>
 
-## Titre Ier : Régime du travail<a id=81></a>
+## Titre Ier : Régime du travail<a id=82></a>
 
-### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=82></a>
+### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.<a id=83></a>
 
 ###### Article 983
 
@@ -10651,7 +10683,7 @@ _Cite_:
   - Code du travail - art. L611-6 (M)
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=83></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=84></a>
 
 ###### Article 992
 
@@ -11217,7 +11249,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Médecine du travail.<a id=84></a>
+### Chapitre III : Médecine du travail.<a id=85></a>
 
 ###### Article 1000-1
 
@@ -11385,7 +11417,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre II : Mutualité sociale agricole<a id=85></a>
+## Titre II : Mutualité sociale agricole<a id=86></a>
 
 ###### Article 1001
 
@@ -12295,7 +12327,7 @@ _Nouveaux textes_:
   - Code rural - art. L731-22 (Ab)
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=86></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=87></a>
 
 ###### Article 1004
 
@@ -13142,9 +13174,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances sociales<a id=87></a>
+### Chapitre II : Assurances sociales<a id=88></a>
 
-#### Section 1 : Affiliation.<a id=88></a>
+#### Section 1 : Affiliation.<a id=89></a>
 
 ###### Article 1024
 
@@ -13366,7 +13398,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=89></a>
+#### Section 2 : Cotisations.<a id=90></a>
 
 ###### Article 1031
 
@@ -13737,7 +13769,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Prestations.<a id=90></a>
+#### Section 3 : Prestations.<a id=91></a>
 
 ###### Article 1038
 
@@ -13854,7 +13886,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Régime facultatif, régime complémentaire.<a id=91></a>
+#### Section 4 : Régime facultatif, régime complémentaire.<a id=92></a>
 
 ###### Article 1049
 
@@ -13972,7 +14004,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 5 : Organisation administrative et financière.<a id=92></a>
+#### Section 5 : Organisation administrative et financière.<a id=93></a>
 
 ###### Article 1052
 
@@ -14103,9 +14135,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=93></a>
+### Chapitre III : Prestations familiales<a id=94></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=94></a>
+#### Section 1 : Affiliations et cotisations.<a id=95></a>
 
 ###### Article 1060
 
@@ -14592,7 +14624,7 @@ _Cite_:
   - Code pénal - art. 226-14 (M)
 
 
-#### Section 2 : Dégrèvements.<a id=95></a>
+#### Section 2 : Dégrèvements.<a id=96></a>
 
 ###### Article 1073
 
@@ -14669,7 +14701,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Recouvrement.<a id=96></a>
+#### Section 3 : Recouvrement.<a id=97></a>
 
 ###### Article 1080
 
@@ -14764,7 +14796,7 @@ _Cite_:
   - Loi n°1946-08-22 art. 18, art. 19, art. 20, art. 21
 
 
-#### Section 4 : Prestations.<a id=97></a>
+#### Section 4 : Prestations.<a id=98></a>
 
 ###### Article 1090
 
@@ -14910,7 +14942,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=98></a>
+#### Section 5 : Organisation administrative et financière.<a id=99></a>
 
 ###### Article 1094
 
@@ -14968,9 +15000,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=99></a>
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=100></a>
 
-#### Section 1 : Champ d'application.<a id=100></a>
+#### Section 1 : Champ d'application.<a id=101></a>
 
 ###### Article 1106-1
 
@@ -15080,7 +15112,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-103 (Ab)
 
 
-#### Section 2 : Prestations.<a id=101></a>
+#### Section 2 : Prestations.<a id=102></a>
 
 ###### Article 1106-2
 
@@ -15387,7 +15419,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=102></a>
+#### Section 3 : Financement.<a id=103></a>
 
 ###### Article 1106-6
 
@@ -15589,7 +15621,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 4 : Assujettissement et organisation.<a id=103></a>
+#### Section 4 : Assujettissement et organisation.<a id=104></a>
 
 ###### Article 1106-9
 
@@ -15828,7 +15860,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=104></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=105></a>
 
 ###### Article 1106-17
 
@@ -16160,7 +16192,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=105></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=106></a>
 
 ###### Article 1107
 
@@ -16218,7 +16250,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=106></a>
+#### Section 1 : Prestations<a id=107></a>
 
 ###### Article 1110
 
@@ -16264,7 +16296,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-22 (M)
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=107></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=108></a>
 
 ###### Article 1111
 
@@ -16372,7 +16404,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 2 : Retraite.<a id=108></a>
+##### Paragraphe 2 : Retraite.<a id=109></a>
 
 ###### Article 1120-1
 
@@ -16864,7 +16896,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-##### Paragraphe 3 : Allocation complémentaire agricole.<a id=109></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=110></a>
 
 ###### Article 1122-5
 
@@ -16955,7 +16987,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=110></a>
+#### Section 2 : Cotisations.<a id=111></a>
 
 ###### Article 1123
 
@@ -17232,7 +17264,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Organisation administrative et financière.<a id=111></a>
+#### Section 3 : Organisation administrative et financière.<a id=112></a>
 
 ###### Article 1136
 
@@ -17345,7 +17377,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=112></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=113></a>
 
 ###### Article 1142-1
 
@@ -17665,7 +17697,7 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=113></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=114></a>
 
 ###### Article 1142-12
 
@@ -18036,7 +18068,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=114></a>
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=115></a>
 
 ###### Article 1142-25
 
@@ -18165,7 +18197,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=115></a>
+### Chapitre V : Contentieux.<a id=116></a>
 
 ###### Article 1143
 
@@ -18413,11 +18445,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=116></a>
+## Titre III : Accidents du travail et risques agricoles<a id=117></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=117></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=118></a>
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=118></a>
+#### Section 1 : Bénéficiaires et risques couverts.<a id=119></a>
 
 ###### Article 1144
 
@@ -18769,7 +18801,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 2 : Prestations.<a id=119></a>
+#### Section 2 : Prestations.<a id=120></a>
 
 ###### Article 1148
 
@@ -18796,7 +18828,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=120></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=121></a>
 
 ###### Article 1149
 
@@ -18830,7 +18862,7 @@ _Cite_:
   - Code rural 1038, L453-1
 
 
-#### Section 4 : Organisation administrative et financière.<a id=121></a>
+#### Section 4 : Organisation administrative et financière.<a id=122></a>
 
 ###### Article 1150
 
@@ -19301,7 +19333,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=122></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=123></a>
 
 ###### Article 1163
 
@@ -19511,7 +19543,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=123></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=124></a>
 
 ###### Article 1170
 
@@ -19537,7 +19569,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=124></a>
+#### Section 7 : Prévention.<a id=125></a>
 
 ###### Article 1171
 
@@ -19564,7 +19596,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=125></a>
+#### Section 8 : Contrôles et sanctions.<a id=126></a>
 
 ###### Article 1172
 
@@ -19747,7 +19779,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=126></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=127></a>
 
 ###### Article 1178
 
@@ -19999,7 +20031,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=127></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=128></a>
 
 ###### Article 1198
 
@@ -21186,7 +21218,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=128></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=129></a>
 
 ###### Article 1234-1
 
@@ -21831,7 +21863,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=129></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=130></a>
 
 ###### Article 1234-20
 
@@ -22057,7 +22089,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=130></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=131></a>
 
 ###### Article 1234-27
 
@@ -22120,7 +22152,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=131></a>
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=132></a>
 
 ###### Article 1234-29
 
@@ -22156,9 +22188,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre IV : Dispositions diverses<a id=132></a>
+## Titre IV : Dispositions diverses<a id=133></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=133></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=134></a>
 
 ###### Article 1235
 
@@ -22875,7 +22907,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Prévention en assurance maladie.<a id=134></a>
+### Chapitre II : Prévention en assurance maladie.<a id=135></a>
 
 ###### Article 1250-2
 
@@ -22907,7 +22939,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=135></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=136></a>
 
 ###### Article 1251
 
@@ -23451,9 +23483,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=136></a>
+## Titre VI : Français résidant à l'étranger<a id=137></a>
 
-### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=137></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=138></a>
 
 ###### Article 1263-1
 
@@ -23588,7 +23620,7 @@ _Cite_:
   - Code rural 1263-1
 
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=138></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=139></a>
 
 ###### Article 1263-4
 
@@ -23654,7 +23686,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=139></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=140></a>
 
 ###### Article 1263-6
 
@@ -23704,7 +23736,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=140></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=141></a>
 
 ###### Article 1263-8
 
@@ -23756,13 +23788,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=141></a>
+# Livre VIII : Formation professionnelle et recherche<a id=142></a>
 
-## Titre III : Recherche<a id=142></a>
+## Titre III : Recherche<a id=143></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=143></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=144></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=144></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=145></a>
 
 ###### Article 1337
 
