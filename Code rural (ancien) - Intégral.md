@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-01-30
+Version Consolidée au 1963-02-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 1963-01-30
       - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#41)
       - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#42)
       - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 212)](#43)
-    - [Titre III : De la lutte contre les maladies des animaux (art. 215 à 252)](#44)
+    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#44)
       - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#45)
       - [Chapitre II : Prophylaxie de la tuberculose. (art. 217 à 218)](#46)
       - [Chapitre III : De la police sanitaire (art. 220 à 252)](#47)
@@ -4441,6 +4441,42 @@ _Anciens textes_:
 
 
 ## Titre III : De la lutte contre les maladies des animaux<a id=44></a>
+
+###### Article 214
+
+Le ministre de l'agriculture peut, suivant les modalités prévues par un arrêté conjoint des ministres de l'agriculture et de
+l'économie et des finances, prendre toute mesures destinées à prévenir l'apparition, à enrayer le développement et à
+poursuivre l'extinction des maladies des animaux réputées contagieuses, en vertu du présent titre. Des décrets en Conseil
+d'Etat définiront les modalités selon lesquelles pourront être prises les mesures de lutte contre les maladies des animaux
+non ainsi réputées contagieuses.
+
+Un comité consultatif des épizooties, dont l'organisation est déterminée par règlement d'administration publique, donne son
+avis sur les mesures que peut exiger une maladie. Le ministre lui communique tous renseignements relatifs aux épizooties.
+
+Le ministre de l'agriculture peut accorder aux exploitants qui en font la demande, en vue du diagnostic de la prévention et
+du traitement des maladies des animaux, de l'élimination des animaux malades, de la réfection du logement des animaux et de
+l'assainissement du milieu, des subventions dont le montant est déterminé par des arrêtés conjoints des ministres de
+l'agriculture et de l'économie et des finances.
+
+Ces arrêtés fixent les conditions d'indemnisation des propriétaires dont les animaux ont été abattus sur l'ordre de
+l'administration.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1939-11-29 art. 1
+  - Loi n°1898-06-21 art. 64
+  - Loi n°1941-04-16 art. 1, art. 2, art. 3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°63-136 du 18 février 1963 - art. 1 () JORF 20 février 1963
+
 
 ###### Article 215
 
