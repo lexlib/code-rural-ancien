@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-12-29
+Version Consolidée au 1991-12-31
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -22750,33 +22750,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural 1123, 1063, 1106-6
-
-
-###### Article 1126
-
-Les personnes morales de droit privé relevant des professions visées aux 2°, 4° et 5° de l'article 1060 et dont les
-dirigeants sont visés au 12° de l'article 1144 du code rural sont assujetties au paiement d'une cotisation de solidarité au
-profit de l'assurance instituée par le présent chapitre dans les conditions prévues à l'article L. 651-3 et aux premier,
-troisième et quatrième alinéas de l'article L. 651-5 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1144, 1060, L651-3
-  - Code de la sécurité sociale. - art. L651-5 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°90-85 du 23 janvier 1990 - art. 82 () JORF 25 janvier 1990
-
-_Abrogé par_:
-
-  - Loi - art. 52 () JORF 31 décembre 1991
 
 
 ###### Article 1129
