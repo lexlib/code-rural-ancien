@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-11-22
+Version Consolidée au 1961-12-22
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -12591,6 +12591,47 @@ _Créé par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1003-8
+
+Les cotisations à la charge des assujettis aux régimes des prestations familiales, des assurances sociales et de l'assurance
+vieillesse des non-salariés agricoles sont assises et perçues par les caisses de mutualité sociale agricole. Elles sont
+affectées pour partie au service des prestations et pour partie aux dépenses complémentaires qui comprennent, notamment, les
+frais de gestion, le contrôle médical et l'action sanitaire et sociale.
+
+Un décret contresigné du ministre de l'agriculture et du ministre de l'économie et des finances fixe les conditions dans
+lesquelles sont déterminées les cotisations affectées aux dépenses complémentaires au titre des divers régimes de prestations
+sociales agricoles.
+
+L'évaluation du produit des cotisations affectées aux dépenses complémentaires et leur emploi sont mentionnés à titre
+indicatif dans le budget annexe des prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+_Modifié par_:
+
+  - Loi n°60-1384 1960-12-23 art. 57 JORF 24 décembre 1960
+  - Loi n°61-1396 1961-12-21 art. 44 JORF 22 décembre 1961
+
+_Abrogé par_:
+
+  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-10 (MMN)
+  - Code rural - art. L741-1 (V)
+  - Code rural L731-10
+  - Code rural L741-1
 
 
 ###### Article 1003-9
