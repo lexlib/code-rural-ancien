@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-03-20
+Version Consolidée au 1963-05-25
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -102,7 +102,7 @@ Version Consolidée au 1963-03-20
           - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674)](#99)
           - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#100)
           - [Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée. (art. 681 à 682)](#101)
-        - [Section 3 : Crédit à long terme individuel. (art. 687 à 696-1)](#102)
+        - [Section 3 : Crédit à long terme individuel. (art. 689 à 696-1)](#102)
       - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#103)
       - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 700 à 710)](#104)
     - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#105)
@@ -10636,32 +10636,6 @@ _Abrogé par_:
 
 
 #### Section 3 : Crédit à long terme individuel.<a id=102></a>
-
-###### Article 687
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°60-1061 1960-09-24 art. 4 JORF 4 octobre 1960
-
-
-###### Article 688
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 
 ###### Article 689
 
