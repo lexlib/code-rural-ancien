@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-06-30
+Version Consolidée au 1972-07-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -146,7 +146,7 @@ Version Consolidée au 1972-06-30
         - [Section 1 : Affiliations et cotisations. (art. 1062 à 1070)](#143)
         - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#144)
         - [Section 3 : Recouvrement. (art. 1080)](#145)
-        - [Section 4 : Prestations. (art. 1091-1)](#146)
+        - [Section 4 : Prestations. (art. 1091-1 à 1092-3)](#146)
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#147)
       - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-4 à 1106-16 bis)](#148)
         - [Section 2 : Prestations. (art. 1106-4 à 1106-5)](#149)
@@ -16894,6 +16894,109 @@ _Modifié par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1092-1
+
+Une allocation dite de la "mère au foyer" est attribuée au titre des chefs de famille non-salariés des professions agricoles,
+dont le principal revenu provient de l'exploitation, et dont le conjoint, ne bénéficiant pas d'un revenu professionnel
+distinct, se consacre principalement aux tâches du foyer et à l'éducation des enfants.
+
+Lorsqu'un chef de famille exerce à la fois une activité non-salariée et une activité salariée, il peut bénéficier de
+l'allocation de salaire unique au titre de cette dernière activité, à condition que l'activité non salariée ne soit que
+secondaire.
+
+La même allocation de la mère au foyer sera attribuée, aux mêmes conditions, aux artisans ruraux assujettis au régime
+agricole.
+
+Les personnes seules, ainsi que les membres de la famille de l'exploitant, peuvent également y prétendre.
+
+L'allocation de la mère au foyer cesse d'être due lorsque l'ensemble des ressources du ménage ou de la personne bénéficiaire
+dépasse un plafond fixé compte tenu du nombre des enfants à charge.
+
+L'allocation de la mère au foyer est complétée par une majoration attribuée en raison du nombre ou de l'âge des enfants,
+lorsque l'ensemble des ressources du ménage ou de la personne bénéficiaire ne dépasse pas un chiffre limite inférieur au
+plafond mentionné à l'alinéa précédent, et fixé compte tenu du nombre d'enfants à charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°55-1045 du 6 août 1955 - art. 2, v. init.
+
+_Modifié par_:
+
+  - Loi n°72-8 1972-01-03 art. 4 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
+
+_Abrogé par_:
+
+  - Loi n°77-765 du 12 juillet 1977 - art. 10 (V) JORF 13 juillet 1977 en vigueur le 1er janvier 1978
+
+
+###### Article 1092-2
+
+L'allocation et la majoration visées à l'article 1092-1 sont calculées sur les mêmes bases et attribuées dans les mêmes
+conditions que l'allocation de salaire unique et la majoration visées à l'article L. 533 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1092-1
+  - Code de la sécurité sociale L533
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°55-1045 du 6 août 1955 - art. 2, v. init.
+
+_Modifié par_:
+
+  - Loi n°62-1529 1962-12-22 art. 9 JORF 25 décembre 1962
+  - Ordonnance n°67-708 du 21 août 1967 - art. 7 () JORF 22 août 1967
+  - Loi n°72-8 1972-01-03 art. 5 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
+
+_Abrogé par_:
+
+  - Loi n°77-765 du 12 juillet 1977 - art. 10 (V) JORF 13 juillet 1977 en vigueur le 1er janvier 1978
+
+
+###### Article 1092-3
+
+Un décret pris sur le rapport du ministre de l'agriculture, du ministre de l'économie et des finances et du ministre de la
+santé publique et de la sécurité sociale fixe les conditions d'application des articles 1092-1 et 1092-2. Il détermine
+notamment le montant mensuel de l'allocation de la mère au foyer, dans l'agriculture et de la majoration, en fonction, le cas
+échéant, du nombre d'enfants à charge, de leur âge et des ressources du ménage ou de la personne bénéficiaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1092-1, 1092-2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°55-1045 du 6 août 1955 - art. 2, v. init.
+
+_Modifié par_:
+
+  - Ordonnance n°67-708 du 21 août 1967 - art. 8 () JORF 22 août 1967
+  - Loi n°72-8 1972-01-03 art. 5 JORF 5 janvier 1972 en vigueur le 1er juillet 1972
+
+_Abrogé par_:
+
+  - Loi n°77-765 du 12 juillet 1977 - art. 10 (V) JORF 13 juillet 1977 en vigueur le 1er janvier 1978
 
 
 #### Section 5 : Organisation administrative et financière.<a id=147></a>
