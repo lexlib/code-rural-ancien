@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-04-01
+Version Consolidée au 1984-06-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -3924,20 +3924,29 @@ _Nouveaux textes_:
 Aucun barrage, aucun ouvrage destiné à l'établissement d'une prise d'eau, d'un moulin ou d'une usine ne peut être entrepris
 dans un de ces cours d'eau sans l'autorisation de l'administration.
 
+Le défaut d'autorisation sera puni d'une amende de 1.000 F à 80.000 F.
+
+En cas de condamnation pour infraction aux dispositions du présent article, le tribunal fixe, s'il y a lieu, les mesures à
+prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées,
+ainsi qu'une astreinte dans les formes définies à l'article 463 du code rural.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 463
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 11
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 11 (Ab)
-
 _Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+  - Loi n°84-512 du 29 juin 1984 - art. 6 () JORF 30 juin 1984
+
+_Anciens textes_:
+
+  - Loi n°1898-04-08 du 8 avril 1898 - art. 11 (Ab)
 
 
 ###### Article 107
@@ -3987,11 +3996,15 @@ l'alimentation en eau potable de centres habités ou en est la conséquence ;
 3° Dans le cas de la réglementation générale prévue à l'article 104 du présent code ;
 
 4° Lorsqu'elles concernent les ouvrages établissant ou réglant le plan d'eau ou les établissements ou usines qui, à dater du
-jour de la publication du règlement d'administration publique prévu au présent article, n'auront pas été entretenus depuis
-plus de vingt ans ; toute collectivité publique ou tout établissement public intéressé peut, en cas de défaillance du
-permissionnaire ou du titulaire de l'autorisation, et à sa place, après mise en demeure par le préfet, exécuter les travaux
-qui sont la conséquence de la révocation ou de la modification de la permission ou de l'autorisation, et poursuivre, à
-l'encontre du permissionnaire ou du titulaire de l'autorisation, le remboursement de ces travaux.
+jour de la publication du décret prévu au présent article, n'auront pas été entretenus depuis plus de vingt ans ; toute
+collectivité publique ou tout établissement public intéressé peut, en cas de défaillance du permissionnaire ou du titulaire
+de l'autorisation, et à sa place, après mise en demeure par le préfet, exécuter les travaux qui sont la conséquence de la
+révocation ou de la modification de la permission ou de l'autorisation, et poursuivre, à l'encontre du permissionnaire ou du
+titulaire de l'autorisation, le remboursement de ces travaux ;
+
+5° Pour des raisons de protection de l'environnement et notamment lorsque ces autorisations soumettent les milieux naturels
+aquatiques à des conditions hydrauliques critiques, non compatibles avec leur préservation, selon les modalités fixées par
+décret en Conseil d'Etat.
 
 Les dispositions du présent article sont applicables aux permissions ou autorisations accordées en vertu des articles 106 et
 107 du présent code ou antérieurement à la mise en vigueur de ces dispositions, ainsi qu'aux établissements ayant une
@@ -4002,28 +4015,32 @@ Les conditions d'application du paragraphe 4° du présent article seront fixée
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L215-10 (V)
+  - Code de l'environnement - art. L215-10 (M)
+
 _Cite_:
 
   - Code rural 104, 106, 107
   - Loi n°1919-10-16
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°55-433 1955-04-16
+  - Loi n°84-512 1984-06-29 art. 9 JORF 30 juin 1984
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 _Anciens textes_:
 
-  - Loi n°1898-04-08 art. 14
   - Loi n°1898-04-08 du 8 avril 1898 - art. 14 (Ab)
-
-_Modifié par_:
-
-  - Loi n°63-233 1963-03-07 art. 7 JORF 8 mars 1963
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-10 (V)
 
 
 ###### Article 110
@@ -12434,24 +12451,33 @@ _Abrogé par_:
 
 ###### Article 387
 
-Dans les vingt-quatre heures du délit, les procès-verbaux des gardes seront, à peine de nullité, affirmés par les rédacteurs
-devant le juge du tribunal d'instance ou l'un de ses suppléants, ou devant le maire ou l'adjoint soit de la commune de leur
-résidence, soit de celle où le délit aura été commis. Ce délai est porté à trois jours dans les départements de la
-Martinique, de la Guadeloupe et de la Réunion.
+Les gardes-chasse particulier assermentés constatent par procès-verbaux les infractions aux dispositions du présent titre et
+des textes pris pour son application qui portent préjudice aux détenteurs de droits de chasse qui les emploient.
 
-Les gardes particuliers des fédérations départementales des chasseurs, commissionnés en qualité de préposés des eaux et
-forêts chargés spécialement de la police de la chasse, sont dispensés d'affirmer les procès-verbaux qu'ils ont eux-mêmes
-rédigés et signés.
+Les dispositions de l'article 29 du code de procédure pénale sont sont applicables à ces procès-verbaux qui font foi jusqu'à
+preuve du contraire.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L228-28
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°1844-05-03 art. 25
+  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+_Modifié par_:
+
+  - Loi n°84-512 du 29 juin 1984 - art. 5 () JORF 30 juin 1984
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 29 (V)
 
 
 ###### Article 388
