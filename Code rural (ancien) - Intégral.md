@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1974-12-26
+Version Consolidée au 1974-12-29
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -132,7 +132,7 @@ Version Consolidée au 1974-12-26
   - [Livre VII : Dispositions sociales (art. 984 à 1263)](#129)
     - [Titre Ier : Régime du travail (art. 984 à 1000-5)](#130)
       - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#131)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#132)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 996 à 998)](#132)
       - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#133)
     - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#134)
       - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#135)
@@ -14827,11 +14827,17 @@ _Abrogé par_:
 
 ### Chapitre II : Durée du travail et repos hebdomadaire.<a id=132></a>
 
-###### Article 999
+###### Article 996
 
-(texte abrogé).
+Dans les professions énumérées à l'article 992, les femmes ne peuvent être employées à un travail effectif de plus de dix
+heures par jours coupées par un ou plusieurs repos dont la durée ne peut être inférieure à une heure et pendant lesquelles le
+travail est interdit.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°48-401 1948-03-10 art. 5
 
 _Codifié par_:
 
@@ -14839,30 +14845,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 58-1297 1958-12-23 art. 10 JORF 24 décembre 1958
-
-_Abrogé par_:
-
   - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
 
+_Nouveaux textes_:
 
-###### Article 1000
+  - Code rural - art. L713-4 (Ab)
 
-(texte abrogé).
+_Cite_:
+
+  - Code rural 992
+
+
+###### Article 998
+
+L'article 990 est applicable aux infractions aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L719-1 (V)
+
+_Cite_:
+
+  - Code rural 990
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°60-771 1960-07-30 art. 2 JORF 31 juillet 1960
-
-_Abrogé par_:
-
-  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
 
 
 ### Chapitre III : Médecine du travail.<a id=133></a>
