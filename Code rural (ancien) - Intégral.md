@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-12-22
+Version Consolidée au 1973-02-28
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -109,8 +109,8 @@ Version Consolidée au 1972-12-22
         - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#106)
       - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#107)
       - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#108)
-    - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#109)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 716)](#110)
+    - [Titre II : Caisse nationale de crédit agricole (art. 712 à 736)](#109)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 712 à 716)](#110)
       - [Chapitre II : Ressources. (art. 717 à 721)](#111)
       - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#112)
     - [Titre III : Inspection et contrôle. (art. 738 à 743)](#113)
@@ -13052,6 +13052,31 @@ _Abrogé par_:
 ## Titre II : Caisse nationale de crédit agricole<a id=109></a>
 
 ### Chapitre Ier : Organisation et fonctionnement.<a id=110></a>
+
+###### Article 712
+
+La caisse nationale de crédit agricole est administrée par un conseil d'administration de neuf membres sous le contrôle d'une
+commission plénière composée de trente membres et présidée par le ministre de l'agriculture ou son représentant.
+
+Le nombre des administrateurs élus ayant dépassé l'âge de soixante-dix ans ne peut être supérieur à deux. En cas de
+dépassement de ce nombre l'administrateur le plus âgé est réputé démissionnaire d'office.
+
+La limite d'âge pour les fonctions de président du conseil d'administration est fixée à soixante-cinq ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°73-199 1973-02-23 art. 1 JORF 28 février 1973
+
+_Abrogé par_:
+
+  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+
 
 ###### Article 716
 
