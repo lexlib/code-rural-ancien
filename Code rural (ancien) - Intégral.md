@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-07-02
+Version Consolidée au 1998-07-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -5610,30 +5610,6 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 322
-
-Aucune peine ne peut être prononcée sans que la plainte ait été instruite par un rapport et que le vétérinaire ou docteur
-vétérinaire mis en cause ait été entendu ou appelé à comparaître dans le délai de huitaine.
-
-Toute décision doit être motivée. Si la décision a été rendue sans que le praticien mis en cause ait comparu, se soit fait
-représenter ou ait produit une défense écrite, elle peut être attaquée par la voie de l'opposition dans le délai d'un mois à
-dater du jour de la notification.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°47-1564 1947-08-23
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
-
-
 ###### Article 323
 
 Appel des décisions des chambres régionales de discipline peut être porté devant la chambre supérieure de discipline. Elle
@@ -5659,27 +5635,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 324
-
-Les chambres de discipline ne peuvent statuer sur des faits reprochés aux vétérinaires et docteurs vétérinaires investis
-d'une fonction publique et inscrits au tableau de l'ordre, en ce qui concerne les faits se rattachant à cette fonction,
-qu'après la décision rendue par l'autorité administrative compétente.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°47-1564 1947-08-23
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
 
 
 ###### Article 324-1
