@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1986-01-18
+Version Consolidée au 1986-03-14
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -12675,37 +12675,6 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 371
-
-Le ministre de l'agriculture, assisté du conseil national de la chasse et de la faune sauvage, détermine, par arrêtés publiés
-au moins dix jours à l'avance, les jours et heures des ouvertures et les jours des clôtures des chasses, soit à tir, soit à
-courre, à cor et à cri, soit au vol, dans chaque département.
-
-Il pourra, dans le même délai, sur l'avis du conseil national de la chasse et de la faune sauvage, retarder la date de
-l'ouverture et avancer la date de la clôture de la chasse, à l'égard d'une espèce de gibier déterminée.
-
-Il pourra, en outre, dans les mêmes conditions, retarder l'ouverture de la chasse pour toute espèce de gibier, dans tout ou
-partie des bois et forêts classés en vertu de l'article 181 du code forestier en prévision des dangers d'incendie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°86-571 1986-03-14 art. 1 JORF 18 mars 1986
-
-_Cite_:
-
-  - Code forestier 181
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 3
 
 
 ###### Article 371-1
