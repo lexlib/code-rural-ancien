@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1981-03-27
+Version Consolidée au 1981-05-15
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -163,7 +163,7 @@ Version Consolidée au 1981-03-27
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#160)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#161)
         - [Section 1 : Prestations (art. 1110 à 1122-2-1)](#162)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#163)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#163)
           - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2-1)](#164)
         - [Section 2 : Cotisations. (art. 1123 à 1135)](#165)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#166)
@@ -22770,6 +22770,33 @@ _Nouveaux textes_:
 
 
 ##### Paragraphe 1 : Allocation de vieillesse.<a id=163></a>
+
+###### Article 1111
+
+L'allocation n'est due aux requérants continuant leur exploitation que si le revenu cadastral servant de base au calcul des
+allocations familiales des terres qu'ils exploitent ne dépasse pas 3 932 F ou 5 898 F s'il s'agit d'une veuve exploitant avec
+le concours, au maximum, d'un salarié.
+
+Pour l'application des chiffres ci-dessus en cas de métayage, le revenu cadastral est réparti entre le bailleur et le preneur
+selon la proportion retenue pour le partage des fruits.
+
+Dans le cas où le requérant dispose d'une entreprise qui, en raison de sa nature, ne peut donner lieu à la détermination d'un
+revenu cadastral, l'équivalence du revenu cadastral visé à l'article 1110 et au premier alinéa du présent article est celle
+adoptée en matière de prestations familiales agricoles.
+
+Des décrets pris sur le rapport du ministre de l'agriculture et du ministre des finances peuvent élever les chiffres limites
+fixés au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1110
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
 
 ###### Article 1113
 
