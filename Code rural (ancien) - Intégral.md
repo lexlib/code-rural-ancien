@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-07-01
+Version Consolidée au 1973-07-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -22,7 +22,7 @@ Version Consolidée au 1973-07-01
       - [Chapitre Ier : Des droits des riverains (art. 97 à 102)](#19)
       - [Chapitre II : Police et conservation des eaux. (art. 103 à 113)](#20)
       - [Chapitre III : Curages, élargissements et redressements (art. 114 à 122)](#21)
-        - [Section 1 : Curage et entretien. (art. 117 à 119)](#22)
+        - [Section 1 : Curage et entretien. (art. 116 à 119)](#22)
         - [Section 2 : Elargissement, régularisation et redressement. (art. 121)](#23)
         - [Section 3 : Dispositions communes. (art. 122)](#24)
     - [Titre IV : Des eaux utiles (art. 123 à 133)](#25)
@@ -2771,6 +2771,39 @@ _Modifié par_:
 
 
 #### Section 1 : Curage et entretien.<a id=22></a>
+
+###### Article 116
+
+A défaut d'anciens règlements ou usages locaux, ou si l'application des règlements et l'exécution du mode de curage consacré
+par l'usage présentent des difficultés, ou bien encore si les changements survenus exigent des dispositions nouvelles, il est
+procédé en conformité des dispositions régissant les associations syndicales.
+
+Lorsque le groupement d'associations syndicales, soit autorisées, soit constituées d'office, paraît nécessaire au bon
+aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement de ce cours d'eau lui-
+même ou d'une section de celui-ci, une union de ces diverses associations peut être constituée d'office dans les conditions
+fixées par décret en Conseil d'Etat nonobstant l'absence de consentement unanime des associations intéressées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L215-16 (V)
+
+_Anciens textes_:
+
+  - Loi n°1898-04-08 art. 20
+  - Loi n°1898-04-08 du 8 avril 1898 - art. 20 (Ab)
+
+_Modifié par_:
+
+  - Loi n°63-233 1963-03-07 art. 3 JORF 8 mars 1963
+  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+  - Loi n°73-596 1973-07-04 art. 5 JORF 5 juillet 1973
+
 
 ###### Article 117
 
