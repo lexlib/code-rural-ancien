@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-05-07
+Version Consolidée au 1982-07-14
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -162,9 +162,9 @@ Version Consolidée au 1982-05-07
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#159)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#160)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#161)
-        - [Section 1 : Prestations (art. 1110 à 1122-2-1)](#162)
+        - [Section 1 : Prestations (art. 1110 à 1122-2-2)](#162)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#163)
-          - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2-1)](#164)
+          - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2-2)](#164)
         - [Section 2 : Cotisations. (art. 1123 à 1135)](#165)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#166)
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#167)
@@ -23798,6 +23798,32 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+
+###### Article 1122-2-2
+
+Lorsqu'un assuré a disparu de son domicile depuis plus d'un an, son conjoint a droit à la retraite de réversion dans les
+conditions et sous les réserves prévues à l'article L. 351-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L732-49 (M)
+  - Code rural L732-49
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L351-1 (M)
 
 
 #### Section 2 : Cotisations.<a id=165></a>
