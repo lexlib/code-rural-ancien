@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-05-02
+Version Consolidée au 1972-06-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -76,7 +76,7 @@ Version Consolidée au 1972-05-02
   - [Livre III : La chasse et la pêche (art. 366 ter à 501)](#73)
     - [Titre Ier : De la chasse (art. 366 ter à 400)](#74)
       - [Chapitre Ier : De l'exercice du droit de chasse. (art. 366 ter à 373-1)](#75)
-      - [Chapitre II : Des pénalités. (art. 377 à 392)](#76)
+      - [Chapitre II : Des pénalités. (art. 377 à 391)](#76)
       - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 395)](#77)
       - [Chapitre IV : Des groupements de chasseurs. (art. 397 à 400)](#78)
     - [Titre II : Pêche fluviale (art. 401 à 426)](#79)
@@ -8914,17 +8914,6 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 392
-
-La procédure de l'amende de composition ne s'applique pas aux contraventions prévues au présent titre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 
 ### Chapitre III : De la destruction des animaux nuisibles.<a id=77></a>
