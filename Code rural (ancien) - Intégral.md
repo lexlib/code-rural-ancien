@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-06-24
+Version Consolidée au 1989-07-12
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -152,7 +152,7 @@ Version Consolidée au 1989-06-24
         - [Section 1 : Affiliation. (art. 1024 à 1030)](#149)
         - [Section 2 : Cotisations. (art. 1031 à 1036)](#150)
         - [Section 3 : Prestations. (art. 1038 à 1047)](#151)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051-3)](#152)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#152)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#153)
       - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#154)
         - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#155)
@@ -23767,11 +23767,11 @@ _Anciens textes_:
 ###### Article 1035
 
 Pour les infractions visées au premier alinéa de l'article 1034, il y a récidive lorsque dans les douze mois antérieurs à la
-date d'expiration du délai de quinzaine imparti par l'avertissement ou la mise en demeure prévus à l'article 1036 le
+date d'expiration du délai d'un mois imparti par l'avertissement ou la mise en demeure prévus à l'article 1036 le
 contrevenant a déjà subi une condamnation pour une contravention identique.
 
 En cas de pluralité de contraventions entraînant les peines de la récidive l'amende est appliquée autant de fois qu'on a
-relevé de nouvelles contraventions. Toutefois, le total des amendes ne peut dépasser 10.800 F.
+relevé de nouvelles contraventions. Toutefois, le total des amendes ne peut dépasser 7.200 F.
 
 **Liens relatifs à cet article**
 
@@ -23779,20 +23779,20 @@ _Cite_:
 
   - Code rural 1034, 1036
 
-_Anciens textes_:
-
-  - Décret n°1935-10-28 art. 4
-
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°89-474 du 10 juillet 1989 - art. 2 () JORF 12 juillet 1989
 
 
 ###### Article 1036
 
 Toute poursuite effectuée en application de l'article 1034 est obligatoirement précédée, si elle a lieu à la requête du
 ministère public, d'un avertissement par lettre recommandée du service de l'inspection des lois sociales en agriculture
-invitant l'employeur à régulariser sa situation dans les quinze jours. Si la poursuite a lieu à la requête du ministre de
+invitant l'employeur à régulariser sa situation dans le mois. Si la poursuite a lieu à la requête du ministre de
 l'agriculture ou de toute autre partie intéressée, ledit avertissement est remplacé par une mise en demeure adressée par
 lettre recommandée à l'employeur. Copie de cette mise en demeure doit être envoyée au service de l'inspection des lois
 sociales en agriculture par la partie intéressée.
@@ -23806,17 +23806,22 @@ _Cite_:
 
   - Code rural 1034
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°1935-10-28 art. 4
+  - Code rural R725-24
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Modifié par_:
 
-  - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
+  - Loi n°89-474 du 10 juillet 1989 - art. 2 () JORF 12 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 3 : Prestations.<a id=151></a>
@@ -23927,12 +23932,6 @@ sécurité sociale et des assurances volontaires prévues par le titre Ier du li
 
 Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou plusieurs entreprises.
 
-Les accords ayant pour objet l'institution d'un régime complémentaire de prévoyance et de retraite en faveur des salariés
-mentionnés aux alinéas ci-dessus ainsi que les accords ayant pour objet de modifier ou de compléter le régime ainsi créé
-peuvent être rendus obligatoires suivant les modalités prévues aux articles L. 133-1 à L. 133-4, L. 133-6, L. 133-8 à L.
-133-16 du code du travail par arrêté du ministre chargé de l'agriculture pour tous les employeurs et travailleurs compris
-dans leur champ d'application professionnel et territorial.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -23941,7 +23940,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°84-2 du 2 janvier 1984 - art. 18 () JORF 3 janvier 1984
+  - Loi n°89-474 1989-07-10 art. 9 I JORF 12 juillet 1989
 
 _Cité par_:
 
@@ -23955,23 +23954,22 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code du travail - art. L133-6 (M)
-  - Code du travail L133-1 à L133-4, L133-6, L133-8 à L133-16
   - Code rural 1144
 
 
 ###### Article 1051
 
-Des arrêtés du ministre de l'agriculture et du ministre chargé de l'économie et des finances étendront, sur proposition ou
-après avis motivé de la sous-commission des conventions et accords de la commission nationale de la négociation collective,
-tout ou partie des dispositions étendues des accords visés à l'article 1050, à des employeurs, à des salariés et anciens
-salariés non compris dans le champ d'application de ces accords.
+Sous réserve des dispositions de l'article 1050, les dispositions du titre III du livre VII du code de la sécurité sociale
+sont applicables aux régimes de retraite et de prévoyance institués en faveur des salariés mentionnés à l'article 1144.
+
+Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article L. 731-9 du code de la sécurité sociale et de
+l'article L. 731-10 du même code, les accords visés au premier alinéa de l'article L. 731-9 précité ayant pour objet
+l'institution d'un régime complémentaire de prévoyance ou de retraite en faveur des salariés mentionnés à l'article 1144 sont
+étendus par arrêté du ministre chargé de l'agriculture après avis motivé de la sous-commission des conventions et accords de
+la commission nationale de la négociation collective et élargis, en tout ou partie, par arrêté du ministre chargé de
+l'agriculture et du ministre chargé du budget sur proposition ou après avis motivé de la sous-commission précitée.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1050
 
 _Codifié par_:
 
@@ -23979,90 +23977,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°87-39 du 27 janvier 1987 - art. 8 () JORF 28 janvier 1987
+  - Loi n°89-474 1989-07-10 art. 9 II JORF 12 juillet 1989
 
 _Nouveaux textes_:
 
   - Code rural - art. L727-3 (V)
 
-
-###### Article 1051-1
-
-L'autorité compétente de l'Etat peut, dans l'intérêt des affiliés, imposer l'usage de clauses types dans les statuts et
-règlements des institutions relevant de l'article 1050, réalisant des opérations de prévoyance et habilitées à gérer des
-plans d'épargne en vue de la retraite.
-
-**Liens relatifs à cet article**
-
 _Cite_:
 
-  - Code rural 1050
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
-
-_Abrogé par_:
-
-  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
-
-
-###### Article 1051-2
-
-Les plans d'épargne en vue de la retraite proposés par les institutions relevant de l'article 1050 ne pourront, à peine de
-nullité, être souscrits que par les affiliés bénéficiant d'au moins un avantage garanti par l'institution au titre d'une
-convention collective, d'un accord d'entreprise ou d'un contrat d'assurance de groupe.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1050
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
-
-_Abrogé par_:
-
-  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
-
-
-###### Article 1051-3
-
-Chaque avantage mis en oeuvre par les institutions visées à l'article 1050 sur la base de leurs statuts et règlements relève
-obligatoirement de sections financièrement distinctes.
-
-Les actifs représentatifs des opérations garanties et notamment de celles qui sont relatives au plan d'épargne en vue de la
-retraite sont affectés par un privilège général au règlement des engagements des institutions relevant de l'article 1050
-envers les affiliés correspondant à ces opérations. Ce privilège prend rang après le 6° de l'article 2101 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
-
-_Abrogé par_:
-
-  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
-
-_Cite_:
-
-  - Code civil - art. 2101 (M)
-  - Code rural 1050
+  - Code de la sécurité sociale. - art. L731-10 (M)
+  - Code de la sécurité sociale. - art. L731-9 (M)
+  - Code rural 1050, 1144
 
 
 #### Section 5 : Organisation administrative et financière.<a id=153></a>
