@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-05-25
+Version Consolidée au 1973-07-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -134,17 +134,17 @@ Version Consolidée au 1973-05-25
       - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#131)
       - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#132)
       - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#133)
-    - [Titre II : Mutualité sociale agricole (art. 1002 à 1143-4)](#134)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#134)
       - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#135)
       - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#136)
-      - [Chapitre II : Assurances sociales (art. 1027 à 1059)](#137)
-        - [Section 1 : Affiliation. (art. 1027 à 1030)](#138)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#137)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#138)
         - [Section 2 : Cotisations. (art. 1032 à 1036)](#139)
         - [Section 3 : Prestations. (art. 1038-1 à 1047)](#140)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049)](#141)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#141)
         - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#142)
-      - [Chapitre III : Prestations familiales (art. 1062 à 1098)](#143)
-        - [Section 1 : Affiliations et cotisations. (art. 1062 à 1070)](#144)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#143)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#144)
         - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#145)
         - [Section 3 : Recouvrement. (art. 1080)](#146)
         - [Section 4 : Prestations. (art. 1091-1 à 1092-3)](#147)
@@ -14990,6 +14990,33 @@ _Créé par_:
 
 ## Titre II : Mutualité sociale agricole<a id=134></a>
 
+###### Article 1001
+
+Le politique sociale agricole relève du ministre de l'agriculture.
+
+Elle est mise en oeuvre notamment par la caisse centrale de secours mutuels agricoles et par les caisses départementales ou
+pluridépartementales.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L721-1 (V)
+
+_Anciens textes_:
+
+  - Décret n°1938-05-31 art. 1 al. 1
+  - Loi n°1941-04-05 art. 1
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+
 ###### Article 1002
 
 Dans leurs circonscriptions respectives départementales ou pluri-départementales, les caisses mutuelles d'assurances sociales
@@ -15926,6 +15953,39 @@ _Anciens textes_:
 
 #### Section 1 : Affiliation.<a id=138></a>
 
+###### Article 1024
+
+Sont affiliées obligatoirement aux assurances sociales agricoles les personnes énumérées à l'article 1144 (alinéas 1° à 7°,
+9° et 10°).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°67-1114 1967-12-21 art. 66 JORF 22 décembre 1967
+  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L135-2 (MMN)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L722-29 (V)
+
+_Cite_:
+
+  - Code rural 1144
+
+_Anciens textes_:
+
+  - Décret n°1935-10-30 art. 1
+
+
 ###### Article 1027
 
 Les travailleurs étrangers, remplissant les conditions visées aux articles précédents, sont assurés obligatoirement dans les
@@ -16395,6 +16455,35 @@ _Abrogé par_:
   - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
 
 
+###### Article 1045
+
+L'assuré victime d'un accident ou d'une maladie pour lesquels le droit aux réparations prévues par le chapitre Ier du titre
+III du présent livre est contesté par la caisse de mutualité sociale agricole reçoit, à titre provisionnel, les prestations
+de l'assurance maladie, s'il remplit les conditions d'ouverture du droit à ces prestations.
+
+En cas d'échec de l'action judiciaire engagée par l'intéressé pour faire reconnaître son droit aux réparations du régime des
+accidents du travail et des maladies professionnelles, les prestations de l'assurance maladie qu'il a perçues lui restent
+acquises.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1935-10-28 art. 20
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+_Abrogé par_:
+
+  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+
 ###### Article 1047
 
 Est passible d'une amende de 1.200 à 3.000 F quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir, ou
@@ -16465,6 +16554,37 @@ _Modifié par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1051
+
+Des arrêtés du ministre de l'agriculture et du ministre de l'économie et des finances étendront, sur proposition ou après
+avis de la section agricole spécialisée de la commission supérieure des conventions collectives, à la condition qu'aucune
+opposition n'ait été formulée au sein de ladite section, tout ou partie des dispositions étendues de conventions collectives,
+relatives à la retraite, à des employeurs, à des salariés et anciens salariés non compris dans le champ d'application de ces
+conventions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°72-1223 du 29 décembre 1972 - art. 3 () JORF 30 décembre 1972 en vigueur le 1er juillet 1973
+
+_Nouveaux textes_:
+
+  - Code rural - art. L727-3 (V)
+
+_Abrogé par_:
+
+  - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
+
+_Anciens textes_:
+
+  - Loi n°1952-07-25 art. 1, art. 2, art. 3
 
 
 #### Section 5 : Organisation administrative et financière.<a id=142></a>
@@ -16664,6 +16784,57 @@ _Abrogé par_:
 ### Chapitre III : Prestations familiales<a id=143></a>
 
 #### Section 1 : Affiliations et cotisations.<a id=144></a>
+
+###### Article 1060
+
+Le régime agricole des prestations familiales est applicable :
+
+1° Aux salariés et assimilés visés à l'article 1144 ;
+
+2° Aux personnes non salariées exerçant l'une des professions agricoles mentionnées aux 1° et 3° de l'article 1144, à
+l'exception des personnes exerçant la profession d'exploitant forestier négociant en bois achetant des coupes en vue de la
+revente du bois dans des conditions telles que cette activité comporte inscription au registre du commerce ou paiement d'une
+patente en tant que commerçant ;
+
+3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente ;
+
+4° Aux entrepreneurs de battages ou de travaux agricoles ;
+
+5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés, sauf lorsque les
+intéressés relèvent du régime social des marins.
+
+Les ouvriers agricoles et bûcherons travaillant seuls ou avec l'aide de leur famille, avec des outils leur appartenant en
+propre, sont réputés, pour l'application des présentes dispositions, bénéficier d'un contrat de louage de services, que les
+travaux soient effectués au temps, à la tâche ou au forfait.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°66-1046 1966-12-30 art. 1 JORF 31 décembre 1966
+  - Loi n°67-1114 1967-12-21 art. 66 JORF 22 décembre 1967
+  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+_Nouveaux textes_:
+
+  - Code rural - art. L722-22 (V)
+  - Code rural - art. L722-28 (V)
+  - Code rural - art. L722-4 (V)
+  - Code rural - art. L722-9 (V)
+
+_Cite_:
+
+  - Code rural 1144
+
+_Anciens textes_:
+
+  - Décret n°1935-10-30 art. 1
+  - Décret n°1938-05-31 art. 8
+
 
 ###### Article 1062
 
