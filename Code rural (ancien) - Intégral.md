@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1974-01-01
+Version Consolidée au 1974-12-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -20118,6 +20118,45 @@ _Cite_:
   - Code de la sécurité sociale. - art. R434-3 (M)
   - Loi n°1898-04-09 art. 19
   - Loi n°1922-12-15
+
+
+###### Article 1180
+
+Le conjoint survivant de la victime d'un accident du travail survenu ou d'une maladie professionnelle constatée avant le 1er
+juillet 1973, dont le décès, directement imputable aux conséquences de l'accident ou de la maladie, s'est produit
+postérieurement à l'expiration du délai prévu à l'article 19 de la loi du 9 avril 1898, reçoit une allocation lorsqu'il
+apporte la preuve que le décès de la victime est directement imputable aux conséquences de l'accident ou de la maladie.
+
+L'allocation est attribuée dans les conditions fixées par les dispositions des articles L. 434-7 à L. 434-9 du code de la
+sécurité sociale sur la base du salaire minimum prévu aux articles L. 434-16, R. 434-27 et R. 434-29 dudit code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°74-1027 du 4 décembre 1974 - art. 3 () JORF 5 décembre 1974
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L751-44 (M)
+  - Code rural L751-44
+
+_Cite_:
+
+  - Code de la sécurité sociale L434-7 à L434-9, L434-16, R434-27, R434-29
+  - Code de la sécurité sociale. - art. L434-16 (V)
+  - Code de la sécurité sociale. - art. R434-27 (T)
+  - Code de la sécurité sociale. - art. R434-29 (T)
+  - Loi n°1898-04-09 art. 19
 
 
 ###### Article 1181
