@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1957-12-31
+Version Consolidée au 1958-10-11
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -1666,6 +1666,107 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 144
+
+Un décret en Conseil d'Etat, pris sur le rapport des ministres de l'agriculture et de l'économie et des finances, détermine
+après une enquête dont les modalités sont fixées par règlement d'administration publique :
+
+1° Le ou les chiffres auxquels devra être évaluée, à partir de la cinquième année après la mise en exploitation des ouvrages,
+la plus-value annuelle apportée par cette exploitation à la productivité des fonds intéressés, l'évaluation s'effectuant au
+sein du périmètre de chaque association syndicale par zones de plus-value sensiblement égale ;
+
+2° La fraction de la plus-value annuelle que les intéressés devront verser et dont le groupement sera débiteur vis-à-vis de
+l'Etat ;
+
+3° La durée des versements, la totalité de la plus-value demeurant acquise aux intéressés à l'expiration de cette durée.
+
+Les évaluations faites seront révisées dans la même forme lorsque, par suite de variation dans les prix, elles différeront de
+25 % en plus ou en moins de la plus-value telle qu'elle aura été fixée par le décret précité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1951-06-07 art. 8
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+_Modifié par_:
+
+  - Ordonnance 58-932 1958-10-09 art. 1 JORF 11 octobre 1958
+
+
+###### Article 145
+
+Sous réserve de dispositions particulières et, éventuellement, des dérogations édictées par règlement d'administration
+publique, la cotisation afférente à chaque fonds, calculée en fonction de la plus-value annuelle apportée à la productivité
+du fonds, est établie et recouvrée dans les conditions prévues par les lois et décrets relatifs aux associations syndicales.
+
+Les intéressés groupés en association syndicale autorisée ne peuvent se soustraire à son paiement qu'en délaissant leur
+propriété au profit de l'Etat ; l'indemnité de délaissement est fixée dans les conditions prévues à l'article 14 de la loi
+modifiée des 21 juin 1865 et 22 décembre 1888, compte non tenu de la plus-value résultant pour le fonds des travaux
+entrepris.
+
+Le groupement est débiteur à l'égard de l'Etat d'une somme égale à la fraction fixée dans les conditions prévues à l'article
+144 (2°) de la plus-value totale constatée dans son périmètre ; il peut toutefois, dans les conditions déterminées par
+règlement d'administration publique, obtenir des délais de paiement ou exceptionnellement une remise partielle de sa dette
+s'il établit n'avoir pu, malgré sa diligence, assurer le recouvrement de certaines cotisations.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 144
+  - Loi n°1865-06-21 art. 14
+  - Loi n°1888-12-22
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1951-06-07 art. 9
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+_Modifié par_:
+
+  - Ordonnance 58-932 1958-10-09 art. 1 JORF 11 octobre 1958
+
+
+###### Article 146
+
+La créance du Trésor est une créance domaniale. Les sommes recouvrées sont rattachées par voie de fonds de concours au
+chapitre du budget du ministère de l'agriculture ouvert pour l'exécution des travaux visés au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1951-06-07 art. 10
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+_Modifié par_:
+
+  - Ordonnance 58-932 1958-10-09 art. 1 JORF 11 octobre 1958
 
 
 ###### Article 147
