@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1977-06-10
+Version Consolidée au 1977-12-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -157,14 +157,14 @@ Version Consolidée au 1977-06-10
         - [Section 2 : Cotisations. (art. 1126 à 1135)](#154)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#155)
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#156)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-13 à 1142-24)](#157)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#157)
       - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#158)
     - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-26)](#159)
       - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#160)
         - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147)](#161)
         - [Section 2 : Prestations. (art. 1148)](#162)
         - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#163)
-        - [Section 4 : Organisation administrative et financière. (art. 1151 à 1162)](#164)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1162)](#164)
         - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#165)
         - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#166)
         - [Section 7 : Prévention. (art. 1171)](#167)
@@ -20775,6 +20775,38 @@ _Cite_:
 
 ### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=157></a>
 
+###### Article 1142-12
+
+Les exploitants agricoles exerçant leur activité dans les départements d'outre-mer bénéficient des allocations familiales
+dans les conditions prévues par le présent chapitre.
+
+Ils bénéficient de l'allocation de rentrée scolaire, de l'allocation de logement, de l'allocation d'éducation spéciale, de
+l'allocation d'orphelin, de l'allocation de parent isolé, du complément familial dans les conditions respectivement prévues
+aux articles L. 532-4, L. 542-1, L. 543-4, L. 543-9, L. 758-2, L. 758-3 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L755-21 (VD)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-6 (M)
+
+_Cite_:
+
+  - Code de la sécurité sociale L532-4, L542-1, L543-4, L543-9, L758-2, L758-3
+  - Code de la sécurité sociale. - art. L532-4 (M)
+  - Code de la sécurité sociale. - art. L542-1 (M)
+  - Code de la sécurité sociale. - art. L758-2 (V)
+  - Code de la sécurité sociale. - art. L758-3 (V)
+
+
 ###### Article 1142-13
 
 Est considérée comme exploitant agricole pour l'application du présent chapitre toute personne exploitant en une qualité
@@ -21371,6 +21403,37 @@ _Cite_:
 
 
 #### Section 4 : Organisation administrative et financière.<a id=164></a>
+
+###### Article 1150
+
+Le régime d'assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles est
+géré par les organismes de mutualité sociale agricole. Il est financé par les contributions des employeurs et par le
+versement du solde de compensation prévu par la loi n° 77-1454 du 29 décembre 1977.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L751-10
+  - Code rural - art. L751-10 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Cite_:
+
+  - Loi n°77-1454 1977-12-29
+
+_Modifié par_:
+
+  - Loi n°77-1454 1977-12-29 art. 4 JORF 30 décembre 1977
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1151
 
