@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-08-05
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 188)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -13929,6 +13929,9 @@ travailleur occasionnel le salarié employé pendant une durée n'excédant pas,
 
 Un décret fixe les taux réduits ainsi que la durée maximale d'emploi y ouvrant droit.
 
+Les dispositions de l'article L. 241-13 du code de la sécurité sociale sont applicables aux cotisations dues au titre des
+salariés mentionnés à l'article 1144.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -13940,11 +13943,12 @@ _Cite_:
   - Loi n°82-1 du 4 janvier 1982 - art. 6, v. init.
   - Code du travail - art. L128 (M)
   - Code de la sécurité sociale. - art. L241-11 (M)
+  - Code de la sécurité sociale. - art. L241-13 (M)
   - Code rural 1033-1 à 1036, 1143 à 1143-5, 1144
 
 _Modifié par_:
 
-  - Loi n°95-95 du 1 février 1995 - art. 62 () JORF 2 février 1995
+  - Loi n°95-882 du 4 août 1995 - art. 1 (V) JORF 5 août 1995
 
 _Cité par_:
 
@@ -19380,6 +19384,31 @@ _Cite_:
   - Code du travail - art. L128 (M)
   - Code de la sécurité sociale. - art. L241-11 (M)
   - Code rural 1155
+
+
+###### Article 1157-1
+
+Les dispositions de l'article L. 241-13 du code de la sécurité sociale sont applicables aux cotisations dues au titre des
+salariés mentionnés à l'article 1144.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°95-882 du 4 août 1995 - art. 1 (V) JORF 5 août 1995
+
+_Nouveaux textes_:
+
+  - Code rural - art. L751-17 (M)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L241-13 (M)
+  - Code rural 1144
 
 
 ###### Article 1158
