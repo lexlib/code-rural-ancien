@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1999-07-10
+Version Consolidée au 1999-12-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
     - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
@@ -15366,8 +15366,12 @@ remplacement mentionnés à l'article 6 de la loi n° 82-1 du 4 janvier 1982, ai
 en tout ou partie par une contribution de l'employeur ou ayant donné lieu à rachat de cotisations, à l'exclusion des
 bonifications ou majorations pour enfants autres que les annuités supplémentaires. Elles sont également constituées par une
 fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 du code de
-la sécurité sociale, et par une fraction du produit des droits visé à l'article L. 139-1 du même code, à concurrence du
-montant correspondant à l'application des dispositions de l'article L. 139-2 du même code.
+la sécurité sociale.
+
+Sont prises en compte dans l'assiette des cotisations visées au premier alinéa les indemnités versées à l'occasion de la
+rupture du contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation forcée des fonctions des
+mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du code général des impôts, à hauteur de la fraction
+de ces indemnités qui est assujettie à l'impôt sur le revenu en application de l'article 80 duodecies du même code.
 
 Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des cotisations dues par l'employeur et par le
 salarié au titre de l'assurance vieillesse.
@@ -15417,28 +15421,31 @@ salariés mentionnés à l'article 1144.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
 _Cite_:
 
+  - CGI 80 ter, 80 duodecies
   - Loi n°82-1 du 4 janvier 1982 - art. 6, v. init.
   - Code du travail - art. L322-4-16-3 (M)
   - Code de la sécurité sociale. - art. L136-1 (M)
   - Code de la sécurité sociale. - art. L136-6 (M)
   - Code de la sécurité sociale. - art. L136-7 (M)
   - Code de la sécurité sociale. - art. L136-7-1 (M)
-  - Code de la sécurité sociale. - art. L139-1 (M)
-  - Code de la sécurité sociale. - art. L139-2 (M)
   - Code de la sécurité sociale. - art. L241-11 (M)
   - Code de la sécurité sociale. - art. L241-13 (M)
   - Code rural 1033-1 à 1036, 1143 à 1143-5, 1144
 
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 9 V
+
 _Modifié par_:
 
-  - Loi n°96-1160 du 27 décembre 1996 - art. 23 () JORF 29 décembre 1996
-  - Loi n°98-657 du 29 juillet 1998 - art. 14 () JORF 31 juillet 1998 en vigueur le 1er janvier 1999
+  - Loi n°99-1140 du 29 décembre 1999 - art. 2 () JORF 30 décembre 1999
+  - Loi n°99-1140 du 29 décembre 1999 - art. 9 (V) JORF 30 décembre 1999
 
 _Cité par_:
 
@@ -16309,24 +16316,36 @@ La cotisation mentionnée au 1° est calculée en pourcentage des revenus profes
 l'article 1003-12, selon un taux fixé par décret. La cotisation mentionnée au 2° est calculée en pourcentage des
 rémunérations brutes des salariés, selon des modalités fixées par décret.
 
+Sont prises en compte dans l'assiette des cotisations visées au 2° les indemnités versées à l'occasion de la rupture du
+contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation forcée des fonctions des mandataires
+sociaux, dirigeants et personnes visées à l'article 80 ter du code général des impôts, à hauteur de la fraction de ces
+indemnités qui est assujettie à l'impôt sur le revenu en application de l'article 80 duodecies du même code.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 80 ter, 80 duodecies
   - Code rural 1003-12
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°95-95 du 1 février 1995 - art. 67 () JORF 2 février 1995 en vigueur le 1er janvier 1994
 
 _Nouveaux textes_:
 
   - Code rural - art. L731-25 (V)
   - Code rural - art. L741-3 (V)
+  - Code rural L741-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-1140 du 29 décembre 1999 - art. 2 () JORF 30 décembre 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1062-1
@@ -17221,8 +17240,8 @@ aurait pas affiliation au régime institué par le chapitre III du titre III du 
 III. - Les prestations prévues aux 1° et 2° du paragraphe I du présent article sont servies dans les mêmes conditions que
 dans le régime des assurances sociales agricoles pour les catégories correspondantes.
 
-IV. - Les dispositions des articles L. 315-1, L. 315-2 et L. 315-3 du code de la sécurité sociale sont applicables au régime
-d'assurance maladie, invalidité et maternité des personnes non salariées des professions agricoles.
+IV. - Les dispositions des articles L. 315-1, L. 315-2, L. 315-2-1 et L. 315-3 du code de la sécurité sociale sont
+applicables au régime d'assurance maladie, invalidité et maternité des personnes non salariées des professions agricoles.
 
 Des décrets fixeront les conditions de liaison et de coordination entre les contrôles médicaux des régimes d'assurances
 sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé sous l'égide du haut comité médical.
@@ -17232,6 +17251,7 @@ sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
 
 _Cite_:
 
@@ -17245,18 +17265,26 @@ _Cite_:
   - Code de la sécurité sociale. - art. L161-9 (M)
   - Code de la sécurité sociale. - art. L315-1 (M)
   - Code de la sécurité sociale. - art. L315-2 (M)
+  - Code de la sécurité sociale. - art. L315-2-1 (M)
   - Code de la sécurité sociale. - art. L315-3 (Ab)
   - Code rural 1106-1
 
 _Modifié par_:
 
-  - Loi n°96-370 du 3 mai 1996 - art. 22 () JORF 4 mai 1996
+  - Loi n°99-1140 du 29 décembre 1999 - art. 26 () JORF 30 décembre 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code rural - art. L732-3 (M)
   - Code rural - art. L732-4 (M)
   - Code rural - art. L732-5 (M)
+  - Code rural L732-3
+  - Code rural L732-4
+  - Code rural L732-5
 
 
 ###### Article 1106-3
@@ -17604,33 +17632,39 @@ _Abrogé par_:
 
 Les ressources des assurances maladie, maternité et invalidité garantissant les personnes visées du 1° au 5° du I de
 l'article 1106-1 sont notamment constituées par une fraction du produit des contributions sociales mentionnées aux articles
-L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale, et une fraction du produit des droits visé à
-l'article L. 139-1 du même code, à concurrence du montant correspondant à l'application des dispositions de l'article L.
-139-2 de ce code.
+L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°96-1160 du 27 décembre 1996 - art. 24 () JORF 29 décembre 1996
-
-_Nouveaux textes_:
-
-  - Code rural - art. L731-45 (M)
-
 _Cite_:
 
+  - Code rural 1106-1
   - Code de la sécurité sociale. - art. L136-1 (M)
   - Code de la sécurité sociale. - art. L136-6 (M)
   - Code de la sécurité sociale. - art. L136-7 (M)
   - Code de la sécurité sociale. - art. L136-7-1 (M)
-  - Code de la sécurité sociale. - art. L139-1 (M)
-  - Code de la sécurité sociale. - art. L139-2 (M)
-  - Code rural 1106-1
+
+_Nouveaux textes_:
+
+  - Code rural L731-45
+  - Code rural - art. L731-45 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 9 V
+
+_Modifié par_:
+
+  - Loi n°99-1140 du 29 décembre 1999 - art. 9 (V) JORF 30 décembre 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1106-7
@@ -21341,23 +21375,38 @@ _Abrogé par_:
 La cotisation due à la caisse de mutualité sociale agricole par chaque employeur est assise, sur les rémunérations soumises à
 cotisations d'assurances sociales agricoles, qui sont perçues par ses ouvriers, employés ou assimilés bénéficiant du régime.
 
+Sont prises en compte dans l'assiette des cotisations visées au premier alinéa les indemnités versées à l'occasion de la
+rupture du contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation forcée des fonctions des
+mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du code général des impôts, à hauteur de la fraction
+de ces indemnités qui est assujettie à l'impôt sur le revenu en application de l'article 80 duodecies du même code.
+
 Cette cotisation est versée auprès de la caisse de mutualité sociale agricole.
 
 Un décret en Conseil d'Etat précisera, en tant que de besoin, les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°90-86 1990-01-23 art. 1 VI, VIII JORF 25 janvier 1990 en vigueur le 1er janvier 1991
+  - CGI 80 ter, 80 duodecies
 
 _Nouveaux textes_:
 
   - Code rural - art. L751-13 (M)
+  - Code rural L751-13
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°99-1140 du 29 décembre 1999 - art. 2 () JORF 30 décembre 1999
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1154-1
