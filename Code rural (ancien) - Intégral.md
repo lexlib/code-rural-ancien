@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-09-08
+Version Consolidée au 1992-10-16
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -17975,9 +17975,8 @@ _Abrogé par_:
 
 Les caisses de mutualité sociale agricole sont responsables de l'application des dispositions de l'article précédent. Elles
 pourront, soit instituer en leur sein une section de médecine du travail, soit créer une association spécialisée. Cependant,
-toute entreprise peut, lorsque l'importance des effectifs des travailleurs salariés le justifie, être autorisée par décision
-conjointe du ministre de l'agriculture et du ministre chargé des affaires sociales, à organiser un service autonome de
-médecine du travail.
+toute entreprise peut, lorsque l'importance des effectifs des travailleurs salariés le justifie, être autorisée par
+l'autorité administrative compétente de l'Etat à organiser un service autonome de médecine du travail.
 
 L'exercice de la médecine du travail est confié à des médecins à temps partiel ou à temps complet. Des décrets pris sur le
 rapport du ministre de l'agriculture et du ministre chargé des affaires sociales déterminent les compétences techniques que
@@ -17986,21 +17985,27 @@ la médecine du travail.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural L717-3
+  - Code rural - art. L717-3 (M)
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°92-1138 du 14 octobre 1992 - art. 1 () JORF 16 octobre 1992
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. L152-1 (V)
-
-_Nouveaux textes_:
-
-  - Code rural - art. L717-3 (M)
-
-_Créé par_:
-
-  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
 
 
 ###### Article 1000-3
