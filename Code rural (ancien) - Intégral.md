@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1962-06-21
+Version Consolidée au 1962-07-18
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -13754,6 +13754,60 @@ _Nouveaux textes_:
   - Code rural - art. L741-3 (V)
 
 
+###### Article 1063
+
+Les cotisations varient suivant l'importance et la nature des exploitations ou des affaires dans les conditions déterminées,
+conformément aux dispositions d'un décret pris sur le rapport du ministre de l'agriculture et du ministre de l'économie et
+des finances, par un comité départemental des prestations sociales agricoles institué par arrêté du ministre de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1939-07-29 art. 26
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Décret n°62-806 1962-07-12 art. 1 JORF 18 juillet 1962
+
+
+###### Article 1064
+
+Les dispositions prévues à l'article 4 de la loi n° 52-4 du 3 janvier 1952 en faveur des communes présentant un caractère
+soit urbain, soit industriel sont étendues aux cotisations perçues directement par les caisses.
+
+La liste des communes susceptibles de bénéficier de ces dispositions est arrêtée par le préfet sur proposition du comité
+départemental des prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1939-07-29 art. 26
+
+_Cite_:
+
+  - Loi n°52-4 du 3 janvier 1952 - art. 4, v. init.
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°62-806 1962-07-12 art. 1 JORF 18 juillet 1962
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1065
 
 (texte abrogé).
@@ -14036,6 +14090,37 @@ _Codifié par_:
 _Abrogé par_:
 
   - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
+
+
+###### Article 1077
+
+Les comités départementaux des prestations sociales agricoles et les caisses de mutualité sociale agricole peuvent accorder
+des remises exceptionnelles de cotisations partielles ou totales dans le cas où la situation des assujettis le justifie,
+notamment en raison de leur âge ou de leur incapacité physique.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural - art. L731-29 (V)
+  - Code rural L731-29
+
+_Anciens textes_:
+
+  - Décret n°1939-07-29 art. 27
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°62-806 1962-07-12 art. 1 JORF 18 juillet 1962
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1079
