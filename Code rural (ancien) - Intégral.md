@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-01-03
+Version Consolidée au 1976-06-17
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -61,9 +61,9 @@ Version Consolidée au 1976-01-03
       - [Chapitre II : De l'équarrissage des animaux. (art. 264 à 275)](#58)
     - [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité. (art. 283-1 à 283-4)](#59)
     - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#60)
-    - [Titre VII : De la production des animaux domestiques (art. 295 à 308)](#61)
-      - [Chapitre Ier : De la monte (art. 295 à 298)](#62)
-        - [Section 1 : De la monte publique des étalons. (art. 295 à 298)](#63)
+    - [Titre VII : De la production des animaux domestiques (art. 297 à 308)](#61)
+      - [Chapitre Ier : De la monte (art. 297 à 298)](#62)
+        - [Section 1 : De la monte publique des étalons. (art. 297 à 298)](#63)
       - [Chapitre II : De l'insémination artificielle. (art. 308)](#64)
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#65)
     - [Titre IX : Des pénalités. (art. 325 à 333)](#66)
@@ -8212,36 +8212,6 @@ _Abrogé par_:
 ### Chapitre Ier : De la monte<a id=62></a>
 
 #### Section 1 : De la monte publique des étalons.<a id=63></a>
-
-###### Article 295
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°76-522 1976-06-16 art. 1 JORF 17 juin 1976
-
-
-###### Article 296
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°76-522 1976-06-16 art. 1 JORF 17 juin 1976
-
 
 ###### Article 297
 
