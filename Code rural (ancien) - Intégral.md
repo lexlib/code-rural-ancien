@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1956-05-09
+Version Consolidée au 1956-08-07
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -31,7 +31,7 @@ Version Consolidée au 1956-05-09
       - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#28)
       - [Chapitre IV : Restauration de l'habitat rural (art. 183 à 186)](#29)
         - [Section 1 : Travaux de restauration de l'habitat. (art. 183)](#30)
-        - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 185 à 186)](#31)
+        - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 184 à 186)](#31)
   - [Livre II : Des animaux et des végétaux (art. 189 à 364)](#32)
     - [Titre Ier : Vaine pâture. (art. 189 à 199)](#33)
     - [Titre II : De la garde des animaux domestiques (art. 200 à 212)](#34)
@@ -2327,6 +2327,37 @@ _Anciens textes_:
 
 
 #### Section 2 : Construction des bâtiments des exploitations agricoles.<a id=31></a>
+
+###### Article 184
+
+Le ministre de l'agriculture, sur proposition du préfet, peut accorder la participation financière de l'Etat aux
+collectivités et aux particuliers pour la réfection et la construction des bâtiments et les aménagements d'abords,
+nécessaires à la création d'une exploitation agricole, sur un domaine abandonné ou nouvellement constitué.
+
+Cette participation ne peut dépasser 50 % des dépenses ni 8.000 F par exploitation.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R346-5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°56-780 1956-08-04 art. 30 I JORF 7 août 1956
+
+_Abrogé par_:
+
+  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+_Anciens textes_:
+
+  - Loi n°1941-04-17 art. 1, art. 3
+
 
 ###### Article 185
 
