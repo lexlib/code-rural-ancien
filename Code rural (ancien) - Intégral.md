@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1957-05-14
+Version Consolidée au 1957-12-31
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -57,7 +57,7 @@ Version Consolidée au 1957-05-14
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#54)
     - [Titre IX : Des pénalités. (art. 325 à 338)](#55)
     - [Titre X : De la protection des végétaux. (art. 342 à 364)](#56)
-      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 346)](#57)
+      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#57)
       - [Chapitre II : Mesures de défense contre les parasites et petits animaux. (art. 348 à 355)](#58)
       - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#59)
       - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#60)
@@ -4900,6 +4900,26 @@ traitements insecticides et anticryptogamiques.
 _Anciens textes_:
 
   - Ordonnance 45-2627 1945-11-02 art. 5
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+
+###### Article 347
+
+Conformément aux dispositions des articles 1608 et 1648 du code général des impôts, les fédérations départementales agréées
+bénéficient de recettes constituées par une imposition spéciale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1608, 1648
+
+_Anciens textes_:
+
+  - Ordonnance 45-2627 1945-11-02 art. 6
 
 _Codifié par_:
 
@@ -13022,17 +13042,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
-
-
-###### Article 1208
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 
 ###### Article 1210
