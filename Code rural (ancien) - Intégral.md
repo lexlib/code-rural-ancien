@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-01-07
+Version Consolidée au 1975-03-08
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -14955,6 +14955,48 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code rural - art. L716-1 (M)
+
+
+###### Article 985
+
+I. - La commission paritaire départementale de travail en agriculture est chargée de proposer au préfet, dans un ou plusieurs
+règlements, le régime du travail à appliquer à tous les salariés des exploitations visées aux articles 1144, 1149 et 1152,
+ainsi que des entreprises de battage et de travaux agricoles, quel que soit le régime juridique des établissements en cause,
+qu'ils soient publics ou privés.
+
+II. - La loi du 31 juillet 1929 concernant l'amélioration du logement des travailleurs agricoles, le décret-loi du 17 juin
+1938 relatif à l'amélioration du logement des travailleurs agricoles, l'article 18 de l'ordonnance n° 67-830 du 27 septembre
+1967 relative à l'aménagement des conditions de travail en ce qui concerne le régime des conventions collectives de travail
+des jeunes et les premier et troisième alinéas de l'article 1000-5 du code rural sont abrogés.
+
+III. - Dans toutes les dispositions législatives comportant une référence à l'article 990 du code rural, cette référence est
+remplacée par une référence à l'article 985.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1144, 1149, 1152, 1000-5, 990, 985
+  - Ordonnance n°67-830 du 27 septembre 1967 - art. 18 (M)
+  - Décret-loi 1938-06-17
+  - Loi n°1929-07-31
+
+_Anciens textes_:
+
+  - Ordonnance 45-1490 1945-07-07 art. 3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Décret n°75-694 1975-07-30 art. 1 JORF 3 août 1975
+
+_Nouveaux textes_:
+
+  - Code rural - art. L719-1 (V)
+  - Code rural - art. L724-2 (V)
 
 
 ###### Article 987
