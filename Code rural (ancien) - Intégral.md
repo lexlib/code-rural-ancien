@@ -1,182 +1,180 @@
 # Code rural (ancien)  
-Version Consolidée au 1964-04-07
+Version Consolidée au 1964-08-25
 ## Contenu: 
-  - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
-    - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
-      - [Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier (art. 8)](#3)
-        - [Section 5 : Dispositions conservatoires et clôture des opérations. (art. 8)](#4)
-      - [Chapitre Ier : Des commissions communales et départementales d'aménagement foncier (art. 1)](#5)
-      - [Chapitre II : De la réorganisation de la propriété foncière (art. 10 à 16)](#6)
-      - [Chapitre III : Du remembrement rural. (art. 22 à 36)](#7)
-      - [Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux. (art. 38-1 à 38-8)](#8)
-      - [Chapitre V : De la mise en valeur des terres incultes récupérables. (art. 41 à 42)](#9)
-      - [Chapitre VII : Dispositions diverses. (art. 54 à 57)](#10)
-      - [Chapitre VIII : Dispositions particulières à certains départements (art. 58)](#11)
-        - [Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 58)](#12)
-      - [Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne. (art. 58-1 à 58-16)](#13)
-      - [Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 58-17 à 58-24)](#14)
-    - [Titre II : Des chemins ruraux et des chemins d'exploitation (art. 59 à 96)](#15)
-      - [Chapitre Ier : Des chemins ruraux (art. 59 à 71)](#16)
-        - [Section 1 : Dispositions générales. (art. 59 à 71)](#17)
-      - [Chapitre III : Des chemins et sentiers d'exploitation. (art. 92 à 96)](#18)
-    - [Titre III : Des cours d'eaux non domaniaux (art. 112)](#19)
-      - [Chapitre II : Police et conservation des eaux. (art. 112)](#20)
-    - [Titre IV : Des eaux utiles (art. 125 à 133)](#21)
-      - [Chapitre Ier : De la servitude de passage des eaux utiles. (art. 125)](#22)
-      - [Chapitre II : De la servitude d'appui. (art. 126 à 128)](#23)
-      - [Chapitre II-1 : De l'utilisation des eaux d'irrigation. (art. 128-1 à 128-9)](#24)
-      - [Chapitre III : Des taxes d'irrigation (art. 129 à 133)](#25)
-        - [Section 1 : Des taxes. (art. 129)](#26)
-        - [Section 2 : Des surtaxes. (art. 130 à 133)](#27)
-    - [Titre V : Des eaux nuisibles (art. 134 à 138-1)](#28)
-      - [Chapitre Ier : De la suppression des étangs insalubres. (art. 134)](#29)
-      - [Chapitre II : De la servitude d'écoulement des eaux nuisibles. (art. 135 à 138-1)](#30)
-    - [Titre VI : Equipement rural (art. 140 à 186)](#31)
-      - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 151-2)](#32)
-      - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#33)
-      - [Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes. (art. 175 à 179)](#34)
-      - [Chapitre IV : Restauration de l'habitat rural (art. 183 à 186)](#35)
-        - [Section 1 : Travaux de restauration de l'habitat. (art. 183)](#36)
-        - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 184 à 186)](#37)
-    - [Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 188-10 à 188-17)](#38)
-  - [Livre II : Des animaux et des végétaux (art. 189 à 364)](#39)
-    - [Titre Ier : Vaine pâture. (art. 189 à 199)](#40)
-    - [Titre II : De la garde des animaux domestiques (art. 200 à 212)](#41)
-      - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#42)
-      - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#43)
-      - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 212)](#44)
-    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#45)
-      - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#46)
-      - [Chapitre II : Prophylaxie de la tuberculose. (art. 218)](#47)
-      - [Chapitre III : De la police sanitaire (art. 220 à 252)](#48)
-        - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#49)
-        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#50)
-        - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#51)
-    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 272)](#52)
-      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 261)](#53)
-      - [Chapitre II : De l'équarrissage des animaux. (art. 269 à 272)](#54)
-    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#55)
-    - [Titre VII : De la production des animaux domestiques (art. 295 à 308)](#56)
-      - [Chapitre Ier : De la monte (art. 295 à 307)](#57)
-        - [Section 1 : De la monte publique des étalons. (art. 295 à 298)](#58)
-        - [Section 2 : De la monte publique des taureaux. (art. 299 à 307)](#59)
-      - [Chapitre II : De l'insémination artificielle. (art. 308)](#60)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#61)
-    - [Titre IX : Des pénalités. (art. 325 à 338)](#62)
-    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#63)
-      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#64)
-      - [Chapitre II : Mesures de défense contre les parasites et petits animaux. (art. 348 à 355)](#65)
-      - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#66)
-      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#67)
-      - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#68)
-  - [Livre III : La chasse et la pêche (art. 373 à 501)](#69)
-    - [Titre Ier : De la chasse (art. 373 à 399)](#70)
-      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 373 à 373-1)](#71)
-      - [Chapitre II : Des pénalités. (art. 378 à 392)](#72)
-      - [Chapitre III : De la destruction des animaux nuisibles. (art. 394 à 395)](#73)
-      - [Chapitre IV : Des groupements de chasseurs. (art. 397 à 399)](#74)
-    - [Titre II : Pêche fluviale (art. 401 à 425)](#75)
-      - [Du droit de pêche (art. 401 à 425)](#76)
-        - [Chapitre Ier : Dispositions générales. (art. 401 à 410)](#77)
-        - [Chapitre II : Exploitation du droit de pêche par l'Etat. (art. 413 à 425)](#78)
-    - [Titre III : De la police de la pêche (art. 428 à 499)](#79)
-      - [Chapitre Ier : Dispositions générales et pénales. (art. 428 à 443)](#80)
-      - [Chapitre II : Des poursuites au nom de l'administration. (art. 446 à 480)](#81)
-      - [Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat. (art. 481 à 484)](#82)
-      - [Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines. (art. 485 à 491)](#83)
-      - [Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public. (art. 492 à 499)](#84)
-    - [Titre IV : Des groupements de pêcheurs. (art. 500)](#85)
-    - [Titre V : Dispositions diverses. (art. 501)](#86)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#87)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#88)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#89)
-  - [Livre V : Crédit agricole (art. 615 à 789)](#90)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#91)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#92)
-      - [Chapitre II : Fonctionnement. (art. 632 à 643)](#93)
-      - [Chapitre III : Ressources. (art. 645 à 650)](#94)
-      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#95)
-        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#96)
-        - [Section 2 : Crédit à moyen terme (art. 663 à 682)](#97)
-          - [Paragraphe 1 : Prêts pour la modernisation et le développement agricole. (art. 663 à 665)](#98)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 667 à 673)](#99)
-          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674)](#100)
-          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#101)
-          - [Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée. (art. 681 à 682)](#102)
-        - [Section 3 : Crédit à long terme individuel. (art. 689 à 696-1)](#103)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#104)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 700 à 710)](#105)
-    - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#106)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 716)](#107)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#108)
-      - [Chapitre III : Opérations de crédit. (art. 722 à 736)](#109)
-    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#110)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#111)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745)](#112)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#113)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#114)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#115)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#116)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#117)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#118)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#119)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#120)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#121)
-  - [Livre VI : Baux ruraux (art. 857 à 948)](#122)
-    - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#123)
-      - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#124)
-    - [Titre V : Bail emphytéotique. (art. 948)](#125)
-  - [Livre VII : Dispositions sociales (art. 984 à 1262)](#126)
-    - [Titre Ier : Régime du travail (art. 984 à 1000)](#127)
-      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#128)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#129)
-    - [Titre II : Mutualité sociale agricole (art. 1002 à 1142-11)](#130)
-      - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#131)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#132)
-      - [Chapitre II : Assurances sociales (art. 1027 à 1059)](#133)
-        - [Section 1 : Affiliation. (art. 1027 à 1030)](#134)
-        - [Section 2 : Cotisations. (art. 1032 à 1037)](#135)
-        - [Section 3 : Prestations. (art. 1039 à 1048)](#136)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#137)
-      - [Chapitre III : Prestations familiales (art. 1062 à 1094)](#138)
-        - [Section 1 : Affiliations et cotisations. (art. 1062 à 1070)](#139)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#140)
-        - [Section 3 : Recouvrement. (art. 1081 à 1088)](#141)
-        - [Section 4 : Prestations. (art. 1091-1)](#142)
-        - [Section 5 : Organisation administrative et financière. (art. 1094)](#143)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-5 à 1106-16)](#144)
-        - [Section 2 : Prestations. (art. 1106-5)](#145)
-        - [Section 3 : Financement. (art. 1106-8)](#146)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16)](#147)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1142)](#148)
-        - [Section 1 : Prestations (art. 1113 à 1122-4)](#149)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#150)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-4)](#151)
-        - [Section 2 : Cotisations. (art. 1126 à 1135)](#152)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#153)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#154)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#155)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#156)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#157)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#158)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#159)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#160)
-    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#161)
-    - [Titre II : Enseignement (art. 1272 à 1296)](#162)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#163)
-        - [Section 1 : Organisation. (art. 1273 à 1280)](#164)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#165)
-      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#166)
-      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#167)
-      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#168)
-    - [Titre III : Recherche (art. 1297 à 1337)](#169)
-      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#170)
-        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#171)
-        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#172)
-        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#173)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#174)
-        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#175)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#176)
+  - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
+    - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
+      - [Chapitre Ier : Des commissions communales et départementales d'aménagement foncier (art. 1)](#3)
+      - [Chapitre II : De la réorganisation de la propriété foncière (art. 10 à 16)](#4)
+      - [Chapitre III : Du remembrement rural. (art. 22 à 36)](#5)
+      - [Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux. (art. 38-1 à 38-8)](#6)
+      - [Chapitre V : De la mise en valeur des terres incultes récupérables. (art. 41 à 42)](#7)
+      - [Chapitre VII : Dispositions diverses. (art. 54 à 57)](#8)
+      - [Chapitre VIII : Dispositions particulières à certains départements (art. 58)](#9)
+        - [Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 58)](#10)
+      - [Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne. (art. 58-1 à 58-16)](#11)
+      - [Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 58-17 à 58-24)](#12)
+    - [Titre II : Des chemins ruraux et des chemins d'exploitation (art. 59 à 96)](#13)
+      - [Chapitre Ier : Des chemins ruraux (art. 59 à 71)](#14)
+        - [Section 1 : Dispositions générales. (art. 59 à 71)](#15)
+      - [Chapitre III : Des chemins et sentiers d'exploitation. (art. 92 à 96)](#16)
+    - [Titre III : Des cours d'eaux non domaniaux (art. 112)](#17)
+      - [Chapitre II : Police et conservation des eaux. (art. 112)](#18)
+    - [Titre IV : Des eaux utiles (art. 125 à 133)](#19)
+      - [Chapitre Ier : De la servitude de passage des eaux utiles. (art. 125)](#20)
+      - [Chapitre II : De la servitude d'appui. (art. 126 à 128)](#21)
+      - [Chapitre II-1 : De l'utilisation des eaux d'irrigation. (art. 128-1 à 128-9)](#22)
+      - [Chapitre III : Des taxes d'irrigation (art. 129 à 133)](#23)
+        - [Section 1 : Des taxes. (art. 129)](#24)
+        - [Section 2 : Des surtaxes. (art. 130 à 133)](#25)
+    - [Titre V : Des eaux nuisibles (art. 134 à 138-1)](#26)
+      - [Chapitre Ier : De la suppression des étangs insalubres. (art. 134)](#27)
+      - [Chapitre II : De la servitude d'écoulement des eaux nuisibles. (art. 135 à 138-1)](#28)
+    - [Titre VI : Equipement rural (art. 140 à 186)](#29)
+      - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 151-2)](#30)
+      - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#31)
+      - [Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes. (art. 175 à 179)](#32)
+      - [Chapitre IV : Restauration de l'habitat rural (art. 183 à 186)](#33)
+        - [Section 1 : Travaux de restauration de l'habitat. (art. 183)](#34)
+        - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 184 à 186)](#35)
+    - [Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane. (art. 188-10 à 188-17)](#36)
+  - [Livre II : Des animaux et des végétaux (art. 189 à 364)](#37)
+    - [Titre Ier : Vaine pâture. (art. 189 à 199)](#38)
+    - [Titre II : De la garde des animaux domestiques (art. 200 à 212)](#39)
+      - [Chapitre Ier : Des bestiaux et des chèvres. (art. 200 à 201-1)](#40)
+      - [Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres. (art. 202 à 210)](#41)
+      - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 212)](#42)
+    - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#43)
+      - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#44)
+      - [Chapitre II : Prophylaxie de la tuberculose. (art. 218)](#45)
+      - [Chapitre III : De la police sanitaire (art. 220 à 252)](#46)
+        - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#47)
+        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#48)
+        - [Section 3 : Des importations et des exportations. (art. 244 à 252)](#49)
+    - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux (art. 253 à 272)](#50)
+      - [Chapitre Ier: Du contrôle sanitaire des animaux et des viandes. (art. 253 à 261)](#51)
+      - [Chapitre II : De l'équarrissage des animaux. (art. 269 à 272)](#52)
+    - [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques. (art. 284 à 294)](#53)
+    - [Titre VII : De la production des animaux domestiques (art. 295 à 308)](#54)
+      - [Chapitre Ier : De la monte (art. 295 à 307)](#55)
+        - [Section 1 : De la monte publique des étalons. (art. 295 à 298)](#56)
+        - [Section 2 : De la monte publique des taureaux. (art. 299 à 307)](#57)
+      - [Chapitre II : De l'insémination artificielle. (art. 308)](#58)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 309 à 324)](#59)
+    - [Titre IX : Des pénalités. (art. 325 à 338)](#60)
+    - [Titre X : De la protection des végétaux. (art. 342 à 364)](#61)
+      - [Chapitre Ier : Groupements de défense contre les ennemis des cultures. (art. 344 à 347)](#62)
+      - [Chapitre II : Mesures de défense contre les parasites et petits animaux. (art. 348 à 355)](#63)
+      - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#64)
+      - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#65)
+      - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#66)
+  - [Livre III : La chasse et la pêche (art. 373 à 501)](#67)
+    - [Titre Ier : De la chasse (art. 373 à 399)](#68)
+      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 373 à 373-1)](#69)
+      - [Chapitre II : Des pénalités. (art. 378 à 392)](#70)
+      - [Chapitre III : De la destruction des animaux nuisibles. (art. 394 à 395)](#71)
+      - [Chapitre IV : Des groupements de chasseurs. (art. 397 à 399)](#72)
+    - [Titre II : Pêche fluviale (art. 401 à 425)](#73)
+      - [Du droit de pêche (art. 401 à 425)](#74)
+        - [Chapitre Ier : Dispositions générales. (art. 401 à 410)](#75)
+        - [Chapitre II : Exploitation du droit de pêche par l'Etat. (art. 413 à 425)](#76)
+    - [Titre III : De la police de la pêche (art. 428 à 499)](#77)
+      - [Chapitre Ier : Dispositions générales et pénales. (art. 428 à 443)](#78)
+      - [Chapitre II : Des poursuites au nom de l'administration. (art. 446 à 480)](#79)
+      - [Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat. (art. 481 à 484)](#80)
+      - [Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines. (art. 485 à 491)](#81)
+      - [Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public. (art. 492 à 499)](#82)
+    - [Titre IV : Des groupements de pêcheurs. (art. 500)](#83)
+    - [Titre V : Dispositions diverses. (art. 501)](#84)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#85)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#86)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#87)
+  - [Livre V : Crédit agricole (art. 615 à 789)](#88)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#89)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#90)
+      - [Chapitre II : Fonctionnement. (art. 632 à 643)](#91)
+      - [Chapitre III : Ressources. (art. 645 à 650)](#92)
+      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#93)
+        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#94)
+        - [Section 2 : Crédit à moyen terme (art. 663 à 682)](#95)
+          - [Paragraphe 1 : Prêts pour la modernisation et le développement agricole. (art. 663 à 665)](#96)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 667 à 673)](#97)
+          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674)](#98)
+          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#99)
+          - [Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée. (art. 681 à 682)](#100)
+        - [Section 3 : Crédit à long terme individuel. (art. 689 à 696-1)](#101)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#102)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 700 à 710)](#103)
+    - [Titre II : Caisse nationale de crédit agricole (art. 716 à 736)](#104)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 716)](#105)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#106)
+      - [Chapitre III : Opérations de crédit. (art. 722 à 736)](#107)
+    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#108)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#109)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745)](#110)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#111)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#112)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#113)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#114)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#115)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#116)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#117)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#118)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#119)
+  - [Livre VI : Baux ruraux (art. 857 à 948)](#120)
+    - [Titre Ier : Statut du fermage et du métayage (art. 857 à 861)](#121)
+      - [Chapitre III : Dispositions diverses. (art. 857 à 861)](#122)
+    - [Titre V : Bail emphytéotique. (art. 948)](#123)
+  - [Livre VII : Dispositions sociales (art. 984 à 1262)](#124)
+    - [Titre Ier : Régime du travail (art. 984 à 1000)](#125)
+      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 984 à 991)](#126)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 999 à 1000)](#127)
+    - [Titre II : Mutualité sociale agricole (art. 1002 à 1142-11)](#128)
+      - [Chapitre Ier : Elections des conseils d'administration. (art. 1004 à 1023)](#129)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1021)](#130)
+      - [Chapitre II : Assurances sociales (art. 1027 à 1059)](#131)
+        - [Section 1 : Affiliation. (art. 1027 à 1030)](#132)
+        - [Section 2 : Cotisations. (art. 1032 à 1037)](#133)
+        - [Section 3 : Prestations. (art. 1039 à 1048)](#134)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#135)
+      - [Chapitre III : Prestations familiales (art. 1062 à 1098)](#136)
+        - [Section 1 : Affiliations et cotisations. (art. 1062 à 1070)](#137)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1079)](#138)
+        - [Section 3 : Recouvrement. (art. 1081 à 1088)](#139)
+        - [Section 4 : Prestations. (art. 1091-1)](#140)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#141)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-5 à 1106-16)](#142)
+        - [Section 2 : Prestations. (art. 1106-5)](#143)
+        - [Section 3 : Financement. (art. 1106-8)](#144)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16)](#145)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1142)](#146)
+        - [Section 1 : Prestations (art. 1113 à 1122-4)](#147)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#148)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-4)](#149)
+        - [Section 2 : Cotisations. (art. 1126 à 1135)](#150)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1142)](#151)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#152)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1185 à 1232)](#153)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1185 à 1197)](#154)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1185 à 1197)](#155)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1199 à 1232)](#156)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1252 à 1262)](#157)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1264 à 1337)](#158)
+    - [Titre Ier : Apprentissage. (art. 1264 à 1271)](#159)
+    - [Titre II : Enseignement (art. 1272 à 1296)](#160)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1273 à 1281)](#161)
+        - [Section 1 : Organisation. (art. 1273 à 1280)](#162)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#163)
+      - [Chapitre II : Enseignement agricole du deuxième degré. (art. 1282 à 1287)](#164)
+      - [Chapitre III : Enseignement ménager agricole. (art. 1288 à 1290)](#165)
+      - [Chapitre IV : Dispositions communes. (art. 1291 à 1296)](#166)
+    - [Titre III : Recherche (art. 1297 à 1337)](#167)
+      - [Chapitre Ier : Institut national de la recherche agronomique (art. 1297 à 1324)](#168)
+        - [Section 1 : Conseil supérieur de la recherche agronomique. (art. 1301 à 1309)](#169)
+        - [Section 2 : Stations et laboratoires de recherches. (art. 1310 à 1314)](#170)
+        - [Section 3 : Fonctionnement administratif et financier. (art. 1315 à 1324)](#171)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1325 à 1337)](#172)
+        - [Section 1 : Station centrale d'hydrobiologie appliquée. (art. 1325 à 1330)](#173)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1331 à 1337)](#174)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -229,26 +227,7 @@ _Codifié par_:
 
 ## Titre Ier : De l'aménagement foncier<a id=2></a>
 
-### Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier<a id=3></a>
-
-#### Section 5 : Dispositions conservatoires et clôture des opérations.<a id=4></a>
-
-###### Article 8
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964
-
-
-### Chapitre Ier : Des commissions communales et départementales d'aménagement foncier<a id=5></a>
+### Chapitre Ier : Des commissions communales et départementales d'aménagement foncier<a id=3></a>
 
 ###### Article 1
 
@@ -290,7 +269,7 @@ _Modifié par_:
   - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
 
 
-### Chapitre II : De la réorganisation de la propriété foncière<a id=6></a>
+### Chapitre II : De la réorganisation de la propriété foncière<a id=4></a>
 
 ###### Article 10
 
@@ -395,7 +374,7 @@ _Anciens textes_:
   - Loi n°1941-03-09 art. 14
 
 
-### Chapitre III : Du remembrement rural.<a id=7></a>
+### Chapitre III : Du remembrement rural.<a id=5></a>
 
 ###### Article 22
 
@@ -670,7 +649,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.<a id=8></a>
+### Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.<a id=6></a>
 
 ###### Article 38-1
 
@@ -747,7 +726,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : De la mise en valeur des terres incultes récupérables.<a id=9></a>
+### Chapitre V : De la mise en valeur des terres incultes récupérables.<a id=7></a>
 
 ###### Article 41
 
@@ -801,7 +780,7 @@ _Modifié par_:
   - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
 
 
-### Chapitre VII : Dispositions diverses.<a id=10></a>
+### Chapitre VII : Dispositions diverses.<a id=8></a>
 
 ###### Article 54
 
@@ -936,9 +915,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VIII : Dispositions particulières à certains départements<a id=11></a>
+### Chapitre VIII : Dispositions particulières à certains départements<a id=9></a>
 
-#### Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=12></a>
+#### Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=10></a>
 
 ###### Article 58
 
@@ -982,7 +961,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne.<a id=13></a>
+### Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne.<a id=11></a>
 
 ###### Article 58-1
 
@@ -1354,7 +1333,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=14></a>
+### Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=12></a>
 
 ###### Article 58-17
 
@@ -1544,11 +1523,11 @@ _Créé par_:
   - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
 
 
-## Titre II : Des chemins ruraux et des chemins d'exploitation<a id=15></a>
+## Titre II : Des chemins ruraux et des chemins d'exploitation<a id=13></a>
 
-### Chapitre Ier : Des chemins ruraux<a id=16></a>
+### Chapitre Ier : Des chemins ruraux<a id=14></a>
 
-#### Section 1 : Dispositions générales.<a id=17></a>
+#### Section 1 : Dispositions générales.<a id=15></a>
 
 ###### Article 59
 
@@ -1893,7 +1872,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre III : Des chemins et sentiers d'exploitation.<a id=18></a>
+### Chapitre III : Des chemins et sentiers d'exploitation.<a id=16></a>
 
 ###### Article 92
 
@@ -2009,9 +1988,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-## Titre III : Des cours d'eaux non domaniaux<a id=19></a>
+## Titre III : Des cours d'eaux non domaniaux<a id=17></a>
 
-### Chapitre II : Police et conservation des eaux.<a id=20></a>
+### Chapitre II : Police et conservation des eaux.<a id=18></a>
 
 ###### Article 112
 
@@ -2034,9 +2013,9 @@ _Abrogé par_:
   - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
 
 
-## Titre IV : Des eaux utiles<a id=21></a>
+## Titre IV : Des eaux utiles<a id=19></a>
 
-### Chapitre Ier : De la servitude de passage des eaux utiles.<a id=22></a>
+### Chapitre Ier : De la servitude de passage des eaux utiles.<a id=20></a>
 
 ###### Article 125
 
@@ -2063,7 +2042,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II : De la servitude d'appui.<a id=23></a>
+### Chapitre II : De la servitude d'appui.<a id=21></a>
 
 ###### Article 126
 
@@ -2135,7 +2114,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II-1 : De l'utilisation des eaux d'irrigation.<a id=24></a>
+### Chapitre II-1 : De l'utilisation des eaux d'irrigation.<a id=22></a>
 
 ###### Article 128-1
 
@@ -2399,9 +2378,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre III : Des taxes d'irrigation<a id=25></a>
+### Chapitre III : Des taxes d'irrigation<a id=23></a>
 
-#### Section 1 : Des taxes.<a id=26></a>
+#### Section 1 : Des taxes.<a id=24></a>
 
 ###### Article 129
 
@@ -2424,7 +2403,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-#### Section 2 : Des surtaxes.<a id=27></a>
+#### Section 2 : Des surtaxes.<a id=25></a>
 
 ###### Article 130
 
@@ -2523,9 +2502,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-## Titre V : Des eaux nuisibles<a id=28></a>
+## Titre V : Des eaux nuisibles<a id=26></a>
 
-### Chapitre Ier : De la suppression des étangs insalubres.<a id=29></a>
+### Chapitre Ier : De la suppression des étangs insalubres.<a id=27></a>
 
 ###### Article 134
 
@@ -2549,7 +2528,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II : De la servitude d'écoulement des eaux nuisibles.<a id=30></a>
+### Chapitre II : De la servitude d'écoulement des eaux nuisibles.<a id=28></a>
 
 ###### Article 135
 
@@ -2677,9 +2656,9 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-## Titre VI : Equipement rural<a id=31></a>
+## Titre VI : Equipement rural<a id=29></a>
 
-### Chapitre Ier : Des travaux entrepris par l'Etat.<a id=32></a>
+### Chapitre Ier : Des travaux entrepris par l'Etat.<a id=30></a>
 
 ###### Article 140
 
@@ -3080,7 +3059,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre II : Des concessions de travaux.<a id=33></a>
+### Chapitre II : Des concessions de travaux.<a id=31></a>
 
 ###### Article 152
 
@@ -3634,7 +3613,7 @@ _Abrogé par_:
   - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
-### Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes.<a id=34></a>
+### Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes.<a id=32></a>
 
 ###### Article 175
 
@@ -3812,9 +3791,9 @@ _Anciens textes_:
   - Loi n°1941-02-16
 
 
-### Chapitre IV : Restauration de l'habitat rural<a id=35></a>
+### Chapitre IV : Restauration de l'habitat rural<a id=33></a>
 
-#### Section 1 : Travaux de restauration de l'habitat.<a id=36></a>
+#### Section 1 : Travaux de restauration de l'habitat.<a id=34></a>
 
 ###### Article 183
 
@@ -3841,7 +3820,7 @@ _Anciens textes_:
   - Loi n°1940-11-21 art. 5
 
 
-#### Section 2 : Construction des bâtiments des exploitations agricoles.<a id=37></a>
+#### Section 2 : Construction des bâtiments des exploitations agricoles.<a id=35></a>
 
 ###### Article 184
 
@@ -3933,7 +3912,7 @@ _Anciens textes_:
   - Loi n°1941-04-17 art. 5
 
 
-## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=38></a>
+## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.<a id=36></a>
 
 ###### Article 188-10
 
@@ -4113,9 +4092,9 @@ _Abrogé par_:
   - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
 
 
-# Livre II : Des animaux et des végétaux<a id=39></a>
+# Livre II : Des animaux et des végétaux<a id=37></a>
 
-## Titre Ier : Vaine pâture.<a id=40></a>
+## Titre Ier : Vaine pâture.<a id=38></a>
 
 ###### Article 189
 
@@ -4414,9 +4393,9 @@ _Abrogé par_:
   - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
-## Titre II : De la garde des animaux domestiques<a id=41></a>
+## Titre II : De la garde des animaux domestiques<a id=39></a>
 
-### Chapitre Ier : Des bestiaux et des chèvres.<a id=42></a>
+### Chapitre Ier : Des bestiaux et des chèvres.<a id=40></a>
 
 ###### Article 200
 
@@ -4488,7 +4467,7 @@ _Créé par_:
   - Loi n°56-464 1956-05-07 art. 1 JORF 9 mai 1956
 
 
-### Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres.<a id=43></a>
+### Chapitre II : Des animaux de basse-cour, pigeons, abeilles, vers à soie et autres.<a id=41></a>
 
 ###### Article 202
 
@@ -4666,7 +4645,7 @@ _Anciens textes_:
   - Loi n°1889-04-04 art. 11
 
 
-### Chapitre III : Des animaux dangereux et errants.<a id=44></a>
+### Chapitre III : Des animaux dangereux et errants.<a id=42></a>
 
 ###### Article 211
 
@@ -4709,7 +4688,7 @@ _Anciens textes_:
   - Loi n°1898-06-21 art. 15 al. 1, al. 2
 
 
-## Titre III : De la lutte contre les maladies des animaux<a id=45></a>
+## Titre III : De la lutte contre les maladies des animaux<a id=43></a>
 
 ###### Article 214
 
@@ -4774,7 +4753,7 @@ _Abrogé par_:
   - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
 
 
-### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.<a id=46></a>
+### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.<a id=44></a>
 
 ###### Article 216
 
@@ -4798,7 +4777,7 @@ _Cite_:
   - Code de la santé publique L611 à L617
 
 
-### Chapitre II : Prophylaxie de la tuberculose.<a id=47></a>
+### Chapitre II : Prophylaxie de la tuberculose.<a id=45></a>
 
 ###### Article 218
 
@@ -4815,9 +4794,9 @@ _Abrogé par_:
   - Loi n°75-409 1975-05-29 art. 4 JORF 30 mai 1975
 
 
-### Chapitre III : De la police sanitaire<a id=48></a>
+### Chapitre III : De la police sanitaire<a id=46></a>
 
-#### Section 1 : De la police sanitaire des maladies non contagieuses.<a id=49></a>
+#### Section 1 : De la police sanitaire des maladies non contagieuses.<a id=47></a>
 
 ###### Article 220
 
@@ -4924,7 +4903,7 @@ _Abrogé par_:
   - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
 
 
-#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=50></a>
+#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=48></a>
 
 ###### Article 225
 
@@ -5337,7 +5316,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-#### Section 3 : Des importations et des exportations.<a id=51></a>
+#### Section 3 : Des importations et des exportations.<a id=49></a>
 
 ###### Article 244
 
@@ -5545,9 +5524,9 @@ _Abrogé par_:
   - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
 
 
-## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=52></a>
+## Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux<a id=50></a>
 
-### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=53></a>
+### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.<a id=51></a>
 
 ###### Article 253
 
@@ -5652,7 +5631,7 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : De l'équarrissage des animaux.<a id=54></a>
+### Chapitre II : De l'équarrissage des animaux.<a id=52></a>
 
 ###### Article 269
 
@@ -5680,7 +5659,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=55></a>
+## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.<a id=53></a>
 
 ###### Article 284
 
@@ -5937,11 +5916,11 @@ _Abrogé par_:
   - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VII : De la production des animaux domestiques<a id=56></a>
+## Titre VII : De la production des animaux domestiques<a id=54></a>
 
-### Chapitre Ier : De la monte<a id=57></a>
+### Chapitre Ier : De la monte<a id=55></a>
 
-#### Section 1 : De la monte publique des étalons.<a id=58></a>
+#### Section 1 : De la monte publique des étalons.<a id=56></a>
 
 ###### Article 295
 
@@ -5995,7 +5974,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : De la monte publique des taureaux.<a id=59></a>
+#### Section 2 : De la monte publique des taureaux.<a id=57></a>
 
 ###### Article 299
 
@@ -6132,7 +6111,7 @@ _Abrogé par_:
   - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
 
 
-### Chapitre II : De l'insémination artificielle.<a id=60></a>
+### Chapitre II : De l'insémination artificielle.<a id=58></a>
 
 ###### Article 308
 
@@ -6162,7 +6141,7 @@ _Abrogé par_:
   - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
-## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=61></a>
+## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=59></a>
 
 ###### Article 309
 
@@ -6495,7 +6474,7 @@ _Abrogé par_:
   - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
 
 
-## Titre IX : Des pénalités.<a id=62></a>
+## Titre IX : Des pénalités.<a id=60></a>
 
 ###### Article 325
 
@@ -6583,7 +6562,7 @@ _Abrogé par_:
   - Loi n°66-1005 du 28 décembre 1966 - art. 12 (Ab) JORF 29 décembre 1966
 
 
-## Titre X : De la protection des végétaux.<a id=63></a>
+## Titre X : De la protection des végétaux.<a id=61></a>
 
 ###### Article 342
 
@@ -6611,7 +6590,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=64></a>
+### Chapitre Ier : Groupements de défense contre les ennemis des cultures.<a id=62></a>
 
 ###### Article 344
 
@@ -6687,7 +6666,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre II : Mesures de défense contre les parasites et petits animaux.<a id=65></a>
+### Chapitre II : Mesures de défense contre les parasites et petits animaux.<a id=63></a>
 
 ###### Article 348
 
@@ -6864,7 +6843,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Contrôle des pépinières.<a id=66></a>
+### Chapitre III : Contrôle des pépinières.<a id=64></a>
 
 ###### Article 356
 
@@ -6946,7 +6925,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=67></a>
+### Chapitre IV : Contrôle à l'exportation et à l'importation.<a id=65></a>
 
 ###### Article 360
 
@@ -7015,7 +6994,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Sanctions et dispositions diverses.<a id=68></a>
+### Chapitre V : Sanctions et dispositions diverses.<a id=66></a>
 
 ###### Article 364
 
@@ -7037,11 +7016,11 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-# Livre III : La chasse et la pêche<a id=69></a>
+# Livre III : La chasse et la pêche<a id=67></a>
 
-## Titre Ier : De la chasse<a id=70></a>
+## Titre Ier : De la chasse<a id=68></a>
 
-### Chapitre Ier : De l'exercice du droit de chasse.<a id=71></a>
+### Chapitre Ier : De l'exercice du droit de chasse.<a id=69></a>
 
 ###### Article 373
 
@@ -7143,7 +7122,7 @@ _Abrogé par_:
   - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
-### Chapitre II : Des pénalités.<a id=72></a>
+### Chapitre II : Des pénalités.<a id=70></a>
 
 ###### Article 378
 
@@ -7398,7 +7377,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : De la destruction des animaux nuisibles.<a id=73></a>
+### Chapitre III : De la destruction des animaux nuisibles.<a id=71></a>
 
 ###### Article 394
 
@@ -7467,7 +7446,7 @@ _Anciens textes_:
   - Loi n°1930-03-10 art. 1
 
 
-### Chapitre IV : Des groupements de chasseurs.<a id=74></a>
+### Chapitre IV : Des groupements de chasseurs.<a id=72></a>
 
 ###### Article 397
 
@@ -7535,11 +7514,11 @@ _Anciens textes_:
   - Loi n°1941-06-28
 
 
-## Titre II : Pêche fluviale<a id=75></a>
+## Titre II : Pêche fluviale<a id=73></a>
 
-### Du droit de pêche<a id=76></a>
+### Du droit de pêche<a id=74></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=77></a>
+#### Chapitre Ier : Dispositions générales.<a id=75></a>
 
 ###### Article 401
 
@@ -7709,7 +7688,7 @@ _Modifié par_:
   - Loi n°56-465 1956-05-07 art. 1 JORF 9 mai 1956
 
 
-#### Chapitre II : Exploitation du droit de pêche par l'Etat.<a id=78></a>
+#### Chapitre II : Exploitation du droit de pêche par l'Etat.<a id=76></a>
 
 ###### Article 413
 
@@ -7938,9 +7917,9 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 4
 
 
-## Titre III : De la police de la pêche<a id=79></a>
+## Titre III : De la police de la pêche<a id=77></a>
 
-### Chapitre Ier : Dispositions générales et pénales.<a id=80></a>
+### Chapitre Ier : Dispositions générales et pénales.<a id=78></a>
 
 ###### Article 428
 
@@ -8154,7 +8133,7 @@ _Anciens textes_:
   - Loi n°1865-05-31 art. 8
 
 
-### Chapitre II : Des poursuites au nom de l'administration.<a id=81></a>
+### Chapitre II : Des poursuites au nom de l'administration.<a id=79></a>
 
 ###### Article 446
 
@@ -8835,7 +8814,7 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 64
 
 
-### Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat.<a id=82></a>
+### Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat.<a id=80></a>
 
 ###### Article 481
 
@@ -8921,7 +8900,7 @@ _Anciens textes_:
   - Loi n°1829-04-15 art. 68
 
 
-### Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines.<a id=83></a>
+### Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines.<a id=81></a>
 
 ###### Article 485
 
@@ -9101,7 +9080,7 @@ _Anciens textes_:
   - Loi n°1829-04-15
 
 
-### Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public.<a id=84></a>
+### Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public.<a id=82></a>
 
 ###### Article 492
 
@@ -9287,7 +9266,7 @@ _Anciens textes_:
   - Loi n°1829-04-15
 
 
-## Titre IV : Des groupements de pêcheurs.<a id=85></a>
+## Titre IV : Des groupements de pêcheurs.<a id=83></a>
 
 ###### Article 500
 
@@ -9327,7 +9306,7 @@ _Abrogé par_:
   - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
 
 
-## Titre V : Dispositions diverses.<a id=86></a>
+## Titre V : Dispositions diverses.<a id=84></a>
 
 ###### Article 501
 
@@ -9354,11 +9333,11 @@ _Anciens textes_:
   - Loi n°1920-07-31
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=87></a>
+# Livre IV : Institutions et groupements professionnels agricoles<a id=85></a>
 
-## Titre Ier : Chambres d'agriculture<a id=88></a>
+## Titre Ier : Chambres d'agriculture<a id=86></a>
 
-### Chapitre IV : Dispositions financières et d'application.<a id=89></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=87></a>
 
 ###### Article 545-2
 
@@ -9384,11 +9363,11 @@ _Cite_:
   - Loi n°59-1472 du 28 décembre 1959 - art. 30, v. init.
 
 
-# Livre V : Crédit agricole<a id=90></a>
+# Livre V : Crédit agricole<a id=88></a>
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=91></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=89></a>
 
-### Chapitre Ier : Organisation.<a id=92></a>
+### Chapitre Ier : Organisation.<a id=90></a>
 
 ###### Article 615
 
@@ -9724,7 +9703,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=93></a>
+### Chapitre II : Fonctionnement.<a id=91></a>
 
 ###### Article 632
 
@@ -9969,7 +9948,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Ressources.<a id=94></a>
+### Chapitre III : Ressources.<a id=92></a>
 
 ###### Article 645
 
@@ -10068,9 +10047,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=95></a>
+### Chapitre IV : Opérations de crédit<a id=93></a>
 
-#### Section 1 : Crédit à court terme.<a id=96></a>
+#### Section 1 : Crédit à court terme.<a id=94></a>
 
 ###### Article 653
 
@@ -10306,9 +10285,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=97></a>
+#### Section 2 : Crédit à moyen terme<a id=95></a>
 
-##### Paragraphe 1 : Prêts pour la modernisation et le développement agricole.<a id=98></a>
+##### Paragraphe 1 : Prêts pour la modernisation et le développement agricole.<a id=96></a>
 
 ###### Article 663
 
@@ -10355,7 +10334,7 @@ _Abrogé par_:
   - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
 
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=99></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=97></a>
 
 ###### Article 667
 
@@ -10486,7 +10465,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=100></a>
+##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=98></a>
 
 ###### Article 674
 
@@ -10503,7 +10482,7 @@ _Abrogé par_:
   - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
 
 
-##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=101></a>
+##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=99></a>
 
 ###### Article 675
 
@@ -10645,7 +10624,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-##### Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée.<a id=102></a>
+##### Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée.<a id=100></a>
 
 ###### Article 681
 
@@ -10677,7 +10656,7 @@ _Abrogé par_:
   - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=103></a>
+#### Section 3 : Crédit à long terme individuel.<a id=101></a>
 
 ###### Article 689
 
@@ -10870,7 +10849,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=104></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=102></a>
 
 ###### Article 697
 
@@ -10903,7 +10882,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=105></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=103></a>
 
 ###### Article 700
 
@@ -11028,9 +11007,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=106></a>
+## Titre II : Caisse nationale de crédit agricole<a id=104></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=107></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=105></a>
 
 ###### Article 716
 
@@ -11050,7 +11029,7 @@ _Abrogé par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Ressources.<a id=108></a>
+### Chapitre II : Ressources.<a id=106></a>
 
 ###### Article 717
 
@@ -11148,7 +11127,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=109></a>
+### Chapitre III : Opérations de crédit.<a id=107></a>
 
 ###### Article 722
 
@@ -11383,7 +11362,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=110></a>
+## Titre III : Inspection et contrôle.<a id=108></a>
 
 ###### Article 738
 
@@ -11485,9 +11464,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre IV : Dispositions diverses<a id=111></a>
+## Titre IV : Dispositions diverses<a id=109></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=112></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=110></a>
 
 ###### Article 745
 
@@ -11515,7 +11494,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=113></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=111></a>
 
 ###### Article 747
 
@@ -11597,9 +11576,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=114></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=112></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=115></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=113></a>
 
 ###### Article 752
 
@@ -11705,7 +11684,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=116></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=114></a>
 
 ###### Article 757
 
@@ -11809,7 +11788,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=117></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=115></a>
 
 ###### Article 763
 
@@ -11939,7 +11918,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=118></a>
+#### Section 4 : Dispositions communes.<a id=116></a>
 
 ###### Article 770
 
@@ -11988,7 +11967,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=119></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=117></a>
 
 ###### Article 773
 
@@ -12017,7 +11996,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=120></a>
+### Chapitre V : Domaine - Retraite.<a id=118></a>
 
 ###### Article 774
 
@@ -12321,7 +12300,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=121></a>
+### Chapitre VI : Dispositions d'application.<a id=119></a>
 
 ###### Article 788
 
@@ -12353,11 +12332,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VI : Baux ruraux<a id=122></a>
+# Livre VI : Baux ruraux<a id=120></a>
 
-## Titre Ier : Statut du fermage et du métayage<a id=123></a>
+## Titre Ier : Statut du fermage et du métayage<a id=121></a>
 
-### Chapitre III : Dispositions diverses.<a id=124></a>
+### Chapitre III : Dispositions diverses.<a id=122></a>
 
 ###### Article 857
 
@@ -12466,7 +12445,7 @@ _Modifié par_:
   - Loi n°63-1332 1963-12-30 art. 12 JORF 31 décembre 1963
 
 
-## Titre V : Bail emphytéotique.<a id=125></a>
+## Titre V : Bail emphytéotique.<a id=123></a>
 
 ###### Article 948
 
@@ -12488,11 +12467,11 @@ _Anciens textes_:
   - Loi n°1902-06-25 art. 12
 
 
-# Livre VII : Dispositions sociales<a id=126></a>
+# Livre VII : Dispositions sociales<a id=124></a>
 
-## Titre Ier : Régime du travail<a id=127></a>
+## Titre Ier : Régime du travail<a id=125></a>
 
-### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=128></a>
+### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=126></a>
 
 ###### Article 984
 
@@ -12657,7 +12636,7 @@ _Abrogé par_:
   - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=129></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=127></a>
 
 ###### Article 999
 
@@ -12697,7 +12676,7 @@ _Abrogé par_:
   - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
 
 
-## Titre II : Mutualité sociale agricole<a id=130></a>
+## Titre II : Mutualité sociale agricole<a id=128></a>
 
 ###### Article 1002
 
@@ -13044,7 +13023,7 @@ _Abrogé par_:
   - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-### Chapitre Ier : Elections des conseils d'administration.<a id=131></a>
+### Chapitre Ier : Elections des conseils d'administration.<a id=129></a>
 
 ###### Article 1004
 
@@ -13552,7 +13531,7 @@ _Anciens textes_:
   - Loi n°1949-06-08 art. 26
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=132></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=130></a>
 
 ###### Article 1021
 
@@ -13587,9 +13566,9 @@ _Anciens textes_:
   - Loi n°1949-06-08 art. 21
 
 
-### Chapitre II : Assurances sociales<a id=133></a>
+### Chapitre II : Assurances sociales<a id=131></a>
 
-#### Section 1 : Affiliation.<a id=134></a>
+#### Section 1 : Affiliation.<a id=132></a>
 
 ###### Article 1027
 
@@ -13689,7 +13668,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=135></a>
+#### Section 2 : Cotisations.<a id=133></a>
 
 ###### Article 1032
 
@@ -13799,7 +13778,7 @@ _Abrogé par_:
   - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
 
 
-#### Section 3 : Prestations.<a id=136></a>
+#### Section 3 : Prestations.<a id=134></a>
 
 ###### Article 1039
 
@@ -14006,7 +13985,7 @@ _Abrogé par_:
   - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
 
 
-#### Section 5 : Organisation administrative et financière.<a id=137></a>
+#### Section 5 : Organisation administrative et financière.<a id=135></a>
 
 ###### Article 1052
 
@@ -14120,9 +14099,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=138></a>
+### Chapitre III : Prestations familiales<a id=136></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=139></a>
+#### Section 1 : Affiliations et cotisations.<a id=137></a>
 
 ###### Article 1062
 
@@ -14374,7 +14353,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Dégrèvements.<a id=140></a>
+#### Section 2 : Dégrèvements.<a id=138></a>
 
 ###### Article 1073
 
@@ -14540,7 +14519,7 @@ _Abrogé par_:
   - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
 
 
-#### Section 3 : Recouvrement.<a id=141></a>
+#### Section 3 : Recouvrement.<a id=139></a>
 
 ###### Article 1081
 
@@ -14694,7 +14673,7 @@ _Abrogé par_:
   - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
 
 
-#### Section 4 : Prestations.<a id=142></a>
+#### Section 4 : Prestations.<a id=140></a>
 
 ###### Article 1091-1
 
@@ -14726,7 +14705,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=143></a>
+#### Section 5 : Organisation administrative et financière.<a id=141></a>
 
 ###### Article 1094
 
@@ -14748,9 +14727,41 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=144></a>
+###### Article 1098
 
-#### Section 2 : Prestations.<a id=145></a>
+Il est créé au ministère de l'agriculture une commission susceptible d'être consultée par le ministre de l'agriculture et de
+présenter toutes suggestions relatives aux allocations familiales agricoles. Cette commission est substituée à la commission
+supérieure des allocations familiales créée par le décret du 31 mai 1938. Elle est constituée par la section des allocations
+familiales du conseil supérieur des prestations sociales et est régie par les dispositions du décret relatif aux conseils
+supérieurs du ministère de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°1938-05-31
+
+_Anciens textes_:
+
+  - Décret n°1938-05-31 art. 1 al. 2, art. 2
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Décret n°64-862 1964-08-03 art. 21 II JORF 25 août 1964
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=142></a>
+
+#### Section 2 : Prestations.<a id=143></a>
 
 ###### Article 1106-5
 
@@ -14783,7 +14794,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=146></a>
+#### Section 3 : Financement.<a id=144></a>
 
 ###### Article 1106-8
 
@@ -14804,7 +14815,7 @@ _Nouveaux textes_:
   - Code rural - art. L731-40 (V)
 
 
-#### Section 4 : Assujettissement et organisation.<a id=147></a>
+#### Section 4 : Assujettissement et organisation.<a id=145></a>
 
 ###### Article 1106-9
 
@@ -14943,7 +14954,7 @@ _Abrogé par_:
   - Loi n°87-39 du 27 janvier 1987 - art. 13 (V) JORF 28 janvier en vigueur le 1er janvier 1987
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=148></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=146></a>
 
 ###### Article 1107
 
@@ -14980,9 +14991,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=149></a>
+#### Section 1 : Prestations<a id=147></a>
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=150></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=148></a>
 
 ###### Article 1113
 
@@ -15063,7 +15074,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 3 : Allocation complémentaire agricole.<a id=151></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=149></a>
 
 ###### Article 1122-3
 
@@ -15095,7 +15106,7 @@ _Abrogé par_:
   - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
 
 
-#### Section 2 : Cotisations.<a id=152></a>
+#### Section 2 : Cotisations.<a id=150></a>
 
 ###### Article 1126
 
@@ -15224,7 +15235,7 @@ _Cite_:
   - Code rural 1130
 
 
-#### Section 3 : Organisation administrative et financière.<a id=153></a>
+#### Section 3 : Organisation administrative et financière.<a id=151></a>
 
 ###### Article 1136
 
@@ -15313,7 +15324,7 @@ _Abrogé par_:
   - Loi n°67-1172 1967-12-22 art. 13 II JORF 29 décembre 1967
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=154></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=152></a>
 
 ###### Article 1142-1
 
@@ -15487,11 +15498,11 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=155></a>
+## Titre III : Accidents du travail et risques agricoles<a id=153></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=156></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=154></a>
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=157></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=155></a>
 
 ###### Article 1185
 
@@ -15688,7 +15699,7 @@ _Abrogé par_:
   - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=158></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=156></a>
 
 ###### Article 1199
 
@@ -16046,7 +16057,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=159></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=157></a>
 
 ###### Article 1252
 
@@ -16274,9 +16285,9 @@ _Cite_:
   - Code rural 1257
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=160></a>
+# Livre VIII : Formation professionnelle et recherche<a id=158></a>
 
-## Titre Ier : Apprentissage.<a id=161></a>
+## Titre Ier : Apprentissage.<a id=159></a>
 
 ###### Article 1264
 
@@ -16398,7 +16409,7 @@ _Abrogé par_:
   - Loi n°79-13 1979-01-03 art. 4 II JORF 4 janvier 1979
 
 
-## Titre II : Enseignement<a id=162></a>
+## Titre II : Enseignement<a id=160></a>
 
 ###### Article 1272
 
@@ -16415,9 +16426,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=163></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=161></a>
 
-#### Section 1 : Organisation.<a id=164></a>
+#### Section 1 : Organisation.<a id=162></a>
 
 ###### Article 1273
 
@@ -16539,7 +16550,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Dispositions pénales.<a id=165></a>
+#### Section 2 : Dispositions pénales.<a id=163></a>
 
 ###### Article 1281
 
@@ -16556,7 +16567,7 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-### Chapitre II : Enseignement agricole du deuxième degré.<a id=166></a>
+### Chapitre II : Enseignement agricole du deuxième degré.<a id=164></a>
 
 ###### Article 1282
 
@@ -16648,7 +16659,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre III : Enseignement ménager agricole.<a id=167></a>
+### Chapitre III : Enseignement ménager agricole.<a id=165></a>
 
 ###### Article 1288
 
@@ -16695,7 +16706,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre IV : Dispositions communes.<a id=168></a>
+### Chapitre IV : Dispositions communes.<a id=166></a>
 
 ###### Article 1291
 
@@ -16791,9 +16802,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
-## Titre III : Recherche<a id=169></a>
+## Titre III : Recherche<a id=167></a>
 
-### Chapitre Ier : Institut national de la recherche agronomique<a id=170></a>
+### Chapitre Ier : Institut national de la recherche agronomique<a id=168></a>
 
 ###### Article 1297
 
@@ -16855,7 +16866,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=171></a>
+#### Section 1 : Conseil supérieur de la recherche agronomique.<a id=169></a>
 
 ###### Article 1301
 
@@ -16992,7 +17003,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Stations et laboratoires de recherches.<a id=172></a>
+#### Section 2 : Stations et laboratoires de recherches.<a id=170></a>
 
 ###### Article 1310
 
@@ -17069,7 +17080,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 3 : Fonctionnement administratif et financier.<a id=173></a>
+#### Section 3 : Fonctionnement administratif et financier.<a id=171></a>
 
 ###### Article 1315
 
@@ -17221,9 +17232,9 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=174></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=172></a>
 
-#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=175></a>
+#### Section 1 : Station centrale d'hydrobiologie appliquée.<a id=173></a>
 
 ###### Article 1325
 
@@ -17315,7 +17326,7 @@ _Abrogé par_:
   - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
 
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=176></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=174></a>
 
 ###### Article 1331
 
