@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1983-12-15
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -166,7 +166,7 @@ Version Consolidée au 1983-07-23
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#163)
       - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#164)
       - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#165)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-26)](#166)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#166)
       - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#167)
         - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147)](#168)
         - [Section 2 : Prestations. (art. 1148)](#169)
@@ -180,21 +180,23 @@ Version Consolidée au 1983-07-23
       - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#177)
       - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#178)
       - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26)](#179)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#180)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#181)
-      - [Chapitre II : Médecine préventive. (art. 1250-2)](#182)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#183)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#184)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#185)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#186)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#187)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#188)
-    - [Titre II : Enseignement (art. 1281)](#189)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#190)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#191)
-    - [Titre III : Recherche (art. 1337)](#192)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#193)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#194)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#180)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#181)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#182)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#183)
+      - [Chapitre II : Médecine préventive. (art. 1250-2)](#184)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#185)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-4)](#186)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4)](#187)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#188)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#189)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#190)
+    - [Titre II : Enseignement (art. 1281)](#191)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#192)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#193)
+    - [Titre III : Recherche (art. 1337)](#194)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#195)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#196)
 ###### Article 162
 
 Le procès-verbal d'estimation par classe est déposé pendant un mois à la préfecture. Les intéressés en sont prévenus par
@@ -23500,32 +23502,61 @@ _Abrogé par_:
 
 ###### Article 1106-19
 
-Au titre des assurances maladie et maternité, les prestations auxquelles peuvent prétendre les bénéficiaires du présent
-chapitre sont celles prévues au titre III du livre XI du code de la sécurité sociale. Toutefois, l'assurance ne comporte en
-aucun cas l'attribution d'indemnité journalière. Elle ne couvre pas les conséquences des accidents de la vie privée, sauf
-pour les enfants mineurs de 16 ans ou assimilés. Elle ne couvre en aucun cas les conséquences des accidents du travail et des
-maladies professionnelles, lors même qu'il n'y a pas adhésion à la législation relative auxdits accidents ou maladies.
+I. - Au titre des assurances maladie et maternité, les prestations auxquelles peuvent prétendre les bénéficiaires du présent
+chapitre sont celles prévues au titre III du livre XI du code de la sécurité sociale.
 
-Au titre de l'assurance invalidité, les prestations sont celles prévues à l'article 1106-2, I, 3°.
+L'assurance maladie prend aussi en charge les suites des accidents survenus dans un régime obligatoire d'assurance maladie
+dont relevaient, soit en qualité d'assuré, soit en qualité d'ayant droit, les personnes visées à l'article 1106-17 avant leur
+assujettissement au présent régime.
 
-Les conditions d'ouverture du droit aux prestations visées aux alinéas précédents sont celles applicables aux bénéficiaires
-du régime institué par le chapitre III-1 du présent titre.
+Elle couvre également les conséquences des accidents dont sont victimes :
+
+- les enfants mineurs de seize ans et assimilés qui n'exercent pas d'activité professionnelle, ainsi que les suites que
+peuvent entraîner lesdits accidents pour les victimes après l'âge de seize ans ou, le cas échéant, de vingt ans, dès lors
+qu'elles demeurent assujetties au régime d'assurance obligatoire institué par le présent chapitre ;
+
+- les titulaires de retraites ou d'allocations de vieillesse agricole visés à l'article 1142-3 et les assujettis titulaires
+d'une pension d'invalidité obtenue en application de l'article 1234-3 B ainsi que leurs conjoints, lorsque les uns et les
+autres n'exercent pas d'activité professionnelle.
+
+Sous réserve des dispositions de l'alinéa qui précède, l'assurance ne couvre pas les conséquences des accidents du travail,
+des maladies professionnelles et des accidents de la vie privée lors même qu'il n'y aurait pas affiliation au régime institué
+par le chapitre V du titre III du présent livre.
+
+Elle ne comporte en aucun cas l'attribution d'indemnités journalières.
+
+II. - Au titre de l'assurance invalidité, les prestations sont celle prévues à l'article 1106-2, I, 3°.
+
+III. - Les conditions d'ouverture du droit aux prestations visées au présent article sont celles applicables aux
+bénéficiaires du régime institué par le chapitre III-1 du présent titre.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
 
 _Nouveaux textes_:
 
   - Code rural - art. L762-18 (M)
   - Code rural - art. L762-19 (VT)
   - Code rural - art. L762-20 (VT)
+  - Code rural L762-18
+  - Code rural L762-19
+  - Code rural L762-20
 
 _Cite_:
 
-  - Code rural 1106-2
+  - Code rural 1106-2, 1106-17, 1142-3, 1234-3
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 1983-12-14 art. 4 JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1106-20
@@ -26597,6 +26628,67 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1203
+
+La caisse des dépôts et consignations gère un fonds commun des accidents du travail agricole qui a la charge des dépenses
+prévues aux articles suivants, ainsi que de celles résultant des articles 1178 à 1180, 1182 et 1234-24.
+
+A partir du 1er juillet 1973, la part de ces dépenses effectuées au profit des victimes salariées ou de leurs ayants droit
+est remboursée au fonds commun, en application de l'article 1153, par la caisse centrale de secours mutuels agricoles suivant
+des modalités fixées par décret.
+
+A partir de cette même date, le fonds commun sera également alimenté par les contributions prévues à l'article 1622 du code
+général des impôts, perçues sur les contrats mentionnés à l'article 1234-19.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1622
+  - Code rural 1178 à 1180, 1182, 1234-24, 1153, 1234-19
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+_Nouveaux textes_:
+
+  - Code rural - art. L753-1 (M)
+  - Code rural - art. L753-3 (M)
+
+
+###### Article 1204
+
+A défaut, soit par les chefs d'entreprises débiteurs, soit par les sociétés d'assurances à primes fixes ou mutuelles, ou les
+syndicats de garantie liant solidairement tous les adhérents, de s'acquitter, au moment de leur exigibilité, des indemnités
+mises à leur charge à la suite d'accidents ayant entraîné la mort ou une incapacité permanente de travail, le paiement en est
+assuré aux intéressés par le fonds commun des accidents du travail agricole.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L753-4
+  - Code rural - art. L753-4 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1205
 
 La Caisse des dépôts et consignations exerce un recours contre les chefs d'entreprises débiteurs, pour le compte desquels des
@@ -26646,6 +26738,67 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1207
+
+Toutes les fois qu'un militaire, titulaire d'une pension militaire d'invalidité, a été victime d'un accident du travail
+survenu dans les conditions prévues au chapitre Ier du présent titre, l'ordonnance du président ou le jugement du tribunal
+qui fixe le montant des rentes pouvant résulter tant de sa mort que de la réduction permanente de sa capacité de travail doit
+indiquer expressément :
+
+1° si l'accident a eu pour cause exclusive l'infirmité de guerre préexistante ;
+
+2° si la réduction permanente de capacité résultant de l'accident a été aggravée par le fait de ladite infirmité et dans
+quelle proportion.
+
+Dans le premier cas, le chef d'entreprise est exonéré de la totalité des rentes allouées à la victime ou à ses ayants droit
+par l'ordonnance ou le jugement et, dans le second cas, de la quotité desdites rentes correspondant à l'aggravation ainsi
+déterminée.
+
+Le capital représentatif des rentes auxquelles s'applique cette exonération est versé à la caisse nationale d'assurance sur
+la vie, par prélèvement sur les ressources du fonds commun des accidents du travail agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+
+###### Article 1209
+
+Si, à la suite d'un accident du travail, la victime ne peut arriver à exercer la même profession, ou ne peut le faire
+qu'après une nouvelle adaptation, elle a le droit d'être admise gratuitement dans une école ou autre institution assurant la
+rééducation professionnelle des mutilés ou réformés de la guerre en vertu du chapitre V du titre VII du livre Ier du code des
+pensions militaires d'invalidité et des victimes de la guerre pour y apprendre l'exercice d'une profession de son choix, sous
+réserve de présenter les conditions d'aptitudes requises.
+
+Les frais de rééducation sont supportés par le fonds commun des accidents du travail agricole.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L753-23
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
 
 _Abrogé par_:
 
@@ -26720,6 +26873,97 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
+
+
+###### Article 1214
+
+Lorsqu'il est établi que l'accident résulte directement d'un des faits de guerre visés à l'article 1211, le fonds commun des
+accidents du travail agricole prend les lieu et place de l'employeur dans l'instance engagée et lui est substitué dans les
+conditions prévues par la législation en vigueur pour les professions agricoles antérieurement au 1er juillet 1973, pour le
+règlement des indemnités dues à la victime de l'accident ou à ses ayants droit.
+
+Le service des rentes prises en charge par le fonds de solidarité est assuré par la caisse nationale d'assurance sur la vie
+après versement à celle-ci, par le fonds, des capitaux constitutifs desdites rentes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1211
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+
+###### Article 1215
+
+Un décret rendu sur la proposition du ministre de l'agriculture et du ministre des finances fixe :
+
+Les modalités du règlement des sinistres par le fonds commun des accidents du travail agricole ;
+
+Les conditions d'application des articles 1211 et suivants aux employeurs ayant obtenu d'un organisme d'assurance contre les
+accidents du travail la couverture des risques définis au présent chapitre, la garantie de l'assurance ayant cessé de plein
+droit à la date du 25 octobre 1940 ;
+
+Les mesures administratives propres à l'exécution des dispositions des articles 1211 et suivants.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1211
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+
+###### Article 1216
+
+Le fonds commun des accidents du travail agricole supporte la dépense des majorations de rentes, des bonifications et des
+allocations prévues aux articles 1217 et suivants, ainsi que la dépense des frais d'appareillage.
+
+Les étrangers ou leurs ayants droit qui ne résident pas ou cessent de résider sur le territoire français, ne peuvent
+bénéficier des dispositions du présent article. Il n'en est autrement que pour les étrangers dont les pays d'origine
+garantissent aux ressortissants français ou à leurs ayants droit sans condition de résidence, des avantages tenus pour
+équivalents.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1217
+
+_Nouveaux textes_:
+
+  - Code rural L753-13
+  - Code rural L753-7
+  - Code rural - art. L753-13 (M)
+  - Code rural - art. L753-7 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1217
@@ -27016,6 +27260,37 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1225
+
+Conformément aux dispositions de l'article 18 de la loi du 2 septembre 1954, la majoration à la charge du fonds commun des
+accidents du travail agricole est égale à la différence entre la rente revalorisée, comme il est dit ci-dessus, et la rente
+allouée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°54-892 1954-09-02 art. 18
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L753-7 (M)
+  - Code rural L753-7
+
+
 ###### Article 1226
 
 Les dispositions des articles 1217 à 1222 sont applicables aux victimes d'accidents du travail survenus ou de maladies
@@ -27049,6 +27324,35 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1227
+
+Dans la mesure où les augmentations des rentes résultant de l'application des arrêtés de revalorisation ne seraient pas
+compensées par les primes ou cotisations couvrant le risque agricole, ces augmentations seraient supportées, pour les
+accidents antérieurs au 1er janvier suivant la date d'effet desdits arrêtés, par le fonds commun des accidents du travail
+agricole suivant des modalités et dans les conditions déterminées par décret rendu sur le rapport du ministre de
+l'agriculture et du ministre des finances.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L753-12
+  - Code rural - art. L753-12 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
 
 _Abrogé par_:
 
@@ -27141,6 +27445,48 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1231
+
+Si, au moment où l'accident du travail s'est produit, la profession n'était pas encore assujettie aux dispositions de la
+législation en vigueur pour les professions agricoles antérieurement au 1er juillet 1973, une allocation est accordée à la
+victime ou, en cas d'accident mortel, à ses ayants droit.
+
+Le montant annuel de cette allocation, servie par le fonds commun des accidents du travail agricole, est calculé sur les
+bases fixées au présent titre pour les rentes et majorations de rentes.
+
+L'allocation ne peut être attribuée à la victime que lorsque, par suite d'un ou de plusieurs accidents du travail ou maladies
+professionnelles, le taux de l'incapacité permanente est au moins égal à 10 p. 100.
+
+Toutefois, si l'accident a donné lieu à réparation, l'allocation définie à l'alinéa précédent est réduite du montant de la
+rente correspondant à la réparation accordée, éventuellement revalorisé dans les conditions fixées par décret en Conseil
+d'Etat.
+
+Le caractère professionnel de l'accident et le degré d'incapacité permanente de travail qui en est résulté directement sont
+fixés, sans appel, par ordonnance du président du tribunal de grande instance du lieu de l'accident.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L753-14
+  - Code rural L753-15
+  - Code rural L753-16
+  - Code rural L753-17
+  - Code rural - art. L753-14 (M)
+  - Code rural - art. L753-15 (M)
+  - Code rural - art. L753-16 (M)
+  - Code rural - art. L753-17 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1231-1
 
 Les dispositions de l'article 1231 sont également applicables aux travailleurs salariés ou assimilés au sens de la
@@ -27167,6 +27513,74 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
   - Loi n°2003-591 2003-07-02 art. 31
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1231-1 bis
+
+Les bénéficiaires des articles 1231 et 1231-1, dont le droit à l'appareillage a été reconnu dans les formes légales,
+reçoivent les appareils de prothèse ou d'orthopédie nécessaires en raison de leur infirmité, suivant les modalités techniques
+de fourniture, de réparation et de renouvellement prévues pour les victimes d'accidents du travail régis par le livre IV du
+code de la sécurité sociale.
+
+La charge de l'appareillage est supportée par le fonds commun des accidents du travail agricole ou, selon le cas, l'Etat
+employeur.
+
+Il est statué sur le droit à l'appareillage dans les conditions fixées au dernier alinéa de l'article 1231.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code rural - art. L753-19 (M)
+  - Code rural L753-19
+
+_Cite_:
+
+  - Code rural 1231, 1231-1
+
+
+###### Article 1231-2
+
+Dans les cas visés aux articles 1231, 1231-1, 1231-1 bis, 1178 à 1180 et 1234-24, le fonds commun des accidents du travail
+agricole ou, selon le cas, l'Etat employeur sont subrogés dans les droits que la victime pourrait faire valoir contre les
+tiers responsables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1231, 1231-1, 1231-1 bis, 1178 à 1180, 1234-24
+
+_Nouveaux textes_:
+
+  - Code rural L753-20
+  - Code rural - art. L753-20 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
 
 _Abrogé par_:
 
@@ -27559,6 +27973,45 @@ _Codifié par_:
 _Abrogé par_:
 
   - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-12
+
+Lorsque la lésion dont l'assuré est atteint est imputable à un tiers, la victime ou ses ayants droit conservent contre
+l'auteur de l'accident le droit de demander la réparation du préjudice causé, conformément aux règles du droit commun, dans
+la mesure où ce préjudice n'est pas réparé par application du présent chapitre.
+
+L'assureur est tenu de servir à l'assuré les prestations prévues par le présent chapitre, sauf recours de sa part contre
+l'auteur responsable de l'accident dans les conditions prévues à l'alinéa ci-après.
+
+Si la responsabilité du tiers auteur de l'accident est entière ou si elle est partagée avec la victime, l'assureur est admis
+à poursuivre le remboursement des prestations mises à sa charge à due concurrence de la part d'indemnité incombant au tiers
+qui répare l'atteinte à l'intégrité physique de la victime, à l'exclusion de la part d'indemnité, de caractère personnel,
+correspondant aux souffrances physiques et morales par elle endurées et au préjudice esthétique et d'agrément. De même, en
+cas d'accident suivi de mort, la part d'indemnité correspond au préjudice moral des ayants droit leur demeure acquise.
+
+La victime ou ses ayants droit sont admis à faire valoir les droits résultant pour eux de l'action en indemnité formée en
+application des dispositions du premier alinéa ci-dessus par priorité sur ceux de l'assureur en ce qui concerne son action en
+remboursement.
+
+Ne sont pas regardés comme des tiers pour l'application du présent article, sauf dans le cas où le dommage résulte d'une
+faute intentionnelle commise par eux, le conjoint, les enfants, descendants, alliés en ligne directe, préposés, employés,
+ouvriers ou domestiques du chef d'entreprise ou d'exploitation ainsi que toute personne vivant habituellement au foyer de
+celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°83-1071 1983-12-14 art. 5 JORF 15 décembre 1983
+
+_Nouveaux textes_:
+
+  - Code rural - art. L752-12 (M)
 
 
 ###### Article 1234-13
@@ -27957,9 +28410,108 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre IV : Dispositions diverses<a id=180></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=180></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=181></a>
+###### Article 1234-27
+
+Les dispositions du chapitre III du présent titre sont étendues aux personnes non salariées de l'agriculture exerçant leur
+activité dans les départements d'outre-mer, sous réserve des adaptations nécessaires à leur mise en oeuvre, qui seront
+déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L762-34
+  - Code rural - art. L762-34 (M)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°83-1071 1983-12-14 art. 1 JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-28
+
+Les chefs d'exploitation ou d'entreprise agricole sont tenus de recevoir à toute époque les directeurs régionaux et
+départementaux et les inspecteurs de la sécurité sociale qui se présentent pour vérifier l'application régulière des
+dispositions du présent chapitre.
+
+Ces fonctionnaires ont accès dans les exploitations et entreprises intéressées et peuvent demander communication sur place de
+tout documents et pièces nécessaires à l'accomplissement de leur mission de contrôle.
+
+Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
+officiers de police judiciaire sont applicables à ceux qui se rendent coupables de faits de même nature à l'égard de ces
+fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L762-3
+  - Code rural - art. L762-3 (V)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°83-1071 1983-12-14 art. 1 JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=181></a>
+
+###### Article 1234-29
+
+Les dispositions du chapitre IV du présent titre sont étendues aux personnes non salariées de l'agriculture exerçant leur
+activité dans les départements d'outre-mer, sous réserve des adaptations nécessaires à leur mise en oeuvre, qui seront
+déterminées par décret en Conseil d'Etat.
+
+Les contributions visées à l'article 1622 du code général des impôts sont perçues sur les contrats souscrits en application
+du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1622
+
+_Nouveaux textes_:
+
+  - Code rural - art. L762-35 (Ab)
+  - Code rural L762-35
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°83-1071 1983-12-14 art. 2 JORF 15 décembre 1983
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+## Titre IV : Dispositions diverses<a id=182></a>
+
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=183></a>
 
 ###### Article 1235
 
@@ -28554,7 +29106,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Médecine préventive.<a id=182></a>
+### Chapitre II : Médecine préventive.<a id=184></a>
 
 ###### Article 1250-2
 
@@ -28576,7 +29128,7 @@ _Nouveaux textes_:
   - Code rural - art. L742-5 (V)
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=183></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=185></a>
 
 ###### Article 1251
 
@@ -29072,9 +29624,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=184></a>
+## Titre VI : Français résidant à l'étranger<a id=186></a>
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=185></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=187></a>
 
 ###### Article 1263-4
 
@@ -29099,7 +29651,7 @@ _Cite_:
   - Code rural 1263-2
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=186></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=188></a>
 
 ###### Article 1263-6
 
@@ -29140,7 +29692,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=187></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=189></a>
 
 ###### Article 1263-8
 
@@ -29182,13 +29734,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=188></a>
+# Livre VIII : Formation professionnelle et recherche<a id=190></a>
 
-## Titre II : Enseignement<a id=189></a>
+## Titre II : Enseignement<a id=191></a>
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=190></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=192></a>
 
-#### Section 2 : Dispositions pénales.<a id=191></a>
+#### Section 2 : Dispositions pénales.<a id=193></a>
 
 ###### Article 1281
 
@@ -29205,11 +29757,11 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-## Titre III : Recherche<a id=192></a>
+## Titre III : Recherche<a id=194></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=193></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=195></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=194></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=196></a>
 
 ###### Article 1337
 
