@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-03-08
+Version Consolidée au 1963-03-20
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-24)](#2)
@@ -47,7 +47,7 @@ Version Consolidée au 1963-03-08
       - [Chapitre III : Des animaux dangereux et errants. (art. 211 à 212)](#44)
     - [Titre III : De la lutte contre les maladies des animaux (art. 214 à 252)](#45)
       - [Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux. (art. 216)](#46)
-      - [Chapitre II : Prophylaxie de la tuberculose. (art. 217 à 218)](#47)
+      - [Chapitre II : Prophylaxie de la tuberculose. (art. 218)](#47)
       - [Chapitre III : De la police sanitaire (art. 220 à 252)](#48)
         - [Section 1 : De la police sanitaire des maladies non contagieuses. (art. 220 à 223)](#49)
         - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 225 à 243)](#50)
@@ -4797,21 +4797,6 @@ _Cite_:
 
 
 ### Chapitre II : Prophylaxie de la tuberculose.<a id=47></a>
-
-###### Article 217
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°63-301 du 19 mars 1963 - art. 19 (Ab) JORF 20 mars 1963
-
 
 ###### Article 218
 
