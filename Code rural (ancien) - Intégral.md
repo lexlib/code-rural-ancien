@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1979-09-25
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -104,7 +104,7 @@ Version Consolidée au 1979-01-04
         - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#101)
           - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#102)
           - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#103)
-          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675 à 680)](#104)
+          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675-2 à 680)](#104)
         - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#105)
       - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 699)](#106)
       - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#107)
@@ -14417,36 +14417,6 @@ _Abrogé par_:
 
 
 ##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=104></a>
-
-###### Article 675
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°79-824 1979-09-21 art. 11 JORF 25 septembre 1979
-
-
-###### Article 675-1
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°79-824 1979-09-21 art. 11 JORF 25 septembre 1979
-
 
 ###### Article 675-2
 
