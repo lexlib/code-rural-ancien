@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-07-12
+Version Consolidée au 1991-08-01
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -23701,21 +23701,34 @@ _Abrogé par_:
 ###### Article 1142-17
 
 Un décret fixe les conditions dans lesquelles les cotisations prévues à l'article 1142-15 sont majorées pour la couverture
-des frais de gestion.
+des frais de gestion et pour le financement de l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Nouveaux textes_:
-
-  - Code rural - art. L762-11 (VT)
 
 _Cite_:
 
   - Code rural 1142-15
+  - Code de la sécurité sociale. - art. L752-7 (M)
+  - Code de la sécurité sociale. - art. L752-8 (M)
+
+_Nouveaux textes_:
+
+  - Code rural L762-11
+  - Code rural - art. L762-11 (VT)
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Modifié par_:
+
+  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-18
@@ -23768,13 +23781,28 @@ _Abrogé par_:
 ###### Article 1142-20
 
 Le budget annexe des prestations sociales agricoles comporte, en recettes et en dépenses, les opérations résultant du présent
-chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes.
+chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes ainsi que des dépenses et des recettes
+concernant l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+
+_Abrogé par_:
+
+  - Loi - art. 103 () JORF 31 décembre 2000
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L752-7 (M)
+  - Code de la sécurité sociale. - art. L752-8 (M)
+  - Code rural annexe
 
 
 ###### Article 1142-21
@@ -23782,10 +23810,19 @@ _Codifié par_:
 Un décret fixe les conditions dans lesquelles est assurée la couverture par chaque caisse des dépenses résultant de
 l'application du présent chapitre. Il précise notamment les conditions dans lesquelles sont mises à la disposition des
 caisses par la caisse centrale d'allocations familiales mutuelles agricoles les sommes nécessaires au règlement des
-prestations prévues à l'article 1142-12, ainsi que les conditions dans lesquelles est assurée la couverture des frais de
-gestion exposés par les caisses.
+prestations prévues à l'article 1142-12, ainsi que les conditions dans lesquelles sont assurés la couverture des frais de
+gestion exposés par les caisses et le financement de l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Modifié par_:
+
+  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
 
 _Nouveaux textes_:
 
@@ -23793,11 +23830,39 @@ _Nouveaux textes_:
 
 _Cite_:
 
+  - Code de la sécurité sociale. - art. L752-7 (M)
+  - Code de la sécurité sociale. - art. L752-8 (M)
   - Code rural 1142-12
+
+
+###### Article 1142-22
+
+Les dispositions législatives applicables en matière de sécurité sociale dans les départements d'outre-mer en ce qui concerne
+le recouvrement des cotisations sont étendues au régime des allocations familiales des exploitants agricoles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L762-5
+  - Code rural - art. L762-5 (V)
 
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
+  - Loi n°2003-591 2003-07-02 art. 31
+
+_Créé par_:
+
+  - Loi n°69-1162 1969-12-24 art. 1 JORF 27 décembre 1969
+
+_Modifié par_:
+
+  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+
+_Abrogé par_:
+
+  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-23
