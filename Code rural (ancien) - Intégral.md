@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-12-28
+Version Consolidée au 1976-12-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -148,7 +148,7 @@ Version Consolidée au 1976-12-28
         - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#145)
       - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-3 à 1106-16 bis)](#146)
         - [Section 2 : Prestations. (art. 1106-3 à 1106-5)](#147)
-        - [Section 3 : Financement. (art. 1106-8)](#148)
+        - [Section 3 : Financement. (art. 1106-6)](#148)
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#149)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#150)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#151)
@@ -17029,6 +17029,34 @@ _Abrogé par_:
   - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
+###### Article 1003-11
+
+La répartition entre les départements de la charge des cotisations prévues aux articles 1062 et 1125 est faite sur la base du
+revenu cadastral des assujettis après application du coefficient d'adaptation défini à l'article 1106-6.
+
+Pour la répartition de ces cotisations à l'intérieur du département, le comité départemental des prestations sociales
+agricoles peut tenir compte de toute donnée de caractère économique se rapportant à la rentabilité de l'exploitation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1062, 1106-6, 1125
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Créé par_:
+
+  - Loi n°70-1199 1970-12-21 art. 81 JORF 22 décembre 1970
+
+_Modifié par_:
+
+  - Loi n°75-1278 1975-12-30 art. 69 JORF 31 décembre 1975
+  - Loi n°76-1232 1976-12-29 art. 78 JORF 30 décembre 1976
+
+
 ### Chapitre Ier : Elections des conseils d'administration.<a id=132></a>
 
 ###### Article 1004
@@ -19482,6 +19510,33 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1106-4-1
+
+Il est créé un fonds additionnel d'action sociale affecté à la couverture partielle des frais exposés par les personnes du
+sexe féminin entrant dans la prévision des 1°, 2°, 4° et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les
+travaux de l'exploitation agricole lorsque, prenant part de manière constante à ces travaux, elles sont empêchées de les
+accomplir en raison de la maternité.
+
+Ce fonds est géré par la mutualité sociale agricole.
+
+Il est alimenté par une cotisation additionnelle aux cotisations complémentaires prévues à l'article 1003-8 (1er alinéa).
+Cette cotisation est établie conformément à la règle posée au deuxième alinéa de l'article 1003-8.
+
+Un décret en Conseil d'Etat détermine les mesures d'application des alinéas 1 et 2 du présent article et, en particulier, la
+ou les périodes de remplacement ouvrant droit au bénéfice de l'avantage ci-dessus prévu ainsi que la durée maximale
+d'attribution dudit avantage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi n°80-1094 1980-12-30 art. 76 III JORF 31 décembre 1980
+
+
 ###### Article 1106-5
 
 L'assuré choisit librement son praticien.
@@ -19515,9 +19570,29 @@ _Abrogé par_:
 
 #### Section 3 : Financement.<a id=148></a>
 
-###### Article 1106-8
+###### Article 1106-6
 
-(texte abrogé).
+Le montant des cotisations dues pour la couverture des risques obligatoirement assurés en application du présent chapitre au
+titre des bénéficiaires définis aux 1° à 5° du I de l'article 1106-1 varie suivant l'importance du revenu cadastral de
+l'exploitation.
+
+Ce montant est fixé par un décret pris sur le rapport du ministre de l'agriculture et du ministre de l'économie et des
+finances, après consultation de la section de l'assurance maladie, maternité, invalidité et de l'assurance vieillesse des
+membres non salariés des professions agricoles du conseil supérieur des prestations sociales agricoles.
+
+Le revenu cadastral pris en considération est le revenu cadastral de l'exploitation après application d'un coefficient
+d'adaptation fixé annuellement pour chaque département par le décret ci-dessus prévu.
+
+Dans le bail à métayage, le revenu cadastral retenu pour l'application au preneur du présent article est la partie du revenu
+cadastral de l'exploitation qui correspond à ses droits dans le partage des fruits.
+
+Les cotisations dues pour les assujettis prévus au 6° du I de l'article 1106-1 pour la couverture des risques assurés et des
+dépenses complémentaires y afférentes sont intégralement à la charge des assureurs débiteurs des pensions d'invalidité
+mentionnées au B de l'article 1234-3. Les modalités de détermination de ces cotisations sont fixées par décret en Conseil
+d'Etat.
+
+Les opérations financières relatives au présent chapitre sont retracées, en recettes et en dépenses, dans le budget annexe
+des prestations sociales agricoles.
 
 **Liens relatifs à cet article**
 
@@ -19525,13 +19600,14 @@ _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
-_Abrogé par_:
-
-  - Loi n°76-1232 1976-12-29 art. 78 III JORF 30 décembre 1976
-
 _Nouveaux textes_:
 
-  - Code rural - art. L731-40 (V)
+  - Code rural - art. L731-35 (M)
+  - Code rural - art. L762-21 (V)
+
+_Cite_:
+
+  - Code rural 1106-1, 1234-3
 
 
 #### Section 4 : Assujettissement et organisation.<a id=149></a>
