@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1955-09-30
+Version Consolidée au 1956-03-07
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 1955-09-30
       - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#61)
   - [Livre III : La chasse et la pêche (art. 373 à 501)](#62)
     - [Titre Ier : De la chasse (art. 373 à 397)](#63)
-      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 373)](#64)
+      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 373 à 373-1)](#64)
       - [Chapitre II : Des pénalités. (art. 378 à 391)](#65)
       - [Chapitre III : De la destruction des animaux nuisibles. (art. 395)](#66)
       - [Chapitre IV : Des groupements de chasseurs. (art. 397)](#67)
@@ -5272,6 +5272,44 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1844-05-03 art. 9 al. 1, al. 2
+
+
+###### Article 373-1
+
+Sur proposition des fédérations départementales de chasse, le ministre de l'agriculture arrêtera la liste des départements où
+pourront être créées des réserves communales de chasse.
+
+Sur proposition de la fédération départementale de chasse, et après avis du conseil municipal, du conseil général de la
+chambre d'agriculture, un arrêté du ministre de l'agriculture établira pour chacun de ces départements la liste des communes
+dans lesquelles il sera créé obligatoirement une réserve de chasse avec indication pour chaque commune de la surperficie
+minima de cette réserve.
+
+L'emplacement des réserves sera déterminé d'accord avec l'association communale de chasse et les détenteurs du droit de
+chasse. A défaut d'accord, il sera procédé par rotation tous les quatre ans.
+
+Toutefois les territoires de plus de 50 hectares dans lesquels la chasse est effectivement aménagée et exploitée pour assurer
+une conservation et une reproduction effectives du gibier ne pourront être inclus dans la réserve sans le consentement écrit
+des propriétaires. Au cas de difficulté le préfet statuera sur avis du conservateur des eaux et forêts.
+
+La chasse est interdite en tout temps sur les réserves communales de chasse. Toutefois les captures de gibier peuvent être
+autorisées par arrêté préfectoral pris sur avis du conservateur des eaux et forêts et du président de la fédération
+départementale de chasse.
+
+Un décret fixera les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L222-25
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Abrogé par_:
+
+  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
 ### Chapitre II : Des pénalités.<a id=65></a>
