@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-07-18
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-17)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-24)](#2)
@@ -160,9 +160,9 @@ Version Consolidée au 1980-07-05
         - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#157)
       - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#158)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#159)
-        - [Section 1 : Prestations (art. 1110 à 1122-2)](#160)
+        - [Section 1 : Prestations (art. 1110 à 1122-2-1)](#160)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1113 à 1120)](#161)
-          - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2)](#162)
+          - [Paragraphe 2 : Retraite. (art. 1121 à 1122-2-1)](#162)
         - [Section 2 : Cotisations. (art. 1123 à 1135)](#163)
         - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#164)
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#165)
@@ -22547,6 +22547,22 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code rural - art. L732-47 (M)
+
+
+###### Article 1122-2-1
+
+La condition de durée du mariage prévue aux articles 1122, troisième alinéa, et 1122-1, deuxième alinéa, n'est pas exigée
+pour l'attribution de la pension de réversion lorsqu'un enfant au moins est issu du mariage.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 1122
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
 
 
 #### Section 2 : Cotisations.<a id=163></a>
