@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1955-09-28
+Version Consolidée au 1955-09-30
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 8 à 186)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 8 à 58-16)](#2)
@@ -28,7 +28,7 @@ Version Consolidée au 1955-09-28
       - [Chapitre II : De la servitude d'écoulement des eaux nuisibles. (art. 135 à 138)](#25)
     - [Titre VI : Equipement rural (art. 140 à 186)](#26)
       - [Chapitre Ier : Des travaux entrepris par l'Etat. (art. 140 à 150)](#27)
-      - [Chapitre II : Des concessions de travaux. (art. 153 à 174)](#28)
+      - [Chapitre II : Des concessions de travaux. (art. 152 à 174)](#28)
       - [Chapitre IV : Restauration de l'habitat rural (art. 183 à 186)](#29)
         - [Section 1 : Travaux de restauration de l'habitat. (art. 183)](#30)
         - [Section 2 : Construction des bâtiments des exploitations agricoles. (art. 185 à 186)](#31)
@@ -1770,6 +1770,31 @@ _Abrogé par_:
 
 
 ### Chapitre II : Des concessions de travaux.<a id=28></a>
+
+###### Article 152
+
+Les travaux d'assainissement, d'aménagement ou d'exploitation en vue de la remise en culture du sol peuvent donner lieu à des
+concessions collectives de domaines ou de parties de domaines, pour une durée maximum de vingt-cinq ans. La concession est
+donnée dans les conditions prévues aux articles 41 et suivants.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 41
+
+_Codifié par_:
+
+  - Décret n°55-433 1955-04-16
+
+_Anciens textes_:
+
+  - Loi n°1942-02-19 art. 20
+
+_Abrogé par_:
+
+  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
 
 ###### Article 153
 
