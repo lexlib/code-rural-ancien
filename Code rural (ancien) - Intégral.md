@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-07-21
+Version Consolidée au 1989-11-04
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -80,134 +80,114 @@ Version Consolidée au 1989-07-21
       - [Chapitre III : Contrôle des pépinières. (art. 356 à 359)](#77)
       - [Chapitre IV : Contrôle à l'exportation et à l'importation. (art. 360 à 362)](#78)
       - [Chapitre V : Sanctions et dispositions diverses. (art. 364)](#79)
-  - [Livre III : La chasse et la pêche (art. 365 à 501)](#80)
-    - [Titre Ier : De la chasse (art. 365 à 400)](#81)
-      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 365 à 373-1)](#82)
-      - [Chapitre II : Des pénalités. (art. 374 à 391)](#83)
-      - [Chapitre III : De la destruction des animaux nuisibles. (art. 393 à 394)](#84)
-      - [Chapitre IV : Des groupements de chasseurs. (art. 396 à 400)](#85)
-    - [Titre II : De la pêche et de la gestion des ressources piscicoles en eaux douces (art. 401 à 466)](#86)
-      - [Chapitre Ier : Champ d'application. (art. 401 à 406)](#87)
-      - [Chapitre II : De la préservation des milieux aquatiques et de la protection du patrimoine piscicole. (art. 407 à 413)](#88)
-      - [Chapitre III : De l'organisation des pêcheurs. (art. 414 à 418)](#89)
-      - [Chapitre IV : Du droit de pêche, de son exercice et de la gestion des ressources piscicoles. (art. 419 à 431)](#90)
-      - [Chapitre V : De la police de la pêche (art. 432 à 465)](#91)
-        - [Section 1 : Dispositions générales. (art. 432 à 444)](#92)
-        - [Section 2 : De la recherche et de la constatation des infractions. (art. 445 à 456)](#93)
-        - [Section 3 : De la transaction, des poursuites et de certaines mesures concernant les condamnations et les peines. (art. 457 à 465)](#94)
-      - [Chapitre VI : Dispositions diverses. (art. 466)](#95)
-    - [Titre III : De la police de la pêche (art. 439-1 à 499)](#96)
-      - [Chapitre Ier : Dispositions générales et pénales. (art. 439-1 à 439-2)](#97)
-      - [Chapitre II : Des poursuites au nom de l'administration. (art. 469 à 480)](#98)
-      - [Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat. (art. 481 à 484)](#99)
-      - [Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines. (art. 485 à 491)](#100)
-      - [Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public. (art. 492 à 499)](#101)
-    - [Titre IV : Des groupements de pêcheurs. (art. 500)](#102)
-    - [Titre V : Dispositions diverses. (art. 501)](#103)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#104)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#105)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#106)
-    - [Titre II : Coopératives agricoles (art. 551)](#107)
-      - [Chapitre unique : Sanctions pénales. (art. 551)](#108)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#109)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#110)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#111)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#112)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#113)
-      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#114)
-        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#115)
-        - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#116)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#117)
-          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#118)
-          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675-2 à 680)](#119)
-        - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#120)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#121)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#122)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#123)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#124)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#125)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#126)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#127)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#128)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#129)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#130)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#131)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#132)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#133)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#134)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#135)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#136)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#137)
-      - [Chapitre V bis : Prêts spéciaux d'élevage. (art. 787-1 à 787-7)](#138)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#139)
-  - [Livre V bis : De l'exploitation agricole dans les rapports entre époux. (art. 789-1 à 789-3)](#140)
-  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#141)
-    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#142)
-      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#143)
-      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#144)
-      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#145)
-    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#146)
-      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#147)
-      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#148)
-        - [Section 1 : Affiliation. (art. 1024 à 1030)](#149)
-        - [Section 2 : Cotisations. (art. 1031 à 1036)](#150)
-        - [Section 3 : Prestations. (art. 1038 à 1047)](#151)
-        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#152)
-        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#153)
-      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#154)
-        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#155)
-        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#156)
-        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#157)
-        - [Section 4 : Prestations. (art. 1090 à 1092)](#158)
-        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#159)
-      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#160)
-        - [Section 1 : Champ d'application. (art. 1106-1)](#161)
-        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#162)
-        - [Section 3 : Financement. (art. 1106-6 à 1106-7)](#163)
-        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#164)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#165)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#166)
-        - [Section 1 : Prestations (art. 1110 à 1122-7)](#167)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#168)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#169)
-          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-7)](#170)
-        - [Section 2 : Cotisations. (art. 1123 à 1135)](#171)
-        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#172)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#173)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#174)
-      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#175)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#176)
-      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#177)
-        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#178)
-        - [Section 2 : Prestations. (art. 1148)](#179)
-        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#180)
-        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#181)
-        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#182)
-        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#183)
-        - [Section 7 : Prévention. (art. 1171)](#184)
-        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#185)
-        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#186)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#187)
-      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#188)
-      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#189)
-      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#190)
-      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#191)
-    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#192)
-      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#193)
-      - [Chapitre II : Médecine préventive. (art. 1250-2)](#194)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#195)
-    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#196)
-      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#197)
-      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#198)
-    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#199)
-    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#200)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#201)
-    - [Titre II : Enseignement (art. 1281)](#202)
-      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#203)
-        - [Section 2 : Dispositions pénales. (art. 1281)](#204)
-    - [Titre III : Recherche (art. 1337)](#205)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#206)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#207)
+  - [Livre III : La chasse et la pêche (art. 366 ter à 377)](#80)
+    - [Titre Ier : De la chasse (art. 366 ter à 377)](#81)
+      - [Chapitre Ier : De l'exercice du droit de chasse. (art. 366 ter)](#82)
+      - [Chapitre II : Des pénalités. (art. 377)](#83)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2 à 551)](#84)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#85)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#86)
+    - [Titre II : Coopératives agricoles (art. 551)](#87)
+      - [Chapitre unique : Sanctions pénales. (art. 551)](#88)
+  - [Livre V : Crédit agricole (art. 614 à 789)](#89)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#90)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#91)
+      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#92)
+      - [Chapitre III : Ressources. (art. 645 à 652)](#93)
+      - [Chapitre IV : Opérations de crédit (art. 653 à 696-1)](#94)
+        - [Section 1 : Crédit à court terme. (art. 653 à 662)](#95)
+        - [Section 2 : Crédit à moyen terme (art. 666 à 680)](#96)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 666 à 673)](#97)
+          - [Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles. (art. 674-1)](#98)
+          - [Paragraphe 4 : Prêts aux victimes de calamités agricoles. (art. 675-2 à 680)](#99)
+        - [Section 3 : Crédit à long terme individuel. (art. 686 à 696-1)](#100)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#101)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#102)
+    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#103)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#104)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#105)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#106)
+    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#107)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#108)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#109)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#110)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#111)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#112)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#113)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#114)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#115)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#116)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#117)
+      - [Chapitre V bis : Prêts spéciaux d'élevage. (art. 787-1 à 787-7)](#118)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#119)
+  - [Livre V bis : De l'exploitation agricole dans les rapports entre époux. (art. 789-1 à 789-3)](#120)
+  - [Livre VII : Dispositions sociales (art. 983 à 1263-9)](#121)
+    - [Titre Ier : Régime du travail (art. 983 à 1000-5)](#122)
+      - [Chapitre Ier : Procédure d'établissement des règlements du travail. (art. 983 à 991)](#123)
+      - [Chapitre II : Durée du travail et repos hebdomadaire. (art. 992 à 998)](#124)
+      - [Chapitre III : Médecine du travail. (art. 1000-1 à 1000-5)](#125)
+    - [Titre II : Mutualité sociale agricole (art. 1001 à 1143-4)](#126)
+      - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration. (art. 1004 à 1023-2)](#127)
+      - [Chapitre II : Assurances sociales (art. 1024 à 1059)](#128)
+        - [Section 1 : Affiliation. (art. 1024 à 1030)](#129)
+        - [Section 2 : Cotisations. (art. 1031 à 1036)](#130)
+        - [Section 3 : Prestations. (art. 1038 à 1047)](#131)
+        - [Section 4 : Régime facultatif, régime complémentaire. (art. 1049 à 1051)](#132)
+        - [Section 5 : Organisation administrative et financière. (art. 1052 à 1059)](#133)
+      - [Chapitre III : Prestations familiales (art. 1060 à 1098)](#134)
+        - [Section 1 : Affiliations et cotisations. (art. 1060 à 1070)](#135)
+        - [Section 2 : Dégrèvements. (art. 1073 à 1077)](#136)
+        - [Section 3 : Recouvrement. (art. 1080 à 1089)](#137)
+        - [Section 4 : Prestations. (art. 1090 à 1092)](#138)
+        - [Section 5 : Organisation administrative et financière. (art. 1094 à 1098)](#139)
+      - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées (art. 1106-1 à 1106-16 bis)](#140)
+        - [Section 1 : Champ d'application. (art. 1106-1)](#141)
+        - [Section 2 : Prestations. (art. 1106-2 à 1106-5)](#142)
+        - [Section 3 : Financement. (art. 1106-6 à 1106-7)](#143)
+        - [Section 4 : Assujettissement et organisation. (art. 1106-9 à 1106-16 bis)](#144)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-17 à 1106-25)](#145)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1139)](#146)
+        - [Section 1 : Prestations (art. 1110 à 1122-7)](#147)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#148)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1122-2-3)](#149)
+          - [Paragraphe 3 : Allocation complémentaire agricole. (art. 1122-3 à 1122-7)](#150)
+        - [Section 2 : Cotisations. (art. 1123 à 1135)](#151)
+        - [Section 3 : Organisation administrative et financière. (art. 1136 à 1139)](#152)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-1 à 1142-11)](#153)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-12 à 1142-24)](#154)
+      - [Chapitre V : Contentieux. (art. 1143 à 1143-4)](#155)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1144 à 1234-29)](#156)
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles (art. 1144 à 1184)](#157)
+        - [Section 1 : Bénéficiaires et risques couverts. (art. 1144 à 1147-2)](#158)
+        - [Section 2 : Prestations. (art. 1148)](#159)
+        - [Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires. (art. 1149)](#160)
+        - [Section 4 : Organisation administrative et financière. (art. 1150 à 1161)](#161)
+        - [Section 5 : Formalités, procédure, contentieux. (art. 1163 à 1169)](#162)
+        - [Section 6 : Dispositions relatives aux maladies professionnelles. (art. 1170)](#163)
+        - [Section 7 : Prévention. (art. 1171)](#164)
+        - [Section 8 : Contrôles et sanctions. (art. 1172 à 1177)](#165)
+        - [Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies. (art. 1178 à 1184)](#166)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1198 à 1234)](#167)
+      - [Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées. (art. 1234-1 à 1234-19)](#168)
+      - [Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture. (art. 1234-20 à 1234-26-1)](#169)
+      - [Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-27 à 1234-28)](#170)
+      - [Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer. (art. 1234-29)](#171)
+    - [Titre IV : Dispositions diverses (art. 1235 à 1250-2)](#172)
+      - [Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle. (art. 1235 à 1250-1)](#173)
+      - [Chapitre II : Médecine préventive. (art. 1250-2)](#174)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1251 à 1263)](#175)
+    - [Titre VI : Français résidant à l'étranger (art. 1263-1 à 1263-5)](#176)
+      - [Chapitre Ier : Travailleurs salariés détachés à l'étranger. (art. 1263-1 à 1263-3)](#177)
+      - [Chapitre II : Travailleurs salariés expatriés. (art. 1263-4 à 1263-5)](#178)
+    - [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger. (art. 1263-6 à 1263-7)](#179)
+    - [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger. (art. 1263-8 à 1263-9)](#180)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1281 à 1337)](#181)
+    - [Titre II : Enseignement (art. 1281)](#182)
+      - [Chapitre Ier : Enseignement supérieur agricole (art. 1281)](#183)
+        - [Section 2 : Dispositions pénales. (art. 1281)](#184)
+    - [Titre III : Recherche (art. 1337)](#185)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#186)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#187)
 ###### Article 40-3
 
 Les propriétaires de parcelles reconnues incultes ou manifestement sous-exploitées en application des dispositions du
@@ -297,39 +277,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
-
-
-###### Article 375
-
-Celui qui aura chassé sur le terrain d'autrui sans consentement, si ce terrain est attenant à une maison habitée ou servant à
-l'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins,
-sera puni d'une amende de 180 F à 15.000 F et pourra l'être d'un emprisonnement de six jours à trois mois.
-
-Si le délit a été commis pendant la nuit, le délinquant sera puni d'une amende de 360 F à 15.000 F et pourra l'être d'un
-emprisonnement de trois mois à deux ans, sans préjudice dans l'un et l'autre cas, s'il y a lieu, de plus fortes peines
-prononcées par le code pénal.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 12
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-_Modifié par_:
-
-  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
 
 
 ###### Article 1143-2
@@ -12864,137 +12811,6 @@ _Codifié par_:
 
 ### Chapitre Ier : De l'exercice du droit de chasse.<a id=82></a>
 
-###### Article 365
-
-Nul n'a la faculté de chasser sur la propriété d'autrui sans le consentement du propriétaire ou de ses ayants droit.
-
-Nul ne peut chasser en dehors des périodes d'ouverture de la chasse et s'il n'est titulaire et porteur d'un permis de chasser
-valable.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L222-1, L223-1, L223-6, L224-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 1
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 366
-
-Toutefois, le propriétaire ou possesseur peut, en tous temps, chasser ou faire chasser le gibier à poil dans ses possessions
-attenant à une habitation et entourées d'une clôture continue et constante faisant obstacle à toute communication avec les
-héritages voisins et empêchant complètement le passage de ce gibier et celui de l'homme.
-
-Un décret en Conseil d'Etat précise les conditions d'extension des dispositions de l'alinéa 1er à la chasse de certains
-oiseaux d'élevage.
-
-Ce décret définit également les modalités du contrôle exercé pour faire respecter ces dispositions.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L224-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 2
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-_Modifié par_:
-
-  - Loi n°76-629 du 10 juillet 1976 - art. 36 () JORF 13 juillet 1976
-
-
-###### Article 366 bis
-
-Sous réserve des conditions et formalités prescrites par l'article 22 de la loi de finances rectificative pour 1974 (n°
-74-1114 du 27 décembre 1974), le permis de chasser est délivré et visé dans les conditions suivantes :
-
-I. - Le permis de chasser est délivré par le préfet ; il est visé annuellement par le préfet ou par le maire.
-
-Sous les peines prévues à l'article 154 du code pénal, toute personne demandant la délivrance ou le visa d'un permis de
-chasser doit déclarer qu'elle ne tombe pas sous le coup des articles 368 (3°), 369 et 381 du présent code ; s'il y a lieu,
-elle doit en outre, sous les mêmes peines, faire connaître celles des dispositions de l'article 367 qui peuvent lui être
-opposées.
-
-Le permis de chasser délivré ou visé sur une fausse déclaration est nul de plein droit, et il pourra, le cas échéant, être
-fait application des peines prévues contre ceux qui auront chassé sans permis valable.
-
-Un décret en Conseil d'Etat détermine les modalités d'application des alinéas ci-dessus.
-
-II. - Les étrangers non résidents qui en font la demande sont autorisés à chasser sous réserve d'être titulaires et porteurs
-d'une licence de chasse délivrée pour une durée de quarante-huit heures, par le préfet du département où ils chassent, sur
-présentation de l'attestation d'assurance visée ci-après, au paragraphe III.
-
-Il ne pourra être attribué, au cours d'une année, plus de deux licences à une même personne. Le montant de la somme perçue
-lors de la délivrance des licences est versé à l'Office national de la chasse et réparti par celui-ci comme les redevances
-départementales.
-
-Les étrangers non résidents titulaires d'un permis de chasser dûment visé ne pourront valider leur permis qu'en payant la
-redevance cynégétique nationale instituée par l'article 22 de la loi de finances n° 74-1114 du 27 décembre 1974.
-
-III. - La demande de visa doit être accompagnée par une attestation délivrée par une entreprise admise à pratiquer en France
-l'assurance de ce risque et permettant de constater que la responsabilité civile du demandeur est garantie pour une somme
-illimitée et sans qu'aucune déchéance soit opposable aux victimes ou à leurs ayants droit, en raison des accidents corporels
-occasionnés par tout acte de chasse ou tout acte de destruction d'animaux nuisibles. L'assurance devra aussi couvrir, dans
-les mêmes conditions, la responsabilité civile encourue par le chasseur du fait de ses chiens. Le permis cesse d'être
-valable, et il est retiré provisoirement par le préfet, si le contrat d'assurance est résilié ou si la garantie prévue au
-contrat est suspendue pour quelque cause que ce soit : la résiliation du contrat ou la suspension de la garantie doivent être
-notifiée par l'entreprise d'assurance au préfet du département où l'assuré a son domicile. Un décret en Conseil d'Etat fixe
-les modalités d'application du présent alinéa.
-
-A compter du 1er juillet 1975, tout contrat d'assurance couvrant la responsabilité civile des chasseurs est, nonobstant toute
-clause contraire, réputé comporter des garanties au moins équivalentes à celles qui sont fixées par l'alinéa ci-dessus.
-
-Les peines prévues à l'article 388-2 seront appliquées à toute personne qui refusera de remettre son permis de chasser à
-l'agent de l'autorité compétente par application des dispositions du premier alinéa du présent paragraphe III.
-
-IV. - Les personnes frappées de la privation temporaire du droit d'obtenir ou de détenir un permis de chasse ou un permis de
-chasser par décision de justice prise en vertu de l'article 381 du présent code ou de l'article L. 90 du code des débits de
-boissons et des mesures contre l'alcoolisme, et celles dont le permis serait nul de plein droit en application du présent
-article, seront astreintes à l'examen institué à l'article 22 de la loi de finances rectificative pour 1974 (n° 74-1114 du 27
-décembre 1974) avant toute nouvelle délivrance d'un permis de chasser.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des débits de boissons L90
-  - Code pénal 154
-  - Code rural 368, 369, 381, 367, 388-2
-
-_Nouveaux textes_:
-
-  - Code rural L223-6, L223-8, L223-9, L223-12, L223-18, L223-17, L223-14 L223-15, L223-13, L223-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
-
-
 ###### Article 366 ter
 
 Le fonds de garantie institué par l'article 15 modifié de la loi n° 51-1508 du 31 décembre 1951 prend en charge, dans les
@@ -13030,505 +12846,7 @@ _Abrogé par_:
   - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
 
 
-###### Article 367
-
-La délivrance et le visa du permis de chasser peuvent être refusés :
-
-1° Aux alcooliques signalés à l'autorité sanitaire comme étant présumés dangereux, par application des dispositions de
-l'article L. 355-2 du code de la santé publique ;
-
-2° A tout individu qui, par une condamnation judiciaire, a été privé de l'un ou de plusieurs des droits énumérés dans
-l'article 42 du code pénal, autres que le droit de port d'armes ;
-
-3° A tout condamné à un emprisonnement de plus de six mois pour rébellion ou violence envers les agents de l'autorité
-publique ;
-
-4° A tout condamné pour délit d'association illicite, de fabrication, débit, distribution de poudre, armes ou autres
-munitions de guerre ; de menaces écrites ou de menaces verbales avec ordre ou sous condition ; d'entraves à la circulation
-des grains ; de dévastation d'arbres ou de récoltes sur pied, de plants venus naturellement ou faits de main d'homme ;
-
-5° A ceux qui ont été condamnés pour vagabondage, mendicité, vol, escroquerie, ou abus de confiance.
-
-La faculté de refuser la délivrance ou le visa du permis de chasser aux condamnés mentionnés aux 3°, 4° et 5° du présent
-article cesse cinq ans après l'expiration de la peine.
-
-Le présent article est applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L223-21
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Code pénal 42
-  - Code de la santé publique - art. L355-2 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 6
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 368
-
-Le visa du permis de chasser n'est pas accordé :
-
-1° Aux mineurs qui n'ont pas seize ans accomplis ;
-
-2° Aux mineurs non émancipés âgés de plus de seize ans à moins que le visa ne soit demandé pour eux par leur père, mère ou
-tuteur ;
-
-3° Aux majeurs en tutelle, à moins qu'ils ne soient autorisés à chasser par le juge des tutelles.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L223-19
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 7
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 369
-
-Le permis de chasser n'est pas délivré et le visa du permis n'est pas accordé :
-
-1° A ceux qui, par suite d'une condamnation, sont privés du droit de port d'armes ;
-
-2° A ceux qui n'ont pas exécuté les condamnations prononcées contre eux pour des infractions prévues par le présent titre ;
-
-3° A tout condamné en état d'interdiction de séjour ;
-
-4° A toute personne atteinte d'une affection médicale ou d'une infirmité, dont la liste est fixée par décret en Conseil
-d'Etat, rendant dangereuse la pratique de la chasse.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L223-20
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 8
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 370
-
-A condition de satisfaire aux dispositions générales relatives à la délivrance et à la validation du permis de chasser, le
-visa est accordé par le préfet :
-
-1° Aux gardes champêtres avec l'autorisation du maire, aux agents de l'administration des travaux publics commissionnés en
-qualité de garde-pêche du service de la navigation, aux agents assermentés des parcs nationaux et aux gardes chargés de la
-surveillance des réserves naturelles, sous les réserves que le préfet juge éventuellement nécessaires dans l'intérêt de la
-police de la chasse et du service dont relèvent ces agents ;
-
-2° Aux gardes-chasse ainsi qu'aux gardes-pêche commissionnés par décision ministérielle et aux agents assermentés de l'office
-national des forêts, avec l'autorisation de leur employeur, sous les réserves que le préfet juge éventuellement nécessaires
-dans l'intérêt de la police de la chasse ;
-
-3° Aux gardes-chasse maritimes, sous les réserves que l'administration des affaires maritimes de leur résidence
-administrative juge éventuellement nécessaires dans l'intérêt de la police de la chasse et dans celui du service ;
-
-4° Aux gendarmes, sous les réserves que leurs chefs de corps jugent éventuellement nécessaires dans l'intérêt de la police de
-la chasse et de celui du service.
-
-Le permis de chasser visé dans les conditions définies aux alinéas précédents donne la faculté de chasser : pour les agents
-mentionnés au 1° et au 3°, en dehors du territoire dont la surveillance leur a été confiée ; pour les agents mentionnés au
-2°, en dehors d'un territoire fixé par l'autorité qui a délivré la commission ou son délégué. Les peines prévues à l'article
-388-2 seront appliquées auxdits agents qui auront contrevenu aux dispositions du présent alinéa.
-
-En cas de négligence dans leur service, abus ou pour toute autre cause grave, le permis de chasser peut être retiré aux
-agents mentionnés ci-dessus par décision du préfet, sur le rapport de l'autorité dont ils relèvent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 388-2
-
-_Nouveaux textes_:
-
-  - Code rural L222-22
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 7
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 371-1
-
-Le ministre de l'agriculture, le conseil national de la chasse et de la faune entendu, peut, en vue d'assurer la survivance
-d'espèces de gibier de montagne menacées dans leur existence même, interdire totalement, et pour une durée maximum de trois
-ans, la mise en vente, la vente et l'achat sous toutes leurs formes, et notamment celles de pâtés et conserves, le transport
-en vue de la vente ou le colportage de ces gibiers.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L224-11
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 372
-
-Dans chaque département, il est interdit de mettre en vente, de vendre, d'acheter, de transporter ou de colporter du gibier
-pendant le temps où la chasse n'y est pas permise. Pendant le temps où la chasse y est permise, pour sauvegarder certaines
-espèces particulièrement menacées, le préfet peut, exceptionnellement, pour une période n'excédant pas un mois, en interdire
-la mise en vente, la vente, l'achat, le transport en vue de la vente ou le colportage.
-
-Il est interdit de mettre en vente, de vendre, de transporter, de colporter ou d'acheter sciemment du gibier mort soumis au
-plan de chasse non muni du bracelet de marquage ou non accompagné d'une attestation justifiant l'origine.
-
-Un décret, après avis du Conseil national de la chasse et de la faune sauvage, peut réglementer la mise en vente, la vente,
-l'achat, le transport et le colportage des animaux classés comme nuisibles et régulièrement détruits dans les conditions
-prévues aux articles 373 et 393.
-
-Il est également interdit en toute saison de mettre en vente, de vendre, de transporter, de colporter ou même d'acheter
-sciemment le gibier tué à l'aide d'engins ou d'instruments prohibés.
-
-En cas d'infraction à ces dispositions, le gibier sera saisi et immédiatement livré à l'établissement de bienfaisance le plus
-voisin, en vertu, soit d'une ordonnance du juge du tribunal d'instance, si la saisie a eu lieu au chef-lieu de canton, soit
-d'une autorisation du maire, si le juge du tribunal d'instance est absent, ou si la saisie a été faite dans une commune autre
-que celle du chef-lieu.
-
-Cette ordonnance ou cette autorisation sera délivrée sur la requête des agents ou gardes qui auront opéré la saisie et sur la
-présentation du procès-verbal régulièrement dressé.
-
-La recherche du gibier ne pourra être faite à domicile que chez les aubergistes, chez les marchands de comestibles et dans
-les lieux ouverts au public. Hors de leur domicile, les chasseurs et les personnes les accompagnant sont tenus d'ouvrir leurs
-carniers, sacs ou poches de gibier à toute réquisition des agents ci-après, officiers de police judiciaire, y compris les
-gardes des fédérations départementales de chasseurs, mais à l'exclusion de tous autres gardes particuliers ; fonctionnaires
-de police et militaires de la gendarmerie non officiers de police judiciaire ; lieutenants de louveterie dans l'exercice de
-leurs fonctions. Cette vérification ne pourra être faite que dans les circonscriptions où les agents visiteurs ci-dessus
-désignés pourront dresser les procès-verbaux en matière de chasse. Le présent alinéa est applicable dans les départements du
-Haut-Rhin, du Bas-Rhin et de la Moselle.
-
-Dans le cas prévu à l'article 371-1, la recherche du gibier de montagne pourra également être faite à domicile chez tous les
-marchands de gibier mort ou vivant, qu'ils soient grossistes, demi-grossistes ou détaillants, tous hôteliers, restaurateurs,
-gérants ou directeurs de cantines, bouchers, charcutiers, fabricants de conserves, et généralement tous ceux qui peuvent
-détenir de la viande.
-
-Il est interdit, même en temps d'ouverture de la chasse, de transporter du gibier vivant sans permis de transport délivré par
-le directeur général des eaux et forêts ou par le conservateur des eaux et forêts du lieu d'origine du gibier ou par leurs
-délégués.
-
-Il est interdit, d'enlever les nids, de prendre ou de détruire, de colporter ou de mettre en vente, de vendre ou d'acheter,
-de transporter ou d'exporter les oeufs ou les couvées de perdrix, faisans, cailles et de tous autres oiseaux, ainsi que les
-portées ou petits de tous animaux sous réserve des dispositions relatives aux animaux nuisibles.
-
-Les détenteurs du droit de chasse et leurs préposés auront le droit de recueillir, pour les faire couver, les oeufs mis à
-découvert par la fauchaison ou l'enlèvement des récoltes.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 octobre 1982 - art. 1 (V)
-
-_Cite_:
-
-  - Code rural 371-1, 373, 393
-
-_Nouveaux textes_:
-
-  - Code rural L224-6, L224-8, L224-9, L224-10, L227-10, L228-35, L228-36 L228-37, L228-39, R224-13, R224-14
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
-
-_Modifié par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 54 () JORF 31 décembre 1988
-
-
-###### Article 373
-
-Dans le temps où la chasse est ouverte, le permis donne à celui qui l'a obtenu le droit de chasser de jour, soit à tir, soit
-à courre, à cor et à cri, soit au vol, suivant les distinctions établies par des arrêtés du ministre de l'agriculture, sur
-ses propres terres et sur les terres d'autrui avec le consentement de celui à qui le droit de chasse appartient.
-
-Pour permettre, dans des conditions strictement contrôlées et de manière sélective, la chasse de certains oiseaux de passage
-en petites quantités, le ministre chargé de la chasse autorise, dans les conditions qu'il détermine, l'utilisation des modes
-et moyens de chasse consacrés par les usages traditionnels, dérogatoires à ceux autorisés par l'alinéa précédent.
-
-Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme moyens de rabat, sont formellement prohibés.
-
-Le ministre chargé de la chasse peut prendre des arrêtés :
-
-1° Pour prévenir la destruction ou favoriser le repeuplement des oiseaux ou de toute espèce de gibier, et sans qu'il soit
-ainsi dérogé au droit de destruction des bêtes fauves édictée à l'article 393 ;
-
-2° Pour autoriser l'emploi des chiens lévriers pour la destruction des animaux malfaisants ou nuisibles ;
-
-4° Pour instituer et mettre en oeuvre, chaque année, dans les départements intéressés, un plan de chasse du grand gibier
-substituant à la limitation annuelle de la période de chasse le nombre d'animaux à tirer (cerf, chevreuil, daim, chamois,
-isard, bouquetin, et mouflon) sur les territoires de chasse pendant la période de chasse propre à chaque département, telle
-qu'elle est définie au premier alinéa de l'article 371.
-
-En cas de calamité, incendie, inondations, gel prolongé, susceptible de provoquer ou de favoriser la destruction du gibier,
-le préfet pourra, pour tout ou partie du département, suspendre, dans un délai de quarante-huit heures, l'exercice de la
-chasse pendant une période de dix jours, soit à tout gibier, soit à certaines espèces de gibier.
-
-Cette période de suspension de dix jours peut être renouvelée, s'il y a lieu, dans le même délai.
-
-Dans les parties des réserves naturelles et des parcs nationaux où la chasse est autorisée ainsi que dans les zones
-périphériques des parcs nationaux, le ministre chargé de la protection de la nature peut instituer et mettre en oeuvre un
-plan de chasse pour certaines espèces d'animaux.
-
-Dans les zones de montagne, un plan de chasse du grand gibier peut être institué dans les mêmes conditions pour les massifs
-locaux dont les limites sont définies par le représentant de l'Etat dans le département après avis du président de la
-fédération départementale des chasseurs et des communes concernées.
-
-Pour les espèces de gibier pour lesquelles il n'est pas rendu obligatoire, en vertu de l'article 17 de la loi de finances
-rectificative pour 1978 (n° 78-1240 du 29 décembre 1978), un plan de chasse peut être institué et mis en oeuvre dans les
-conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 393, 371
-
-_Nouveaux textes_:
-
-  - Code rural L222-1, L222-25, L224-4, L225-1, L225-3, R224-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°89-505 du 19 juillet 1989 - art. 1 (Ab) JORF 21 juillet 1989
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
-
-
-###### Article 373-1
-
-Sur proposition des fédérations départementales de chasse, le ministre de l'agriculture arrêtera la liste des départements où
-pourront être créées des réserves communales de chasse.
-
-Sur proposition de la fédération départementale de chasse, et après avis du conseil municipal, du conseil général de la
-chambre d'agriculture, un arrêté du ministre de l'agriculture établira pour chacun de ces départements la liste des communes
-dans lesquelles il sera créé obligatoirement une réserve de chasse avec indication pour chaque commune de la surperficie
-minima de cette réserve.
-
-L'emplacement des réserves sera déterminé d'accord avec l'association communale de chasse et les détenteurs du droit de
-chasse. A défaut d'accord, il sera procédé par rotation tous les quatre ans.
-
-Toutefois les territoires de plus de 50 hectares dans lesquels la chasse est effectivement aménagée et exploitée pour assurer
-une conservation et une reproduction effectives du gibier ne pourront être inclus dans la réserve sans le consentement écrit
-des propriétaires. Au cas de difficulté le préfet statuera sur avis du conservateur des eaux et forêts.
-
-La chasse est interdite en tout temps sur les réserves communales de chasse. Toutefois les captures de gibier peuvent être
-autorisées par arrêté préfectoral pris sur avis du conservateur des eaux et forêts et du président de la fédération
-départementale de chasse.
-
-Un décret fixera les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L222-25
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
 ### Chapitre II : Des pénalités.<a id=83></a>
-
-###### Article 374
-
-Seront punis d'une amende de 2.500 à 5.000 F :
-
-1° Ceux qui auront chassé sans permis de chasse ou sans licence de chasse valables pour le temps et le lieu où ils chassent ;
-
-2° Ceux qui auront chassé sur le terrain d'autrui sans le consentement du propriétaire ;
-
-L'amende pourra être portée au double si le délit a été commis sur des terres non dépouillées de leurs fruits ou s'il a été
-commis sur un terrain entouré d'une clôture continue faisant obstacle à toutes communications avec les héritages voisins,
-mais non attenant à une habitation.
-
-Pourra ne pas être considéré comme délit de chasse le fait du passage des chiens courants sur l'héritage d'autrui, lorsque
-ces chiens seront à la suite d'un gibier lancé sur la propriété de leur maître, sauf l'action civile, s'il y a lieu, en cas
-de dommages ;
-
-3° Ceux qui auront contrevenu aux arrêtés réglementaires concernant la divagation des chiens, les oiseaux de passage, le
-gibier d'eau, la chasse en temps de neige, l'emploi des chiens lévriers, ou aux arrêtés concernant la destruction des oiseaux
-ou de toute espèce de gibier ainsi que celle des animaux nuisibles et malfaisants, ou encore aux arrêtés autorisant la
-reprise du gibier vivant dans un but de repeuplement ;
-
-4° Ceux qui, en temps de fermeture, auront sans droit, enlevé des nids, pris ou détruit, colporté ou mis en vente, vendu ou
-acheté, transporté ou exporté les oeufs ou les couvées de perdrix, faisans, caille et de tous oiseaux, ainsi que les portées
-ou petits de tous animaux qui n'auraient pas été déclarés nuisibles par les arrêtés du ministre de l'agriculture ;
-
-5° Les fermiers de la chasse, soit dans les bois soumis au régime forestier, soit sur les propriétés dont la chasse est louée
-au profit des communes ou établissements publics, qui auront contrevenu aux clauses et conditions de leurs cahiers des
-charges, relatives à la chasse ;
-
-6° Ceux qui, en temps d'ouverture, auront transporté sans autorisation du gibier vivant ;
-
-7° Les chasseurs et les personnes les accompagnant qui se seront opposés à la visite de leurs carniers, sacs ou poches à
-gibier.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural R228-1, R228-3, R228-4, R228-6, R228-8, R228-14, R228-18, R228-15, R228-21
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 11
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
-
-
-###### Article 374-1
-
-Seront punis d'une amende de 30 à 250 F ceux qui auront chassé sans être porteurs de leur permis de chasser ou de la licence
-de chasse valables pour le temps et le lieu où ils chassent.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural R228-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 376
-
-Seront punis d'une amende de 2.500 à 5.000 F et pourront, en outre, l'être d'un emprisonnement de dix jours à un mois :
-
-1° Ceux qui auront chassé en temps prohibé ou dans les réserves de chasse approuvées par le ministre de l'agriculture ou
-établies en application des dispositions de l'article 373-1 ;
-
-2° Ceux qui auront chassé pendant la nuit ou à l'aide d'engins et instruments prohibés, ou par d'autres moyens que ceux qui
-sont autorisés par les articles 373 et 393 ;
-
-3° Ceux qui seront détenteurs ou ceux qui seront trouvés munis ou porteurs, hors de leur domicile, de filets, engins ou
-autres instruments de chasse prohibés ;
-
-4° Ceux qui, en temps où la chasse est prohibée, auront mis en vente, vendu, acheté, transporté ou colporté du gibier, ou
-ceux qui, en toute saison, auront mis en vente, vendu, transporté, colporté ou même acheté sciemment du gibier tué à l'aide
-d'engins ou d'instruments prohibés ;
-
-5° ceux qui auront employé des drogues ou appâts qui sont de nature à enivrer le gibier ou à le détruire ;
-
-6° Ceux qui auront chassé avec appeaux, appelants ou chanterelles,sauf dans les cas autorisés en application du quatrième
-alinéa, 1°, de l'article 373 en ce qui concerne la chasse aux oiseaux de passage et du premier alinéa de l'article 393
-relatif à la destruction des animaux malfaisants ou nuisibles.
-
-Les peines déterminées par le présent article pourront être portées au double contre ceux qui auront chassé pendant la nuit,
-sur le terrain d'autrui et par l'un des moyens spécifiés au 2°, si les chasseurs étaient munis d'une arme apparente ou
-cachée.
-
-Les peines déterminées par l'article 374 et par le présent article seront toujours portées au maximum lorsque les délits
-auront été commis par les gardes champêtres ou forestiers des communes, par les gardes forestiers des établissements publics
-ainsi que par les chefs de district et agents techniques des eaux et forêts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 373, 373-1, 374, 393
-
-_Nouveaux textes_:
-
-  - Code rural L224-5, L228-2, L228-5, L228-6, L228-7, L228-9, L228-13, R228-2, R228-9, R228-10, R228-11, R228-12, R228-22, R228-23
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
 
 ###### Article 377
 
@@ -13571,3719 +12889,11 @@ _Abrogé par_:
   - Loi n°90-85 du 23 janvier 1990 - art. 60 () JORF 25 janvier 1990
 
 
-###### Article 378
+# Livre IV : Institutions et groupements professionnels agricoles<a id=84></a>
 
-Il y a récidive lorsque, dans les douze mois qui ont précédé l'infraction, le délinquant a été condamné en vertu du présent
-titre.
+## Titre Ier : Chambres d'agriculture<a id=85></a>
 
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-11
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 15
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 379
-
-En cas de condamnation, le tribunal pourra prononcer, sous telle contrainte qu'il fixera, la confiscation des filets, engins
-et autres instruments de chasse, ainsi que des avions, automobiles ou autres véhicules utilisés par les délinquants. Il
-ordonnera, en outre, s'il y a lieu, la destruction des instruments de chasse prohibés.
-
-Il pourra également prononcer la confiscation des armes, excepté dans le cas où le délit aura été commis par un individu muni
-d'un permis de chasse, dans le temps où la chasse est autorisée.
-
-Si les armes, filets, engins, instruments de chasse ou moyens de transport n'ont pas été saisis, le délinquant pourra être
-condamné à les représenter ou à en payer la valeur suivant la fixation qui sera faite par le jugement, sans qu'elle puisse
-être au-dessous de 2 F.
-
-Les objets énumérés à l'alinéa précédent, abandonnés par les délinquants restés inconnus, seront saisis et déposés au greffe
-du tribunal compétent. La confiscation et, s'il y a lieu, la destruction en seront ordonnées, sur le vu du procès-verbal.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-14, L228-15, L228-16, L228-17, L228-18, L228-19, L228-20
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-_Modifié par_:
-
-  - Loi n°81-82 du 2 février 1981 - art. 33 () JORF 3 février 1981
-
-
-###### Article 380
-
-En cas de conviction de plusieurs délits prévus par le présent titre, par le code pénal ordinaire ou par les lois spéciales,
-la peine la plus forte sera seule prononcée.
-
-Les peines encourues pour des faits postérieurs à la déclaration du procès-verbal de contravention pourront être cumulées,
-s'il y a lieu, sans préjudice des peines de la récidive.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-44
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 17
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 381
-
-En cas de condamnation pour l'une des infractions prévues par le présent titre ou de condamnation pour homicide involontaire
-ou pour coups et blessures involontaires survenus à l'occasion d'une action de chasse ou de destruction d'animaux nuisibles,
-les tribunaux peuvent priver l'auteur de l'infraction du droit de conserver ou d'obtenir un permis de chasser pour un temps
-qui ne peut excéder cinq ans.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-21
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 18
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 381-1
-
-En cas de condamnation pour l'une des infractions définies par les articles 374, 375, 376 et 377, par les textes relatifs à
-la chasse et à la protection de la nature en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle et
-lorsque l'infraction aura été commise avec un véhicule à moteur, les tribunaux peuvent suspendre le permis de conduire des
-auteurs de l'infraction qu'ils soient ou non conducteurs du véhicule, pour un temps qui ne peut excéder trois ans.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 374, 375, 376, 377
-
-_Nouveaux textes_:
-
-  - Code rural L228-25
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 382
-
-Une gratification de 1 F par condamnation, à due concurrence de l'amende prononcée et recouvrée, est accordée aux gardes et
-gendarmes verbalisateurs constatant les délits prévus au présent titre.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-34
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 10, art. 19
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 383
-
-Les délits prévus par le présent titre seront prouvés soit par procès-verbaux ou rapports, soit par témoins, à défaut de
-rapports et procès-verbaux, ou à leur appui.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-26
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 21
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 384
-
-Le Gouvernement exerce la surveillance et la police de la chasse dans l'intérêt général.
-
-Tous les gardes-chasse dépendant de l'office national de la chasse ou des fédérations départementales sont soumis à un statut
-national.
-
-Le ministre chargé de la chasse commissionne les gardes-chasse dépendant de l'office national de la chasse et des gardes-
-chasse dépendant des fédérations départementales des chasseurs pour exercer les fonctions de préposés des eaux et forêts
-chargés spécialement de la police de la chasse dans l'étendue des circonscriptions pour lesquelles ils sont assermentés.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L220-1, L221-8, L228-31
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 22
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 385
-
-Font foi, jusqu'à preuve contraire, les procès-verbaux des maires et adjoints, commissaires de police, officiers et gradés de
-la gendarmerie, gendarmes, préposés des eaux et forêts, ingénieurs et agents assermentés de l'office national des forêts,
-gardes particuliers des fédérations départementales des chasseurs commissionnés en qualité de préposés des eaux et forêts,
-gardes-pêche commissionnés par décision ministérielle, gardes champêtres, gardes particuliers assermentés, lieutenants de
-louveterie assermentés devant le tribunal ou l'un des tribunaux de leur circonscription.
-
-A l'égard des préposés des eaux et forêts, cette disposition s'applique en quelque lieu que les infractions soient commises
-dans les arrondissements des tribunaux près desquels ils sont assermentés.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-27
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 23
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 386
-
-Les procès-verbaux des agents des contributions indirectes font également foi jusqu'à preuve contraire, lorsque, dans la
-limite de leurs attributions respectives, ces agents recherchent et constatent, les délits prévus par l'alinéa 1er de
-l'article 372.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 372
-
-_Nouveaux textes_:
-
-  - Code rural L228-30
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 24
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 387
-
-Les gardes-chasse particulier assermentés constatent par procès-verbaux les infractions aux dispositions du présent titre et
-des textes pris pour son application qui portent préjudice aux détenteurs de droits de chasse qui les emploient.
-
-Les dispositions de l'article 29 du code de procédure pénale sont sont applicables à ces procès-verbaux qui font foi jusqu'à
-preuve du contraire.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-28
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-_Modifié par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 5 () JORF 30 juin 1984
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 29 (V)
-
-
-###### Article 388
-
-Les délinquants ne pourront être saisis ni désarmés ; néanmoins, s'ils sont déguisés ou masqués, s'ils refusent de faire
-connaître leurs noms, ou s'ils n'ont pas de domicile connu, ils seront conduits immédiatement devant le maire ou le juge du
-tribunal d'instance, lequel s'assurera de leur individualité.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-40
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 26
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 388-1
-
-Le permis de chasser peut être suspendu par l'autorité judiciaire en cas d'homicide involontaire ou de coups et blessures
-involontaires survenus à l'occasion d'une action de chasse ou de destruction d'animaux nuisibles ou lorsque aura été
-constatée l'une des infractions suivantes telles qu'elles sont définies par les articles 374, 375, 376 et 377, par les textes
-relatifs à la chasse et à la protection de la nature, en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la
-Moselle et par les réglementations relatives au plan de chasse du grand gibier et à la chasse dans les parcs nationaux :
-
-1° La chasse de nuit sur le terrain d'autrui avec un véhicule à moteur ;
-
-2° La chasse dans les réserves approuvées et dans les territoires des parcs nationaux où la chasse est interdite ;
-
-3° La chasse dans des enclos, attenant ou non à des habitations, sans le consentement du propriétaire ;
-
-4° La destruction d'animaux des espèces protégées ;
-
-5° Les infractions au plan de chasse du grand gibier ;
-
-6° Les menaces ou violences contre des personnes, commises à l'occasion de la constatation d'une infraction de chasse.
-
-Dans les cas visés à l'alinéa précédent une copie certifiée conforme du procès-verbal constatant l'une des infractions
-énumérées ci-dessus est adressée directement au juge du tribunal d'instance dans le ressort duquel l'infraction a été
-commise. Le juge peut ordonner immédiatement la suspension du permis de chasser de l'auteur de l'infraction. Cette mesure de
-suspension est notifiée à l'intéressé par la voie administrative et copie de l'ordonnance lui est laissée.
-
-Celle-ci n'a d'effet que jusqu'à la décision statuant en premier ressort sur l'infraction constatée. Toutefois, l'auteur de
-l'infraction peut, à tout moment avant cette décision, demander au juge du tribunal d'instance la restitution provisoire de
-son permis.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 374, 375, 376, 377
-
-_Nouveaux textes_:
-
-  - Code rural L228-22, L229-34, L228-23, L228-24
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 388-2
-
-Toute personne qui chasse soit après avoir été privée du droit d'obtenir ou de conserver un permis de chasser par application
-de l'article 381, soit après avoir reçu notification de l'ordonnance prononçant la suspension du permis de chasser par
-application de l'article 388-1 sera punie d'un emprisonnement de dix jours à trois mois et d'une amende de 500 F à 15.000 F
-ou de l'une de ces deux peines seulement.
-
-Sera punie des mêmes peines toute personne qui, ayant été privée du droit de conserver un permis de chasser par application
-de l'article 381 ou qui, ayant reçu notification de l'ordonnance prononçant la suspension du permis de chasser par
-application de l'article 381-1 refusera de remettre son permis à l'agent de l'autorité chargé de l'exécution de la décision.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 381, 381-1, 388-1
-
-_Nouveaux textes_:
-
-  - Code rural L228-3, L228-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-_Modifié par_:
-
-  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
-
-
-###### Article 389
-
-Tous les délits prévus par le présent titre seront poursuivis d'office par le ministère public, sans préjudice du droit
-conféré aux parties lésées par l'article 388 du code de procédure pénale.
-
-Néanmoins, dans le cas de chasse sur le terrain d'autrui sans le consentement du propriétaire, la poursuite d'office ne
-pourra être exercée par le ministère public, sans une plainte de la partie intéressée, qu'autant que le délit aura été commis
-dans un terrain clos, suivant les termes de l'article 366, et attenant à une habitation, ou sur des terres non encore
-dépouillées de leurs fruits.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 388 (V)
-  - Code rural 366
-
-_Nouveaux textes_:
-
-  - Code rural L228-41
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 27
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 390
-
-Ceux qui auront commis conjointement les délits de chasses seront condamnés solidairement aux amendes, dommages-intérêts et
-frais.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L228-42
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 28
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 391
-
-Le père, la mère, le tuteur, les maîtres et commettants, sont civilement responsables des délits de chasse commis par leurs
-enfants mineurs non mariés, pupilles demeurant avec eux, domestiques ou préposés, sauf tout recours de droit.
-
-Cette responsabilité est réglée conformément à l'article 1384 du code civil, et ne s'appliquera qu'aux dommages-intérêts et
-frais, sans pouvoir toutefois donner lieu à la contrainte par corps.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code civil - art. 1384 (M)
-
-_Nouveaux textes_:
-
-  - Code rural L228-43
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1844-05-03 art. 29
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-### Chapitre III : De la destruction des animaux nuisibles.<a id=84></a>
-
-###### Article 393
-
-Un décret en conseil en d'Etat désigne l'autorité administrative compétente pour déterminer les espèces d'animaux malfaisants
-ou nuisibles que le propriétaire, possesseur ou fermier peut, en tout temps, détruire sur ses terres et les conditions
-d'exercice de ce droit.
-
-Indépendamment des dispositions prévues à l'alinéa précédent, tout propriétaire ou fermier peut repousser ou détruire, même
-avec des armes à feu, mais à l'exclusion du collet et de la fosse, les bêtes fauves qui porteraient dommages à ses
-propriétés ; toutefois, il n'est pas autorisé à détruire les sangliers ni, dans les départements où est institué un plan de
-chasse en application de l'article 373, les grands gibiers faisant l'objet de ce plan.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 373
-
-_Nouveaux textes_:
-
-  - Code rural L227-8, L227-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°88-940 du 30 septembre 1988 - art. 1 () JORF 2 octobre 1988
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 394
-
-Sans préjudice des dispositions de l'article 90, 9°, de la loi municipale du 5 avril 1884, modifiée par la loi du 2 avril
-1946, il est fait chaque fois qu'il est nécessaire, sur l'ordre du préfet, après avis de l'ingénieur des eaux et forêts, des
-chasses et battues générales ou particulières aux loups, renards, blaireaux et autres animaux nuisibles.
-
-Toutefois, dans les communes situées à proximité des massifs forestiers où les cultures sont menacées périodiquement de
-destruction par les sangliers et dont la liste est établie par arrêté préfectoral, le préfet peut déléguer ses pouvoirs aux
-maires des communes intéressées. Les battues seront organisées sous le contrôle et la responsabilité technique des
-lieutenants de louveterie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1798-02-09 (19 pluviôse An V) art. 2
-
-_Nouveaux textes_:
-
-  - Code rural L227-6, L227-7
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Loi n°1884-04-05 art. 90
-  - Loi n°46-565 1946-04-02
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-### Chapitre IV : Des groupements de chasseurs.<a id=85></a>
-
-###### Article 396
-
-Nul ne peut obtenir le visa d'un permis de chasser s'il n'est membre d'une fédération départementale des chasseurs dont les
-statuts doivent être conformes au modèle de statuts adoptés par le ministre de l'agriculture.
-
-Ces fédérations départementales des chasseurs ont pour objet la répression du braconnage, la constitution et l'aménagement
-des réserves de chasse, la protection et la reproduction du gibier. Il ne peut exister qu'une fédération départementale des
-chasseurs par département.
-
-Les présidents des fédérations départementales des chasseurs sont nommés pour trois ans par le ministre de l'agriculture. Ils
-sont remplacés dans les mêmes formes en cas de démission, décès ou révocation prononcée par le ministre de l'agriculture. Nul
-ne peut être nommé aux fonctions de président s'il est âgé de moins de vingt-trois ans ou de plus de soixante-douze ans.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L223-10, L221-2, L221-3, L221-4, R321-32
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1941-06-28 art. 1
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 397
-
-Il est institué auprès du ministre de l'agriculture un comité central des fédérations départementales des chasseurs dénommé
-conseil supérieur de la chasse et qui comprend quatorze membres, savoir :
-
-Le directeur général des eaux et forêts, président ;
-
-Trois ingénieurs des eaux et forêts ;
-
-Sept personnalités appartenant aux milieux cynégétiques ;
-
-Un représentant du garde des sceaux, ministre de la justice ;
-
-Un représentant du ministre de l'intérieur ;
-
-Un représentant du ministre des finances.
-
-Les membres du conseil supérieur de la chasse sont nommés par arrêté du ministre de l'agriculture.
-
-Le conseil supérieur de la chasse met au point, avec le concours du service central de la chasse formé d'ingénieurs des eaux
-et forêts spécialistes des questions cynégétiques, tous les textes relatifs à la réglementation de la chasse qui doivent être
-soumis à la signature du ministre de l'agriculture. Il étudie tous les projets d'amélioration de la chasse, organise les
-recherches scientifiques concernant le gibier, en assure le financement et contribue aux dépenses de repeuplement des
-chasses. Il coordonne l'activité des fédérations départementales des chasseurs.
-
-Le conseil supérieur de la chasse est doté de la personnalité civile et de l'autonomie financière.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L221-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1941-06-28 art. 2
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 398
-
-Le budget des fédérations départementales est, avant d'être exécuté, soumis à l'ingénieur des eaux et forêts chargé du
-contrôle technique et financier. Il a notamment le droit d'y inscrire les dépenses obligatoires résultant de la disposition
-ci-dessus. La gestion d'office de ce budget peut, en outre, lui être confiée le cas échéant.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L221-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Anciens textes_:
-
-  - Loi n°1941-06-28 art. 4
-
-_Abrogé par_:
-
-  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 400
-
-Les conseils régionaux de la chasse et les fédérations départementales des chasseurs sont soumis au contrôle financier
-institué par le décret du 25 octobre 1935.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L221-7, R221-26
-
-_Cite_:
-
-  - Décret n°1935-10-25
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 2 (V) JORF 4 novembre 1989
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1941-06-28
-
-
-## Titre II : De la pêche et de la gestion des ressources piscicoles en eaux douces<a id=86></a>
-
-### Chapitre Ier : Champ d'application.<a id=87></a>
-
-###### Article 401
-
-La préservation des milieux aquatiques et la protection du patrimoine piscicole sont d'intérêt général.
-
-La protection du patrimoine piscicole implique une gestion équilibrée des ressources piscicoles dont la pêche, activité à
-caractère social et économique, constitue le principal élément.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L230-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 2 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 402
-
-Sous réserve des dispositions des articles 432 et 433, les dispositions du présent titre s'appliquent à tous les cours d'eau,
-canaux, ruisseaux ainsi qu'aux plans d'eau avec lesquels ils communiquent même de façon discontinue.
-
-Dans les cours d'eau et canaux affluant à la mer, les dispositions du présent titre s'appliquent en amont de la limite de
-salure des eaux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 432, 433
-
-_Nouveaux textes_:
-
-  - Code rural L231-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 403
-
-Les opérations de vidange de plans d'eau destinées exclusivement à la capture du poisson ne constituent pas une mise en
-communication au sens de l'article 402.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-
-_Nouveaux textes_:
-
-  - Code rural L231-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 404
-
-Les propriétaires des plans d'eau non visés à l'article 402 peuvent demander pour ceux-ci l'application des dispositions du
-présent titre pour une durée minimale de cinq années consécutives, dans des conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-
-_Nouveaux textes_:
-
-  - Code rural L231-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 405
-
-Sont soumis aux dispositions du présent titre tous les pêcheurs qui se livrent à la pêche dans les eaux définies à l'article
-402, à quelque titre et dans quelque but que ce soit, et notamment dans un but de loisir ou à titre professionnel.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-
-_Nouveaux textes_:
-
-  - Code rural L231-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 406
-
-Les dispositions du présent titre relatives aux poissons s'appliquent aux crustacés et aux grenouilles ainsi qu'à leur frai.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L231-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-### Chapitre II : De la préservation des milieux aquatiques et de la protection du patrimoine piscicole.<a id=88></a>
-
-###### Article 407
-
-Quiconque a jeté, déversé ou laissé écouler dans les eaux visées à l'article 402, directement ou indirectement, des
-substances quelconques dont l'action ou les réactions ont détruit le poisson ou nui à sa nutrition, à sa reproduction ou à sa
-valeur alimentaire, sera puni d'une amende de 2.000 F à 120.000 F et d'un emprisonnement de deux mois à deux ans ou de l'une
-de ces deux peines seulement. Le tribunal peut, en outre, ordonner la publication d'un extrait du jugement aux frais de
-l'auteur de l'infraction, dans deux journaux ou plus.
-
-En ce qui concerne les entreprises relevant de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour
-la protection de l'environnement, l'avis de l'inspecteur des installations classées est obligatoirement demandé, avant toute
-transaction, sur les conditions dans lesquelles l'auteur de l'infraction a appliqué les dispositions de la loi précitée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-  - Loi n°76-663 1976-07-19
-
-_Nouveaux textes_:
-
-  - Code rural L232-2, L238-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 408
-
-Lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation ou de réserves de
-nourriture de la faune piscicole, l'installation ou l'aménagement d'ouvrages ainsi que l'exécution de travaux dans le lit
-d'un cours d'eau sont soumis à autorisation. Le défaut d'autorisation sera puni d'une peine de 2 000 F à 120 000 F.
-
-L'autorisation délivrée en application du présent article fixe des mesures compensatoires visant à remettre en état le milieu
-naturel aquatique.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L232-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 409
-
-En cas de condamnation pour infraction aux dispositions des articles 407 et 408, le tribunal fixe, s'il y a lieu, les mesures
-à prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées,
-ainsi qu'une astreinte définie à l'article 463.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 407, 408, 463
-
-_Nouveaux textes_:
-
-  - Code rural L232-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 410
-
-Tout ouvrage à construire dans le lit d'un cours d'eau doit comporter des dispositifs maintenant dans ce lit un débit minimal
-garantissant en permanence la vie, la circulation et la reproduction des espèces qui peuplent les eaux au moment de
-l'installation de l'ouvrage ainsi que, le cas échéant, des dispositifs empêchant la pénétration du poisson dans les canaux
-d'amenée et de fuite.
-
-Ce débit minimal ne doit pas être inférieur au dixième du module du cours d'eau au droit de l'ouvrage correspondant au débit
-moyen interannuel, évalué à partir des informations disponibles portant sur une période minimale de cinq années, ou au débit
-à l'amont immédiat de l'ouvrage, si celui-ci est inférieur.
-
-Toutefois, pour les cours d'eau ou parties de cours d'eau dont, le module est supérieur à 80 mètres cubes par seconde, des
-décrets en Conseil d'Etat pourront, pour chacun d'eux, fixer à ce débit minimal une limite inférieure qui ne devra pas se
-situer en dessous du vingtième du module.
-
-L'exploitant de l'ouvrage est tenu d'assurer le fonctionnement et l'entretien des dispositifs garantissant dans le lit du
-cours d'eau le débit minimal défini aux deux alinéas précédents.
-
-Les dispositions prévues aux alinéas précédents seront étendues aux ouvrages existant à la date de la publication de la loi
-n° 84-512 du 29 juin 1984 relative à la pêche en eau douce et à la gestion des ressources piscicoles par réduction
-progressive de l'écart par rapport à la situation actuelle. Ces dispositions s'appliqueront intégralement au renouvellement
-des concessions ou autorisations de ces ouvrages.
-
-Dans un délai de trois ans à compter de la publication de la loi précitée, leur débit minimal devra, sauf impossibilité
-technique inhérente à leur conception, être augmenté de manière à atteindre le quart des valeurs fixées aux deuxième et
-troisième alinéas du présent article. Dans un délai de cinq ans, le Gouvernement présentera au Parlement un bilan de
-l'application du présent alinéa.
-
-La mise en oeuvre des dispositions du présent article ne pourra donner lieu à indemnité.
-
-Les dispositions du présent article ne s'appliquent pas au Rhin et au Rhône en raison du statut international de ces deux
-fleuves.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L232-5
-
-_Cité par_:
-
-  - Loi n°46-628 du 8 avril 1946 - art. 8 bis (VT)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Loi n°84-512 1984-06-29
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 411
-
-Dans les cours d'eau ou parties de cours d'eau et canaux dont la liste est fixée par décret, après avis des conseils généraux
-rendus dans un délai de six mois, tout ouvrage doit comporter des dispositifs assurant la circulation des poissons
-migrateurs. L'exploitant de l'ouvrage est tenu d'assurer le fonctionnement et l'entretien de ces dispositifs.
-
-Les ouvrages existants doivent être mis en conformité, sans indemnité, avec les dispositions du présent article dans un délai
-de cinq ans à compter de la publication d'une liste d'espèces migratrices par bassin ou sous-bassin fixée par le ministre
-chargé de la pêche en eau douce et, le cas échéant, par le ministre chargé de la mer.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L232-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 412
-
-Ceux qui ne respectent pas les dispositions des articles 410 et 411 seront punis d'une amende de 1.000 F à 80.000 F.
-Lorsqu'une personne est condamnée en application du présent article, le tribunal peut décider que le défaut d'exécution, dans
-le délai qu'il fixe, des mesures qu'il prescrit aux fins prévues aux articles susmentionnés, entraînera le paiement d'une
-astreinte définie à l'article 463.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 410, 411, 463
-
-_Nouveaux textes_:
-
-  - Code rural L232-8
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 413
-
-Il est interdit, sous peine d'une amende de 2.000 F à 60.000 F :
-
-1° D'introduire, dans les eaux visées par le présent titre des poissons appartenant à des espèces susceptibles de provoquer
-des déséquilibres biologiques et dont la liste est fixée par décret. Le transport des poissons de ces espèces est interdit
-sans autorisation, délivrée dans les conditions fixées par décret en Conseil d'Etat ;
-
-2° D'introduire sans autorisation dans les eaux visées par le présent titre des poissons qui n'y sont pas représentés. La
-liste des espèces représentées est fixée par le ministre chargé de la pêche en eau douce ;
-
-3° D'introduire dans les eaux classées en première catégorie, en vertu du 10° de l'article 437, des poissons des espèces
-suivantes :
-
-brochet, perche, sandre et black-bass ; toutefois, cette disposition n'est pas applicable aux lacs Léman, d'Annecy et du
-Bourget ;
-
-4° D'introduire dans les eaux visées au présent titre, pour réempoissonner ou aleviner, des poissons qui ne proviennent pas
-d'établissements de pisciculture ou d'aquaculture agréés dans les conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 437
-
-_Nouveaux textes_:
-
-  - Code rural L232-10, L232-11, L232-12
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-### Chapitre III : De l'organisation des pêcheurs.<a id=89></a>
-
-###### Article 414
-
-Toute personne qui se livre à l'exercice de la pêche doit justifier de sa qualité de membre d'une association agréée de pêche
-et de pisciculture ou d'une association agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public,
-ou d'une association agréée de pêcheurs professionnels et avoir versé, en sus de sa cotisation statutaire, une taxe annuelle
-dont le produit sera affecté aux dépenses de surveillance et de mise en valeur du domaine piscicole national. Les taux de
-cette taxe sont fixés par décrets rendus sur proposition des ministres chargés de l'agriculture et des travaux publics, du
-transport et du tourisme, après avis du conseil supérieur de la pêche institué auprès du ministre chargé de l'agriculture.
-
-Les conjoints des personnes qui acquittent la taxe piscicole, les titulaires de la carte d'économiquement faible, les grands
-invalides de guerre ou du travail titulaires d'une pension de 85 p. 100 et au-dessus, les appelés pendant la durée du service
-national et les mineurs jusqu'à l'âge de seize ans sont dispensés de payer la taxe piscicole lorsqu'ils pêchent à l'aide
-d'une seule ligne équipée de deux hameçons simples au plus, pêche au lancer exceptée.
-
-A l'aide de cette ligne, les membres des associations agréées visés ci-dessus sont autorisés à pêcher gratuitement et sans
-formalités dans les eaux du domaine public ainsi que dans les plans d'eau où le droit de pêche appartient à l'Etat. Il en est
-de même dans les eaux autres que celles du domaine défini à l'article 1er du code du domaine public fluvial et de la
-navigation intérieure, sous réserve de la permission de celui à qui le droit de pêche appartient.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural 402
-
-_Nouveaux textes_:
-
-  - Code rural L236-1, L236-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 3 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 415
-
-Les associations agréées de pêche et de pisciculture contribuent à la surveillance de la pêche, exploitent les droits de
-pêche qu'elles détiennent, participent à la protection du patrimoine piscicole et des milieux aquatiques et effectuent des
-opérations de gestion piscicole. Les associations agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du
-domaine public ont les mêmes compétences pour les lots de pêche où leurs membres sont autorisés à pêcher.
-
-Dans chaque département, les associations agréées de pêche et de pisciculture et l'association agréée de pêcheurs amateurs
-aux engins et aux filets sur les eaux du domaine public sont obligatoirement regroupées en une fédération départementale des
-associations agréées de pêche et de pisciculture.
-
-La constitution de fédérations groupant les associations agréées de plusieurs départements peut être autorisée par le
-ministre chargé de la pêche en eau douce.
-
-Les fédérations départementales des associations agréées de pêche et de pisciculture ont le caractère d'établissement
-d'utilité publique. Elles sont chargées de mettre en valeur et de surveiller le domaine piscicole départemental. A cet effet,
-elles participent à l'organisation de la surveillance de la pêche, à la protection du patrimoine piscicole et des milieux
-aquatiques et à l'élaboration du schéma départemental de vocation piscicole en conformité avec les orientations de bassin
-définies par le ministre chargé de la pêche en eau douce. Elles coordonnent les actions des associations agréées de pêche et
-de pisciculture. Elles exploitent, dans l'intérêt des membres des associations agréées de pêche et de pisciculture du
-département, les droits de pêche qu'elles détiennent. Elles mènent des actions d'information et d'éducation en matière de
-protection des milieux aquatiques. Elles collectent, pour ce qui les concerne, la taxe piscicole centralisée par le Conseil
-supérieur de la pêche en application de l'article 418.
-
-Elles peuvent, par ailleurs, être chargées de toute mission d'intérêt général en rapport avec leurs activités.
-
-Les conditions d'approbation des statuts des fédérations, les modalités de désignation de leurs organes dirigeants, les
-modalités du contrôle de l'administration sur les fédérations et sur les associations ainsi que les conditions dans
-lesquelles l'administration peut se substituer aux fédérations en cas de défaillance sont fixées par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 418
-
-_Nouveaux textes_:
-
-  - Code rural L234-3, L234-4, L236-3, L233-2, L234-5, L236-13, L234-6, L233-2, L234-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 416
-
-Les associations agréées de pêcheurs professionnels regroupent, dans le cadre départemental ou interdépartemental, les
-pêcheurs professionnels exerçant à temps plein ou partiel qui seuls sont autorisés à vendre le produit de leur pêche.
-
-Ces associations contribuent à la surveillance de la pêche et participent à la protection du patrimoine piscicole et des
-milieux aquatiques et à l'élaboration du schéma départemental de vocation piscicole en conformité avec les orientations de
-bassin définies par le ministre chargé de la pêche en eau douce. Elles collectent, pour ce qui les concerne, la taxe
-piscicole centralisée par le Conseil supérieur de la pêche en application de l'article 418.
-
-Les conditions d'adhésion à ces associations, les modalités d'approbation de leurs statuts, ainsi que celles du contrôle de
-l'administration sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 418
-
-_Nouveaux textes_:
-
-  - Code rural L234-6, L236-13, L236-3, L234-6, L233-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 417
-
-Il est créé dans chaque bassin hydrographique une commission comprenant, notamment, des responsables de la pêche, des
-personnes qualifiées, des représentants de riverains, des collectivités locales, des administrations concernées et des
-associations de protection de la nature, qui sera chargée de proposer les orientations de protection et de gestion des
-milieux aquatiques du bassin et de donner son avis sur toutes les questions y afférentes. Ces orientations sont arrêtées par
-le ministre chargé de la pêche en eau douce.
-
-Un décret fixe la composition et les règles de fonctionnement de la commission de bassin.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L333-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 418
-
-Le produit de la taxe piscicole est affecté à l'établissement public dénommé Conseil supérieur de la pêche. Celui-ci utilise
-les fonds dont il dispose pour la mise en valeur et la surveillance du domaine piscicole national, notamment par des
-interventions, réalisations, recherches, études et enseignements en faveur de la pêche et de la protection du patrimoine
-piscicole. 
-
-En outre, le Conseil supérieur de la pêche constitue un organisme consultatif auprès du ministre chargé de la pêche en eau
-douce.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L234-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-### Chapitre IV : Du droit de pêche, de son exercice et de la gestion des ressources piscicoles.<a id=90></a>
-
-###### Article 419
-
-Le droit de pêche qui appartient à l'Etat est exercé à son profit :
-
-1° Dans le domaine défini à l'article 1er du code du domaine public fluvial et de la navigation intérieure, sous réserve des
-cas dans lesquels le droit de pêche appartient à un particulier en vertu d'un droit fondé sur titre ;
-
-2° Dans les parties non salées des cours d'eau et canaux non domaniaux affluant à la mer, qui se trouvaient comprises dans
-les limites de l'inscription maritime antérieurement aux 8 novembre et 28 décembre 1926. Ces parties sont déterminées par
-décret.
-
-Un décret en Conseil d'Etat fixe les conditions d'exploitation par adjudication, amodiation amiable ou licence, du droit de
-pêche de l'Etat, et les modalités de gestion des ressources piscicoles du domaine et des cours d'eau et canaux mentionnés aux
-alinéas 1° et 2°. Il fixe, en particulier, la liste des fonctionnaires, des agents et des membres de leur famille qui ne
-peuvent prendre part directement ou indirectement à la location de ce droit de pêche.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L235-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Cite_:
-
-  - Code du domaine public fluvial et de la navigation - art. 1 (M)
-
-
-###### Article 420
-
-Toute concertation, toute manoeuvre entre les pêcheurs ou autres, tendant à nuire aux adjudications, à les troubler ou à
-obtenir les cantonnements de pêche à plus bas prix, donnera lieu à l'application des peines portées à l'article 412 du code
-pénal, indépendamment de tous dommages-intérêts ; et si l'adjudication a été faite au profit des auteurs desdites manoeuvres,
-elle sera déclarée nulle.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code pénal 412
-
-_Nouveaux textes_:
-
-  - Code rural L235-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 421
-
-Les contestations entre l'administration et les adjudicataires relatives à l'interprétation et à l'exécution des conditions
-des baux et adjudications et toutes celles qui s'élèvent entre l'administration ou ses cocontractants et des tiers intéressés
-à raison de leurs droits ou de leurs propriétés, sont portées devant le tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L235-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 422
-
-Dans les cours d'eau et canaux autres que ceux visés à l'article 419, les propriétaires riverains ont, chacun de leur côté,
-le droit de pêche jusqu'au milieu du cours d'eau ou du canal, sous réserve de droits contraires établis par possession ou
-titres.
-
-Dans les plans d'eau autres que ceux visés à l'article 419, le droit de pêche appartient au propriétaire du fonds.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 419
-
-_Nouveaux textes_:
-
-  - Code rural L235-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 423
-
-Tout propriétaire d'un droit de pêche, ou son ayant cause, est tenu de participer à la protection du patrimoine piscicole et
-des milieux aquatiques. A cet effet, il ne doit pas leur porter atteinte et, le cas échéant, il doit effectuer les travaux
-d'entretien, sur les berges et dans le lit du cours d'eau, nécessaires au maintien de la vie aquatique.
-
-Avec l'accord du propriétaire, cette obligation peut être prise en charge par une association agréée de pêche et de
-pisciculture ou par la fédération départementale des associations agréées de pêche et de pisciculture qui, en contrepartie,
-exerce gratuitement le droit de pêche pendant la durée de la prise en charge de cette obligation. Cette durée peut être fixée
-par convention.
-
-En cas de non-respect de l'obligation de participer à la protection du patrimoine piscicole et des milieux aquatiques, les
-travaux nécessaires peuvent être effectués d'office par l'administration aux frais du propriétaire ou, si celui-ci est
-déchargé de son obligation, aux frais de l'association ou de la fédération qui l'a prise en charge.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L232-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 424
-
-L'exercice d'un droit de pêche emporte obligation de gestion des ressources piscicoles. Celle-ci comporte l'établissement
-d'un plan de gestion. En cas de non-respect de cette obligation, les mesures nécessaires peuvent être prises d'office par
-l'administration aux frais de la personne physique ou morale qui exerce le droit de pêche.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L233-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 425
-
-Lorsque les propriétaires riverains des eaux visées à l'article 422 ont demandé à bénéficier de subventions sur fonds publics
-pour la remise en état ou l'aménagement des rives et des fonds, en contrepartie, le droit de pêche est exercé gratuitement
-par une association agréée de pêche et de pisciculture désignée par l'administration ou par la fédération départementale des
-associations agréées de pêche et de pisciculture, pour une durée maximale de vingt ans.
-
-Toutefois, lorsqu'une subvention est versée à une collectivité locale ou à un syndicat de collectivités locales à la suite
-d'une déclaration d'utilité publique, le propriétaire peut rembourser la part de subvention correspondant aux travaux
-exécutés sur son fonds. Dans ce cas, les dispositions du présent article ne lui sont pas applicables.
-
-Pour l'application du présent article, la durée pendant laquelle le droit de pêche est exercé gratuitement par l'association
-ou la fédération est fonction de la proportion dans laquelle les travaux ont été financés par subvention sur fonds publics.
-
-L'association ou la fédération qui exerce gratuitement un droit de pêche en application du présent article doit satisfaire
-aux obligations définies aux articles 423 et 424.
-
-Pendant la période d'exercice gratuit du droit de pêche par une association ou une fédération, le propriétaire conserve le
-droit d'exercer la pêche pour lui-même, son conjoint, ses ascendants et ses descendants.
-
-Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 422, 423, 424
-
-_Nouveaux textes_:
-
-  - Code rural L235-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 426
-
-L'article 121 du présent code est applicable aux travaux effectués et aux mesures prises en vertu des articles 423, 424 et
-425.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 121, 423, 424, 425
-
-_Nouveaux textes_:
-
-  - Code rural L235-8
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 427
-
-L'exercice du droit de pêche emporte bénéfice du droit de passage qui doit s'exercer, autant que possible, en suivant la rive
-du cours d'eau et à moindre dommage. Les modalités d'exercice de ce droit de passage peuvent faire l'objet d'une convention
-avec le propriétaire riverain.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L235-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 428
-
-Lorsqu'une association ou une fédération visée à l'article 415 exerce gratuitement un droit de pêche, elle est tenue de
-réparer les dommages subis par le propriétaire riverain ou ses ayants droit à l'occasion de l'exercice de ce droit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 415
-
-_Nouveaux textes_:
-
-  - Code rural L235-7
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 429
-
-Outre les droits individuels ou collectifs qui peuvent lui appartenir par ailleurs, tout membre d'une association agréée de
-pêche et de pisciculture a le droit de pêche :
-
-1° De la rive ou en marchant dans l'eau, dans les parties classées en première catégorie, en vertu du 10° de l'article 437,
-des cours d'eau du domaine public où le droit de pêche appartient à l'Etat ;
-
-2° De la rive ou en marchant dans l'eau ou en bateau, dans les parties desdits cours d'eau classés, en vertu du 10° de
-l'article 437, en deuxième catégorie ainsi que dans les plans d'eau, quelle que soit leur catégorie, où le droit de pêche
-appartient à l'Etat.
-
-Dans ce cas toutefois, le ministre chargé de la pêche en eau douce ou, par délégation, le commissaire de la République du
-département peut, à titre exceptionnel, interdire à quiconque la pêche à la ligne en bateau ;
-
-3° Et de la rive seulement, pour la pêche du saumon, quelle que soit la catégorie du cours d'eau. Toutefois, le ministre
-chargé de la pêche en eau douce ou, par délégation, le commissaire de la République, peut autoriser les pêcheurs de saumons à
-marcher dans l'eau sur des parcours déterminés.
-
-Le droit de pêche ainsi délimité ne peut s'exercer qu'à l'aide d'une seule ligne.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 437
-
-_Nouveaux textes_:
-
-  - Code rural L236-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 430
-
-Dans les cours d'eau et canaux affluant à la mer, en amont de la limite de salure des eaux et jusqu'aux anciennes limites de
-l'inscription maritime telles qu'elles étaient fixées antérieurement aux 8 novembre et 28 décembre 1926, les marins-pêcheurs
-professionnels qui, au 1er janvier 1927, exerçaient la pêche dans cette zone à titre d'inscrits maritimes et qui en avaient
-fait la demande avant le 1er janvier 1928, conservent le droit de pratiquer cette pêche moyennant une licence délivrée à
-titre gratuit. 
-
-Dans la zone comprise entre la limite de salure des eaux et les limites de l'inscription maritime fixées le 17 juin 1938, les
-autres marins-pêcheurs professionnels peuvent exercer la pêche dans les mêmes conditions que les pêcheurs professionnels en
-eau douce, moyennant une licence qui sera délivrée à titre gratuit pendant les cinq années suivant la publication de la loi
-n° 84-512 du 29 juin 1984 précitée.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-10
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Loi n°84-512 1984-06-29
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 431
-
-Tout propriétaire, locataire, fermier ou titulaire d'un droit réel, riverain d'un cours d'eau domanial ou d'un plan d'eau
-domanial, est tenu de laisser à l'usage des pêcheurs, le long de ceux-ci, un espace libre sur 3,25 mètres de largeur.
-
-Lorsque l'exercice de la pêche et les nécessités d'entretien et de surveillance du cours d'eau ou du plan d'eau le
-permettent, les ministres chargés de la pêche en eau douce et de la gestion du domaine public fluvial ou, par délégation, le
-commissaire de la République du département peuvent réduire la largeur de 3,25 mètres précitée jusqu'à 1,50 mètre.
-
-Le long des cours d'eau rayés de la nomenclature des voies navigables ou flottables mais maintenus dans le domaine public, la
-largeur de l'espace libre laissé à l'usage des pêcheurs est fixée à 1,50 mètre.
-
-Le long des canaux de navigation, les pêcheurs peuvent user du chemin de halage et de la portion de berge faisant partie du
-domaine public, dans la mesure où le permet l'exploitation de la voie navigable.
-
-Ce droit peut, exceptionnellement, être supprimé soit pour des raisons d'intérêt général, soit pour des raisons de sécurité
-lorsque les berges sont incluses dans des établissements industriels, sur décision des ministres chargés de la pêche en eau
-douce et de la gestion du domaine public fluvial ou, par délégation, du commissaire de la République du département.
-
-En cas de non-respect des dispositions du présent article relatives au droit de passage, le riverain doit, sur injonction de
-l'administration, remettre les lieux en état dans le délai fixé par celle-ci. A défaut d'exécution dans le délai prescrit, la
-remise en état sera effectuée d'office par l'administration ou son concessionnaire, aux frais du riverain.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L235-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-### Chapitre V : De la police de la pêche<a id=91></a>
-
-#### Section 1 : Dispositions générales.<a id=92></a>
-
-###### Article 432
-
-A l'exception des articles 407 et 413, les dispositions du présent titre ne sont pas applicables aux piscicultures
-régulièrement installées et équipées de dispositifs permanents empêchant la libre circulation du poisson entre ces
-exploitations et les eaux avec lesquels elles communiquent. On entend par pisciculture les exploitations d'élevage de
-poissons destinés à la consommation ou au repeuplement ou à des fins scientifiques ou expérimentales.
-
-Peuvent seuls créer des piscicultures ceux qui disposent d'un plan d'eau établi en application de l'article 433, 1° et 2°, ou
-qui ont obtenu, en application du présent article, soit une concession lorsque le droit de pêche appartient à l'Etat, soit
-une autorisation lorsqu'il appartient à un propriétaire riverain.
-
-Ces concessions ou autorisations ne peuvent être accordées, après avis de la fédération départementale des associations
-agréées de pêche et de pisciculture, que si aucun inconvénient ne paraît devoir en résulter pour le peuplement piscicole des
-eaux avec lesquelles ces piscicultures communiquent. Les concessions et les autorisations sont délivrées pour une durée
-maximale de trente ans ; elles peuvent être renouvelées.
-
-Les formes et conditions des concessions et autorisations sont fixées par décret en Conseil d'Etat.
-
-Ceux qui auront créé des piscicultures sans concession ou sans autorisation seront punis d'une amende de 1.000 F à 8.000 F et
-condamnés à remettre les lieux en état, sous astreinte définie à l'article 463, sans préjudice de l'application des
-dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 407, 413, 433, 463
-
-_Nouveaux textes_:
-
-  - Code rural L231-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 433
-
-A l'exception des articles 407 et 413, les dispositions du présent titre ne sont pas applicables aux plans d'eau existant à
-la date de publication de la loi n° 84-512 du 29 juin 1984 précitée, établis en dérivation ou par barrage et équipés des
-dispositifs permanents empêchant la libre circulation du poisson entre ces plans d'eau et les eaux avec lesquelles ils
-communiquent :
-
-1° Soit s'ils ont été créés en vertu d'un droit fondé sur titre comportant le droit d'intercepter la libre circulation du
-poisson ;
-
-2° Soit s'ils sont constitués par la retenue d'un barrage établi en vue de la pisciculture avant le 15 avril 1829 en travers
-d'un cours d'eau non domanial n'ayant pas été classé au titre du régime des échelles à poisson et non classé au titre de
-l'article 411 ;
-
-3° Soit s'ils résultent d'une concession ou d'une autorisation administrative, jusqu'à la fin de la période pour laquelle la
-concession ou l'autorisation a été consentie. Les détenteurs de ces autorisations ou concessions peuvent en demander le
-renouvellement en se conformant aux dispositions de l'article 432.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 407, 413, 411, 432
-  - Loi n°84-512 1984-06-29
-
-_Nouveaux textes_:
-
-  - Code rural L231-7
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 434
-
-Les vidanges de plans d'eau visés ou non à l'article 402 sont soumises à autorisation en application du présent article. Ces
-autorisations déterminent le programme de l'opération et la destination du poisson.
-
-Quiconque effectue une vidange sans l'autorisation prévue à l'alinéa précédent sera puni d'une amende de 1.000 à 80.000 F.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-
-_Nouveaux textes_:
-
-  - Code rural L232-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 435
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles la pêche est interdite dans certaines sections de cours
-d'eau, canaux ou plans d'eau afin de favoriser la protection ou la reproduction du poisson. Les indemnités auxquelles ont
-droit les propriétaires riverains qui sont privés totalement de l'exercice du droit de pêche plus d'une année entière en
-vertu du présent article sont fixées, à défaut d'accord amiable, par le tribunal administratif.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-12
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 436
-
-En ce qui concerne les cours d'eau et canaux affluant à la mer, des décrets en Conseil d'Etat règlent, pour la pêche en eau
-douce et pour la pêche maritime, d'une manière uniforme, les conditions dans lesquelles sont fixées pour les espèces vivant
-alternativement dans les eaux douces et dans les eaux salées :
-
-1° Les époques pendant lesquelles la pêche de ces espèces de poissons est interdite ;
-
-2° Les dimensions au-dessous desquelles la pêche de ces espèces de poissons est interdite ;
-
-3° Les mesures utiles à la reproduction, au développement, à la conservation et à la circulation de ces espèces ;
-
-4° La liste de celles dont le colportage et la vente sont interdits ;
-
-5° La liste de celles dont l'introduction est interdite ;
-
-6° Le nombre et la dimension des filets, engins et instruments de pêche dont l'usage est permis.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-11
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 437
-
-Des décrets en Conseil d'Etat, rendus après avis du Conseil supérieur de la pêche, déterminent les conditions dans lesquelles
-sont fixés, éventuellement par bassin :
-
-1° Les temps, saisons, heures pendant lesquels la pêche est interdite ;
-
-2° Les dimensions au-dessous desquelles les poissons de certaines espèces ne peuvent être pêchés et doivent être rejetés à
-l'eau ; ces dimensions ne peuvent être inférieures à celles correspondant à l'âge de première reproduction ;
-
-3° Le nombre de captures autorisées pour certaines espèces et, le cas échéant, les conditions de capture ;
-
-4° Les dimensions des filets, engins et instruments de pêche dont l'usage est permis ;
-
-5° Le mode de vérification des mailles des filets autorisés pour la pêche de chaque espèce de poissons ;
-
-6° Les filets, engins et instruments de pêche qui sont interdits comme étant de nature à nuire au peuplement des eaux visées
-par le présent titre ;
-
-7° Les procédés et modes de pêche prohibés ;
-
-8° Les espèces de poissons avec lesquelles il est défendu d'appâter les hameçons, nasses, filets ou autres engins ;
-
-9° Les cours d'eau ou parties de cours d'eau où la pêche en marchant dans l'eau est interdite en vue de la protection du
-milieu aquatique ;
-
-10° Le classement des cours d'eau, canaux et plans d'eau en deux catégories :
-
-- la première catégorie comprenant ceux qui sont principalement peuplés de truites, ainsi que ceux où il paraît désirable
-d'assurer une protection spéciale des poissons de cette espèce ;
-
-- la seconde catégorie comprenant tous les autres cours d'eau, canaux et plans d'eau soumis aux dispositions du présent
-titre.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 438
-
-Celui qui place un barrage, appareil ou établissement quelconque de pêcherie ayant pour objet d'empêcher entièrement le
-passage du poisson ou de le retenir captif sera puni d'une amende de 1.000 à 8.000 F et condamné à remettre les lieux en
-état, sous astreinte définie à l'article 463 sans préjudice de l'application des dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 463
-
-_Nouveaux textes_:
-
-  - Code rural L236-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 439
-
-Quiconque jette dans les eaux définies à l'article 402 des drogues ou appâts en vue d'énivrer le poisson ou de le détruire
-sera puni d'une amende de 2.000 à 30.000 F et d'un emprisonnement de deux mois à deux ans ou de l'une de ces deux peines
-seulement.
-
-Ceux qui, en vue de capturer ou de détruire le poisson, se servent d'explosifs, de procédés d'électrocution ou de produits ou
-de moyens non autorisés seront punis des mêmes peines.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-
-_Nouveaux textes_:
-
-  - Code rural L236-7
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 440
-
-Il est interdit de mettre en vente, de vendre, d'acheter, de transporter, de colporter et d'exporter les diverses espèces de
-poissons pendant le temps où la pêche en est interdite.
-
-Cette disposition n'est pas applicable, sous réserve qu'il soit justifié de leur origine :
-
-1° Aux poissons provenant soit des eaux non visées à l'article 402, soit des eaux visées aux articles 432 et 433 ;
-
-2° Aux poissons actuellement représentés dans les eaux visées par le présent titre provenant des eaux soumises aux règlements
-maritimes, pendant le temps où leur pêche y est autorisée ;
-
-3° Aux poissons provenant de l'étranger dont l'importation est autorisée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402, 432, 433
-
-_Nouveaux textes_:
-
-  - Code rural L236-15
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 441
-
-Sous réserve des dispositions de l'article 440, toute personne qui vend le produit de sa pêche sans avoir la qualité de
-pêcheur professionnel en eau douce sera punie d'une amende de 1.000 F à 10.000 F. Toute personne qui sciemment achète ou
-commercialise le produit de la pêche d'une personne n'ayant pas la qualité de pêcheur professionnel en eau douce sera punie
-des mêmes peines.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 440
-
-_Nouveaux textes_:
-
-  - Code rural L236-14
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 442
-
-Il est interdit de colporter, de vendre ou d'acheter des truites, ombres communs, saumons de fontaine et saumons pêchés dans
-les eaux visées par le présent titre.
-
-Toutefois, cette disposition ne s'applique pas aux personnes ayant la qualité de pêcheur professionnel en eau douce
-lorsqu'elles exercent la pêche dans les cours d'eau, canaux et plans d'eau du domaine public ou dans les plans d'eau de
-retenue de barrage où le droit de pêche appartient à l'Etat et dans les plans d'eau non domaniaux dont la liste est fixée par
-le ministre chargé de la pêche en eau douce.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-16
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 443
-
-L'autorité administrative chargée de la pêche en eau douce peut autoriser, pendant le temps où la pêche est interdite, la
-capture ou le transport du poisson destiné à la reproduction ou au repeuplement.
-
-Elle peut autoriser en tout temps la capture de poissons à des fins sanitaires ou scientifiques ou en cas de déséquilibres
-biologiques, ainsi que leur transport et leur vente.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 444
-
-Les contremaîtres, les employés de balisage et les mariniers qui fréquentent les cours d'eau, canaux et lacs domaniaux ne
-peuvent avoir, dans leurs bateaux ou équipages, aucun filet ou engin de pêche en dehors de ceux destinés à la pêche à la
-ligne.
-
-Ils ne peuvent pêcher de leur bateau qu'à la ligne, pêches au lancer et à la traîne exceptées, et à la condition de se
-conformer aux prescriptions du présent titre et des textes pris pour son application. Ils sont tenus d'accepter la visite,
-sur leurs bateaux et équipages, des fonctionnaires et agents chargés de la police de la pêche, aux lieux où ils abordent.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L236-8, L237-8
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-#### Section 2 : De la recherche et de la constatation des infractions.<a id=93></a>
-
-###### Article 445
-
-Sont habilités à rechercher et à constater les infractions aux dispositions du présent titre et des textes pris pour son
-application, en quelque lieu qu'elles soient commises, outre les officiers et agents de police judiciaire énumérés aux
-articles 16, 20 et 21 du code de procédure pénale et les agents habilités par des lois spéciales :
-
-1° Les agents du Conseil supérieur de la pêche commissionnés à cet effet par décision ministérielle, et assermentés ;
-
-2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux et les agents qualifiés chargés de la
-police de la pêche dans les directions départementales de l'agriculture et à l'Office national des forêts, les ingénieurs et
-agents qualifiés des services chargés de la navigation, commissionnés à cet effet par décision ministérielle et assermentés ;
-
-3° Les gardes champêtres.
-
-Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les conditions dans lesquelles, au-delà de la
-limite de salure des eaux, est pratiquée la pêche des espèces de poissons vivant alternativement dans les eaux douces et dans
-les eaux salées.
-
-Peuvent également rechercher et constater les infractions aux dispositions du présent titre et des textes pris pour son
-application les agents des douanes ainsi que les agents autorisés par le décret du 9 janvier 1852 sur l'exercice de la pêche
-maritime.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 16 (M)
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
-  - Décret n°1852-01-09
-
-_Nouveaux textes_:
-
-  - Code rural L237-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 446
-
-Pour ce qui concerne leurs attributions de police, les agents commissionnés du Conseil supérieur de la pêche sont assimilés
-aux techniciens de l'Etat chargés des forêts.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L237-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 447
-
-Les agents commissionnés à cet effet par décision ministérielle recherchent et constatent, par procès-verbaux, les
-infractions dans le ressort des tribunaux près desquels ils sont assermentés.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L237-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 448
-
-Les infractions aux dispositions du présent titre et des textes pris pour son application sont constatées par des procès-
-verbaux qui font preuve des faits matériels relatifs aux infractions constatées, jusqu'à preuve contraire, ou, s'ils ont été
-dressés et signés par deux fonctionnaires ou agents, jusqu'à inscription de faux.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L237-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 449
-
-Les procès-verbaux sont adressés, à peine de nullité, dans les trois jours qui suivent leur clôture, l'original au procureur
-de la République et une copie au chef de service de l'administration chargée de la police de la pêche. En outre, une copie
-est adressée au président de la fédération départementale des associations agréées de pêche et de pisciculture et au
-président de l'association agréée de pêcheurs professionnels en eau douce intéressées.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L237-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 450
-
-Le poisson pêché, détenu, transporté ou commercialisé en infraction aux dispositions du présent chapitre ou des textes pris
-pour son application peut être recherché à toute époque de l'année et même de nuit par les fonctionnaires et agents désignés
-à l'article 445 dans les lieux ouverts au public où le poisson est commercialisé ou consommé, ainsi que, s'il s'agit de lieux
-non ouverts au public, dans les entrepôts, magasins frigorifiques et conserveries.
-
-Lorsque ces recherches doivent être effectuées dans des locaux autres que ceux mentionnés à l'alinéa précédent, les
-dispositions du code de procédure pénale s'appliquent seules ; toutefois, les fonctionnaires et agents précités assistent,
-sur leur demande, les officiers de police judiciaire qui procèdent aux investigations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 445
-
-_Nouveaux textes_:
-
-  - Code rural L237-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 451
-
-Tout pêcheur est tenu d'amener son bateau et d'ouvrir ses loges, réfrigérateurs, hangars, bannetons, huches, paniers et
-autres réservoirs et boutiques à poissons, à toute réquisition des fonctionnaires et agents chargés de la police de la pêche.
-
-En outre, ces fonctionnaires et agents peuvent procéder à la visite des passages d'eau des moulins ou autre installation fixe
-implantée sur les cours d'eau.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L237-7
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 452
-
-Les fonctionnaires et agents visés à l'article 445 doivent saisir les lignes, filets, engins et autres instruments de pêche
-prohibés et peuvent saisir ceux, non prohibés, utilisés en cas d'infraction aux dispositions du présent titre et des textes
-pris pour son application. En outre, ils peuvent saisir les embarcations, automobiles et autres véhicules utilisés par les
-auteurs d'infraction pour se rendre sur les lieux où l'infraction a été commise ou pour transporter les poissons capturés,
-offerts à la vente, vendus ou achetés en infraction aux dispositions du présent titre et des textes pris pour son
-application.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 445
-
-_Nouveaux textes_:
-
-  - Code rural L237-10
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 453
-
-Les fonctionnaires et agents visés à l'article 445 doivent saisir le poisson pêché, transporté, vendu ou acheté en infraction
-aux dispositions du présent titre et des textes pris pour son application.
-
-Le poisson saisi sera soit remis à l'eau ou détruit, soit vendu au profit du Trésor ou donné à une oeuvre sociale par
-l'administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 445
-
-_Nouveaux textes_:
-
-  - Code rural L237-11
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 454
-
-L'auteur de l'infraction est tenu de remettre l'objet de la saisie sur la demande du fonctionnaire ou de l'agent qui a
-constaté l'infraction.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L237-12
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 455
-
-Les fonctionnaires et agents chargés de la police de la pêche ont le droit de requérir directement la force publique pour la
-répression des infractions en matière de pêche ainsi que pour la saisie des instruments de pêche, du poisson pêché en
-infraction et des embarcations, automobiles et autres véhicules visés à l'article 452.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 452
-
-_Nouveaux textes_:
-
-  - Code rural L237-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 456
-
-Les gardes-pêche particuliers assermentés constatent par procès-verbaux les infractions aux dispositions du présent titre et
-des textes pris pour son application qui portent préjudice aux détenteurs de droits de pêche qui les emploient.
-
-Les dispositions de l'article 29 du code de procédure pénale sont applicables à ces procès-verbaux qui font foi jusqu'à
-preuve du contraire.
-
-Les dispositions des articles 451, premier alinéa, 452, en tant qu'il concerne la saisie des instruments de pêche, 453, 454,
-et 455 sont applicables aux gardes-pêche particuliers assermentés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 451
-  - CODE DE PROCEDURE PENALE - art. 29 (V)
-
-_Nouveaux textes_:
-
-  - Code rural L237-13
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-#### Section 3 : De la transaction, des poursuites et de certaines mesures concernant les condamnations et les peines.<a id=94></a>
-
-###### Article 457
-
-Pour les infractions aux dispositions du présent titre et des textes pris pour son application, l'autorité administrative
-chargée de la pêche en eau douce a le droit de transiger, après accord du procureur de la République, selon les modalités
-fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 458
-
-Les fonctionnaires qualifiés à cet effet par voie réglementaire exercent, conjointement avec le ministère public, toutes les
-poursuites et actions en réparation de ces infractions, à l'exception des infractions à l'interdiction de pêcher sans la
-permission du détenteur du droit de pêche.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-2
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 459
-
-Les agents commissionnés du Conseil supérieur de la pêche et les techniciens de l'Etat chargés des forêts peuvent dans les
-actions et poursuites exercées au nom de l'administration, faire toutes citations et significations d'exploits, sans procéder
-aux saisies-exécution.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-4
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 460
-
-Les fonctionnaires qualifiés mentionnés à l'article 458 ont le droit d'exposer l'affaire devant le tribunal et sont entendus
-à l'appui de leurs conclusions.
-
-Ils peuvent, au nom de leur administration, interjeter appel des jugements et se pourvoir contre les arrêts et jugements en
-dernier ressort.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 458
-
-_Nouveaux textes_:
-
-  - Code rural L238-3
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 461
-
-Les lignes, filets et engins qui ont été saisis comme prohibés sont déposés au greffe du tribunal et sont remis après
-jugement définitif à l'administration chargée de la pêche en eau douce aux fins de destruction.
-
-La confiscation des lignes, filets et engins non prohibés ainsi que des embarcations, automobiles et autres véhicules
-utilisés par les auteurs d'infractions, pourra être prononcée. La confiscation des embarcations, automobiles et autres
-véhicules peut être ordonnée en valeur.
-
-Si la confiscation n'est pas prononcée ou si elle est ordonnée en valeur il y a lieu à restitution des objets et véhicules
-saisis.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 462
-
-Les peines pourront être doublées lorsque les délits auront été commis la nuit ou en cas de récidive.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-6
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 463
-
-L'astreinte prononcée par le tribunal en application des articles 409, 412, 432 et 438 est d'un montant de 100 à 2.000 F par
-jour de retard dans l'exécution des mesures et obligations imposées.
-
-L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à
-la demande de l'intéressé et recouvrée par le comptable du Trésor comme une amende pénale.
-
-Elle ne donne pas lieu à la contrainte par corps.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 409, 412, 432, 438
-
-_Nouveaux textes_:
-
-  - Code rural L238-7
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 464
-
-Tout jugement ou arrêt qui prononce une condamnation pour infraction en matière de pêche, à l'exception des infractions à
-l'interdiction de pêcher sans la permission du détenteur du droit de pêche, peut exclure l'auteur de l'infraction des
-associations agréées de pêche pour une durée qui ne pourra être inférieure à un an ni supérieure à trois ans. En cas de
-récidive, cette exclusion aura une durée minimum de deux ans et ne pourra excéder cinq ans. Lorsque l'auteur de l'infraction
-est un pêcheur professionnel dans l'exercice de son activité, le tribunal pourra prononcer son exclusion des associations
-agréées de pêcheurs professionnels pour une durée qui ne pourra excéder deux ans ; en cas de récidive, cette exclusion ne
-pourra excéder cinq ans. 
-
-Celui qui, durant le temps où il aura été exclu, se livre à l'exercice de la pêche, sera puni d'une amende de 1.000 à 8.000
-F. Les lignes, filets et engins seront confisqués.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-8
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 465
-
-Les fédérations départementales des associations agréées de pêche et de pisciculture et les associations agréées de pêcheurs
-professionnels peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction
-aux dispositions du présent titre et des textes pris pour son application et portant un préjudice direct ou indirect aux
-intérêts collectifs qu'elles ont pour objet de défendre.
-
-Il en est de même pour les associations agréées au titre de l'article 40 de la loi n° 76-629 du 10 juillet 1976 relative à la
-protection de la nature, en ce qui concerne les faits constituant une infraction aux dispositions du chapitre II du présent
-titre et des textes pris pour leur application.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L238-9
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Loi n°76-629 du 10 juillet 1976 - art. 40 (Ab)
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-### Chapitre VI : Dispositions diverses.<a id=95></a>
-
-###### Article 466
-
-Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent titre.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L239-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-## Titre III : De la police de la pêche<a id=96></a>
-
-### Chapitre Ier : Dispositions générales et pénales.<a id=97></a>
-
-###### Article 439-1
-
-Il est interdit, sous peine d'une amende de 200 à 3.000 F, d'introduire dans les eaux visées à l'article 401 du présent code,
-des poissons et crustacés qui seront reconnus, par décret, comme particulièrement nuisibles.
-
-La même peine sera prononcée contre ceux qui, sans l'autorisation du ministre chargé de l'agriculture, introduiraient, dans
-lesdites eaux, des poissons et crustacés non encore représentés dans les eaux libres du territoire. Un arrêté du ministre
-chargé de l'agriculture établira la liste des espèces qui y sont représentées.
-
-En outre, il est interdit, sous peine d'une amende de 600 à 1.200 F, d'introduire, dans celles de ces eaux qui seront
-classées dans la première catégorie, des poissons des espèces suivantes :
-
-brochet, perche, sandre et black-bass.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 401
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 439-2
-
-Il est interdit de colporter, d'offrir à la vente, de vendre ou d'acheter les truites, ombres communs et saumons de fontaine
-capturés dans les eaux libres visées à l'article 401 du présent code.
-
-Toutefois, cette mesure ne s'applique pas aux membres de la fédération nationale des adjudicataires et permissionnaires de la
-pêche aux engins et aux filets lorsqu'ils s'adonnent à la pêche dans les eaux du domaine public ou dans les lacs de retenue
-de barrage où le droit de pêche appartient à l'Etat. Elle ne s'applique pas, non plus, lorsque les poissons susvisés ont été
-capturés dans les lacs du domaine privé dont la liste sera établie par arrêté du ministre de l'agriculture.
-
-Un décret pris sur les propositions du ministre de l'agriculture et du garde des sceaux, ministre de la justice, fixera les
-modalités du contrôle et des pénalités tendant à assurer l'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 401
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-### Chapitre II : Des poursuites au nom de l'administration.<a id=98></a>
-
-###### Article 469
-
-Les procès-verbaux revêtus de toutes formalités prescrites par l'article 460, et qui sont dressés et signés par deux agents
-ou gardes-pêche, font preuve, jusqu'à inscription de faux, des faits matériels relatifs aux délits qu'ils constatent, quelles
-que soient les condamnations auxquelles ces délits peuvent donner lieu.
-
-Il ne sera, en conséquence, admis aucune preuve outre ou contre le contenu de ces procès-verbaux, à moins qu'il n'existe une
-cause légale de récusation contre l'un des signataires.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 460
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 53
-
-
-###### Article 470
-
-Les procès-verbaux, revêtus de toutes les formalités prescrites, mais qui ne seront dressés et signés que par un seul agent
-ou garde-pêche, font de même preuve suffisante jusqu'à inscription de faux, mais seulement lorsque le délit n'entraînera pas
-une condamnation de plus de 0,50 F tant pour amende que pour dommages-intérêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 54
-
-
-###### Article 471
-
-Les procès-verbaux qui, d'après les dispositions qui précèdent, ne font pas foi et preuve suffisante jusqu'à inscription de
-faux peuvent être corroborés et combattus par toutes les preuves légales conformément à l'article 429 et suivants du code de
-procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 429 (M)
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 55
-
-
-###### Article 472
-
-Le prévenu qui voudra s'inscrire en faux contre le procès-verbal sera tenu d'en faire par écrit et en personne, ou par un
-fondé de pouvoir spécial par acte notarié, la déclaration au greffe du tribunal, avant l'audience indiquée par la citation.
-
-Cette déclaration sera reçue par le greffier du tribunal ; elle sera signée par le prévenu ou son fondé de pouvoir ; et dans
-le cas où il ne saurait ou ne pourrait signer, il en sera fait mention expresse.
-
-Au jour indiqué pour l'audience, le tribunal donnera acte de la déclaration, et fixera un délai de huit jours au moins et de
-quinze jours au plus, pendant lequel le prévenu sera tenu de faire au greffe le dépôt des moyens de faux, et des noms,
-qualités et demeures des témoins qu'il voudra faire entendre.
-
-A l'expiration de ce délai et sans qu'il soit besoin d'une citation nouvelle, le tribunal admettra les moyens de faux, s'ils
-sont de nature à détruire l'effet du procès-verbal, et il sera procédé sur le faux conformément aux lois.
-
-Dans le cas contraire et faute par le prévenu d'avoir rempli toutes les formalités ci-dessus prescrites, le tribunal
-déclarera qu'il n'y a pas lieu à admettre les moyens de faux, et ordonnera qu'il soit passé outre au jugement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 56
-
-
-###### Article 473
-
-Le prévenu contre lequel aura été rendu un jugement par défaut sera encore admissible à faire sa déclaration d'inscription de
-faux pendant le délai qui lui est accordé par la loi pour se présenter à l'audience sur l'opposition par lui formée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 57
-
-
-###### Article 474
-
-Lorsqu'un procès-verbal sera rédigé contre plusieurs prévenus, et qu'un ou quelques-uns d'entre eux seulement s'inscriront en
-faux, le procès-verbal continuera de faire foi à l'égard des autres, à moins que le fait sur lequel portera l'inscription de
-faux ne soit indivisible et commun aux autres prévenus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 58
-
-
-###### Article 475
-
-Si, dans une instance en réparation de délits le prévenu excipe d'un droit de propriété ou tout autre droit réel, le tribunal
-saisi de la plainte statuera sur l'incident.
-
-L'exception préjudicielle ne sera admise qu'autant qu'elle sera fondée, soit sur un titre apparent, soit sur des faits de
-possession équivalents, articulés avec précision, et si le titre produit ou les faits articulés sont de nature, dans le cas
-où ils seraient reconnus par l'autorité compétente, à ôter au fait qui sert de base aux poursuites tout caractère de délit.
-
-Dans le cas de renvoi à fins civiles, le jugement fixera un bref délai dans lequel la partie qui aura élevé la question
-préjudicielle devra saisir les juges compétents de la connaissance du litige et justifier de ses diligences, sinon il sera
-passé outre. Toutefois, en cas de condamnation, il sera sursis à l'exécution du jugement sous le rapport de l'emprisonnement,
-s'il était prononcé, et le montant des amendes, restitutions et dommages-intérêts sera versé à la caisse des dépôts et
-consignations, pour être remis à qui il sera ordonné par le tribunal qui statuera sur le fond du droit.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 59
-
-
-###### Article 476
-
-Les fonctionnaires qualifiés visés au troisième alinéa de l'article 446 peuvent, au nom de leur administration, interjeter
-appel des jugements et se pourvoir contre les arrêts et jugements en dernier ressort ; mais ils ne peuvent se désister de
-leurs appels sans son autorisation spéciale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 446
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 60
-
-
-###### Article 477
-
-Le droit attribué à l'administration et à ses fonctionnaires qualifiés de se pourvoir contre les jugements et arrêts par
-appel ou par recours en cassation, est indépendant de la même faculté qui est accordée par la loi au ministère public, lequel
-peut toujours en user, même lorsque l'administration ou ses fonctionnaires auraient acquiescé aux jugements ou arrêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 61
-
-
-###### Article 478
-
-Les procès-verbaux sont, sous peine de nullité, adressés dans les quatre jours qui suivent leur affirmation ou leur clôture
-s'ils ne sont pas sujets à l'affirmation, l'original au procureur de la République, une copie au chef de service de
-l'administration chargé de la police de la pêche, et une copie au président de la fédération départementale de pêche et de
-pisciculture, intéressée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°57-362 1957-03-23 art. 8 JORF 24 mars 1957
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-###### Article 480
-
-Les dispositions du code de procédure pénale sur les poursuites des délits, sur défauts, oppositions, jugements, appels et
-recours en cassation, sont et demeurent applicables à la poursuite des délits spécifiés par le présent chapitre, sauf les
-modifications qui en résultent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 64
-
-
-### Chapitre III : Des poursuites exercées au nom et dans l'intérêt des particuliers et des fermiers de pêche de l'Etat.<a id=99></a>
-
-###### Article 481
-
-Les délits qui portent préjudice aux fermiers de la pêche, aux porteurs de licences et aux propriétaires riverains, seront
-constatés par leurs gardes, lesquels sont assimilés aux gardes-bois des particuliers.
-
-Les gardes-pêche particuliers ne peuvent exercer leurs fonctions qu'à l'âge de vingt-cinq ans accomplis.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 65
-
-
-###### Article 482
-
-Les procès-verbaux dressés par ces gardes font foi jusqu'à preuve contraire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 66
-
-
-###### Article 483
-
-Les poursuites et actions sont exercées au nom et à la diligence des parties intéressées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 67
-
-
-###### Article 484
-
-Les dispositions contenues aux articles 453 à 463, 465, 468, 475, 478 et 480 sont applicables aux poursuites exercées au nom
-et dans l'intérêt des particuliers et des fermiers de la pêche pour les délits commis à leur préjudice.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 453 à 463, 465, 468, 475, 478, 480
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 68
-
-
-### Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines.<a id=100></a>
-
-###### Article 485
-
-Pour les infractions prévues au présent chapitre, les administrations chargées de la surveillance de la pêche, représentées
-par leurs ministres ou les agents par eux désignés, auront le droit de transiger avec les justiciables dans les conditions
-fixées par l'article 105 du code forestier et un décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1870-09-07
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Cite_:
-
-  - Code forestier 105
-
-
-###### Article 486
-
-Dans le cas de récidive, la peine pourra être doublée. Il y a récidive lorsque, dans les douze mois précédents, il a été
-rendu contre le délinquant un premier jugement pour délit en matière de pêche.
-
-Au cas où le délinquant en état de récidive a commis l'un des délits prévus par les articles 433, 435 et 436, une peine
-d'emprisonnement de dix jours à un an pourra être prononcée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 433, 435, 436
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 69
-
-
-###### Article 487
-
-Tout jugement ou arrêt qui prononcera une condamnation pour délit de pêche devra exclure le délinquant des associations de
-pêche et pisciculture, pour une durée qui ne pourra être inférieure à trois mois ni supérieure à deux ans ; en cas de
-récidive, cette exclusion aura une durée minimum d'un an et ne pourra excéder cinq ans.
-
-Celui qui, durant le temps où il aura été exclu des associations de pêche et de pisciculture par jugement ou arrêt s'adonnera
-à la pêche dans les eaux visées à l'article 401, sera puni, alors même qu'il aurait obtenu son affiliation à une association,
-d'une amende de 360 à 3.000 F. En outre, les filets et engins seront confisqués.
-
-Les propriétaires riverains, membres d'une des associations syndicales définies aux articles 407 à 409, agréée comme
-association de pêche et pisciculture continueront, pendant la durée de l'exclusion, à appartenir à l'association syndicale,
-mais seulement pour y jouir des droits et y être tenus à des obligations inhérentes à leur qualité de propriétaires.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 401, 407 à 409
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°57-362 1957-03-23 art. 9 JORF 24 mars 1957
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15 art. 69 bis
-
-
-###### Article 488
-
-Les peines pourront être également doublées lorsque les délits auront été commis la nuit.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 489
-
-Dans tous les cas où il y aura lieu à adjuger des dommages-intérêts, ils ne pourront être inférieurs à l'amende simple
-prononcée par le jugement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 490
-
-Les restitutions et dommages-intérêts appartiennent aux fermiers porteurs de licences et propriétaires riverains, si le délit
-est commis à leur préjudice, mais lorsque le délit a été commis par eux-mêmes au détriment de l'intérêt général, ces
-dommages-intérêts appartiennent à l'Etat.
-
-Appartiennent également à l'Etat toutes les amendes et confiscations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 491
-
-Les maris, pères, mères, tuteurs, fermiers et porteurs de licences, ainsi que tous propriétaires, maîtres et commettants,
-seront civilement responsables des délits en matière de pêche commis par leurs femmes, enfants mineurs, pupilles, bateliers
-et compagnons et tous autres subordonnés, sauf tout recours de droit.
-
-Cette responsabilité est réglée conformément à l'article 1384 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Cite_:
-
-  - Code civil - art. 1384 (M)
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-### Chapitre V : De l'exécution des jugements rendus à la requête de l'administration ou du ministère public.<a id=101></a>
-
-###### Article 492
-
-Les jugements rendus à la requête de l'administration forestière ou sur la poursuite du ministère public, sont signifiés par
-simple extrait qui contiendra le nom des parties et les dispositions du jugement.
-
-Cette signification fera courir les délais de l'opposition et de l'appel des jugements par défaut.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 493
-
-Le recouvrement de toutes les amendes pour délits de pêche est confié aux percepteurs.
-
-Ces percepteurs sont également chargés du recouvrement des restitutions, frais et dommages-intérêts résultant des jugements
-rendus en matière de pêche.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 494
-
-Les jugements portant condamnation à des amendes, restitutions, dommages-intérêts et frais sont exécutoires par la voie de
-contrainte par corps dans les limites d'une durée de huit jours à six mois et l'exécution pourra en être poursuivie cinq
-jours après un simple commandement fait aux condamnés.
-
-En conséquence, et sur la demande du percepteur, le procureur de la République adressera les réquisitions nécessaires aux
-agents de la force publique chargés de l'exécution des mandements de justice.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 495
-
-Les individus contre lesquels la contrainte par corps aura été prononcée pour raison des amendes et autres condamnations et
-réparations pécuniaires, subiront l'effet de cette contrainte, jusqu'à ce qu'ils aient payé le montant desdites
-condamnations, ou fourni une caution admise par le percepteur ou, en cas de contestation de sa part, déclarée bonne et
-valable par le tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 496
-
-Néanmoins, les condamnés qui justifieraient de leur insolvabilité suivant le mode prescrit par l'article 581 du code de
-procédure pénale ne seront mis en liberté qu'après avoir subi la contrainte par corps pendant la moitié de la durée fixée par
-le jugement.
-
-En cas de récidive, la durée de la détention sera double de ce qu'elle eût été sans cette circonstance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Cite_:
-
-  - Code de procédure pénale 581
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 497
-
-Dans tous les cas, la détention employée comme moyen de contrainte est indépendante de la peine d'emprisonnement prononcée
-contre les condamnés pour tous les cas où la loi l'inflige.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 498
-
-Les jugements contenant des condamnations en faveur des fermiers de la pêche, des porteurs de licences et des particuliers
-pour réparation des délits commis à leur préjudice, seront à leur diligence, signifiés et exécutés suivant les mêmes formes
-et voies de contrainte que les jugements rendus à la requête de l'administration chargée de la surveillance de la pêche. Le
-recouvrement des amendes prononcées par les mêmes jugements est opéré par les percepteurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-###### Article 499
-
-La mise en liberté des condamnés détenus par voie de contrainte par corps, à la requête et dans l'intérêt des particuliers,
-ne pourra être accordée, en vertu des articles 495 et 496, qu'autant que la validité des cautions ou la solvabilité des
-condamnés aura été, en cas de contestation de la part desdits propriétaires, jugée contradictoirement entre eux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 495, 496
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1829-04-15
-
-
-## Titre IV : Des groupements de pêcheurs.<a id=102></a>
-
-###### Article 500
-
-Un décret détermine les droits et obligations des associations de pêche et de pisciculture, les conditions de groupement de
-ces associations en fédérations départementales, l'organisation de ces fédérations ainsi que celle du conseil supérieur de la
-pêche et toutes mesures propres à assurer l'exécution du présent article.
-
-Les fédérations ont le caractère d'établissement d'utilité publique.
-
-Le conseil supérieur de la pêche constitue un organisme chargé notamment de centraliser les produits de la taxe annuelle et
-bénéficiant à cet effet de la personnalité civile et de l'autonomie financière.
-
-Les gardes-pêche commissionnés par décision ministérielle et payés sur les fonds à provenir de la taxe prévue par l'article
-402 du présent code sont des personnels régis et administrés par le conseil supérieur de la pêche, dans les conditions fixées
-par arrêté concerté du ministre de l'agriculture, du ministre chargé des travaux publics et des transports, du garde des
-sceaux, ministre de la justice, et du ministre de l'économie et des finances.
-
-Les dispositions qui précèdent ont un caractère interprétatif.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 402
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°57-362 1957-03-23 art. 10 JORF 24 mars 1957
-  - Loi n°63-778 1963-07-31 art. 23 JORF 2 août 1963
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-
-## Titre V : Dispositions diverses.<a id=103></a>
-
-###### Article 501
-
-Conformément aux dispositions des articles 688 et 1059 du code général des impôts, les locations soit écrites, soit verbales,
-de droit de pêche dans les eaux énumérées à l'article 401 peuvent être soumises à une taxe annuelle.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 688, 1059
-  - Code rural 401
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°1920-07-31
-
-
-# Livre IV : Institutions et groupements professionnels agricoles<a id=104></a>
-
-## Titre Ier : Chambres d'agriculture<a id=105></a>
-
-### Chapitre IV : Dispositions financières et d'application.<a id=106></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=86></a>
 
 ###### Article 545-2
 
@@ -17302,9 +12912,9 @@ _Modifié par_:
   - Décret n°81-276 du 18 mars 1981 (V) art 1
 
 
-## Titre II : Coopératives agricoles<a id=107></a>
+## Titre II : Coopératives agricoles<a id=87></a>
 
-### Chapitre unique : Sanctions pénales.<a id=108></a>
+### Chapitre unique : Sanctions pénales.<a id=88></a>
 
 ###### Article 551
 
@@ -17333,7 +12943,7 @@ _Abrogé par_:
   - Rapport - art. 7 (V) JORF 22 juin 2000
 
 
-# Livre V : Crédit agricole<a id=109></a>
+# Livre V : Crédit agricole<a id=89></a>
 
 ###### Article 614
 
@@ -17368,9 +12978,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-20 (M)
 
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=110></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=90></a>
 
-### Chapitre Ier : Organisation.<a id=111></a>
+### Chapitre Ier : Organisation.<a id=91></a>
 
 ###### Article 615
 
@@ -17820,7 +13430,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=112></a>
+### Chapitre II : Fonctionnement.<a id=92></a>
 
 ###### Article 632
 
@@ -18119,7 +13729,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-43 (M)
 
 
-### Chapitre III : Ressources.<a id=113></a>
+### Chapitre III : Ressources.<a id=93></a>
 
 ###### Article 645
 
@@ -18247,9 +13857,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=114></a>
+### Chapitre IV : Opérations de crédit<a id=94></a>
 
-#### Section 1 : Crédit à court terme.<a id=115></a>
+#### Section 1 : Crédit à court terme.<a id=95></a>
 
 ###### Article 653
 
@@ -18485,9 +14095,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=116></a>
+#### Section 2 : Crédit à moyen terme<a id=96></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=117></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=97></a>
 
 ###### Article 666
 
@@ -18580,7 +14190,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=118></a>
+##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.<a id=98></a>
 
 ###### Article 674-1
 
@@ -18609,7 +14219,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=119></a>
+##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.<a id=99></a>
 
 ###### Article 675-2
 
@@ -18807,7 +14417,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=120></a>
+#### Section 3 : Crédit à long terme individuel.<a id=100></a>
 
 ###### Article 686
 
@@ -19061,7 +14671,7 @@ _Abrogé par_:
   - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=121></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=101></a>
 
 ###### Article 697
 
@@ -19094,7 +14704,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=122></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=102></a>
 
 ###### Article 704
 
@@ -19140,9 +14750,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=123></a>
+## Titre II : Caisse nationale de crédit agricole<a id=103></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=124></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=104></a>
 
 ###### Article 711
 
@@ -19168,7 +14778,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-47 (M)
 
 
-### Chapitre II : Ressources.<a id=125></a>
+### Chapitre II : Ressources.<a id=105></a>
 
 ###### Article 717
 
@@ -19289,7 +14899,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=126></a>
+### Chapitre III : Opérations de crédit.<a id=106></a>
 
 ###### Article 723
 
@@ -19608,7 +15218,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=127></a>
+## Titre III : Inspection et contrôle.<a id=107></a>
 
 ###### Article 737
 
@@ -19796,9 +15406,9 @@ _Cité par_:
   - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
-## Titre IV : Dispositions diverses<a id=128></a>
+## Titre IV : Dispositions diverses<a id=108></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=129></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=109></a>
 
 ###### Article 745
 
@@ -19852,7 +15462,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=130></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=110></a>
 
 ###### Article 747
 
@@ -19934,9 +15544,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=131></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=111></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=132></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=112></a>
 
 ###### Article 752
 
@@ -20042,7 +15652,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=133></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=113></a>
 
 ###### Article 757
 
@@ -20146,7 +15756,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=134></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=114></a>
 
 ###### Article 763
 
@@ -20276,7 +15886,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=135></a>
+#### Section 4 : Dispositions communes.<a id=115></a>
 
 ###### Article 770
 
@@ -20325,7 +15935,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=136></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=116></a>
 
 ###### Article 773
 
@@ -20354,7 +15964,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=137></a>
+### Chapitre V : Domaine - Retraite.<a id=117></a>
 
 ###### Article 774
 
@@ -20658,7 +16268,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V bis : Prêts spéciaux d'élevage.<a id=138></a>
+### Chapitre V bis : Prêts spéciaux d'élevage.<a id=118></a>
 
 ###### Article 787-1
 
@@ -20884,7 +16494,7 @@ _Créé par_:
   - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
 
 
-### Chapitre VI : Dispositions d'application.<a id=139></a>
+### Chapitre VI : Dispositions d'application.<a id=119></a>
 
 ###### Article 788
 
@@ -20916,7 +16526,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre V bis : De l'exploitation agricole dans les rapports entre époux.<a id=140></a>
+# Livre V bis : De l'exploitation agricole dans les rapports entre époux.<a id=120></a>
 
 ###### Article 789-1
 
@@ -20995,11 +16605,11 @@ _Abrogé par_:
   - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
 
 
-# Livre VII : Dispositions sociales<a id=141></a>
+# Livre VII : Dispositions sociales<a id=121></a>
 
-## Titre Ier : Régime du travail<a id=142></a>
+## Titre Ier : Régime du travail<a id=122></a>
 
-### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=143></a>
+### Chapitre Ier : Procédure d'établissement des règlements du travail.<a id=123></a>
 
 ###### Article 983
 
@@ -21244,7 +16854,7 @@ _Abrogé par_:
   - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 
-### Chapitre II : Durée du travail et repos hebdomadaire.<a id=144></a>
+### Chapitre II : Durée du travail et repos hebdomadaire.<a id=124></a>
 
 ###### Article 992
 
@@ -21732,7 +17342,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Médecine du travail.<a id=145></a>
+### Chapitre III : Médecine du travail.<a id=125></a>
 
 ###### Article 1000-1
 
@@ -21889,7 +17499,7 @@ _Créé par_:
   - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
 
 
-## Titre II : Mutualité sociale agricole<a id=146></a>
+## Titre II : Mutualité sociale agricole<a id=126></a>
 
 ###### Article 1001
 
@@ -22487,7 +18097,7 @@ _Modifié par_:
   - Loi n°76-1232 1976-12-29 art. 78 JORF 30 décembre 1976
 
 
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=147></a>
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.<a id=127></a>
 
 ###### Article 1004
 
@@ -23300,9 +18910,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances sociales<a id=148></a>
+### Chapitre II : Assurances sociales<a id=128></a>
 
-#### Section 1 : Affiliation.<a id=149></a>
+#### Section 1 : Affiliation.<a id=129></a>
 
 ###### Article 1024
 
@@ -23524,7 +19134,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Cotisations.<a id=150></a>
+#### Section 2 : Cotisations.<a id=130></a>
 
 ###### Article 1031
 
@@ -23828,7 +19438,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Prestations.<a id=151></a>
+#### Section 3 : Prestations.<a id=131></a>
 
 ###### Article 1038
 
@@ -23893,7 +19503,7 @@ _Nouveaux textes_:
   - Code rural - art. L723-45 (M)
 
 
-#### Section 4 : Régime facultatif, régime complémentaire.<a id=152></a>
+#### Section 4 : Régime facultatif, régime complémentaire.<a id=132></a>
 
 ###### Article 1049
 
@@ -23994,7 +19604,7 @@ _Cite_:
   - Code rural 1050, 1144
 
 
-#### Section 5 : Organisation administrative et financière.<a id=153></a>
+#### Section 5 : Organisation administrative et financière.<a id=133></a>
 
 ###### Article 1052
 
@@ -24188,9 +19798,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Prestations familiales<a id=154></a>
+### Chapitre III : Prestations familiales<a id=134></a>
 
-#### Section 1 : Affiliations et cotisations.<a id=155></a>
+#### Section 1 : Affiliations et cotisations.<a id=135></a>
 
 ###### Article 1060
 
@@ -24488,7 +20098,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 2 : Dégrèvements.<a id=156></a>
+#### Section 2 : Dégrèvements.<a id=136></a>
 
 ###### Article 1073
 
@@ -24559,7 +20169,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Recouvrement.<a id=157></a>
+#### Section 3 : Recouvrement.<a id=137></a>
 
 ###### Article 1080
 
@@ -24651,7 +20261,7 @@ _Cite_:
   - Loi n°1946-08-22 art. 18, art. 19, art. 20, art. 21
 
 
-#### Section 4 : Prestations.<a id=158></a>
+#### Section 4 : Prestations.<a id=138></a>
 
 ###### Article 1090
 
@@ -24797,7 +20407,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Organisation administrative et financière.<a id=159></a>
+#### Section 5 : Organisation administrative et financière.<a id=139></a>
 
 ###### Article 1094
 
@@ -24851,9 +20461,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=160></a>
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées<a id=140></a>
 
-#### Section 1 : Champ d'application.<a id=161></a>
+#### Section 1 : Champ d'application.<a id=141></a>
 
 ###### Article 1106-1
 
@@ -24946,7 +20556,7 @@ _Nouveaux textes_:
   - Code rural - art. L722-12 (V)
 
 
-#### Section 2 : Prestations.<a id=162></a>
+#### Section 2 : Prestations.<a id=142></a>
 
 ###### Article 1106-2
 
@@ -25205,7 +20815,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Financement.<a id=163></a>
+#### Section 3 : Financement.<a id=143></a>
 
 ###### Article 1106-6
 
@@ -25287,7 +20897,7 @@ _Cite_:
   - Code rural 1003-7-1, 1106-1
 
 
-#### Section 4 : Assujettissement et organisation.<a id=164></a>
+#### Section 4 : Assujettissement et organisation.<a id=144></a>
 
 ###### Article 1106-9
 
@@ -25520,7 +21130,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=165></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=145></a>
 
 ###### Article 1106-17
 
@@ -25841,7 +21451,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=166></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=146></a>
 
 ###### Article 1107
 
@@ -25898,7 +21508,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 1 : Prestations<a id=167></a>
+#### Section 1 : Prestations<a id=147></a>
 
 ###### Article 1110
 
@@ -25940,7 +21550,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-22 (M)
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=168></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=148></a>
 
 ###### Article 1111
 
@@ -26048,7 +21658,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-20 (M)
 
 
-##### Paragraphe 2 : Retraite.<a id=169></a>
+##### Paragraphe 2 : Retraite.<a id=149></a>
 
 ###### Article 1120-1
 
@@ -26402,7 +22012,7 @@ _Nouveaux textes_:
   - Code rural - art. L732-50 (M)
 
 
-##### Paragraphe 3 : Allocation complémentaire agricole.<a id=170></a>
+##### Paragraphe 3 : Allocation complémentaire agricole.<a id=150></a>
 
 ###### Article 1122-3
 
@@ -26531,7 +22141,7 @@ _Abrogé par_:
   - Loi n°97-1051 1997-11-18 art. 55 VIII JORF 19 novembre 1997 en vigueur le 30 juin 1998
 
 
-#### Section 2 : Cotisations.<a id=171></a>
+#### Section 2 : Cotisations.<a id=151></a>
 
 ###### Article 1123
 
@@ -26766,7 +22376,7 @@ _Cite_:
   - Code rural 1130
 
 
-#### Section 3 : Organisation administrative et financière.<a id=172></a>
+#### Section 3 : Organisation administrative et financière.<a id=152></a>
 
 ###### Article 1136
 
@@ -26865,7 +22475,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=173></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=153></a>
 
 ###### Article 1142-1
 
@@ -27150,7 +22760,7 @@ _Cite_:
   - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1125 à 1135
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=174></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=154></a>
 
 ###### Article 1142-12
 
@@ -27442,7 +23052,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Contentieux.<a id=175></a>
+### Chapitre V : Contentieux.<a id=155></a>
 
 ###### Article 1143
 
@@ -27594,11 +23204,11 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=176></a>
+## Titre III : Accidents du travail et risques agricoles<a id=156></a>
 
-### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=177></a>
+### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles<a id=157></a>
 
-#### Section 1 : Bénéficiaires et risques couverts.<a id=178></a>
+#### Section 1 : Bénéficiaires et risques couverts.<a id=158></a>
 
 ###### Article 1144
 
@@ -27880,7 +23490,7 @@ _Cite_:
   - Code rural 1144
 
 
-#### Section 2 : Prestations.<a id=179></a>
+#### Section 2 : Prestations.<a id=159></a>
 
 ###### Article 1148
 
@@ -27907,7 +23517,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=180></a>
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.<a id=160></a>
 
 ###### Article 1149
 
@@ -27941,7 +23551,7 @@ _Cite_:
   - Code rural 1038, L453-1
 
 
-#### Section 4 : Organisation administrative et financière.<a id=181></a>
+#### Section 4 : Organisation administrative et financière.<a id=161></a>
 
 ###### Article 1150
 
@@ -28284,7 +23894,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 5 : Formalités, procédure, contentieux.<a id=182></a>
+#### Section 5 : Formalités, procédure, contentieux.<a id=162></a>
 
 ###### Article 1163
 
@@ -28494,7 +24104,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=183></a>
+#### Section 6 : Dispositions relatives aux maladies professionnelles.<a id=163></a>
 
 ###### Article 1170
 
@@ -28520,7 +24130,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 7 : Prévention.<a id=184></a>
+#### Section 7 : Prévention.<a id=164></a>
 
 ###### Article 1171
 
@@ -28547,7 +24157,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-#### Section 8 : Contrôles et sanctions.<a id=185></a>
+#### Section 8 : Contrôles et sanctions.<a id=165></a>
 
 ###### Article 1172
 
@@ -28710,7 +24320,7 @@ _Nouveaux textes_:
   - Code rural - art. L751-37 (M)
 
 
-#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=186></a>
+#### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.<a id=166></a>
 
 ###### Article 1178
 
@@ -28962,7 +24572,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=187></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=167></a>
 
 ###### Article 1198
 
@@ -30142,7 +25752,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=188></a>
+### Chapitre III : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées.<a id=168></a>
 
 ###### Article 1234-1
 
@@ -30787,7 +26397,7 @@ _Cite_:
   - Code rural 1234-2, 1234-1
 
 
-### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=189></a>
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.<a id=169></a>
 
 ###### Article 1234-20
 
@@ -31013,7 +26623,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=190></a>
+### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=170></a>
 
 ###### Article 1234-27
 
@@ -31076,7 +26686,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=191></a>
+### Chapitre VI : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.<a id=171></a>
 
 ###### Article 1234-29
 
@@ -31112,9 +26722,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre IV : Dispositions diverses<a id=192></a>
+## Titre IV : Dispositions diverses<a id=172></a>
 
-### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=193></a>
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.<a id=173></a>
 
 ###### Article 1235
 
@@ -31721,7 +27331,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-### Chapitre II : Médecine préventive.<a id=194></a>
+### Chapitre II : Médecine préventive.<a id=174></a>
 
 ###### Article 1250-2
 
@@ -31743,7 +27353,7 @@ _Nouveaux textes_:
   - Code rural - art. L742-5 (V)
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=195></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=175></a>
 
 ###### Article 1251
 
@@ -32267,9 +27877,9 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VI : Français résidant à l'étranger<a id=196></a>
+## Titre VI : Français résidant à l'étranger<a id=176></a>
 
-### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=197></a>
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.<a id=177></a>
 
 ###### Article 1263-1
 
@@ -32404,7 +28014,7 @@ _Cite_:
   - Code rural 1263-1
 
 
-### Chapitre II : Travailleurs salariés expatriés.<a id=198></a>
+### Chapitre II : Travailleurs salariés expatriés.<a id=178></a>
 
 ###### Article 1263-4
 
@@ -32470,7 +28080,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=199></a>
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.<a id=179></a>
 
 ###### Article 1263-6
 
@@ -32520,7 +28130,7 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=200></a>
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.<a id=180></a>
 
 ###### Article 1263-8
 
@@ -32572,13 +28182,13 @@ _Abrogé par_:
   - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=201></a>
+# Livre VIII : Formation professionnelle et recherche<a id=181></a>
 
-## Titre II : Enseignement<a id=202></a>
+## Titre II : Enseignement<a id=182></a>
 
-### Chapitre Ier : Enseignement supérieur agricole<a id=203></a>
+### Chapitre Ier : Enseignement supérieur agricole<a id=183></a>
 
-#### Section 2 : Dispositions pénales.<a id=204></a>
+#### Section 2 : Dispositions pénales.<a id=184></a>
 
 ###### Article 1281
 
@@ -32595,11 +28205,11 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-## Titre III : Recherche<a id=205></a>
+## Titre III : Recherche<a id=185></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=206></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=186></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=207></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=187></a>
 
 ###### Article 1337
 
