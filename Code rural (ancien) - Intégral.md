@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-07-12
+Version Consolidée au 1989-07-21
 ## Contenu: 
   - [Livre Ier : Régime du sol (art. 1 à 188-9-1)](#1)
     - [Titre Ier : De l'aménagement foncier (art. 1 à 58-23)](#2)
@@ -13315,9 +13315,6 @@ substituant à la limitation annuelle de la période de chasse le nombre d'anima
 isard, bouquetin, et mouflon) sur les territoires de chasse pendant la période de chasse propre à chaque département, telle
 qu'elle est définie au premier alinéa de l'article 371.
 
-L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande conjointe du conservateur des eaux et forêts
-et du président de la fédération départementale des chasseurs.
-
 En cas de calamité, incendie, inondations, gel prolongé, susceptible de provoquer ou de favoriser la destruction du gibier,
 le préfet pourra, pour tout ou partie du département, suspendre, dans un délai de quarante-huit heures, l'exercice de la
 chasse pendant une période de dix jours, soit à tout gibier, soit à certaines espèces de gibier.
@@ -13342,14 +13339,21 @@ _Cite_:
 
   - Code rural 393, 371
 
+_Nouveaux textes_:
+
+  - Code rural L222-1, L222-25, L224-4, L225-1, L225-3, R224-9
+
 _Codifié par_:
 
   - Décret n°55-433 1955-04-16
 
 _Modifié par_:
 
-  - Loi n°88-1202 du 30 décembre 1988 - art. 55 () JORF 31 décembre 1988
-  - Loi n°88-1202 du 30 décembre 1988 - art. 56 () JORF 31 décembre 1988
+  - Décret n°89-505 du 19 juillet 1989 - art. 1 (Ab) JORF 21 juillet 1989
+
+_Abrogé par_:
+
+  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
 
 
 ###### Article 373-1
