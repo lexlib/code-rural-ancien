@@ -1,958 +1,68 @@
 # Code rural (ancien)  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-09-21
 ## Contenu: 
-  - [Livre Ier : Régime du sol (art. 97 à 122-2)](#1)
-    - [Titre III : Des cours d'eaux non domaniaux (art. 97 à 122-2)](#2)
-      - [Chapitre Ier : Des droits des riverains (art. 97 à 102)](#3)
-      - [Chapitre II : Police et conservation des eaux. (art. 103 à 113)](#4)
-      - [Chapitre III : Curages, élargissements et redressements (art. 114 à 122-2)](#5)
-        - [Section 1 : Curage et entretien. (art. 114 à 119)](#6)
-        - [Section 2 : Elargissement, régularisation et redressement. (art. 120)](#7)
-        - [Section 3 : Dispositions communes. (art. 121 à 122-2)](#8)
-  - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#9)
-    - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#10)
-      - [Chapitre III : De la police sanitaire (art. 224)](#11)
-        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224)](#12)
-    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 317)](#13)
-    - [Titre X : De la protection des végétaux. (art. 357)](#14)
-      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 357)](#15)
-  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#16)
-    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#17)
-      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#18)
-  - [Livre V : Crédit agricole (art. 614 à 789)](#19)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#20)
-      - [Chapitre Ier : Organisation. (art. 615 à 631)](#21)
-      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#22)
-      - [Chapitre III : Ressources. (art. 645 à 652)](#23)
-      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#24)
-        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#25)
-        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#26)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#27)
-        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#28)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#29)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#30)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#31)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#32)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#33)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#34)
-    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#35)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#36)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#37)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#38)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#39)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#40)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#41)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#42)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#43)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#44)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#45)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#46)
-  - [Livre VII : Dispositions sociales (art. 1003-1 à 1261)](#47)
-    - [Titre II : Mutualité sociale agricole (art. 1003-1 à 1142-27)](#48)
-      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-20)](#49)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1121)](#50)
-        - [Section 1 : Prestations (art. 1110 à 1121)](#51)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#52)
-          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1121)](#53)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-10)](#54)
-      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-20)](#55)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-27)](#56)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#57)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#58)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#59)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#60)
-    - [Titre III : Recherche (art. 1337)](#61)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#62)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#63)
-# Livre Ier : Régime du sol<a id=1></a>
-
-## Titre III : Des cours d'eaux non domaniaux<a id=2></a>
-
-### Chapitre Ier : Des droits des riverains<a id=3></a>
-
-###### Article 97
-
-Les riverains n'ont le droit d'user de l'eau courante qui borde ou qui traverse leurs héritages que dans les limites
-déterminées par la loi. Ils sont tenus de se conformer, dans l'exercice de ce droit, aux dispositions des règlements et des
-autorisations émanées de l'Administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 2
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-1 (V)
-
-
-###### Article 98
-
-Le lit des cours d'eau non domaniaux appartient aux propriétaires des deux rives.
-
-Si les deux rives appartiennent à des propriétaires différents, chacun d'eux a la propriété de la moitié du lit, suivant une
-ligne que l'on suppose tracée au milieu du cours d'eau, sauf titre ou prescription contraire.
-
-Chaque riverain a le droit de prendre, dans la partie du lit qui lui appartient, tous les produits naturels et d'en extraire
-de la vase, du sable et des pierres, à la condition de ne pas modifier le régime des eaux et d'en exécuter le curage
-conformément aux règles établies par le chapitre III du présent titre.
-
-Sont et demeurent réservés les droits acquis par les riverains ou autres intéressés sur les parties des cours d'eau qui
-servent de voie d'exploitation pour la desserte de leurs fonds.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 3
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 3 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-2 (V)
-  - Code de l'environnement - art. L215-2 (M)
-
-
-###### Article 99
-
-Lorsque le lit d'un cours d'eau est abandonné, soit naturellement, soit par suite de travaux légalement exécutés, chaque
-riverain en reprend la libre disposition suivant les limites déterminées par l'article précédent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 4
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 4 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-3 (V)
-
-
-###### Article 100
-
-Lorsqu'un cours d'eau non domanial abandonne naturellement son lit, les propriétaires des fonds sur lesquels le nouveau lit
-s'établit sont tenus de souffrir le passage des eaux sans indemnité ; mais ils peuvent, dans l'année qui suit le changement
-de lit, prendre les mesures nécessaires pour rétablir l'ancien cours des eaux.
-
-Les propriétaires riverains du lit abandonné jouissent de la même faculté et peuvent, dans l'année, poursuivre l'exécution
-des travaux nécessaires au rétablissement du cours primitif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-4 (V)
-  - Code de l'environnement - art. L215-4 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 5
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 5 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-
-###### Article 101
-
-Lorsque, par suite de travaux légalement ordonnés, il y a lieu d'élargir le lit ou d'en ouvrir un nouveau, les propriétaires
-des terrains occupés ont droit à une indemnité à titre de servitude de passage.
-
-Pour la fixation de cette indemnité, il est tenu compte de la situation respective de chacun des riverains par rapport à
-l'axe du nouveau lit, la limite des héritages demeurant fixée conformément aux dispositions du deuxième alinéa de l'article
-98, à moins de stipulations contraires.
-
-Les bâtiments, cours et jardins attenant aux habitations sont exempts de la servitude de passage.
-
-Les contestations auxquelles peuvent donner lieu l'application du deuxième alinéa du présent article et le règlement des
-indemnités sont jugées en premier ressort par le juge du tribunal d'instance du canton.
-
-S'il y a lieu à expertise, il peut, dans tous les cas, n'être nommé qu'un seul expert.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 98
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 6
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 6 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-5 (Ab)
-
-
-###### Article 102
-
-La propriété des alluvions, relais, atterrissements, îles et îlots qui se forment dans les cours d'eau non domaniaux est et
-demeure régie par les dispositions des articles 556, 557, 559, 561 et 562 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Cite_:
-
-  - Code civil - art. 556 (M)
-  - Code civil - art. 557 (V)
-  - Code civil - art. 559 (M)
-  - Code civil - art. 561 (M)
-  - Code civil - art. 562 (M)
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-6 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 7
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
-
-
-### Chapitre II : Police et conservation des eaux.<a id=4></a>
-
-###### Article 103
-
-L'autorité administrative est chargée de la conservation et de la police des cours d'eau non domaniaux. Elle prend toutes
-dispositions pour assurer le libre cours des eaux.
-
-Dans tous les cas, les droits des tiers sont et demeurent réservés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-7 (V)
-
-_Anciens textes_:
-
-  - Loi n°1790-08-12 art. 12
-  - Loi n°1898-04-08 art. 8, art. 17
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-
-###### Article 104
-
-Le régime général de ces cours d'eau est fixé, s'il y a lieu, de manière à concilier les intérêts des diverses catégories
-d'utilisateurs de leurs eaux avec le respect dû à la propriété et aux droits et usages antérieurement établis, après enquête
-d'utilité publique, par arrêté du ministre dont relève le cours d'eau ou la section de cours d'eau.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 9
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 9 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 24, art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-8 (V)
-
-
-###### Article 105
-
-Le propriétaire riverain d'un cours d'eau non domanial ne peut exécuter des travaux au-dessus de ce cours d'eau ou le
-joignant qu'à la condition de ne pas préjudicier à l'écoulement et de ne causer aucun dommage aux propriétés voisines.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 10
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 10 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-9 (V)
-
-
-###### Article 109
-
-Les autorisations ou permissions accordées pour l'établissement d'ouvrages ou d'usines sur les cours d'eau non domaniaux
-peuvent être révoquées ou modifiées sans indemnité de la part de l'Etat exerçant ses pouvoirs de police dans les cas
-suivants :
-
-1° Dans l'intérêt de la salubrité publique, et notamment lorsque cette révocation ou cette modification est nécessaire à
-l'alimentation en eau potable de centres habités ou en est la conséquence ;
-
-2° Pour prévenir ou faire cesser les inondations ;
-
-3° Dans le cas de la réglementation générale prévue à l'article 104 du présent code ;
-
-4° Lorsqu'elles concernent les ouvrages établissant ou réglant le plan d'eau ou les établissements ou usines qui, à dater du
-jour de la publication du décret prévu au présent article, n'auront pas été entretenus depuis plus de vingt ans ; toute
-collectivité publique ou tout établissement public intéressé peut, en cas de défaillance du permissionnaire ou du titulaire
-de l'autorisation, et à sa place, après mise en demeure par le préfet, exécuter les travaux qui sont la conséquence de la
-révocation ou de la modification de la permission ou de l'autorisation, et poursuivre, à l'encontre du permissionnaire ou du
-titulaire de l'autorisation, le remboursement de ces travaux ;
-
-5° Pour des raisons de protection de l'environnement et notamment lorsque ces autorisations soumettent les milieux naturels
-aquatiques à des conditions hydrauliques critiques, non compatibles avec leur préservation, selon les modalités fixées par
-décret en Conseil d'Etat.
-
-Les dispositions du présent article sont applicables aux permissions ou autorisations accordées en vertu des articles 106 et
-107 du présent code ou antérieurement à la mise en vigueur de ces dispositions, ainsi qu'aux établissements ayant une
-existence légale et aux entreprises autorisées en application du titre III de la loi du 16 octobre 1919 relative à
-l'utilisation de l'énergie hydraulique.
-
-Les conditions d'application du paragraphe 4° du présent article seront fixées par un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-10 (V)
-  - Code de l'environnement - art. L215-10 (M)
-
-_Cite_:
-
-  - Code rural 104, 106, 107
-  - Loi n°1919-10-16
-
-_Modifié par_:
-
-  - Loi n°84-512 1984-06-29 art. 9 JORF 30 juin 1984
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 14 (Ab)
-
-
-###### Article 110
-
-Les propriétaires ou fermiers de moulins et usines, même autorisés ou ayant une existence légale, sont garants des dommages
-causés aux chemins et aux propriétés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-11 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 15
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 15 (Ab)
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-
-###### Article 111
-
-Les maires peuvent, sous l'autorité des préfets, prendre toutes les mesures nécessaires pour la police des cours d'eau.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-12 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 16 (Ab)
-  - Loi n°1898-04-08 art. 16
-
-
-###### Article 113
-
-La dérivation des eaux d'un cours d'eau non domanial, d'une source ou d'eaux souterraines, entreprise dans un but d'intérêt
-général par une collectivité publique ou son concessionnaire, par une association syndicale ou par tout autre établissement
-public, est autorisée par un acte déclarant d'utilité publique les travaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°92-3 1992-01-03 art. 46 JORF 4 janvier 1992
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-13 (V)
-
-
-### Chapitre III : Curages, élargissements et redressements<a id=5></a>
-
-#### Section 1 : Curage et entretien.<a id=6></a>
-
-###### Article 114
-
-Sans préjudice des articles 556 et 557 du code civil et des dispositions de la loi n° 92-3 du 3 janvier 1992 sur l'eau, le
-propriétaire riverain est tenu à un curage régulier pour rétablir le cours d'eau dans sa largeur et sa profondeur naturelles,
-à l'entretien de la rive par élagage et recépage de la végétation arborée et à l'enlèvement des embâcles et débris, flottants
-ou non, afin de maintenir l'écoulement naturel des eaux, d'assurer la bonne tenue des berges et de préserver la faune et la
-flore dans le respect du bon fonctionnement des écosystèmes aquatiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Cite_:
-
-  - Loi n°92-3 1992-01-03
-  - Code civil - art. 556 (M)
-  - Code civil - art. 557 (V)
-
-_Modifié par_:
-
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-14 (V)
-  - Code de l'environnement - art. L215-14 (M)
-
-_Cité par_:
-
-  - Code général des collectivités territoriales - art. Annexe IX (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 18 (Ab)
-  - Loi n°1898-04-08 art. 18
-
-
-###### Article 115
-
-Il est pourvu au curage et à l'entretien des cours d'eau non domaniaux ainsi qu'à l'entretien des ouvrages qui s'y rattachent
-de la manière prescrite par les anciens règlements ou d'après les usages locaux.
-
-Toutefois, les propriétaires riverains ne sont assujettis à recevoir sur leurs terrains les matières de curage que si leur
-composition n'est pas incompatible avec la protection des sols et des eaux, notamment en ce qui concerne les métaux lourds et
-autres éléments toxiques qu'elles peuvent contenir.
-
-Les préfets sont chargés, sous l'autorité du ministre compétent, de prendre les dispositions nécessaires pour l'exécution de
-ces règlements et usages.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, II, IV JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-15 (V)
-  - Code de l'environnement - art. L215-15 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 19 (Ab)
-
-
-###### Article 116
-
-A défaut d'anciens règlements ou usages locaux, il est procédé en conformité des dispositions régissant les associations
-syndicales.
-
-Lorsque le groupement d'associations syndicales, soit autorisées, soit constituées d'office, paraît nécessaire au bon
-aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement de ce cours d'eau lui-
-même ou d'une section de celui-ci, une union de ces diverses associations peut être constituée d'office dans les conditions
-fixées par décret en Conseil d'Etat nonobstant l'absence de consentement unanime des associations intéressées.
-
-Le présent article s'applique sans préjudice des dispositions de l'article 31 de la loi n° 92-3 du 3 janvier 1992 précitée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Cite_:
-
-  - Loi n°92-3 1992-01-03 art. 31
-
-_Modifié par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, II, V JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-16 (V)
-  - Code de l'environnement - art. L215-16 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 20 (Ab)
-
-
-###### Article 117
-
-Dans tous les cas, les rôles de répartition des sommes nécessaires au paiement des travaux de curage ou d'entretien des
-ouvrages sont dressés sous la surveillance du préfet et rendus exécutoires par lui.
-
-Le recouvrement est fait dans les mêmes formes et avec les mêmes garanties qu'en matière de contributions directes.
-
-Le privilège ainsi créé prend rang immédiatement après celui du Trésor public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-17 (V)
-  - Code de l'environnement - art. L215-17 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 art. 23
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 23 (Ab)
-
-
-###### Article 118
-
-Toutes les contestations relatives à l'exécution des travaux, à la répartition de la dépense et aux demandes en réduction ou
-décharge formées par les imposés sont portées devant les juridictions administratives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, II, VI JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-18 (V)
-  - Code de l'environnement - art. L215-18 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 24 (Ab)
-
-
-###### Article 119
-
-Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur leurs terrains les fonctionnaires et agents
-chargés de la surveillance, les entrepreneurs et ouvriers, ainsi que les engins mécaniques strictement nécessaires à la
-réalisation des travaux.
-
-Les terrains actuellement bâtis ou clos de murs ainsi que les cours et les jardins attenant aux habitations sont exempts de
-la servitude en ce qui concerne le passage des engins.
-
-Ce droit s'exerce autant que possible en suivant la rive du cours d'eau et en respectant les arbres et les plantations
-existants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, II, VII JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-19 (M)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 25 (Ab)
-
-
-#### Section 2 : Elargissement, régularisation et redressement.<a id=7></a>
-
-###### Article 120
-
-Sans préjudice des dispositions de la loi n° 92-3 du 3 janvier 1992 sur l'eau, l'exécution des travaux d'élargissement, de
-régularisation et de redressement des cours d'eau non domaniaux est poursuivie dans les conditions prévues aux articles 116 à
-118.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 116 à 118
-  - Loi n°92-3 1992-01-03
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Créé par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, VIII, IX JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-20 (Ab)
-
-_Cité par_:
-
-  - Code rural - art. L133-5 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 26 (Ab)
-
-
-#### Section 3 : Dispositions communes.<a id=8></a>
-
-###### Article 121
-
-Un programme pluriannuel d'entretien et de gestion, dénommé plan simple de gestion, peut être soumis à l'agrément du
-représentant de l'Etat dans le département par tout propriétaire riverain d'un cours d'eau non domanial et toute association
-syndicale de propriétaires riverains.
-
-Le bénéfice des aides de l'Etat et de ses établissements publics attachées au curage, à l'entretien et à la restauration des
-cours d'eau est accordé prioritairement aux propriétaires qui établissent un plan simple de gestion ou y souscrivent.
-
-Le représentant de l'Etat dans le département accorde son agrément après avis, le cas échéant, de la commission locale de
-l'eau instituée en application de l'article 5 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
-
-Le plan comprend :
-
-- un descriptif de l'état initial du cours d'eau, de son lit, des berges, de la faune et de la flore ;
-
-- un programme annuel de travaux d'entretien et de curage et, si nécessaire, un programme de travaux de restauration,
-précisant notamment les techniques employées et les conséquences sur l'environnement ;
-
-- un plan de financement de l'entretien, de la gestion et, s'il y a lieu, des travaux de restauration.
-
-Le plan est valable pour une période de cinq ans éventuellement renouvelable.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Cite_:
-
-  - Loi n°92-3 1992-01-03 art. 5
-
-_Modifié par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, X, XI JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-21 (Ab)
-
-_Cité par_:
-
-  - Code rural - art. L133-5 (V)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 27 (Ab)
-
-
-###### Article 122
-
-Si les travaux de curage, d'entretien, d'élargissement, de régularisation et de redressement intéressent la salubrité
-publique, l'acte qui les ordonne peut, après avis du conseil général et des conseils municipaux intéressés, mettre une partie
-de la dépense à la charge des communes dont le territoire est assaini.
-
-Dans ce cas, le même acte détermine quelles sont les communes intéressées et fixe la part que chacune d'elles doit supporter
-dans la dépense.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, X, XII JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-22 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1898-04-08 du 8 avril 1898 - art. 28 (Ab)
-
-
-###### Article 122-1
-
-Les propriétaires riverains de canaux d'arrosage désaffectés rétrocédés par les associations syndicales autorisées sont tenus
-de les entretenir pour maintenir leur fonction d'écoulement des eaux pluviales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Créé par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, X, XIII JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-23 (Ab)
-
-
-###### Article 122-2
-
-Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Créé par_:
-
-  - Loi n°95-101 1995-02-02 art. 23 I, X, XIII JORF 3 février 1995
-  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
-
-_Abrogé par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-_Nouveaux textes_:
-
-  - Code de l'environnement - art. L215-24 (Ab)
-
-
-# Livre II : Des animaux et des végétaux<a id=9></a>
-
-## Titre III : De la lutte contre les maladies des animaux<a id=10></a>
-
-### Chapitre III : De la police sanitaire<a id=11></a>
-
-#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=12></a>
+  - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#1)
+    - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#2)
+      - [Chapitre III : De la police sanitaire (art. 224)](#3)
+        - [Section 2 : De la police sanitaire des maladies contagieuses. (art. 224)](#4)
+    - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 317)](#5)
+    - [Titre X : De la protection des végétaux. (art. 357)](#6)
+      - [Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets. (art. 357)](#7)
+  - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#8)
+    - [Titre Ier : Chambres d'agriculture (art. 545-2)](#9)
+      - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#10)
+  - [Livre V : Crédit agricole (art. 614 à 789)](#11)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 615 à 710)](#12)
+      - [Chapitre Ier : Organisation. (art. 615 à 631)](#13)
+      - [Chapitre II : Fonctionnement. (art. 632 à 644)](#14)
+      - [Chapitre III : Ressources. (art. 645 à 652)](#15)
+      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#16)
+        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#17)
+        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#18)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#19)
+        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#20)
+      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#21)
+      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#22)
+    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#23)
+      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#24)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#25)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#26)
+    - [Titre III : Inspection et contrôle. (art. 737 à 744)](#27)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#28)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#29)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#30)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#31)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#32)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#33)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#34)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#35)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#36)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#37)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#38)
+  - [Livre VII : Dispositions sociales (art. 1003-1 à 1261)](#39)
+    - [Titre II : Mutualité sociale agricole (art. 1003-1 à 1142-27)](#40)
+      - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer. (art. 1106-20)](#41)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1121)](#42)
+        - [Section 1 : Prestations (art. 1110 à 1121)](#43)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#44)
+          - [Paragraphe 2 : Retraite. (art. 1120-1 à 1121)](#45)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-10)](#46)
+      - [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer. (art. 1142-20)](#47)
+      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-27)](#48)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#49)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#50)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#51)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#52)
+    - [Titre III : Recherche (art. 1337)](#53)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#54)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#55)
+# Livre II : Des animaux et des végétaux<a id=1></a>
+
+## Titre III : De la lutte contre les maladies des animaux<a id=2></a>
+
+### Chapitre III : De la police sanitaire<a id=3></a>
+
+#### Section 2 : De la police sanitaire des maladies contagieuses.<a id=4></a>
 
 ###### Article 224
 
@@ -997,7 +107,7 @@ _Modifié par_:
   - Décret n°98-917 du 13 octobre 1998 - art. 1 () JORF 14 octobre 1998
 
 
-## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=13></a>
+## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=5></a>
 
 ###### Article 317
 
@@ -1030,9 +140,9 @@ _Cite_:
   - Ordonnance 1944-12-26
 
 
-## Titre X : De la protection des végétaux.<a id=14></a>
+## Titre X : De la protection des végétaux.<a id=6></a>
 
-### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=15></a>
+### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.<a id=7></a>
 
 ###### Article 357
 
@@ -1051,11 +161,11 @@ _Modifié par_:
   - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
 
 
-# Livre IV : Institutions et groupements professionnels agricoles<a id=16></a>
+# Livre IV : Institutions et groupements professionnels agricoles<a id=8></a>
 
-## Titre Ier : Chambres d'agriculture<a id=17></a>
+## Titre Ier : Chambres d'agriculture<a id=9></a>
 
-### Chapitre IV : Dispositions financières et d'application.<a id=18></a>
+### Chapitre IV : Dispositions financières et d'application.<a id=10></a>
 
 ###### Article 545-2
 
@@ -1074,7 +184,7 @@ _Modifié par_:
   - Décret n°81-276 du 18 mars 1981 (V) art 1
 
 
-# Livre V : Crédit agricole<a id=19></a>
+# Livre V : Crédit agricole<a id=11></a>
 
 ###### Article 614
 
@@ -1109,9 +219,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-20 (M)
 
 
-## Titre Ier : Des caisses de crédit agricole mutuel<a id=20></a>
+## Titre Ier : Des caisses de crédit agricole mutuel<a id=12></a>
 
-### Chapitre Ier : Organisation.<a id=21></a>
+### Chapitre Ier : Organisation.<a id=13></a>
 
 ###### Article 615
 
@@ -1588,7 +698,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-35 (M)
 
 
-### Chapitre II : Fonctionnement.<a id=22></a>
+### Chapitre II : Fonctionnement.<a id=14></a>
 
 ###### Article 632
 
@@ -1899,7 +1009,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-43 (M)
 
 
-### Chapitre III : Ressources.<a id=23></a>
+### Chapitre III : Ressources.<a id=15></a>
 
 ###### Article 645
 
@@ -2027,9 +1137,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre IV : Opérations de crédit<a id=24></a>
+### Chapitre IV : Opérations de crédit<a id=16></a>
 
-#### Section 1 : Crédit à court terme.<a id=25></a>
+#### Section 1 : Crédit à court terme.<a id=17></a>
 
 ###### Article 655
 
@@ -2189,9 +1299,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=26></a>
+#### Section 2 : Crédit à moyen terme<a id=18></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=27></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=19></a>
 
 ###### Article 672
 
@@ -2247,7 +1357,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=28></a>
+#### Section 3 : Crédit à long terme individuel.<a id=20></a>
 
 ###### Article 690
 
@@ -2307,7 +1417,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=29></a>
+### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=21></a>
 
 ###### Article 697
 
@@ -2340,7 +1450,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=30></a>
+### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=22></a>
 
 ###### Article 704
 
@@ -2386,9 +1496,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre II : Caisse nationale de crédit agricole<a id=31></a>
+## Titre II : Caisse nationale de crédit agricole<a id=23></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=32></a>
+### Chapitre Ier : Organisation et fonctionnement.<a id=24></a>
 
 ###### Article 711
 
@@ -2414,7 +1524,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L512-47 (M)
 
 
-### Chapitre II : Ressources.<a id=33></a>
+### Chapitre II : Ressources.<a id=25></a>
 
 ###### Article 717
 
@@ -2535,7 +1645,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=34></a>
+### Chapitre III : Opérations de crédit.<a id=26></a>
 
 ###### Article 723
 
@@ -2854,7 +1964,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=35></a>
+## Titre III : Inspection et contrôle.<a id=27></a>
 
 ###### Article 737
 
@@ -3042,9 +2152,9 @@ _Cité par_:
   - Ordonnance n°2003-1187 du 11 décembre 2003 - art. 2 (V)
 
 
-## Titre IV : Dispositions diverses<a id=36></a>
+## Titre IV : Dispositions diverses<a id=28></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=37></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=29></a>
 
 ###### Article 745
 
@@ -3098,7 +2208,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=38></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=30></a>
 
 ###### Article 747
 
@@ -3180,9 +2290,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=39></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=31></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=40></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=32></a>
 
 ###### Article 752
 
@@ -3288,7 +2398,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=41></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=33></a>
 
 ###### Article 757
 
@@ -3392,7 +2502,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=42></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=34></a>
 
 ###### Article 763
 
@@ -3522,7 +2632,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=43></a>
+#### Section 4 : Dispositions communes.<a id=35></a>
 
 ###### Article 770
 
@@ -3571,7 +2681,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=44></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=36></a>
 
 ###### Article 773
 
@@ -3600,7 +2710,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=45></a>
+### Chapitre V : Domaine - Retraite.<a id=37></a>
 
 ###### Article 774
 
@@ -3904,7 +3014,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=46></a>
+### Chapitre VI : Dispositions d'application.<a id=38></a>
 
 ###### Article 788
 
@@ -3936,9 +3046,9 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=47></a>
+# Livre VII : Dispositions sociales<a id=39></a>
 
-## Titre II : Mutualité sociale agricole<a id=48></a>
+## Titre II : Mutualité sociale agricole<a id=40></a>
 
 ###### Article 1003-1
 
@@ -4248,7 +3358,7 @@ _Abrogé par_:
   - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=49></a>
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.<a id=41></a>
 
 ###### Article 1106-20
 
@@ -4280,7 +3390,7 @@ _Abrogé par_:
   - Loi - art. 103 () JORF 31 décembre 2000
 
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=50></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=42></a>
 
 ###### Article 1107
 
@@ -4300,7 +3410,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-#### Section 1 : Prestations<a id=51></a>
+#### Section 1 : Prestations<a id=43></a>
 
 ###### Article 1110
 
@@ -4342,7 +3452,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=52></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=44></a>
 
 ###### Article 1111
 
@@ -4597,7 +3707,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 2 : Retraite.<a id=53></a>
+##### Paragraphe 2 : Retraite.<a id=45></a>
 
 ###### Article 1120-1
 
@@ -4728,7 +3838,7 @@ _Cite_:
   - Code rural 1116, 1123, 1106-1, 1120-2
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=54></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=46></a>
 
 ###### Article 1142-3
 
@@ -4875,7 +3985,7 @@ _Abrogé par_:
   - Loi - art. 103 () JORF 31 décembre 2000
 
 
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=55></a>
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.<a id=47></a>
 
 ###### Article 1142-20
 
@@ -4904,7 +4014,7 @@ _Cite_:
   - Code rural annexe
 
 
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=56></a>
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=48></a>
 
 ###### Article 1142-27
 
@@ -4931,9 +4041,9 @@ _Abrogé par_:
   - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=57></a>
+## Titre III : Accidents du travail et risques agricoles<a id=49></a>
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=58></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=50></a>
 
 ###### Article 1207
 
@@ -5106,7 +4216,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=59></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=51></a>
 
 ###### Article 1253
 
@@ -5238,13 +4348,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=60></a>
+# Livre VIII : Formation professionnelle et recherche<a id=52></a>
 
-## Titre III : Recherche<a id=61></a>
+## Titre III : Recherche<a id=53></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=62></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=54></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=63></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=55></a>
 
 ###### Article 1337
 
