@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2003-12-13
+Version Consolidée au 2003-12-31
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 224 à 357)](#1)
     - [Titre III : De la lutte contre les maladies des animaux (art. 224)](#2)
@@ -39,21 +39,20 @@ Version Consolidée au 2003-12-13
       - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#36)
       - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#37)
       - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#38)
-  - [Livre VII : Dispositions sociales (art. 1003-1 à 1261)](#39)
-    - [Titre II : Mutualité sociale agricole (art. 1003-1 à 1142-27)](#40)
+  - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#39)
+    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-5)](#40)
       - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1121)](#41)
         - [Section 1 : Prestations (art. 1110 à 1121)](#42)
           - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#43)
           - [Paragraphe 2 : Retraite. (art. 1120-1 à 1121)](#44)
       - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-5)](#45)
-      - [Chapitre IV-3 : Assurance veuvage des personnes non salariées. (art. 1142-27)](#46)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#47)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#48)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#49)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#50)
-    - [Titre III : Recherche (art. 1337)](#51)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#52)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#53)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#46)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#47)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#48)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#49)
+    - [Titre III : Recherche (art. 1337)](#50)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#51)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#52)
 # Livre II : Des animaux et des végétaux<a id=1></a>
 
 ## Titre III : De la lutte contre les maladies des animaux<a id=2></a>
@@ -2443,314 +2442,6 @@ _Abrogé par_:
 
 ## Titre II : Mutualité sociale agricole<a id=40></a>
 
-###### Article 1003-1
-
-Il est institué un budget annexe des prestations sociales agricoles rattaché pour ordre au budget général de l'Etat et dont
-la gestion administrative est confiée au ministre de l'agriculture assisté d'un comité de gestion du budget annexe.
-
-La composition et le rôle de ce comité sont fixés par décret pris sur le rapport du ministre de l'agriculture et du ministre
-de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural - art. L731-1 (M)
-  - Code rural L731-1
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Décret n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
-###### Article 1003-2
-
-Le budget annexe des prestations sociales agricoles est substitué aux droits et obligations du budget annexe des prestations
-familiales agricoles et des organismes visés aux chapitres II et IV du présent titre relatifs aux assurances sociales
-agricoles et à l'assurance vieillesse des personnes non salariées.
-
-Les avances accordées par le Trésor au fonds national de solidarité agricole, au budget annexe des prestations familiales
-agricoles, à la caisse centrale de la mutualité sociale agricole, ainsi que celles qui pourraient éventuellement être
-accordées au budget annexe des prestations sociales agricoles, sont inscrites à un compte hors budget dont les conditions de
-fonctionnement sont fixées par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L731-2
-  - Code rural - art. L731-2 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
-###### Article 1003-3
-
-Tout aménagement de la législation et de la réglementation relatives aux prestations familiales, aux assurances sociales et à
-l'assurance vieillesse des non-salariés agricoles susceptible d'entraîner un accroissement des dépenses à la charge du budget
-annexe doit faire l'objet d'une création de recettes correspondantes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-_Nouveaux textes_:
-
-  - Code rural - art. L731-3 (Ab)
-  - Code rural L731-3
-
-
-###### Article 1003-4
-
-Le budget annexe des prestations sociales agricoles comporte :
-
-1. En recettes :
-
-a) Les divers impôts, taxes et amendes qui lui sont affectés ;
-
-b) La fraction des cotisations dues par les assujettis affectées au service des prestations familiales, des assurances
-sociales et de l'assurance vieillesse des non salariés agricoles ;
-
-c) Les subventions du fonds spécial d'invalidité mentionné à l'article L. 815-3-1 du code de la sécurité sociale ainsi que la
-contribution du fonds institué par l'article L. 135-1 du même code dans les conditions prévues par l'article L. 135-2 du code
-précité, à l'exception de son 6° ;
-
-d) Le versement des soldes de compensation résultant de l'application de l'article 2 de la loi n° 74-1094 du 24 décembre
-1974 ;
-
-e) Les dons et legs ;
-
-f) Les prélèvements sur le fonds de réserve visé à l'article 1003-5 ;
-
-g) Une contribution de la caisse nationale des allocations familiales ;
-
-h) Le versement de l'Etat au titre de l'allocation aux adultes handicapés.
-
-2. En dépenses :
-
-a) Les versements destinés au paiement par les caisses des prestations familiales, des prestations des assurances sociales et
-des prestations de l'assurance vieillesse des non salariés agricoles, y compris les prestations versées en application des
-dispositions du livre IX du code de la sécurité sociale et à l'exception des majorations de pensions accordées en fonction du
-nombre d'enfants pour les ressortissants du régime de protection sociale des personnes non salariées des professions
-agricoles ;
-
-e) Le remboursement des avances du Trésor ;
-
-f) Les versements au fonds de réserve visé à l'article 1003-5.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural - art. L731-4 (M)
-  - Code rural - art. L731-5 (M)
-  - Code rural - art. L731-6 (MMN)
-  - Code rural L731-4
-  - Code rural L731-5
-  - Code rural L731-6
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L135-1 (M)
-  - Code de la sécurité sociale. - art. L135-2 (MMN)
-  - Code de la sécurité sociale. - art. L815-3-1 (M)
-  - Code rural 1003-5
-  - Loi n°74-1094 du 24 décembre 1974 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°83-1179 du 29 décembre 1983 - art. 116
-  - Loi - art. 119 () JORF 31 décembre 1998
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
-###### Article 1003-5
-
-Il est constitué un fonds de réserve alimenté par les excédents de recettes du budget annexe dont le montant maximal est fixé
-à un dixième du montant des dépenses dudit budget de l'année précédente.
-
-Les disponibilités de ce fonds de réserve sont déposées au Trésor.
-
-Les prélèvements sur le fonds de réserve sont autorisés par arrêté du ministre de l'agriculture et du ministre de l'économie
-et des finances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-_Nouveaux textes_:
-
-  - Code rural - art. L731-7 (M)
-  - Code rural L731-7
-
-
-###### Article 1003-6
-
-En fin d'année, les excédents de recettes ou de dépenses du budget annexe sont réglés comme suit :
-
-Les excédents de recettes sont affectés, d'abord, au remboursement des avances du Trésor, ensuite au fonds de réserve prévu à
-l'article précédent. Lorsque le fonds de réserve atteint le maximum fixé par ledit article, les excédents de recettes sont
-reportés sur l'année suivante.
-
-Les excédents de dépenses sont couverts par des prélèvements sur le fonds de réserve, ou, à défaut, par des avances du
-Trésor.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L731-8
-  - Code rural - art. L731-8 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
-###### Article 1003-8
-
-Les cotisations à la charge des assujettis aux régimes des prestations familiales, des assurances sociales et de l'assurance
-vieillesse des non-salariés agricoles sont assises et perçues par les caisses de mutualité sociale agricole. Elles sont
-affectées pour partie au service des prestations et pour partie aux dépenses complémentaires qui comprennent, notamment, les
-frais de gestion, le contrôle médical et l'action sanitaire et sociale.
-
-Un décret contresigné du ministre de l'agriculture et du ministre de l'économie et des finances fixe les conditions dans
-lesquelles sont déterminées les cotisations affectées aux dépenses complémentaires au titre des divers régimes de prestations
-sociales agricoles.
-
-L'évaluation du produit des cotisations affectées aux dépenses complémentaires et leur emploi sont mentionnés à titre
-indicatif dans le budget annexe des prestations sociales agricoles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Modifié par_:
-
-  - Loi n°60-1384 1960-12-23 art. 57 JORF 24 décembre 1960
-  - Loi n°61-1396 1961-12-21 art. 44 JORF 22 décembre 1961
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-_Nouveaux textes_:
-
-  - Code rural - art. L731-10 (MMN)
-  - Code rural - art. L741-1 (V)
-  - Code rural L731-10
-  - Code rural L741-1
-
-
-###### Article 1003-9
-
-Les bases de calcul et les limites des frais de gestion des caisses de mutualité sociale agricole sont déterminées
-annuellement par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances pris après avis du comité
-de gestion du budget annexe des prestations sociales agricoles.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural D732-239
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
-###### Article 1003-10
-
-Des décrets pris sur le rapport du ministre de l'agriculture et du ministre de l'économie et des finances déterminent les
-conditions d'application des dispositions relatives au budget annexe des prestations sociales agricoles.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L731-9
-  - Code rural - art. L731-9 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
 ### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=41></a>
 
 ###### Article 1107
@@ -3330,36 +3021,9 @@ _Abrogé par_:
   - Décret n°2004-861 du 24 août 2004 - art. 1 () JORF 25 août 2004
 
 
-### Chapitre IV-3 : Assurance veuvage des personnes non salariées.<a id=46></a>
+## Titre III : Accidents du travail et risques agricoles<a id=46></a>
 
-###### Article 1142-27
-
-Les opérations financières relatives au présent chapitre sont retracées en recettes et en dépenses dans le budget annexe des
-prestations sociales agricoles.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L731-6
-  - Code rural - art. L731-6 (MMN)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Créé par_:
-
-  - Loi - art. 53 () JORF 30 décembre 1990
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2003
-
-
-## Titre III : Accidents du travail et risques agricoles<a id=47></a>
-
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=48></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=47></a>
 
 ###### Article 1207
 
@@ -3532,7 +3196,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=49></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=48></a>
 
 ###### Article 1253
 
@@ -3664,13 +3328,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=50></a>
+# Livre VIII : Formation professionnelle et recherche<a id=49></a>
 
-## Titre III : Recherche<a id=51></a>
+## Titre III : Recherche<a id=50></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=52></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=51></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=53></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=52></a>
 
 ###### Article 1337
 
