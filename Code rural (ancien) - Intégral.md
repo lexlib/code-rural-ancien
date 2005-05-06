@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2005-04-22
+Version Consolidée au 2005-05-07
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 317 à 357)](#1)
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 317)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 2005-04-22
     - [Titre Ier : Des caisses de crédit agricole mutuel (art. 617 à 710)](#9)
       - [Chapitre Ier : Organisation. (art. 617 à 629)](#10)
       - [Chapitre II : Fonctionnement. (art. 633 à 643)](#11)
-      - [Chapitre III : Ressources. (art. 647 à 652)](#12)
+      - [Chapitre III : Ressources. (art. 648 à 652)](#12)
       - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#13)
         - [Section 1 : Crédit à court terme. (art. 655 à 662)](#14)
         - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#15)
@@ -20,35 +20,34 @@ Version Consolidée au 2005-04-22
         - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#17)
       - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#18)
       - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#19)
-    - [Titre II : Caisse nationale de crédit agricole (art. 711 à 736)](#20)
-      - [Chapitre Ier : Organisation et fonctionnement. (art. 711)](#21)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#22)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#23)
-    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#24)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#25)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#26)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#27)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#28)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#29)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#30)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#31)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#32)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#33)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#34)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#35)
-  - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#36)
-    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-4)](#37)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1120)](#38)
-        - [Section 1 : Prestations (art. 1110 à 1120)](#39)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#40)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-4)](#41)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#42)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#43)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#44)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#45)
-    - [Titre III : Recherche (art. 1337)](#46)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#47)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#48)
+    - [Titre II : Caisse nationale de crédit agricole (art. 717 à 736)](#20)
+      - [Chapitre II : Ressources. (art. 717 à 721)](#21)
+      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#22)
+    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#23)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#24)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#25)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#26)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#27)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#28)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#29)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#30)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#31)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#32)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#33)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#34)
+  - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#35)
+    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-4)](#36)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1120)](#37)
+        - [Section 1 : Prestations (art. 1110 à 1120)](#38)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#39)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-4)](#40)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#41)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#42)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#43)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#44)
+    - [Titre III : Recherche (art. 1337)](#45)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#46)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#47)
 # Livre II : Des animaux et des végétaux<a id=1></a>
 
 ## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=2></a>
@@ -460,39 +459,6 @@ _Nouveaux textes_:
 
 ### Chapitre III : Ressources.<a id=12></a>
 
-###### Article 647
-
-Les statuts des caisses de crédit agricole mutuel ne bénéficiant pas d'avances de la caisse nationale de crédit agricole
-déterminent le maximum des dépôts à recevoir en compte courant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 111 () JORF 7 mai 2005
-
-_Cité par_:
-
-  - Code rural ancien - art. 626 (Ab)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-31 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
 ###### Article 648
 
 Les dépôts de fonds à deux ans au plus d'échéance reçus par les caisses régionales ou locales de crédit agricole mutuel
@@ -528,31 +494,6 @@ _Nouveaux textes_:
 **Liens**:
 
   - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 649
-
-Lorsqu'une caisse régionale a un excédent de dépôt, cet excédent doit être déposé à la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 110 () JORF 7 mai 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-45 (M)
 
 
 ###### Article 650
@@ -988,33 +929,7 @@ _Abrogé par_:
 
 ## Titre II : Caisse nationale de crédit agricole<a id=20></a>
 
-### Chapitre Ier : Organisation et fonctionnement.<a id=21></a>
-
-###### Article 711
-
-La caisse nationale de crédit agricole est chargée de faciliter, de coordonner et de contrôler la réalisation des opérations
-prévues au présent livre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 58 () JORF 7 mai 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-47 (M)
-
-
-### Chapitre II : Ressources.<a id=22></a>
+### Chapitre II : Ressources.<a id=21></a>
 
 ###### Article 717
 
@@ -1115,7 +1030,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-### Chapitre III : Opérations de crédit.<a id=23></a>
+### Chapitre III : Opérations de crédit.<a id=22></a>
 
 ###### Article 723
 
@@ -1418,7 +1333,7 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 
-## Titre III : Inspection et contrôle.<a id=24></a>
+## Titre III : Inspection et contrôle.<a id=23></a>
 
 ###### Article 738
 
@@ -1481,9 +1396,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre IV : Dispositions diverses<a id=25></a>
+## Titre IV : Dispositions diverses<a id=24></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=26></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=25></a>
 
 ###### Article 745
 
@@ -1537,7 +1452,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=27></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=26></a>
 
 ###### Article 747
 
@@ -1619,9 +1534,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=28></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=27></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=29></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=28></a>
 
 ###### Article 752
 
@@ -1727,7 +1642,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=30></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=29></a>
 
 ###### Article 757
 
@@ -1831,7 +1746,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=31></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=30></a>
 
 ###### Article 763
 
@@ -1961,7 +1876,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=32></a>
+#### Section 4 : Dispositions communes.<a id=31></a>
 
 ###### Article 770
 
@@ -2010,7 +1925,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=33></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=32></a>
 
 ###### Article 773
 
@@ -2039,7 +1954,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=34></a>
+### Chapitre V : Domaine - Retraite.<a id=33></a>
 
 ###### Article 774
 
@@ -2343,7 +2258,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=35></a>
+### Chapitre VI : Dispositions d'application.<a id=34></a>
 
 ###### Article 788
 
@@ -2375,11 +2290,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=36></a>
+# Livre VII : Dispositions sociales<a id=35></a>
 
-## Titre II : Mutualité sociale agricole<a id=37></a>
+## Titre II : Mutualité sociale agricole<a id=36></a>
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=38></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=37></a>
 
 ###### Article 1107
 
@@ -2399,7 +2314,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-#### Section 1 : Prestations<a id=39></a>
+#### Section 1 : Prestations<a id=38></a>
 
 ###### Article 1110
 
@@ -2441,7 +2356,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=40></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=39></a>
 
 ###### Article 1111
 
@@ -2696,7 +2611,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=41></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=40></a>
 
 ###### Article 1142-3
 
@@ -2762,9 +2677,9 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=42></a>
+## Titre III : Accidents du travail et risques agricoles<a id=41></a>
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=43></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=42></a>
 
 ###### Article 1207
 
@@ -2937,7 +2852,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=44></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=43></a>
 
 ###### Article 1253
 
@@ -3069,13 +2984,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=45></a>
+# Livre VIII : Formation professionnelle et recherche<a id=44></a>
 
-## Titre III : Recherche<a id=46></a>
+## Titre III : Recherche<a id=45></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=47></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=46></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=48></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=47></a>
 
 ###### Article 1337
 
