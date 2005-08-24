@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-08-25
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 317 à 357)](#1)
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 317)](#2)
@@ -8,46 +8,37 @@ Version Consolidée au 2005-05-07
   - [Livre IV : Institutions et groupements professionnels agricoles (art. 545-2)](#5)
     - [Titre Ier : Chambres d'agriculture (art. 545-2)](#6)
       - [Chapitre IV : Dispositions financières et d'application. (art. 545-2)](#7)
-  - [Livre V : Crédit agricole (art. 617 à 789)](#8)
-    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 617 à 710)](#9)
-      - [Chapitre Ier : Organisation. (art. 617 à 629)](#10)
-      - [Chapitre II : Fonctionnement. (art. 633 à 643)](#11)
-      - [Chapitre III : Ressources. (art. 648 à 652)](#12)
-      - [Chapitre IV : Opérations de crédit (art. 655 à 692)](#13)
-        - [Section 1 : Crédit à court terme. (art. 655 à 662)](#14)
-        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#15)
-          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#16)
-        - [Section 3 : Crédit à long terme individuel. (art. 690 à 692)](#17)
-      - [Chapitre V : Paiements - Engagements de caution - Fonds de garantie. (art. 697 à 698)](#18)
-      - [Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer. (art. 704 à 710)](#19)
-    - [Titre II : Caisse nationale de crédit agricole (art. 717 à 736)](#20)
-      - [Chapitre II : Ressources. (art. 717 à 721)](#21)
-      - [Chapitre III : Opérations de crédit. (art. 723 à 736)](#22)
-    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#23)
-    - [Titre IV : Dispositions diverses (art. 745 à 789)](#24)
-      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#25)
-      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#26)
-      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#27)
-        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#28)
-        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#29)
-        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#30)
-        - [Section 4 : Dispositions communes. (art. 770 à 772)](#31)
-      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#32)
-      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#33)
-      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#34)
-  - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#35)
-    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-4)](#36)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1120)](#37)
-        - [Section 1 : Prestations (art. 1110 à 1120)](#38)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#39)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-4)](#40)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#41)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#42)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#43)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#44)
-    - [Titre III : Recherche (art. 1337)](#45)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#46)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#47)
+  - [Livre V : Crédit agricole (art. 661 à 789)](#8)
+    - [Titre Ier : Des caisses de crédit agricole mutuel (art. 661 à 673)](#9)
+      - [Chapitre IV : Opérations de crédit (art. 661 à 673)](#10)
+        - [Section 1 : Crédit à court terme. (art. 661 à 662)](#11)
+        - [Section 2 : Crédit à moyen terme (art. 672 à 673)](#12)
+          - [Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. 672 à 673)](#13)
+    - [Titre III : Inspection et contrôle. (art. 738 à 743)](#14)
+    - [Titre IV : Dispositions diverses (art. 745 à 789)](#15)
+      - [Chapitre Ier : Régime des prêts hypothécaires. (art. 745 à 746)](#16)
+      - [Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre. (art. 747 à 751)](#17)
+      - [Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée (art. 752 à 772)](#18)
+        - [Section 1 : Prêts en vue de la reconstitution du capital d'exploitation. (art. 752 à 756)](#19)
+        - [Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale. (art. 757 à 762)](#20)
+        - [Section 3 : Prêts pour l'installation et l'aménagement du foyer rural. (art. 763 à 769)](#21)
+        - [Section 4 : Dispositions communes. (art. 770 à 772)](#22)
+      - [Chapitre IV : Prêts pour la mise en valeur des terres incultes. (art. 773)](#23)
+      - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#24)
+      - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#25)
+  - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#26)
+    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-4)](#27)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1120)](#28)
+        - [Section 1 : Prestations (art. 1110 à 1120)](#29)
+          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#30)
+      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-4)](#31)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#32)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#33)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#34)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#35)
+    - [Titre III : Recherche (art. 1337)](#36)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#37)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#38)
 # Livre II : Des animaux et des végétaux<a id=1></a>
 
 ## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=2></a>
@@ -131,567 +122,9 @@ _Modifié par_:
 
 ## Titre Ier : Des caisses de crédit agricole mutuel<a id=9></a>
 
-### Chapitre Ier : Organisation.<a id=10></a>
+### Chapitre IV : Opérations de crédit<a id=10></a>
 
-###### Article 617
-
-Les collectivités qui peuvent s'affilier aux caisses de crédit agricole mutuel sont :
-
-1° Les sociétés coopératives agricoles et leurs unions ;
-
-2° Les associations syndicales ayant un objet exclusivement agricole, leurs unions et les associations foncières ;
-
-3° Les sociétés d'intérêt collectif agricole ;
-
-4° Les syndicats professionnels agricoles, les sociétés d'élevage, les associations agricoles reconnues par la loi et
-dépendant du ministère de l'agriculture ayant pour objet de favoriser la production agricole, ainsi que leurs unions et
-fédérations ;
-
-5° Les caisses d'assurances et de réassurances mutuelles agricoles et les caisses mutuelles d'allocations familiales
-agricoles, les caisses d'assurances sociales agricoles ainsi que les caisses d'assurance vieillesse agricole ;
-
-6° Les organismes de jardins familiaux ;
-
-7° D'une part, les exploitations agricoles à responsabilité limitée, d'autre part, les sociétés civiles de personnes ayant
-pour objet l'exploitation en commun de biens agricoles et forestiers et la mise en oeuvre des produits de ces exploitations,
-constituées entre exploitants de tels biens et, éventuellement, leurs employés et ouvriers ;
-
-8° Les chambres d'agriculture et l'assemblée permanente des chambres d'agriculture ;
-
-9° Les communes, syndicats de communes et départements ;
-
-10° Les établissements d'enseignement, de formation professionnelle ou d'éducation agricoles et instituts de recherches
-agronomiques, constitués sous la forme d'établissements publics ou agréés dans les conditions fixées par un arrêté du
-ministre de l'agriculture ;
-
-11° Les organismes visés à l'article 9 de la loi n° 51-592 du 24 mai 1951 ;
-
-12° Les organismes d'intervention visés au titre II du décret n° 53-974 du 30 septembre 1953 ;
-
-13° Le groupement interprofessionnel des fleurs et des plantes à parfum créé par la loi n° 41-3408 du 16 juillet 1941 ;
-
-14° Les syndicats mixtes prévus à l'article 4 du décret n° 55-606 du 20 mai 1955 ;
-
-15° Les sociétés d'économie mixte constituées avec la participation des collectivités publiques locales, telle qu'elle est
-prévue par les dispositions du décret n° 55-579 du 20 mai 1955 ;
-
-16° Les associations, sociétés et établissements de vocation ou d'intérêt agricole ayant fait l'objet d'un agrément
-particulier de la caisse nationale de crédit agricole ;
-
-17° Les sociétés coopératives agricoles de caution mutuelle.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°51-592 du 24 mai 1951 - art. 9, v. init.
-  - Décret n°55-579 1955-05-20
-  - Décret n°55-606 du 20 mai 1955 - art. 4 (Ab)
-  - Décret n°53-974 1953-09-30
-  - Loi n°41-3408 1941-07-16
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°56-780 1956-08-04 art. 108 JORF 7 août 1956
-  - Ordonnance 58-880 1958-09-24 art. 3 JORF 26 septembre 1958
-  - Loi n°72-516 du 27 juin 1972 - art. 18 () JORF 28 juin 1972
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cité par_:
-
-  - Code rural - art. R343-28 (V)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-4 (V)
-
-
-###### Article 624
-
-Un des exemplaires des statuts et de la liste des membres de la caisse est, par les soins du juge du tribunal d'instance,
-déposé au greffe du tribunal de grande instance.
-
-Chaque année, avant le 1er juin, un administrateur ou le directeur de la caisse dépose, en double exemplaire, au greffe du
-tribunal d'instance du canton une copie du bilan de l'exercice précédent, ainsi que la liste des administrateurs et des
-commissaires aux comptes en fonction à la date dudit dépôt.
-
-Un des exemplaires est transmis par les soins du juge du tribunal d'instance au greffe du tribunal de grande instance.
-
-Les documents déposés au greffe du tribunal d'instance et du tribunal de grande instance sont communiqués à tout requérant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-7 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 626
-
-Les statuts des caisses de crédit agricole mutuel doivent en outre, rappeler expressément les règles visées dans les articles
-618, troisième alinéa, 637, 640 et 647.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cite_:
-
-  - Code rural ancien - art. 618 (M)
-  - Code rural ancien - art. 637 (Ab)
-  - Code rural ancien - art. 640 (Ab)
-  - Code rural ancien - art. 647 (M)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-8 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 629
-
-Les caisses régionales de crédit agricole mutuel réescomptent, après endossement par les caisses locales qui leur sont
-affiliées, les effets souscrits par les sociétaires de ces caisses.
-
-Elles peuvent se charger de tout paiement et recouvrement à faire dans l'intérêt desdites caisses locales.
-
-Elles peuvent faire aux caisses locales qui leur sont affiliées les avances nécessaires à la constitution d'un fonds de
-roulement. Toutefois, pour celles qui ont fait appel au concours financier de la caisse nationale de crédit agricole, ces
-avances ne pourront dépasser, pour chaque caisse locale, le montant du capital versé à la caisse régionale sous forme de
-souscription de parts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
-
-
-### Chapitre II : Fonctionnement.<a id=11></a>
-
-###### Article 633
-
-En cas de fausses déclarations relatives aux statuts ou aux noms et qualités des administrateurs ou du directeur, les membres
-chargés de l'administration de la caisse peuvent être poursuivis et punis de l'amende prévue pour les contraventions de la 5e
-classe.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-37 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 637
-
-Un comité d'escompte est constitué auprès des caisses locales et des caisses régionales de crédit agricole mutuel. Ce comité,
-composé au moins de deux membres, dont un administrateur spécialement délégué à cet effet, est chargé d'examiner les demandes
-de prêts. Les décisions de ce comité sont consignées sur un registre spécial.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cité par_:
-
-  - Code rural ancien - art. 626 (Ab)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-9 (V)
-
-
-###### Article 638
-
-Les directeurs reçoivent, à l'exclusion de tout pourcentage sur les bénéfices ou les opérations, un traitement fixe approuvé
-par la caisse nationale de crédit agricole. Une gratification exceptionnelle peut, chaque année, suivant les services, leur
-être accordée par le conseil d'administration après approbation de la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-10 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 642
-
-Les caisses régionales de crédit agricole mutuel doivent tenir leur comptabilité et présenter leur bilan selon des règles
-uniformes fixées par la caisse nationale de crédit agricole.
-
-La caisse nationale de crédit agricole établit les principes généraux de la tenue de la comptabilité des caisses de crédit
-agricole mutuel affiliées aux caisses régionales de crédit agricole mutuel et doit en recommander l'adoption à ces organismes
-de manière à harmoniser leurs écritures en vue de faciliter les contrôles auxquels ils sont assujettis.
-
-Dans la comptabilité et les bilans des caisses régionales de crédit agricole mutuel et de leurs caisses locales affiliées,
-les diverses ressources qu'utilisent ces institutions ainsi que leur remploi tant à court terme qu'à moyen terme ou à long
-terme, doivent figurer sous des rubriques distinctes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 643
-
-Chaque année, après déduction des charges et frais généraux, paiement des intérêts aux emprunts et aux dépôts, constitution
-des réserves pour l'amortissement des immobilisations, constitution des provisions suffisantes pour faire face aux risques de
-pertes que les caisses de crédit agricole mutuel pourraient avoir à supporter et paiement des intérêts aux parts de capital
-social, les excédents de recettes sont affectés, jusqu'à concurrence des trois quarts aux moins, à la constitution d'un fonds
-de réserve.
-
-Le bilan, le compte de pertes et profits et le projet de répartition des excédents annuels des caisses régionales de crédit
-agricole mutuel doivent être soumis à l'approbation de la caisse nationale de crédit agricole un mois au moins avant la tenue
-de l'assemblée générale.
-
-En aucun cas, il ne peut être attribué aux parts sociales un intérêt supérieur à celui qui a été approuvé par la caisse
-nationale de crédit agricole.
-
-Les comptes annuels des caisses locales sont soumis, dans les mêmes conditions, à l'approbation des caisses régionales de
-crédit agricole mutuel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°92-643 du 13 juillet 1992 - art. 56 () JORF 14 juillet 1992
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-11 (V)
-
-
-### Chapitre III : Ressources.<a id=12></a>
-
-###### Article 648
-
-Les dépôts de fonds à deux ans au plus d'échéance reçus par les caisses régionales ou locales de crédit agricole mutuel
-bénéficiant d'avances de la caisse nationale de crédit agricole doivent être exclusivement utilisés en opérations de crédit à
-court terme.
-
-Les caisses de crédit agricole mutuel qui n'observeraient pas cette prescription ne pourraient, jusqu'à la régularisation de
-leur situation à ce point de vue, recevoir de nouvelles avances de la caisse nationale de crédit agricole pour prêts à moyen
-terme ou pour prêts à long terme individuels et collectifs.
-
-Les dépôts de fonds reçus par ces caisses, et dont l'échéance est supérieure à deux ans, sont employés par elles en
-opérations de crédit à moyen terme ou à long terme d'une durée correspondante ou en opérations de crédit à court terme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-12 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 650
-
-Les caisses de crédit agricole mutuel peuvent se procurer des capitaux en réescomptant leur portefeuille d'effets ou en
-empruntant sur titres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 651
-
-Les bons émis par les caisses de crédit agricole mutuel à deux ans au plus d'échéance doivent être utilisés en opérations de
-crédit à court terme conformément aux dispositions de l'article 648, premier et deuxième alinéas.
-
-Les bons dont l'échéance est supérieure à deux ans peuvent être employés conformément aux dispositions de l'article 648,
-troisième alinéa.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 648
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-13 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 652
-
-Les caisses de crédit agricole mutuel peuvent contracter les emprunts nécessaires pour constituer ou augmenter leurs fonds de
-roulement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-### Chapitre IV : Opérations de crédit<a id=13></a>
-
-#### Section 1 : Crédit à court terme.<a id=14></a>
-
-###### Article 655
-
-Pour la réalisation des prêts à court terme, les caisses de crédit agricole mutuel escomptent les effets souscrits par leurs
-sociétaires.
-
-Elles consentent également des prêts sous forme d'ouvertures de crédit en compte courant, ces ouvertures de crédit pouvant
-être garanties notamment par un dépôt de bons émis par la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 656
-
-Les caisses de crédit agricole mutuel peuvent subordonner à la responsabilité solidaire des membres des coopératives
-agricoles l'attribution de prêts à ces groupements.
-
-Toutefois, la garantie solidaire peut ne pas être exigée des coopératives agricoles qui, se conformant aux dispositions des
-articles 741, 742 et 744, se soumettent au contrôle permanent du crédit agricole ou de tout autre organisme agréé par lui, à
-condition toutefois que le montant des avances ne dépasse pas cinq fois le montant du capital augmenté de la réserve légale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 741, 742, 744
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R534-4 (V)
-
-
-###### Article 657
-
-Lorsque les sociétés coopératives agricoles constituées en vue d'effectuer, pour les exploitations leur appartenant en propre
-ou qu'elles ont louées ou qui leur ont été concédées, les opérations prévues par l'article 550 ont pour but de faciliter la
-production ou la répartition de denrées essentielles au ravitaillement, l'intérêt et l'amortissement des emprunts qu'elles
-contractent auprès de la caisse nationale de crédit agricole ou auprès des caisses de crédit agricole mutuel affiliées à
-cette dernière peuvent être garantis par les départements ou les communes, en vertu d'une délibération de l'assemblée
-départementale ou municipale intéressée créant les ressources spécialement affectées à l'exécution des engagements pris, et
-approuvée selon les règles en vigueur.
-
-Les dispositions de l'alinéa précédent sont applicables aux organismes de jardins familiaux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 550
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 658
-
-Les prêts consentis aux sociétés civiles d'exploitation rurale visées à l'article 617 (7°) sont garantis à la fois par le
-patrimoine de la société et, dans les conditions qui sont fixées par décret en Conseil d'Etat, par l'engagement solidaire de
-leurs membres.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 617
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 660
-
-Les warrants souscrits par les emprunteurs à l'ordre de la coopérative de céréales dont ils relèvent dans les conditions
-déterminées par l'article 17 du code du blé annexé au décret du 23 novembre 1937, peuvent être remplacés par des effets
-cautionnés souscrits par l'emprunteur à l'ordre de la coopérative, qui sont avalisés et escomptés dans les conditions prévues
-à l'article précédent.
-
-Les prêts correspondant à ces warrants ou effets peuvent atteindre les deux tiers de la valeur des céréales auxquelles ils se
-rapportent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cite_:
-
-  - Code du blé - art. 17 (V)
-  - Décret n°1937-11-23
-
+#### Section 1 : Crédit à court terme.<a id=11></a>
 
 ###### Article 661
 
@@ -730,9 +163,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Crédit à moyen terme<a id=15></a>
+#### Section 2 : Crédit à moyen terme<a id=12></a>
 
-##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=16></a>
+##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=13></a>
 
 ###### Article 672
 
@@ -788,552 +221,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Crédit à long terme individuel.<a id=17></a>
-
-###### Article 690
-
-Pour la réalisation des prêts individuels à long terme, les caisses locales exigent comme garantie une inscription
-hypothécaire ou un contrat d'assurance en cas de décès.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 691
-
-Les exploitations rurales pour lesquelles les prêts à long terme ont été consentis, peuvent être constituées en biens de
-famille insaisissables, par application de la loi du 12 juillet 1909. Toutefois, par dérogation aux articles 5, 8, 10 et 14
-de ladite loi et à l'article 5 du décret du 26 mars 1910, les caisses régionales et les caisses locales jouissent du
-privilège institué par l'article 2103, 2°, du code civil.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1910-03-26 art. 5
-  - Code civil - art. 2103 (M)
-  - Loi n°1909-07-12 art. 5, art. 8, art. 10, art. 14
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 692
-
-La caisse nationale d'assurance en cas de décès est autorisée à passer, avec les titulaires de prêts individuels à long
-terme, dans les conditions à déterminer par décret rendu sur la proposition du ministre de l'agriculture et du ministre de
-l'économie et des finances, des contrats à prime unique, d'effet immédiat ou différé, garantissant le paiement de tout ou
-partie des annuités qui resteraient à échoir au moment de la mort, le montant de la prime pouvant être incorporé au prêt.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-### Chapitre V : Paiements - Engagements de caution - Fonds de garantie.<a id=18></a>
-
-###### Article 697
-
-Les caisses de crédit agricole mutuel peuvent se charger de tous paiements et encaissements à faire pour le compte de leurs
-sociétaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 698
-
-Les caisses de crédit agricole mutuel sont autorisées à contracter des engagements de caution en faveur de leurs sociétaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-### Chapitre VI : Dispositions spéciales aux caisses de crédit agricole mutuel des départements d'outre-mer.<a id=19></a>
-
-###### Article 704
-
-Un arrêté conjoint des ministres de l'agriculture, de l'économie et des finances et de l'intérieur, pris après avis du préfet
-et de la caisse nationale de crédit agricole, détermine le taux d'intérêt maximum des différents prêts.
-
-En outre, les droits et privilèges en matière de garantie de prêt agricole, qui sont actuellement attribués aux anciennes
-banques d'émission ou ceux qui seront éventuellement dévolus aux instituts d'émission pouvant être organisés dans l'avenir,
-sont conférés aux caisses de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 710
-
-L'arrêté visé à l'article 704 fixe en tant que de besoin, dans chaque département, les conditions d'application du présent
-chapitre et règle la dissolution des caisses de crédit agricole existant actuellement et éventuellement des comités locaux,
-notamment en ce qui concerne l'affectation de l'actif disponible et l'exécution des engagements en cours.
-
-Il détermine, en outre, les conditions dans lesquelles la dotation du crédit agricole de chaque département intéressé est
-affectée à la caisse de crédit agricole.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 704
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-## Titre II : Caisse nationale de crédit agricole<a id=20></a>
-
-### Chapitre II : Ressources.<a id=21></a>
-
-###### Article 717
-
-Les ressources de la caisse nationale de crédit agricole comprennent :
-
-1° La dotation du crédit agricole ;
-
-2° Les capitaux qu'elle peut se procurer par l'escompte ou la mise en pension de son portefeuille d'effets et de titres ;
-
-3° Les fonds qui lui sont confiés en dépôt ;
-
-4° Le produit des emprunts qu'elle est autorisée à contracter soit par souscription publique, soit par marché de gré à gré,
-auprès de toute personne morale ou physique ;
-
-5° Les crédits qui peuvent lui être affectés par mesure législative ;
-
-6° Les dons, legs et libéralités de toute nature qu'elle pourrait recevoir ;
-
-7° Le revenu des fonds dont elle a la gestion ainsi que les réserves et provisions qu'elle est tenue de constituer.
-
-Ces ressources peuvent être affectées en tout ou partie, dans les conditions fixées par le conseil d'administration, au
-financement des opérations de crédit à court terme, à moyen terme et à long terme individuelles et collectives visées par le
-présent livre.
-
-En cas de dissolution de la caisse nationale de crédit agricole, les dons, legs et libéralités visés au 6° sont transférés,
-par décret rendu en Conseil d'Etat, à des établissements publics ou reconnus d'utilité publique, susceptibles d'exécuter les
-intentions des donateurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 719
-
-La caisse nationale de crédit agricole est habilitée à effectuer toutes opérations d'escompte et de réescompte et à
-contracter tous emprunts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
-
-
-###### Article 720
-
-Le ministre de l'économie et des finances est autorisé à passer toutes conventions avec la caisse nationale de crédit
-agricole en vue de fixer les modalités d'émission, par cet établissement, d'emprunts à moyen ou à long terme dont le produit
-doit être consacré, dans les conditions fixées par le présent livre, à l'octroi des prêts individuels et collectifs à moyen
-et à long terme dont la réalisation incombe à la caisse nationale de crédit agricole et aux institutions de crédit agricole
-mutuel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 721
-
-Les titres de l'emprunt, dont l'émission a été autorisée par la loi n° 48-31 du 7 janvier 1948, peuvent être admis en
-souscription aux emprunts émis par la caisse nationale de crédit agricole pour une valeur égale à leur valeur nominale et
-dans les limites et conditions qui sont fixées par arrêté conjoint du ministre de l'économie et des finances et du ministre
-de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°48-31 1948-01-07
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-### Chapitre III : Opérations de crédit.<a id=22></a>
-
-###### Article 723
-
-Un décret détermine la procédure à suivre pour l'attribution des avances ou des prêts et précise les dispositions que doivent
-contenir les statuts des sociétés appelées au bénéfice de ces avances ou de ces prêts.
-
-Il fixe, en ce qui concerne les prêts à long terme aux sociétés coopératives, aux associations syndicales et aux sociétés
-d'intérêt collective agricole, le mode et la forme des enquêtes préliminaires à ouvrir, ainsi que les garanties à prendre
-pour assurer le remboursement des prêts et les moyens de surveillance à exercer pour que ceux-ci ne soient pas détournés à
-leur affectation particulière.
-
-Il détermine également les modalités de remboursement à la caisse nationale de crédit agricole des avances pour prêts à moyen
-terme et à long terme accordées aux caisses régionales de crédit agricole mutuel et des prêts collectifs à long terme
-accordés par l'intermédiaire desdites caisses.
-
-**Nota:**
-
-Nota : Décret n° 68-446 du 13 mai 1968, art. 3 : Les dispositions de l'article 723 du code rural sont abrogées en tant
-qu'elles déterminent la procédure à suivre pour l'attribution et le remboursement des avances ou des prêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 724
-
-L'Etat jouit d'un privilège sur les parts composant le capital social des sociétés pour toutes les sommes dues à raison des
-avances ou prêts consentis à l'aide de fonds publics.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L512-25 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 725
-
-Les avances et les prêts de la caisse nationale de crédit agricole deviennent immédiatement remboursables en cas de violation
-des statuts et de modifications à ces statuts qui diminueraient les garanties de remboursement. Ils peuvent être exigibles en
-cas de malversations des administrateurs et du directeur des sociétés ayant reçu des avances ou des prêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-14 (V)
-
-
-###### Article 726
-
-Les avances et les prêts deviennent également exigibles à défaut de paiement des remboursements dus dans un délai de trois
-mois, sauf circonstances exceptionnelles admises pour chaque cas par le conseil d'administration de la caisse nationale de
-crédit agricole.
-
-Pendant toute la durée du retard, les remboursements dus et non effectués portent intérêt au profit de la caisse nationale de
-crédit agricole à un taux fixé à 5 p. 100 l'an. Si le retard excède une année, les intérêts se capitalisent dans les formes
-prévues à l'article 1154 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cite_:
-
-  - Code civil - art. 1154 (V)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R512-15 (V)
-
-
-###### Article 727
-
-Les prêts prévus à l'article 2 (2°) du décret n° 67-1097 du 18 décembre 1967, sont remboursables dans une durée maximum de
-trente ans. Cette durée peut être exceptionnellement portée à quarante ans lorsqu'il s'agit de travaux d'électrification
-rurale ou d'adduction d'eau, et à cinquante ans lorsqu'il s'agit de reboisement.
-
-Ils sont accordés par la caisse nationale de crédit agricole, sous la responsabilité des caisses régionales de crédit
-agricole mutuel par l'intermédiaire desquelles ils sont mis à la disposition des collectivités.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Décret n°65-576 1965-07-15 art. 16 JORF 17 juillet 1965
-  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
-
-_Cite_:
-
-  - Décret n°67-1097 du 18 décembre 1967 - art. 2 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 728
-
-Les sociétés coopératives agricoles, les associations syndicales libres, les sociétés d'intérêt collectif agricole peuvent
-recevoir des prêts d'un montant égal à six fois leur capital versé en argent ou en nature, lorsque les statuts comportent une
-clause de responsabilité conjointe et solidaire de tous les sociétaires, ou bien lorsque tout ou partie des membres du
-conseil d'administration a souscrit un engagement solidaire de remboursement jugé, sous sa responsabilité, suffisant par la
-caisse régionale intermédiaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 729
-
-Lorsque les sociétés coopératives ou les sociétés d'intérêt collectif agricole auxquelles sont attribués les prêts à long
-terme sont ou deviennent propriétaires d'immeubles, hypothèque doit être consentie sur ces immeubles, au profit de l'Etat,
-dès que la caisse régionale en fait la demande.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 730
-
-Les articles 656, 657 et 658 relatifs à la garantie des prêts à court terme à des collectivités sont applicables, dans les
-mêmes conditions, aux prêts à long terme.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 656, 657, 658
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 732
-
-Indépendamment des autres garanties prévues par le présent livre, les membres de toute société coopérative agricole ayant
-reçu un prêt de la caisse nationale de crédit agricole sont, eux-mêmes, tenus solidairement pour le remboursement dudit prêt,
-vis-à-vis de la caisse nationale de crédit agricole et, dans les mêmes conditions, vis-à-vis de toute caisse régionale de
-crédit agricole mutuel qui aurait elle-même remboursé ledit prêt à la caisse nationale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R534-4 (V)
-
-
-###### Article 733
-
-La caisse nationale de crédit agricole peut attribuer des prêts à long terme, suivant les prescriptions du présent livre, aux
-unions de sociétés coopératives agricoles pouvant admettre comme membres les sociétés coopératives de consommation ou unions
-de sociétés coopératives de consommation fondées sous le régime de la loi du 7 mai 1917, constituées et fonctionnant
-conformément aux dispositions de l'article 552.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 552
-  - Loi n°1917-05-07
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 734
-
-L'attribution des avances que la caisse nationale de crédit agricole est autorisée à consentir en application de l'article 2
-du décret n° 67-1097 du 18 décembre 1967, peut être subordonnée à la garantie de l'autorité locale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Cite_:
-
-  - Décret n°67-1097 du 18 décembre 1967 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Décret n°67-1097 du 18 décembre 1967 - art. 5 (Ab) JORF 20 décembre 1967
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 735
-
-Les caractéristiques des prêts consentis en Algérie aux départements, syndicats de communes, associations syndicales libres
-et autorisées, sociétés coopératives, sociétés d'intérêt collectif agricole en vue de l'établissement ou de la modernisation
-de réseaux ruraux d'électricité, sont celles des prêts accordés pour le même objet dans la métropole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
-
-
-###### Article 736
-
-Les habitants d'agglomérations urbaines désireux de se retirer dans une commune rurale en libérant leur logement peuvent
-bénéficier de prêts destinés à faciliter l'acquisition et l'aménagement d'immeubles ruraux ou leur remise en état. Ces prêts
-seront consentis par la caisse nationale de crédit agricole dans les limites et conditions prévues par un décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-## Titre III : Inspection et contrôle.<a id=23></a>
+## Titre III : Inspection et contrôle.<a id=14></a>
 
 ###### Article 738
 
@@ -1396,9 +284,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-## Titre IV : Dispositions diverses<a id=24></a>
+## Titre IV : Dispositions diverses<a id=15></a>
 
-### Chapitre Ier : Régime des prêts hypothécaires.<a id=25></a>
+### Chapitre Ier : Régime des prêts hypothécaires.<a id=16></a>
 
 ###### Article 745
 
@@ -1452,7 +340,7 @@ _Modifié par_:
   - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
 
 
-### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=26></a>
+### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.<a id=17></a>
 
 ###### Article 747
 
@@ -1534,9 +422,9 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=27></a>
+### Chapitre III : Prêts aux anciens prisonniers et déportés, combattants volontaires de la résistance, réfractaires, anciens combattants d'Indochine et de Corée<a id=18></a>
 
-#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=28></a>
+#### Section 1 : Prêts en vue de la reconstitution du capital d'exploitation.<a id=19></a>
 
 ###### Article 752
 
@@ -1642,7 +530,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=29></a>
+#### Section 2 : Prêts en vue de l'accession à l'exploitation agricole ou à l'entreprise artisanale rurale.<a id=20></a>
 
 ###### Article 757
 
@@ -1746,7 +634,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=30></a>
+#### Section 3 : Prêts pour l'installation et l'aménagement du foyer rural.<a id=21></a>
 
 ###### Article 763
 
@@ -1876,7 +764,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-#### Section 4 : Dispositions communes.<a id=31></a>
+#### Section 4 : Dispositions communes.<a id=22></a>
 
 ###### Article 770
 
@@ -1925,7 +813,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=32></a>
+### Chapitre IV : Prêts pour la mise en valeur des terres incultes.<a id=23></a>
 
 ###### Article 773
 
@@ -1954,7 +842,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre V : Domaine - Retraite.<a id=33></a>
+### Chapitre V : Domaine - Retraite.<a id=24></a>
 
 ###### Article 774
 
@@ -2258,7 +1146,7 @@ _Codifié par_:
   - Décret n°55-433 1955-04-16
 
 
-### Chapitre VI : Dispositions d'application.<a id=34></a>
+### Chapitre VI : Dispositions d'application.<a id=25></a>
 
 ###### Article 788
 
@@ -2290,11 +1178,11 @@ _Abrogé par_:
   - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
-# Livre VII : Dispositions sociales<a id=35></a>
+# Livre VII : Dispositions sociales<a id=26></a>
 
-## Titre II : Mutualité sociale agricole<a id=36></a>
+## Titre II : Mutualité sociale agricole<a id=27></a>
 
-### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=37></a>
+### Chapitre IV : Assurance vieillesse des personnes non salariées<a id=28></a>
 
 ###### Article 1107
 
@@ -2314,7 +1202,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-#### Section 1 : Prestations<a id=38></a>
+#### Section 1 : Prestations<a id=29></a>
 
 ###### Article 1110
 
@@ -2356,7 +1244,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-##### Paragraphe 1 : Allocation de vieillesse.<a id=39></a>
+##### Paragraphe 1 : Allocation de vieillesse.<a id=30></a>
 
 ###### Article 1111
 
@@ -2611,7 +1499,7 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=40></a>
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=31></a>
 
 ###### Article 1142-3
 
@@ -2677,9 +1565,9 @@ _Abrogé par_:
   - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
-## Titre III : Accidents du travail et risques agricoles<a id=41></a>
+## Titre III : Accidents du travail et risques agricoles<a id=32></a>
 
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=42></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=33></a>
 
 ###### Article 1207
 
@@ -2852,7 +1740,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=43></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=34></a>
 
 ###### Article 1253
 
@@ -2984,13 +1872,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=44></a>
+# Livre VIII : Formation professionnelle et recherche<a id=35></a>
 
-## Titre III : Recherche<a id=45></a>
+## Titre III : Recherche<a id=36></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=46></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=37></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=47></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=38></a>
 
 ###### Article 1337
 
