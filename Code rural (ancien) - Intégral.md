@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 317 à 357)](#1)
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 317)](#2)
@@ -27,18 +27,15 @@ Version Consolidée au 2005-08-25
       - [Chapitre V : Domaine - Retraite. (art. 774 à 787)](#24)
       - [Chapitre VI : Dispositions d'application. (art. 788 à 789)](#25)
   - [Livre VII : Dispositions sociales (art. 1107 à 1261)](#26)
-    - [Titre II : Mutualité sociale agricole (art. 1107 à 1142-4)](#27)
-      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107 à 1120)](#28)
-        - [Section 1 : Prestations (art. 1110 à 1120)](#29)
-          - [Paragraphe 1 : Allocation de vieillesse. (art. 1111 à 1120)](#30)
-      - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer. (art. 1142-3 à 1142-4)](#31)
-    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#32)
-      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#33)
-    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#34)
-  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#35)
-    - [Titre III : Recherche (art. 1337)](#36)
-      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#37)
-        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#38)
+    - [Titre II : Mutualité sociale agricole (art. 1107)](#27)
+      - [Chapitre IV : Assurance vieillesse des personnes non salariées (art. 1107)](#28)
+    - [Titre III : Accidents du travail et risques agricoles (art. 1207 à 1228)](#29)
+      - [Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole. (art. 1207 à 1228)](#30)
+    - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. 1253 à 1261)](#31)
+  - [Livre VIII : Formation professionnelle et recherche (art. 1337)](#32)
+    - [Titre III : Recherche (art. 1337)](#33)
+      - [Chapitre II : Institutions diverses d'études et de recherches (art. 1337)](#34)
+        - [Section 2 : Centre national d'études et d'expérimentation de machinisme agricole. (art. 1337)](#35)
 # Livre II : Des animaux et des végétaux<a id=1></a>
 
 ## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.<a id=2></a>
@@ -1202,372 +1199,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-#### Section 1 : Prestations<a id=29></a>
+## Titre III : Accidents du travail et risques agricoles<a id=29></a>
 
-###### Article 1110
-
-L'organisation autonome des professions agricoles est chargée de servir aux assurés exerçant ou ayant exercé en qualité de
-non salarié les professions énumérées à l'article 1060, pour ceux qui ne peuvent bénéficier d'une pension de retraite, une
-allocation dans les conditions prévues aux articles 1111 à 1120 inclus s'ils ont exercé cette activité pendant quinze ans au
-moins.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1060, 1111 à 1120
-
-_Nouveaux textes_:
-
-  - Code rural L732-19
-  - Code rural L732-21
-  - Code rural L732-22
-  - Code rural - art. L732-19 (M)
-  - Code rural - art. L732-21 (M)
-  - Code rural - art. L732-22 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-##### Paragraphe 1 : Allocation de vieillesse.<a id=30></a>
-
-###### Article 1111
-
-L'allocation n'est due aux requérants continuant leur exploitation que si le revenu cadastral servant de base au calcul des
-allocations familiales des terres qu'ils exploitent ne dépasse pas 3932 F ou 5898 F s'il s'agit d'une veuve exploitant avec
-le concours, au maximum, d'un salarié.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1113
-
-L'allocation n'est due que si le total de celle-ci et des ressources personnelles de l'intéressé ou des époux, de quelque
-nature qu'elles soient, n'excède pas les plafonds fixés par le paragraphe Ier de l'article 5 de l'ordonnance n° 45-170 du 2
-février 1945 modifiée.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-170 1945-02-02 art. 5
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1114
-
-En aucun cas, l'application des nouveaux revenus cadastraux ne peut entraîner la suppression de l'allocation attribuée
-précédemment.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1115
-
-Les personnes visées à l'article 18 modifié de la loi n° 48-101 du 17 janvier 1948 ont droit, sous réserve des conditions
-fixées aux articles 1110 à 1113 à une allocation dont le taux est égal à celui de l'allocation de vieillesse agricole.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1110 à 1113
-  - Loi n°48-101 1948-01-17 art. 18
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1116
-
-Le montant de l'allocation vieillesse est égal à celui de l'allocation aux vieux travailleurs salariés.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1117
-
-Le montant de l'allocation visé à l'article qui précède peut être fixé à un taux supérieur par décret pris sur le rapport du
-ministre de l'agriculture et du ministre de l'économie et des finances, après avis du conseil d'administration de la caisse
-centrale de la mutualité sociale agricole.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1118
-
-Les dispositions relatives aux allocations de vieillesse des personnes non salariées prévues par la loi du 17 janvier 1948
-sont applicables de plein droit aux allocations servies par les organismes visés à l'article 1108 dans la mesure où il n'y
-est pas dérogé par des dispositions particulières du présent chapitre.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1108
-  - Loi n°48-101 1948-01-17
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1119
-
-Les allocations sont payables trimestriellement à terme échu.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1120
-
-Les assurés ayant cotisé au titre de l'assurance facultative vieillesse dans les conditions prévues à l'article 1049 ont
-droit outre la rente résultant de leurs versements, à l'allocation prévue à la présente section, sans qu'il y ait lieu de
-tenir compte des ressources des intéressés.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1049
-
-_Nouveaux textes_:
-
-  - Code rural L732-20
-  - Code rural - art. L732-20 (M)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.<a id=31></a>
-
-###### Article 1142-3
-
-Les bénéficiaires du présent chapitre ont droit soit à une allocation de vieillesse s'ils justifient de quinze ans au moins
-d'activité professionnelle agricole et s'ils ne peuvent bénéficier d'une retraite, soit à la retraite des personnes non
-salariées.
-
-L'allocation prévue à l'alinéa ci-dessus est servie aux exploitants agricoles résidant dans les départements de la
-Guadeloupe, de la Guyane, de la Martinique et de la Réunion à la date de leur soixantième anniversaire.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural L762-28
-  - Code rural - art. L762-28 (V)
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-  - Loi n°2003-591 2003-07-02 art. 31
-
-_Modifié par_:
-
-  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-###### Article 1142-4
-
-L'allocation n'est due aux personnes continuant leur exploitation que si la superficie pondérée de celle-ci, définie
-conformément aux dispositions de l'article 1142-13, ne dépasse pas un seuil fixé par décret.
-
-Des dispositions particulières peuvent être prévues à l'égard des veuves exploitant avec le concours d'un seul salarié.
-
-**Nota:**
-
-Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1142-13
-
-_Codifié par_:
-
-  - Décret n°55-433 1955-04-16
-
-_Modifié par_:
-
-  - Loi n°85-10 du 3 janvier 1985 - art. 85 () JORF 4 janvier 1985
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
-
-
-## Titre III : Accidents du travail et risques agricoles<a id=32></a>
-
-### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=33></a>
+### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.<a id=30></a>
 
 ###### Article 1207
 
@@ -1740,7 +1374,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=34></a>
+## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<a id=31></a>
 
 ###### Article 1253
 
@@ -1872,13 +1506,13 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31
 
 
-# Livre VIII : Formation professionnelle et recherche<a id=35></a>
+# Livre VIII : Formation professionnelle et recherche<a id=32></a>
 
-## Titre III : Recherche<a id=36></a>
+## Titre III : Recherche<a id=33></a>
 
-### Chapitre II : Institutions diverses d'études et de recherches<a id=37></a>
+### Chapitre II : Institutions diverses d'études et de recherches<a id=34></a>
 
-#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=38></a>
+#### Section 2 : Centre national d'études et d'expérimentation de machinisme agricole.<a id=35></a>
 
 ###### Article 1337
 
