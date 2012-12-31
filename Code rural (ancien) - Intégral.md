@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Livre II : Des animaux et des végétaux (art. 317 à 357)](#1)
     - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux. (art. 317)](#2)
@@ -889,15 +889,17 @@ crédit agricole mutuel de leur circonscription qui les reverse, au cours de la 
 caisse nationale de crédit agricole.
 
 Pendant le temps où ils sont gérés par la caisse nationale de crédit agricole, les versements des titulaires de livrets de
-"domaine-retraite" sont incessibles et insaisissables et ne peuvent donner lieu à aucune opposition. Les biens ruraux acquis
-ou aménagés au moyen du livret de "domaine-retraite" peuvent être constitués par les titulaires en biens de famille
-insaisissables.
+"domaine-retraite" sont incessibles et insaisissables et ne peuvent donner lieu à aucune opposition.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°55-433 1955-04-16
+  - Décret n°55-433 du 16 avril 1955
+
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 12
 
 
 ###### Article 776
